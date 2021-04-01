@@ -1,0 +1,87 @@
+Help is at hand for web security
+Dangers lurk online for people that do not take care
+			
+			
+		
+		
+	
+
+	
+
+
+If you take your net safety seriously, you will probably have anti-virus and a firewall and perhaps even an anti-spam program to stop the malicious software and messages getting at your home PC.
+On your browser you may have a pop-up blocker that stops the irritating adverts imposing themselves between you and what you want to look at.
+But this does not cover all the possible ways that the bad guys are trying to catch you out. Increasingly the makers of adware, spyware and viruses are using ordinary-looking websites as launch pads for their malicious creations that try to compromise your Windows computer when you visit.
+Safety first
+A survey released in mid-May revealed the dangers inherent in just poking around the web. On average, between 4% and 6% of the sites found during common searches were classified as dangerous.
+The research highlighted that some searches were far more dangerous. For instance, 64% of the sites found when users went looking for "free screensavers" had security problems.
+The search results were analysed using the Site Advisor add-on for the Internet Explorer and Firefox web browsers that flags up dangerous websites.
+One other way that web users can see at a glance if a site is nice or nasty is by using the Scandoo website created by British firm ScanSafe.
+Eldar Tuvey, ScanSafe managing director, said the idea for Scandoo came about because of questions from friends and relatives asking how they could know if sites they were visiting were safe.
+Via Scandoo, users can type in search terms as they usually would but instead of getting back raw results, the sites are ranked as to how safe they are.
+Sites are flagged with a variety of symbols to denote those that are safe, or if they harbour adware and spyware or content some would consider suitable only for adult audiences.
+STAYING SAFE ONLINE
+                        
+                
+		
+                
+                     
+                    Use anti-spyware and anti-virus programs
+
+
+On at least a weekly basis update anti-virus and spyware products
+
+
+Install a firewall and make sure it is switched on
+
+
+Make sure updates to your operating system are installed
+
+
+Take time to educate yourself and family about the risks
+
+
+Monitor your computer and stay alert to threats
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+"We went through search engines because that's the gateway to the web itself," said Mr Tuvey.
+He added that Scandoo was still very much under development and may not yet flag up all malicious sites as such.
+"Part of the problem is the lack of consistent definitions in the industry about what is adware exactly," he said. "Some scanners pick up potentially unwanted programs as adware and some don't."
+But, he added, Scandoo had a feedback system through which users could let ScanSafe know if a site cited as benign was risky.
+He said ScanSafe was now working on ways to get Scandoo working with the toolbars many people have added to their net browsers.
+Admin rights
+Organisations such as auction site eBay, web monitoring firm Netcraft and many others produce toolbars that warn if a user strays on to a site known to be used, for example, by phishing gangs. Netcraft has now collected information about more than 32,000 websites considered to be dangerous.
+Steve Lamb, technical security advisor for Microsoft in the UK, said one good way to limit the risk of falling victim to malicious code on websites was to set up separate named accounts for each user of a Windows computer.
+Each account should have "limited administrative privileges" he said, a choice made when the account is first created.
+"This means that they cannot deliberately change the set-up of the machine," said Mr Lamb.
+Scandoo acts as a wrapper for web searches
+			
+			
+		
+		
+	
+
+	
+
+
+This, he said, should stop people inadvertently downloading and installing the little programs that can lead to a computer becoming infested with spyware and adware.
+Mr Lamb also pointed people towards the webpages run by the UK's Get Safe Online project which has advice on how to browse the web safely.
+There are other places that web users can turn to for help in separating good software from bad.
+But users need to be aware that there are lots of fake computer security products available on the internet - many of which are created by those keen to ensure only the ads they want users to see pop up in front of them.
+Anti-spyware campaigner Suzi Turner maintains a list of so-called "rogue anti-spyware products" that is worth consulting to see if a security program is what it claims to be.
+More in-depth information can be found on the website of the Stop Badware organisation which analyses some of the spyware and adware found online.
+Backed by Google, Sun, the Oxford Internet Institute and the Berkman Center for Internet and Society at Harvard, the campaign aims to name and shame those firms that use underhand methods to get malicious software on to users' PCs.
+At the same time, internet service firms are starting to clean up some traffic before it gets to their customers. For instance one of BT's broadband packages comes with a range of security software and countermeasures included, provided you are willing to pay a little extra.
+The good news is that computer security is getting harder to avoid and excuses for not protecting yourself and family online are becoming harder to find.

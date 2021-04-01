@@ -1,0 +1,12 @@
+Alaska phishing pupils take over classroom computers
+A group of pupils at a middle school in Alaska took control of their classroom computers after phishing for administrator privileges.
+They asked teachers at Schoenbar Middle School, for 12 to 13-year-olds, to enter admin names and passwords to accept a false software update, according to reports.
+The pupils used those details to access and control classmates' PCs.
+Classmates then complained that their computers were not responding normally.
+Associated Press said that at least 18 pupils were involved in the phishing, which gave them control over 300 computers allocated for student use at the school in the Alaskan town of Ketchikan.
+Those computers have now been seized.
+"I don't believe any hardware issues were compromised," Casey Robinson, the principal, told community radio station Ketchikan FM.
+He said: "No software issues were compromised. I don't think there was any personal information compromised. Now that we have all the machines back in our control, nothing new can happen."
+Mr Robinson added there would be a review of the way that devices are maintained.
+"How we do business is definitely going to have to change when it comes to updating programs and resources that we have on the machines," Mr Robinson said.
+"Yes, something new is going to have to happen."

@@ -1,0 +1,35 @@
+Web attack 'aimed at one blogger'
+A "massively co-ordinated" attack on websites including Google, Facebook and Twitter was directed at one individual, it has been confirmed.
+Facebook told BBC News that the strike was aimed at a pro-Georgian blogger known as Cyxymu.
+The attack caused a blackout of Twitter for around two hours, while Facebook said its service had been "degraded".
+Google said it had defended its sites and was now working with the other companies to investigate the attack.
+"[The] attack appears to be directed at an individual who has a presence on a number of sites, rather than the sites themselves," a Facebook spokesman told BBC News.
+"Specifically, the person is an activist blogger and a botnet was directed to request his pages at such a rate that it impacted service for other users."
+Botnets are networks of computers under the control of hackers.
+The machines were used to mount a so-called denial-of-service (DOS) attack on Thursday.
+DOS attacks take various forms but often involve a company's servers being flooded with data in an effort to disable them.
+"Attacks such as this are malicious efforts orchestrated to disrupt and make unavailable services such as online banks, credit card payment gateways and, in this case, Twitter, for intended customers or users," wrote Twitter co-founder Biz Stone on his blog.
+Writing on his blog, Graham Cluley of security firm Sophos said: "This raises the astonishing thought that a vendetta against a single user caused Twitter to crumble, forcing us to ask serious questions about the site's fragility."
+Silencing tactic
+It is still not known who perpetrated the attack or why they may have targeted Cyxymu and his accounts.
+However, in an interview with the UK's Guardian newspaper, the blogger blamed Russia.
+"Maybe it was carried out by ordinary hackers but I'm certain the order came from the Russian government," he said.
+The blogger has previously criticised Russia over its conduct in the war over the disputed South Ossetia region, which began one year ago.
+A previous statement by Facebook said that the attack on the websites where he held accounts was "to keep his voice from being heard".
+Other sites such as Live Journal, where Cyxymu has his blog, were also targeted in the attack on Thursday.
+Only Google seems to have escaped unscathed from the attack.
+"Google systems prevented substantive impact to our services," the company said in a statement.
+The company has not confirmed which services were targeted in the attack, but it is thought that its e-mail service Gmail and video site YouTube were under fire.
+"We are aware that a handful of non-Google sites were impacted by [an]... attack this morning, and are in contact with some affected companies to help investigate this attack," the company said.
+Protest tool
+All of the affected services were keen to stress that users' data had not been put at risk in the attacks.
+"Please note that no user data was compromised in this attack," wrote Twitter's Biz Stone.
+"This activity is about saturating a service with so many requests that it cannot respond to legitimate requests thereby denying service to intended customers or users."
+Twitter has had a meteoric rise since its launch in 2006.
+A ComScore study suggests that Twitter had about 45 million users worldwide as of June 2009.
+However, as many users interact with the service through mobile phones or third-party software, the actual number of users is likely to be higher.
+However, that pales in comparison to Facebook, which claims to have 250m active users worldwide.
+Both sites recently garnered worldwide attention when they were used by Iranians to co-ordinate demonstrations following the disputed election of Mahmoud Ahmadinejad as president.
+Many protesters believed there was electoral fraud and that opposition leader Mir Hossein Mousavi should have won.
+Twitter chose to delay upgrade work during the protests to allow communication to continue.
+In a BBC interview, co-founder Evan Williams denied the move had been a response to a US state department request.

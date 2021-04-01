@@ -1,0 +1,24 @@
+Russia seeks to block Telegram messaging app
+The Russian government has started legal proceedings to block the Telegram messaging app in the country.
+The Roskomnadzor media regulator is seeking the block because the firm has refused to hand over encryption keys used to scramble messages.
+Telegram, which is based in Dubai, was given a deadline of 4 April to hand over the keys.
+The company has refused, saying the way the service is built means it has no access to them.
+Russia's main security agency, the FSB, wants the keys so it can read messages and prevent future terror attacks in the country.
+In its court filing, Roskomnadzor said the legal action was related to the FSB request and Telegram's non-compliance with its legal requirements as a "distributor of information".
+Telegram's lawyer, Pavel Chikov, said the official attempt to stop the app being used in Russia was "groundless".
+In a statement, he said: "The FSB's requirements to provide access to private conversations of users are unconstitutional, baseless, which cannot be fulfilled technically and legally."
+Analysis by BBC Monitoring
+Telegram is the latest social platform to be targeted as the Russian government seeks to exert greater control over online communications.
+Similar disputes and threats have been made against major social platforms since legislation passed in 2016, which required messaging services to provide authorities with the capability to decrypt online conversations.
+The results have been varied.
+Earlier this year, Instagram agreed to remove certain posts from opposition figure Alexander Navalny under threat of legal action, although Youtube - which is owned by Google - refused to take similar action.
+Twitter says it will host Russian user data inside the country following pressure from Moscow. Facebook rejected similar demands.
+Telegram says it cannot comply with this demand because it employs end-to-end encryption.
+If Russia pursues the ban, it will need to coordinate with internet service providers (ISPs) to block domains and IP addresses used by the app. This was done in Iran during anti-government protests late in 2017.
+However, as in Iran, such restrictions can be easily bypassed through the use of a virtual private network (VPN) or proxy server, which can funnel a user's data through a country where the service is not blocked.
+Telegram filed a legal challenge to the demand to hand over the keys soon after it was issued by the FSB. A Moscow court dismissed that lawsuit last month.
+The messaging firm has not issued a statement about the legal action but last month creator Pavel Durov said it would not "give up" the private data of its users.
+"Telegram will stand for freedom and privacy," he said in a Tweet.
+The messaging app is widely used across Russia and many nations in the Middle East. It claims to have more than 200 million active users.
+Its popularity has grown because of its emphasis on encryption which thwarts many widely used methods of reading confidential communications.
+Telegram is also currently trying to raise funds for expansion via an Initial Coin Offering. This involves investors buying into a crypto-currency, called Gram, created and run by the firm. So far, it is believed to have raised about $1.7bn (Â£1.2bn) via this funding scheme.

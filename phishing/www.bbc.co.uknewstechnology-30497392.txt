@@ -1,0 +1,13 @@
+Net overseers hit by phishing attack
+Hackers have managed to penetrate the network used by the organisation that oversees the net.
+Icann, which administers the net's addressing system, said spoofed emails were used to reach an internal network.
+The attackers used this access to steal lists of contact and login information for people who control some of the net's most popular domains.
+Icann said it had notified people that their data may have gone astray and asked them to change their passwords.
+Icann, the Internet Corporation for Assigned Names and Numbers, was set up to oversee the underlying addressing system that keeps the net running and ensures data gets where it is supposed to go.
+In a blogpost, Icann said some of its staff were tricked into opening booby-trapped email messages sent by attackers that were crafted to look like they came from other employees.
+The attack took place in late November and Icann realised it had been attacked about a week later.
+The booby-trapped emails helped the attackers capture login name and password details for Icann's internal network that attackers then used to snoop around the organisation's systems.
+An investigation by Icann revealed that the attackers got at a system called the Centralised Zone Data System (CZDS) that lists who looks after what is known as generic top-level domains. This includes the widely used .com, .info, .net and .org domains as well as a host of other more recently established domains.
+Icann said it was not possible to alter any details of who administers these domains from its CZDS system.
+Passwords were stored in a hard to crack format, said Icann, and added it had deactivated passwords so those with legitimate access to CZDS would have to generate a new one.
+"Based on our investigation to date, we are not aware of any other systems that have been compromised," it said, adding that it had now put in place more stringent security systems to prevent another breach.

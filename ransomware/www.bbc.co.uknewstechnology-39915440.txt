@@ -1,0 +1,38 @@
+Microsoft warns ransomware cyber-attack is a wake-up call
+A cyber-attack that has hit 150 countries since Friday should be treated by governments around the world as a "wake-up call", Microsoft says.
+It blamed governments for storing data on software vulnerabilities which could then be accessed by hackers.
+It says the latest virus exploits a flaw in Microsoft Windows identified by, and stolen from, US intelligence.
+There are fears of more "ransomware" attacks as people begin work on Monday, although few have been reported so far.
+Live reports: Ransomware cyber-attack fallout
+Should you pay the WannaCry ransom?
+Many firms have had experts working over the weekend to prevent new infections. The virus took control of users' files and demanded $300 (Â£230) payments to restore access.
+The spread of the WannaCry ransomware attack slowed over the weekend but the respite might only be brief, experts have said. More than 200,000 computers have been affected so far.
+Read more:
+BBC analysis of three accounts linked to the ransom demands suggests about $38,000 (Â£29,400) had been paid by Monday morning.
+However, the ransomware warning said that the cost would double after three days, so the payments may increase. It threatens to delete files within seven days if no payment is made.
+The effect in Asian nations so far on Monday has been limited. South Korea said just nine cases of ransomware had been found, giving no further details.
+Australian officials said so far only three small-to-medium sized businesses had reported being locked out of their systems while New Zealand's ministry of business said a small number of unconfirmed incidents were being investigated.
+In Japan, both Nissan and Hitachi reported some units had been affected, while in China energy giant PetroChina said that at some petrol stations customers had been unable to use its payment system.
+'Like stealing Tomahawks'
+A statement from Microsoft president and chief legal officer Brad Smith on Sunday criticised the way governments store up information about security flaws in computer systems.
+"We have seen vulnerabilities stored by the CIA show up on WikiLeaks, and now this vulnerability stolen from the NSA has affected customers around the world," he wrote.
+"An equivalent scenario with conventional weapons would be the US military having some of its Tomahawk missiles stolen."
+He added: "The governments of the world should treat this attack as a wake-up call."
+The organisation also said that many organisations had failed to keep their systems up to date, allowing the virus to spread.
+Microsoft said it had released a Windows security update in March to tackle the problem involved in the latest attack, but many users were yet to run it.
+"As cybercriminals become more sophisticated, there is simply no way for customers to protect themselves against threats unless they update their systems," Mr Smith said.
+Analysis: Dave Lee, BBC North America technology reporter
+There are going to be some tough questions on Monday for those institutions which didn't do enough to keep their networks secure, as well as the organisations that were best placed to stop it happening in the first place - the NSA and Microsoft.
+The NSA keeps a chest of cyberweapons to itself so it can hit targets, but Microsoft has long argued that this is dangerous. If there is a flaw in Windows, the company said, surely the safest thing to do is to let its team know straight away so it can be fixed.
+But then Microsoft also needs to consider what obligation it has to update all users - not just the ones who pay extra for security on older systems.
+Updating your computer if you're an individual is a piece of cake, but for a network the size of Britain's National Health Service? Tough - time-consuming, expensive and complex.
+For a company like Microsoft to say it won't keep those systems safe unless they shell out more money, then that in itself is something of a ransom.
+Meanwhile Europol's chief told the BBC the ransomware was designed to allow "infection of one computer to quickly spread across the networks", adding: "That's why we're seeing these numbers increasing all the time."
+Although a temporary fix earlier slowed the infection rate, the attackers had now released a new version of the virus, he said.
+A UK security researcher known as "MalwareTech", who helped to limit the ransomware attack, predicted "another one coming... quite likely on Monday".
+MalwareTech, whose name was revealed in UK media to be 22-year-old Marcus Hutchins, was hailed as an "accidental hero" after registering a domain name to track the spread of the virus, which actually ended up halting it.
+Becky Pinkard, from Digital Shadows, a UK-based cyber-security firm, told AFP news agency that it would be easy for the initial attackers or "copy-cat authors" to change the virus code so it is difficult to guard against.
+"Even if a fresh attack does not materialise on Monday, we should expect it soon afterwards," she said.
+In England, 48 National Health Service (NHS) trusts reported problems at hospitals, doctor surgeries or pharmacies, and 13 NHS organisations in Scotland were also affected.
+Other organisations targeted worldwide included Germany's rail network Deutsche Bahn, Spanish telecommunications operator Telefonica, French carmaker Renault, US logistics giant FedEx and Russia's Interior Ministry.
+Get news from the BBC in your inbox, each weekday morning

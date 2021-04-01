@@ -1,0 +1,44 @@
+Microsoft to remove Sony CD code
+Sony's controversial anti-piracy CD software has been labelled as spyware by Microsoft.
+The software giant said a key part of the XCP copy protection system counted as malicious software under the rules it uses to define what Windows should be protected against.
+It plans to include detection and removal tools for parts of XCP in its weekly anti-spyware software update.
+The news came as Sony BMG suspended production of CDs that use XCP.
+Tool kit
+Microsoft's decision to label the XCP system spyware was revealed on the corporate blog maintained by the software maker's anti-malware team.
+Root-kits have a clearly negative impact on not only the security, but also the reliability and performance of their systems
+			
+
+
+
+
+
+                
+                     
+                    
+	Jason Garms, Microsoft
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+Malware is the generic term for malicious software and includes viruses, spyware and any other program designed to hijack or harm a computer.
+Writing in the blog, Jason Garms, one of the senior managers in the anti-malware team, said the XCP software qualified as spyware under the "objective criteria" Microsoft uses to assess potentially malicious programs.
+The XCP system is controversial because it uses techniques more often seen in computer viruses to hide itself on users' machines.
+Specifically XCP uses a "root-kit" to conceal itself deep inside the Windows operating system.
+"Root-kits have a clearly negative impact on not only the security, but also the reliability and performance of their systems," said Mr Garms in the blog entry.
+As a result Microsoft will put utilities to find and remove the root-kit in the next update of its anti-spyware software.
+The same utilities will also go in to the December update for Microsoft's malicious software removal tool.
+Bad publicity
+The row about XCP blew up following an expose by Windows programming expert Mark Russinovich.
+It led to widespread criticism of Sony BMG and several class action lawsuits have been started against the record label over XCP. The stealthy software is intended to stop illegal copies being made of Sony CDs.
+Mr Russinovich's discovery led to a string of bad publicity for Sony, which culminated in the news that virus writers were starting to use XCP to hide their own malicious programs.
+In response Sony BMG suspended use of XCP as a "precautionary measure". The XCP software was only used on CDs sold in the US.
+Speaking about the suspension Mr Russinovich said: "This is a step they should have taken immediately."

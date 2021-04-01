@@ -1,0 +1,73 @@
+Microsoft offers security service
+Microsoft is starting an anti-virus and security service for PC users.
+The service would be on a yearly subscription basis, just like other anti-virus protection services.
+Called Windows OneCare, it is to be tested by the software giant's employees, before a trial release for the rest of the world later this year.
+Although Microsoft already offers security features in its software for free, it recently bought anti-virus technology to help beef up security.
+"We're designing the service so it will continually update and evolve over time," Ryan Hamlin, Microsoft's general manager of the technology safety group said in a statement.
+The service is designed to automatically patch-up security holes, as well as beef up anti-virus and spyware protection. It will also help maintain the health of a user's PC generally, according to Microsoft.
+Many people fail to protect themselves online and forget to run regular scans on their computers to check for spyware - programs that sneak onto computers which can surreptitiously monitor user behaviour or steal information.
+Romanian software company, GeCAD Software, was bought in 2003 to develop Microsoft's own anti-virus and anti-spyware software.
+Competition for others
+The move will put Microsoft in competition with other net security firms which offer paid-for protection services, such as Symantec, Trend Micro and McAfee.
+Graham Cluley, senior technology consultant for net security firm Sophos, applauded the move and welcomed Microsoft as a "responsible newcomer" to the anti-virus market.
+STAYING SAFE ONLINE
+                        
+                
+		
+                
+                     
+                    Install anti-virus software
+
+
+Keep your anti-virus software up to date
+
+
+Install a personal firewall
+
+
+Use Windows updates to patch security holes
+
+
+Do not open e-mail messages that look suspicious
+
+
+Do not click on e-mail attachments you were not expecting
+
+
+
+                
+                    
+                        
+                            
+                        
+                     
+                    
+    
+	
+        
+        
+	    	What are the threats on the net?
+        
+	
+    
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+He said it highlighted the need for effective security services for home computer users who are traditionally poorly protected.
+"Microsoft wants end users to feel safe when they use the internet, and not to feel that Microsoft is doing nothing about the security problem," he said.
+It could also help claw back confidence in Windows' security. But, he told the BBC News website, it could spell trouble for some who might feel threatened.
+"Microsoft launching an anti-virus product for home users could force some anti-virus vendors to be even more aggressive in this space in order to retain market share.
+"Vendors such as Symantec, McAfee and Trend Micro who have a large home user base will find themselves up against a competitor with a formidably strong brand in the consumer market.
+He added that Microsoft was also keen to stem any migration of its users to other operating systems, such as Apple's Mac OS X and Unix-based systems.
+Sophos was not so worried about the move, he said, because its effort were focused primarily on business protection rather than home users.
+Apple has offered an anti-virus subscription service for its users for some time.

@@ -1,0 +1,13 @@
+Npower app attack exposed customers' bank details
+Energy firm Npower has closed down its app following an attack that exposed some customers' financial and personal information.
+Contact details, birth dates, addresses and partial bank account numbers are among details believed stolen.
+The firm did not say how many accounts were affected by the breach, which was first reported by MoneySavingExpert.com.
+But the affected accounts had been locked, Npower told the BBC.
+"We identified suspicious cyber-activity affecting the Npower mobile app, where someone has accessed customer accounts using login data stolen from another website. This is known as 'credential stuffing'," the firm said in a statement.
+"We've contacted all affected customers to make them aware of the issue, encouraging them to change their passwords and offering advice on how to prevent unauthorised access to their online account."
+It also advised customers to change passwords on other accounts if using the same one.
+It added that the mobile app had already been due to be shut down as part of wind-down plans following Npower's acquisition by Eon.
+The Information Commissioner's Office confirmed that it had been informed about the hack.
+"Npower has made us aware of an incident affecting their app and we are making enquiries," the ICO told the BBC.
+It is not clear when the attack took place, but MoneySavingExpert said it had seen an email sent to customers at the beginning of the month warning that their accounts had been locked.
+Action Fraud advised customers to keep an eye out for potential phishing emails and to monitor their bank accounts for suspicious activity.

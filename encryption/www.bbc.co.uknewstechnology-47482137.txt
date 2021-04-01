@@ -1,0 +1,23 @@
+Facebook: What's in Mark Zuckerberg's privacy plan?
+After a solid year of data breaches, privacy scandals and controversial policy decisions, Mark Zuckerberg now says he wants Facebook to become a "privacy-focused" social network.
+Facebook's critics have laughed at the suggestion. Until now, it has been encouraging people to share more, scooping up buckets of personal data and using it to rake in advertising cash.
+Will it really change, when it makes so much money from us over-sharing?
+What has Facebook proposed?
+In a 3,200-word blog, Facebook's chief executive, Mark Zuckerberg, said "privacy-focused communications" would become more important than open social networks in the future. In some countries, this is already the case.
+Mr Zuckerberg said Facebook was exploring:
+However, he stressed that the option to post publicly would remain, as it let people discover "new people, ideas and content" and gave people a voice.
+He also said the company would not build data centres in countries with a "track record of violating human rights".
+How will this help Facebook?
+A move to make Facebook more privacy-focused may help restore some public trust in the platform, which has been plagued by a year of privacy scandals and data breaches.
+Adding end-to-end encryption to all private messages would mean Facebook could not be compelled by governments to hand over its users' personal messages, because it does not have a copy.
+Mr Zuckerberg said an "inherent trade-off" of encrypted messaging was that criminals could hide activity such as terrorism or child abuse.
+But, he said, the company was improving its ability to "stop bad actors across our apps by detecting patterns of activity".
+How will Facebook make money from this?
+Facebook makes most of its money by letting advertisers target their messages at very specific audiences. People share so much on Facebook that the company can build a detailed picture of their age, location, political views, likes, interests and more.
+Investing in privacy may:
+The company is also exploring ways that it can charge businesses to contact people on its messaging apps.
+"I understand that many people don't think Facebook can or would even want to build this kind of privacy-focused platform," said Mr Zuckerberg.
+"Frankly, we don't currently have a strong reputation for building privacy protective services and we've historically focused on tools for more open sharing.
+"But we've repeatedly shown that we can evolve to build the services that people really want, including in private messaging and stories."
+The changes would take "several months" to roll out, he added.
+In May 2018, it promised to launch a "clear history" feature that would let people delete personal data Facebook had scooped up. The feature has still not launched.

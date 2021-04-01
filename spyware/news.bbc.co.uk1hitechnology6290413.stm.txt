@@ -1,0 +1,100 @@
+Cyber criminals move focus to web
+Cyber criminals will increasingly turn their attention to the web and away from e-mail security in 2007, according to a new report.
+Security firm Sophos found that the US hosts more than a third of websites hosting malicious code, as well as sending more spam than other nations.
+Lax security on US-hosted websites is  one of the key reasons the US remains a hotspot for cyber crime, said Sophos.
+The UK hosts 0.5% of so-called malware and sends out 1.9% of spam.
+The number of websites being infected with malware - malicious software - is on the rise with Sophos uncovering an average of 5,000 new URLs hosting malicious code each day.
+Shifting tactics
+TOP TEN MALWARE HOSTS
+                        
+                
+		
+                
+                     
+                    United States - 34.2%
+
+
+China - 31%
+
+
+Russian Federation - 9.5%
+
+
+Netherlands - 4.7%
+
+
+Ukraine - 3.2%
+
+
+France - 1.8%
+
+
+Taiwan - 1.7%
+
+
+Germany - 1.5%
+
+
+Hong Kong - 1%
+
+
+Korea - 0.9%
+
+
+
+                
+                    
+                        
+                            
+                        
+                     
+                    
+    
+	
+        
+        
+		
+			Hi-tech Crime: A glossary
+"The internet now represents the easiest way for cyber criminals to gain entry to corporate networks, as more users are accessing unregulated sites, downloading applications and streaming audio/video," said Carole Theriault, senior security consultant for Sophos.
+"A great many businesses aren't geared up to gain insight into users' online behaviour, let alone control it," she added.
+Hackers have turned to other routes for infecting computers as companies realise the need to secure e-mail gateways.
+They are also subtly changing tactics - instead of sending so-called spyware-infected e-mails, they are sending e-mails linking to websites which contain a malicious downloader.
+TOP TEN SPAM SENDERS
+                        
+                
+		
+                
+                     
+                    United States - 22%
+
+
+China - 15.9%
+
+
+South Korea - 7.4%
+
+
+France - 5.4%
+
+
+Spain - 5.1%
+
+
+Poland - 4.5%
+
+
+Brazil - 3.5%
+
+
+Italy - 3.2%
+
+
+Germany - 3.0%
+
+
+United Kingdom - 1.9%
+The file will attempt to download multiple Trojans - a type of program or message that looks benign but conceals a malicious payload - before it downloads a spyware component to offer more chances of success.
+Links to websites containing Trojan downloaders account for 51% of infected mail while spyware-infected mail accounts for 42%, according to Sophos.
+According to the report, 30% of all malware is now written in China. 17% is designed for the specific purpose of stealing passwords from online gamers, an indication that malware writing exploits country-specific online trends.
+Sophos detected 41,536 new pieces of malware in 2006. Of these threats, Trojans now outnumber Windows viruses and worms by four to one.
+Infected emails have fallen significantly from one in 44 during 2005 to just one in 337 during 2006.

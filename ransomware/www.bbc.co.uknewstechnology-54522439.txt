@@ -1,0 +1,12 @@
+London's Hackney Borough Council hit by hack attack
+London's Hackney Council says it has been hit by "a serious cyber-attack" which is affecting its IT systems.
+Services may be "unavailable" and people should only contact the council "if absolutely necessary", it tweeted.
+Officials are working with the UK National Cyber Security Centre to investigate the hack.
+In February, another local authority - Redcar and Cleveland Borough Council - said it had been hit by a ransomware attack, which cost it more than Â£10m.
+Hackney's mayor has only shared scant details of what is involved in its case so far.
+"This investigation is at an early stage, and limited information is currently available," he posted.
+"Our focus is on continuing to deliver essential frontline services, especially to our most vulnerable residents, and protecting data, while restoring affected services as soon as possible. In the meantime, some council services may be unavailable or slower than normal."
+A spokesperson for the National Cyber Security Centre said: "The NCSC is supporting the organisation and working with partners to understand the impact of this incident."
+Ransomware attacks are a growing problem for public services, from councils to hospitals.
+In such attacks, hackers take control of computer systems and data and demand payments in order to unlock them.
+The alternative is for councils is to rebuild systems from scratch via back-ups.

@@ -1,0 +1,54 @@
+Phishing con hijacks browser bar
+Scammers are using increasingly sophisticated methods to trick people into handing over personal information.
+The latest con uses a fake version of a web browser's address bar to hide a bogus site set up to collect Pin codes for cash machines.
+The address bar stays in place and could be used to steal information about other sites too.
+Security experts said users should be suspicious of any e-mail that asks them to verify confidential information.
+Scam spotting
+So-called phishing cons have become increasingly common recently among tech-savvy criminals keen to steal cash from gullible users by making them hand over sign on or account details.
+Most phishing attacks involve an e-mail that purports to be sent out by a legitimate organisation, such as a bank, that asks users to enter information on a special site.
+Anyone following the instructions will unwittingly be handing over details to conmen who use them to empty the account of cash.
+Often the fake websites are difficult to spot because they do a good job of reproducing the website of the company they are impersonating.
+Now the Anti-Phishing Working Group has come across an even more sophisticated attack that targets Citibank customers.
+This email was sent by the Citibank server to verify your E-mail address. You must complete this process by clicking on the link below and entering in the small window you Citibank ATM/Debit Card number and PIN that you use on ATM
+
+
+
+			
+
+
+
+
+
+                
+                     
+                    
+	
+	Text from scam e-mail
+
+
+
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+	
+When users click on the web link in the e-mail of this latest attack, the site they are taken to detects what browser they are using, suppresses the real address bar and generates a fake one to take its place.
+This fake browser bar shows the real web address of the firm being impersonated rather than the address of the scam site the user is actually visiting.
+"The biggest problem you have when trying to fool people is what appears in the address bar of the browser," said Dave Brunswick, technical director at Tumbleweed and a member of the APWG.
+But, he said, this attack removes that problem.
+The address bar even acts like a real part of the browser and will direct net users to other website addresses that are typed into it.
+The website also fakes the appearance of the webpage code used to create it to make it look more convincing.
+One of the few clues that it is a fake is the fact that it does not show a locked padlock icon for the supposedly secure web-browsing session it is supporting.
+The grammar and style of the original e-mail is also slightly suspect.
+Mr Brunswick advised people to be suspicious of any e-mail message that asked users to supply key login or personal information.
+"The idea is to be cynical and ask: 'Why would my bank be sending me this e-mail?'" he said.

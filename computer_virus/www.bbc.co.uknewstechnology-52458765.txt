@@ -1,0 +1,34 @@
+Love Bug's creator tracked down to repair shop in Manila
+The man behind the world's first major computer virus outbreak has admitted his guilt, 20 years after his software infected millions of machines worldwide.
+Filipino Onel de Guzman, now 44, says he unleashed the Love Bug computer worm to steal passwords so he could access the internet without paying.
+He claims he never intended it to spread globally.
+And he says he regrets the damage his code caused.
+"I didn't expect it would get to the US and Europe. I was surprised," he said in an interview for Crime Dot Com, a forthcoming book on cyber-crime.
+The Love Bug pandemic began on 4 May, 2000.
+Victims received an email attachment entitled LOVE-LETTER-FOR-YOU. It contained malicious code that would overwrite files, steal passwords, and automatically send copies of itself to all contacts in the victim's Microsoft Outlook address book.
+Within 24 hours, it was causing major problems across the globe, reportedly infecting 45 million machines. It also overwhelmed organisations' email systems, and some IT managers disconnected parts of their infrastructure to prevent infection.
+This led to estimates of damage and disruption running into billions of pounds.
+In the UK, Parliament shut down its email network for several hours to protect itself, and even the Pentagon was reportedly affected.
+The previous year, the Melissa bug is believed to have infected a million machines using similar tactics. However, Love Bug dwarfed previous outbreaks and exposed how vulnerable the world's increasing internet connectivity was to attack.
+Investigators traced the virus to an email address registered to an apartment in Manila, capital of the Philippines.
+The occupant's brother was Onel de Guzman, a computer science student at the city's AMA Computer College. He was a member of an underground hacking group called Grammersoft and quickly became the lead suspect in a police investigation.
+De Guzman's lawyer organised a press conference on 11 May, at which de Guzman appeared to speak little English.
+When asked whether he may have released the virus accidentally, de Guzman said: "It is possible."
+At the time, the Philippines had no law covering computer hacking, and neither de Guzman nor anyone else was ever prosecuted.
+Suspicion also fell on de Guzman's fellow student Michael Buen, who has been cited online as the co-author of the Love Bug.
+I set out to track down Onel de Guzman and resolve the 20-year mystery of Love Bug's origin.
+Online rumours claimed de Guzman had moved to Germany, Austria or the US. Some claimed he had been recruited by Microsoft following the outbreak. All proved to be wide of the mark.
+On a forum dedicated to the Philippine underworld, a user claimed in 2016 that de Guzman ran a mobile phone repair shop in the Quiapo district of Manila. In April 2019, I visited the area hoping to encounter the suspect, only to find a sprawling market containing dozens of mobile phone repair shops.
+I wrote Onel de Guzman's name on a piece of paper and showed it to shop workers at random in the hope that someone would recognise it. Finally an employee said he knew of de Guzman and believed he now worked in another phone repair booth at a shopping mall elsewhere in Manila.
+After several hours wandering around the mall and showing de Guzman's name, I was directed to a cramped, messy stall at the very back of the building, and after waiting several hours for him to turn up, Onel de Guzman arrived.
+He admitted having created Love Bug, which he said was a revamped version of an earlier virus he had coded in order to steal internet access passwords.
+In the era of dial-up internet, such passwords were needed to get online, and de Guzman says he could not afford to pay for one.
+He claims he initially sent the virus only to Philippine victims, with whom he communicated in chat rooms, because he only wanted to steal internet access passwords that worked in his local area.
+However, in spring 2000 he tweaked the code, adding an auto-spreading feature that would send copies of the virus to victims' Outlook contacts, using a flaw in Microsoft's Windows 95 operating system. He also created a title for the email attachment that would have global appeal, tempting people across the world to open it.
+"I figured out that many people want a boyfriend, they want each other, they want love, so I called it that," he said.
+De Guzman claims he sent the virus initially to someone in Singapore, and then went out drinking with a friend. The first he knew of the global chaos he had unleashed was when his mother told him police were hunting a hacker in Manila.
+He explained that his mother hid his computer equipment. De Guzman insists Buen had nothing to do with Love Bug and that he was its sole creator.
+After a period of lying low, de Guzman returned to computer work but did not go back to college. He now runs the small booth with another member of staff.
+He says he regrets writing the virus, and the infamy it has brought him.
+"Sometimes I get my picture on the internet," he said.
+"My friends say, 'It's you!' I'm a shy person, I don't want this."

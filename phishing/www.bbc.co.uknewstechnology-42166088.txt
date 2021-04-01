@@ -1,0 +1,10 @@
+Yahoo 'hacker-for-hire' pleads guilty
+A Canadian man has pleaded guilty to charges related to a 2014 hack attack at Yahoo, which affected 500 million user accounts.
+Described by US law officials as a "hacker-for-hire", Karim Baratov admitted hacking web-mail accounts on behalf of the Russian Federal Security Service (FSB).
+The number of hacked accounts is disputed.
+His lawyers also say he did not know he had been working for Russian agents.
+Three other individuals have been charged over the hack but have not been arrested because they live in Russia, which has no extradition treaty with the US.
+Prosecutors have said two of them are FSB officers.
+According to court documents issued by the Northern District of California's US Attorney's Office, Baratov's role in the hack was to access the individual web-mail accounts of users whose data had been stolen in the Yahoo attack at a number of other internet service providers - such as Google and Yandex - and send those account passwords to one of the Russian agents in exchange for money.
+According to the US Department of Justice, he used spear-phishing schemes that would trick victims into entering their account credentials into web pages that he had built to mimic official web-mail provider's sites.
+Baratov will be sentenced in February and faces up to 28 years in jail.

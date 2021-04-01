@@ -1,0 +1,29 @@
+Man has two guesses to unlock bitcoin worth $240m
+We've all been there - brain fog makes us forget our password and after eight frantic attempts, we have just two left.
+That's the situation for programmer Stefan Thomas but the stakes are higher than most - the forgotten password will let him unlock a hard drive containing $240m (Â£175m) worth of Bitcoin.
+His plight, reported in the New York Times, has gone viral.
+Ex-Facebook security head Alex Stamos has offered to help - for a 10% cut.
+Bitcoin has surged in value in recent months.
+One bitcoin is currently worth $34,000.
+But the cryptocurrency is volatile.
+And experts are divided about whether it will continue to rise or crash.
+Few dollars
+Mr Thomas, who was born in Germany but lives in San Francisco, was given 7,002 bitcoins as payment for making a video explaining how cryptocurrency works more than a decade ago.
+At the time, they were worth a few dollars each.
+He stored them in an IronKey digital wallet on a hard drive.
+And he wrote the password on a piece of paper he has lost.
+Own bank
+After 10 failed attempts, the password will encrypt itself, making the wallet impossible to access.
+Perhaps unsurprisingly, the dilemma has put him off cryptocurrencies.
+He told the New York Times: "The whole idea of being your own bank - let me put it this way, do you make your own shoes?"
+"The reason we have banks is that we don't want to deal with all those things that banks do."
+Locked out
+Mr Stamos, who is now professor at the Stanford Internet Observatory, tweeted Mr Thomas: "Um, for $220m in locked-up Bitcoin, you don't make 10 password guesses but take it to professionals to buy 20 IronKeys and spend six months finding a side channel or uncapping.
+"I'll make it happen for 10%.
+"Call me."
+Mr Thomas would not be the first potential Bitcoin millionaire to be locked out of their fortune.
+Currently, about $140bn worth of Bitcoin is lost or left in wallets that cannot be accessed, according to cryptocurrency-data company Chainanalysis.
+And businesses helping retrieve digital currency receive multiple requests each day.
+The New York Times article also references an entrepreneur who lost about 800 bitcoins when a colleague reformatted a laptop containing the private keys to his wallet.
+And in 2013, a Welsh man desperately searched a landfill site after throwing away a computer hard drive containing 7,500 bitcoins.
+At the time worth more than Â£4m, this would now be valued at more than Â£250m.

@@ -1,0 +1,26 @@
+Google and Apple remove alleged UAE spy app ToTok
+Google and Apple have removed an Emirati messaging app called ToTok amid claims that it is used for state spying.
+Not to be confused with China's TikTok, ToTok markets itself as an easy and secure way to chat by video or text.
+However, The New York Times (NYT) has reported allegations that the WhatsApp-lookalike is a spy tool for the United Arab Emirates government.
+ToTok has told users that it will be back in the app stores soon.
+In a blog, it wrote that it is "temporarily unavailable" on the Apple App Store and the Google Play Store because of a "technical issue".
+Citing American officials as sources, the NYT reported that ToTok gives UAE spies access to citizen's conversations, movements, and other personal information like photos.
+Google removed the app last Thursday and Apple pulled it the following day. However, ToTok users, who already have the app on their phone, can carry on using it.
+Millions of users
+ToTok is only several months old but it has been downloaded by users in the Middle East, Europe, Asia, Africa, and North America, according to the NYT.
+Google Play Store showed that it had five million Android downloads alone before it was removed, while app-tracker App Annie said that ToTok was one of the most downloaded social apps in the US last week.
+The NYT reports that the app's publisher, Breej Holding Ltd, is affiliated with DarkMatter, which is an Abu Dhabi-based intelligence and hacking firm that is allegedly under investigation by the FBI for possible cyber-crimes.
+DarkMatter employs Emirati intelligence officials, former National Security Agency employees and former Israeli military intelligence operatives, according to the NYT.
+ToTok, DarkMatter, and the Embassy of United Arab Emirates in London did not immediately respond to a request for comment.
+"While the existing ToTok users continue to enjoy our service without interruption, we would like to inform our new users that we are well engaged with Google and Apple to address the issue," ToTok said in a blog.
+It pointed out that new users with Samsung, Huawei, Xiaomi and Oppo phones could still download ToTok on the phone maker's own app stores.
+The company promised to be back "in the near future" with new features such as payment, news, commerce, and entertainment.
+Other messaging services like WhatsApp and Skype, which offer end-to-end encryption, are restricted in the UAE. While they can be used for messaging, they can't be used for video calls.
+ToTok's privacy policy states that it may share people's personal data with "law enforcement, officials, regulatory agencies and other lawful access requests".
+It also states: "We may share your personal data with group companies."
+However, there is no specific mention of the United Arab Emirates government.
+Decrypting the app
+Security firm Objective-See says that it worked with the NYT on the investigation.
+In a blog, the company explained that it performed an analysis of ToTok's iOS app on a "jailbroken" iPhone - ie one which had been altered to bypass manufacturer restrictions. Analysts decrypted the ToTok app and the app's "network traffic".
+The analysts said that the legitimacy of the app is "really the genius of the whole mass surveillance operation".
+They noted that they found no backdoors, no malware, and no exploits in the app.

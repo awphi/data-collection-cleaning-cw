@@ -1,0 +1,15 @@
+Rouen hospital turns to pen and paper after cyber-attack
+A cyber-attack on a hospital in Rouen last week caused "very long delays in care", reports the AFP news agency.
+Medical staff at the French city's University Hospital Centre (CHU) were forced to abandon PCs as ransomware had made them unusable, a spokesman said.
+Instead, staff returned to the "old-fashioned method of paper and pencil", said head of communications Remi Heym.
+No patients were endangered as a result of the cyber-attack, the hospital said, in a statement published on Facebook.
+The 1,300-bed hospital has not revealed details about the strain of ransomware with which it was infected.
+It said servers and many desktop PCs were rendered out of action by the attack, leaving staff to handle appointments by phone, issuing written prescriptions and reports.
+No medical or personal data has gone missing as a result of the attack, according to the hospital.
+France's national cyber-crime agency, ANSSI, helped limit the scale of the outbreak, France's Le Monde newspaper reported. The paper reports that the agency also assisted with cleaning up computers infected by the virus, re-installing software and recovering encrypted files.
+The hospital stated it would not pay any ransom to have its files restored, adding that all its systems should be returned to normal by this weekend.
+A formal investigation into who was behind the ransomware has been initiated by French police.
+Le Monde reported that ransomware attacks on French hospitals were rare, but said two other establishments had been hit in recent years.
+Hospitals have become a favourite target of cyber-attackers because the patient data they hold is highly valuable and the consequences of the data becoming inaccessible can be life-threatening.
+The biggest outbreak was in August this year, which impacted 120 hospitals and offices forming the Ramsay private hospital group. That organisation reportedly paid the ransom to unlock computers and restore encrypted files.
+In May 2017, a cyber-attack crippled large parts of the NHS - 47 trusts were affected and seven had to temporarily close their doors in A&E to ambulances.

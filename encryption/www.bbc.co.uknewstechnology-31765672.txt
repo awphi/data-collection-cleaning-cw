@@ -1,0 +1,13 @@
+Millions at risk from 'Freak' encryption bug
+Microsoft has issued a security warning about a bug that could let attackers spy on supposedly secure communications.
+Called "Freak", the bug was found in software used to encrypt data passing between web servers and web users.
+Initially the flaw was thought only to affect some users of Android and Blackberry phones and Apple's Safari web browser.
+Microsoft's warning suggests millions more may be at risk of losing data.
+The Freak flaw was discovered by encryption and security expert Karthikeyan Bhargavan and lets attackers force data travelling between a vulnerable site and a visitor to use weak encryption. This makes it easier to crack open the data and steal sensitive information.
+Statistics gathered by a group set up to monitor the impact of the Freak flaw suggest about 9.5% of the web's top one million websites are susceptible to such attacks.
+The monitoring group has also produced an online tool that lets people check if they are using a browser that is vulnerable to the flaw.
+Vulnerable
+Apple is expected to produce a patch for the flaw next week and Google has updated its version of Chrome for the Mac to remove its susceptibility to Freak. It has yet to say what action it is taking with Android.
+In a security advisory note released on 5 March, Microsoft said every current version of Windows that uses Internet Explorer, or any non-Microsoft software that calls on a part of Windows called Secure Channel, was vulnerable to the Freak flaw.
+Microsoft has issued advice about ways to remove the vulnerability from some of its software but said applying these fixes could cause "serious problems" with other programs. It said it was working on a separate security update to remove the vulnerability.
+In its advisory, Microsoft said it had not received any information that suggested the attack was being actively exploited by cybercriminals.

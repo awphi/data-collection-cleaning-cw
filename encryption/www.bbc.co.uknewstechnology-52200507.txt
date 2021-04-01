@@ -1,0 +1,15 @@
+Zoom banned by Taiwan's government over China security fears
+Zoom has been banned from government business in Taiwan in the latest setback for the hugely popular video-calling app.
+It follows revelations that some Zoom traffic was "mistakenly" routed through China, which does not recognise Taiwan's independence.
+Taiwan's government said public bodies should not use products with security concerns "such as Zoom".
+But competitors like Google and Microsoft were acceptable, it said.
+China considers Taiwan a breakaway rebel province, destined to be reunited with the mainland.
+Last week, researchers discovered that some traffic from the video-calling app was being sent through Beijing - even when all participants on the Zoom call were in North America.
+The team from University of Toronto's Citizen Lab also highlighted that Zoom has several hundred employees in mainland China, which "could also open up Zoom to pressure from Chinese authorities".
+Zoom said the traffic was "mistakenly" routed through Beijing, and apologised.
+Despite the response from Zoom, Taiwan has told its public institutions to use other software.
+Where possible, domestic solutions should be used, it said, adding that in special circumstances, Google or Microsoft's apps were acceptable. Those firms operate the Duo and Skype services respectively.
+It is the latest blow to Zoom, which has exploded in popularity during the coronavirus pandemic, resulting in increased scrutiny.
+Its ease of use has seen it adopted by businesses, individuals, and the UK cabinet for remote meetings.
+In its report, Citizen Lab's researchers also said Zoom used non-standard encryption, and warned that it may not be suitable for governments or businesses worried about espionage. But average users should have little cause for concern, it said.
+Zoom, meanwhile, has promised to improve its security and privacy features.

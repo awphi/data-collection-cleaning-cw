@@ -1,0 +1,29 @@
+Trojan targets Iranian and Syrian dissidents via proxy tool
+Web users in Iran and Syria aiming to circumvent censorship controls are being targeted with spyware, according to security researchers.
+A team at the University of Toronto
+ said installation software for the popular proxy tool Simurgh also implanted keylogging spyware.
+Simurgh is designed to anonymise net use and allow access to blocked sites.
+However, an added Trojan is said to send data from victims' PCs to a site registered with a Saudi Arabian ISP.
+This can include the computer operator's username and machine name, as well as every window clicked and every keystroke entered.
+The developers of Simurgh subsequently posted  
+          
+ 
+          a warning on their website
+ noting that versions of their software installer downloaded from the file sharing service 4shared had been compromised.
+Anti-virus firms Sophos and Avira have also updated their malware scanners to detect the code.
+Crafted code
+Morgan Marquis-Boire, a technical adviser at the university's Munk School of Global Affairs, said the Isass.exe file allowed "persistent access to the victim's computer" as well as "data exfiltration" capabilities.
+"This Trojan has been specifically crafted to target people attempting to evade government censorship," he added.
+"If found to be installed on a computer one must consider all online accounts (email, banking etc) to have been compromised and it is advised that all online passwords be changed as soon as possible."
+He noted that a side effect of the code was a lack of navigation sounds in Microsoft's Internet Explorer and other applications.
+A follow-up post by Sophos noted that although the data was being sent to what appeared to be a Saudi Arabian registered entity, some of the servers being used were in the United States.
+Sophos stressed that the discovery did not mean that the attack had been instigated by parties in the US, as anyone could have rented the server space.
+Widespread
+The news comes as investigators probe a malware attack - dubbed Flame - found to have infected computers in Iran and other parts of the Middle East, which is thought to have been designed to steal sensitive data.
+However, Sophos suggested that the the Simurgh Trojan was likely to have compromised more computers.
+"Unlike Flame, which is highly targeted malware that has only been found on a handful of computers globally, this malware is targeting users for whom having their communications compromised could result in imprisonment or worse," wrote Chester Wisniewski, senior security advisor at Sophos,  
+          
+ 
+          on his company's blog
+.
+"Many thousands depend on the legitimate Simurgh service, which makes it likely that far more people have been impacted by this malware."

@@ -1,0 +1,27 @@
+Fighting the scourge of scareware
+Microsoft and Washington State's Attorney General filed lawsuits against scam artists who frighten consumers into buying useless software.
+"Scareware" merchants are accused of tricking computer users into clicking on pop-up alerts that claim their device is "damaged and corrupted".
+They are then persuaded to buy software that corrects the non-existent issue by offering fake security fixes.
+It is a "blatant rip-off of consumers," said Attorney General Rob McKenna.
+Users are "duped into downloading a fake scan (of the computer) and then duped into paying for software they don't need".
+The attorney general's lawsuit has been filed against a Texas firm called Branch Software and Alpha Red and its owner James Reed McCreary IV.  The suit alleged that  Mr McCreary's company "sent incessant pop-ups resembling system warnings to consumers' personal computers.
+"The messages read "CRITICAL ERROR MESSAGE! - REGISTRY DAMAGED AND CORRUPTED."
+The complaint goes on to claim that the ads "instructed users to visit a web site to download Registry Cleaner XP"  at a  cost of $39.95 (£21.70)
+"We won't tolerate the use of alarmist warnings or deceptive 'free scans' to trick consumers into buying software to fix a problem that doesn't even exist," said Mr McKenna.
+"We've repeatedly proven that internet companies that prey on consumers' anxieties are within our reach."
+The problem is a growing one according to Eric Sites, the chief technology officer with security firm Sunbelt Software which tracks spyware and malware threats.
+"In the last six months we have seen an enormous uptick in the number of people getting infected by these scareware or spyware agents.
+"They are becoming a lot more prevalent and the 'scare and scam' is all about getting money out of  the user," he told BBC News.
+"Online threats"
+The organisers behind the scheme took advantage of a Windows operating system feature designed to let computer network administrators send notices to people using the machines.
+Microsoft referred the case to the attorney general's high tech unit and helped put the case together.
+"Cybercrime continues to evolve, but with public/private collaboration such as this, we can work to champion tougher laws, greater public awareness and, ultimately, stronger protections for online consumers," said Richard Boscovich, senior attorney for Microsoft's internet safety enforcement team.
+Meanwhile the software giant  has filed five new lawsuits and amended two previous complaints all relating to spyware attempts.
+The programmes listed include Scan & Repair, Antivirus 2009, MalwareCore, WinDefender, XPDefender and WinSpywareProtect.
+Most of the defendants are listed as "John Doe" because investigators do not yet know the identities of the people involved.
+Catching those behind these spyware scams and bringing them to justice might not be so simple explained Mr Sites.
+"These people could be in Russia or some other country or using fake names.  It is sometimes impossible to find out who is behind these scams. But if there is a money trail, that usually helps."
+Microsoft estimates that half of the computer crashes reported by callers to its customer support lines can be blamed on spyware messing up machines.
+A recent report from North Carolina State University showed that most internet users are unable to tell the difference between genuine and fake pop-up messages.
+"This study demonstrates how easy it is to fool people on the web," said co-author Dr Michael S Wogalter, professor of psychology.
+Despite being told some of the messages were fake, people hit the OK button 63% of the time.

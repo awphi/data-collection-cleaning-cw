@@ -1,0 +1,50 @@
+How to escape the phishing nets
+In the last 18 months the character of the spam reaching your inbox has undergone a subtle change.
+Slowly but steadily the come-ons for porn and penis pills are making way for bogus warnings about problems with online accounts - aka phishing.
+The Anti-Phishing Working Group reports that the average monthly growth rate in phishing sites between July 2004 and February 2005 was 26%.
+These phishing e-mails try to make you enter personal and login details on fake webpages made to resemble real bank sites.
+The first phishing messages and fake pages were easy to spot because of their mangled grammar and spelling.
+Good returns
+But as career criminals have got involved the phishing messages and sites have got harder to distinguish. Now they use all kinds of sophisticated techniques to hide the fact you are not on a bank's website.
+Some spoof the address bar in your browser to make it look like you are on a legitimate site.
+It's got more serious because many criminals have realised that phishing is a lucrative trade. The start-up and running costs are low, the chances of being caught are slim and the returns are great.
+Ebay and Paypal are the targets of many phishing e-mails
+			
+			
+		
+		
+	
+
+	
+
+Help to spot phishing sites is coming from firms producing toolbars that tell you when you have strayed on to a bogus website.
+Ebay was one of the first to produce such a downloadable toolbar. Its toolbar goes green or red depending on whether you are on, or off, an eBay website. It has been produced to try to stop people paying for goods that never arrive.
+Equally there are firms such as Netcraft, Geotrust, Cloudmark, Comodo and Phishing.net who independently produce toolbars and most use different methods to check the sites you visit. All of them are written to work with Microsoft's Internet Explorer.
+Some of these draw on information produced by organisations like the Phish Report Network and Digital Phishnet, who collate information on these types of fraud.
+The Cloudmark toolbar consults a list of known bogus sites, Comodo warns you if you stray off a list of known good sites and the other two use slightly different techniques.
+Geek delight
+Netcraft relies on a large network of volunteers, many of whom work in security companies, to generate a list of bogus sites from the e-mail messages they receive.
+Mike Prettejohn, director of Netcraft, says that since its toolbar was first launched  it has helped to identify more than 5,400 phishing sites. Taiwan, South Korea and China are among the phishiest countries in the world. And it has proved popular with the geekier users of the web.
+"Its kind of entertaining to have this on your desktop," he says.
+It can be expensive to get caught out by a phishing attack
+			
+			
+		
+		
+	
+
+	
+
+The Netcraft toolbar reveals where a site is hosted, shows its true net address, rates it for risk and notes if other fraudulent sites are hosted at the same address.
+The longer a site has been in existence the greater the chance it is legitimate, he says.
+Statistics gathered by the Anti-Phishing Working Group reveal that, on average, phishing sites only last 5.7 days. The longest any has lasted is 30 days.
+Sites can be shut down by complaints about fraud or because a phishing gang want to cover their tracks.
+Equally, said Mr Prettejohn, many hosting firms in developing nations advertise their ability to keep a site running even in the face of accusations of fraud.
+Geotrust's toolbar checks to see if a site uses a valid security certificate - something that phraudsters tend to avoid.
+Sites with valid security certificates get a green light, known fraud sites get a red light and those about which there is no information for get a yellow light.
+New techniques
+But while help is at hand for those keen to avoid falling victim to phishing attacks, there is evidence that the criminals are adapting and adopting new techniques.
+Dan Hubbard, senior director of security at Websense and a committee member of the APWG, says it was starting to see a change in the way phishing attacks were being mounted.
+Now, he says, attackers are turning to worms to implant key loggers so the criminals do not have to rely on users typing in data on a fake form.
+Others are crafting custom attacks against smaller banks and financial institutions that do not have the resources to tackle the problem.
+"We're seeing lots of different types of deception techniques that are not phishing related," he says. "E-mail is being used less and less in favour of other routes that are not as well protected."

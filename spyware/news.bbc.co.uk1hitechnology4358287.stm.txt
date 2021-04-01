@@ -1,0 +1,85 @@
+The spies watching while you type
+The computer criminals who tried to steal money from Sumitomo Mitsui bank used a tried and tested technique to gather confidential data from the financial institution.
+As its name implies keylogging is all about recording every key that someone presses when using their computer.
+It is a great way to discover confidential information such as login names, passwords and answers to security questions that people use to get access to online bank accounts, corporate systems and websites.
+Spot and stop
+Keylogging has been around almost as long as computer keyboards, and it has been used by some programmers to help debug code they have written.
+Some firms use keylogging software to monitor staff productivity and some parents use it to keep an eye on what their kids do with the home PC.
+More recently many computer viruses, such as Mydoom.J, Bugbear.K and Gaobot have keylogging programs built-in that try to gather personal details from the machines they infect.
+More recently keylogging has been turning up in so-called spyware programs created by computer criminals to steal information that can be used to carry out identity theft or to empty bank accounts.
+Spyware bearing keyloggers can infect a Windows PC if it is used to visit the wrong website.
+Anti-spyware firm Webroot reports that 15% of the machines it tested for malicious programs have keyloggers on them. On average, it claims, PCs in firms have almost 18 unwanted pieces of software on them - mainly spyware and adware.
+KEYLOGGING VIRUSES
+                        
+                
+		
+                
+                     
+                    Mydoom.J, Mydoom.L 
+
+
+Mipsiv
+
+
+Zins, Zins.B
+
+
+PWSteal.Formglieder
+
+
+PWSteal.Navu
+
+
+Tofger
+
+
+Stawin
+
+
+Gaobot
+
+
+Bugbear.K
+
+
+Cmjspy, Cmjspy.B
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+There are also hardware keyloggers that plug into a port on a PC and record everything that is done to that machine while the device is in place.
+With both software and hardware keyloggers, the hard part is getting the data back to those that want to use it for criminal purposes.
+"A criminal could one day turn up as a cleaner, having gone through the extensive vetting process, and put one on a PC," said James Kay, chief technology officer at security firm Blackspider.
+"The next day they could go and retrieve it," he said.
+The gang could also have written a virus containing a keylogger specifically to target the bank, said Mr Kay.
+As many firms worry most about viruses that hit thousands of machines, ones that appear in low numbers might go un-noticed.
+"We're seeing low volume viruses that never get picked up by the anti-virus firms," said Mr Kay. "Even though we know it is malicious."
+Dedicated gang
+Phil Robinson, chief technology officer at security firm IRM Plc, said it was unlikely that the criminals targeting Sumitomo used widely available spyware or viruses to get information about the bank's internal systems.
+Hardware keyloggers plug straight into a computer
+			
+			
+		
+		
+	
+
+	
+
+"It looks like a more dedicated, professional attack on the bank," he said.
+Any spyware program or computer virus containing a keylogger would more than likely be found by corporate security systems and any attempt to spirit information out would be stopped by gateways or firewalls.
+There was also little chance that a random attack using spyware would get on to the desktops of the key people who oversee the bank's network.
+Mr Robinson said it sounded like the attack was targeted against a few key individuals in the bank who had access to the core mainframe computers.
+He speculated that the criminals had inside information about who to target.
+While mainframe systems are relatively difficult to attack, many people now get access to them using a Windows PC. The security of Microsoft's Windows is notoriously lax and any attack on that would be more likely to succeed, said Mr Robinson.
+"One way into that is to identify the system administrator and target that Windows desktop," he said. "The security on the administrator's machine may not be as strong as the mainframe."
+Mr Robinson said IRM staff had come across small, custom-created keylogging programs in the past.
+"We've done incident response and forensics for major banks and other financial institutions and found keyloggers written for that purpose rather than as part of spyware."

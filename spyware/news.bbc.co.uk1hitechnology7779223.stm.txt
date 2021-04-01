@@ -1,0 +1,20 @@
+US shuts down 'scareware' sellers
+The US government has moved to shut down sellers of fake security software.
+The Federal Trade Commission (FTC) has  won a restraining order that stops several sellers of "scareware" from continuing to trade.
+Millions of people are thought to have been caught out by the software which, once installed, issues false alerts about viruses and illegal porn.
+The FTC is pursuing further legal action to win a permanent ban on those peddling the scareware.
+Frozen funds
+Court papers submitted by the FTC show that the peddlers of the fake security software tricked websites into advertising their products.
+The companies behind the fake security software won customers via adverts on many popular websites.
+Anyone clicking on an advert was taken to the webpages run by the fake security firms which then ran a "scan" looking for security problems.
+Every scan found a host of security problems and urged visitors to buy software to fix them. Typically the scans found evidence of viruses, spyware and, in some cases, illegal pornography.
+"However," said the FTC, "the scans were entirely false."
+In its legal action the FTC targeted two firms: Innovative Marketing, Inc. and ByteHosting Internet Services, LLC.
+The fake security products the firms were peddling were: WinFixer, WinAntivirus, DriveCleaner, ErrorSafe, and XP Antivirus.
+A US District court granted an injunction which stops Innovative Marketing and ByteHosting Internet Services from continuing to advertise their products, and from making false claims about their efficacy.
+It has also asked firms hosting the websites owned by these firms to block customers from accessing them. And it has also frozen the assets of the two companies so it can reclaim cash and refund those caught out.
+More than one million US citizens and many more around the world are thought to have been caught out by the "scareware" scam.
+"The popularity of the rogue anti-virus and spyware products has rocketed," said Yuval Ben-Itzhak, chief technology officer at security firm Finjan.
+"People are paying 40-60 dollars for bogus software which does nothing," he said, adding that Finjan research suggests up to five million people around the world have fallen victim to the huge number of firms selling "scareware".
+Dan Hubbard, chief technology officer at Websense, said many "scareware" firms ran very sophisticated operations. Many use search engines to ensure web users see their adverts and tune their products to each territory.
+"They seem to know the law in different regions," he said. "They monetise it very well."

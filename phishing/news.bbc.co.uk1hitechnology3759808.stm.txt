@@ -1,0 +1,32 @@
+Users face new phishing threats
+Phishing attacks that try to steal personal information could soon be a lot nastier warns a security expert.
+Sophisticated tricks that make fake messages look more plausible could mean many more people fall victim warns researcher Markus Jakobsson.
+These new attacks could exploit online social networks or tune messages to an individual's circumstances, he said.
+To combat these new types of attack, Mr Jakobsson recommends reducing how much personal data people share.
+Clever criminals
+Phishing attacks have become more prevalent recently as net-savvy criminals find better ways to make their fake e-mail messages look legitimate.
+Some of the most sophisticated phishing e-mail messages refer people to sites that look exactly the same as the website of whichever financial firm or online company they are targeting.
+Coding tricks can hide the real locations of these fake sites and many people have unwittingly handed over key information such as login names, passwords and account numbers.
+One recent attack overlaid the browsing bar on Microsoft's Internet Explorer browser with a fully functioning fake to hide the true origins of the site users were looking at.
+Phishing gangs might fake network problems 
+			
+			
+		
+		
+	
+
+	
+
+
+	
+But Markus Jacobsson, co-director of the Center for Applied Cybersecurity Research, at Indiana University said future attacks could be even more sophisticated and, as a result, catch even more people out.
+"I came up with the worst kind of attacks I could think of and then worked on how to defend against them," he said.
+Future phishing attacks could be "context aware" said Mr Jakobsson and take advantage of what attackers can find out about potential victims.
+An example of such an attack would involve e-mails sent to people who bid on an item in an eBay auction. The e-mail could falsely claim that a person had won the auction and ask them for personal details to complete the sale.
+Another such attack could mine social networks, such as Orkut, to find out who knows whom and use the names it finds to create fake e-mails that look like they come from a victim's friends or relatives.
+"A phisher can find out whether a person in your 'personal network' list is a wife, a husband, a sister or a business associate, and take advantage of that," he said.
+A third type of attack could fake a problem with a user's net access and then send an e-mail posing as a service firm keen to fix the problem.
+Mr Jakobsson suspects that such sophisticated attacks could catch out up to 50% of people. Statistics show that a maximum of 3% of people fall victim to current phishing e-mail attacks.
+While technology will help combat some of these attacks, Mr Jakobsson said action needed to be taken by users too.
+"Personal information should only be displayed publicly on Web sites if it is absolutely necessary, or if a user gives his or her specific assent, knowing the risks," he said.
+"Government can help by requesting or requiring these changes," said Mr Jakobsson.

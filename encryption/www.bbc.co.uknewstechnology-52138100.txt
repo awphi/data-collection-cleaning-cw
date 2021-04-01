@@ -1,0 +1,16 @@
+Google uses AI to enhance video call audio
+Google is hoping to end low quality video calls by deploying artificial intelligence to "fill in" audio gaps caused by bad connections.
+WaveNetEQ works by using a library of speech data to realistically continue short segments of conversations.
+The AI is trained to produce mostly syllable sounds, and can fill gaps of up to 120 milliseconds.
+It comes as the use of video calls has become increasingly important during the corornavirus crisis.
+When making a call over the internet, data is split into small chunks called packets.
+A poor connection can mean these packets reach the other party in the wrong order and at the wrong time, or cause them to be lost entirely. This can result in a significant decline in call quality.
+Google says 99% of calls made using its Duo app experience some form of audio-related issue. Of these calls, 20% lose more than 3% of their total audio, while 10% lose almost a tenth.
+WaveNetHQ works by specifically creating speech data to fill the gaps made by drops in audio.
+Data-sharing
+The AI has been trained using the voices of 100 individuals in 48 languages to enable it to learn the general characteristics of a human voice, regardless of dialect.
+Douglas Crawford, cyber security researcher at ProPrivacy, says that Duo's end-to-end encryption should help alleviate any concerns about data-sharing.
+"As calls on the platform are secured using end-to-end encryption, outsourcing AI-processing of missing packets in order to reduce audio jitters was simply not an option for developers," he told the BBC.
+"Google solved this by performing all the processing on your device so that no data is ever transmitted to a third party.
+The system is currently available on Google's Pixel 4 smartphone - the company says it plans to expand to more Android devices later this year.
+In 2018, Google divided critics when it unveiled artificial intelligence software that books appointments over the phone on behalf of users by making realistic voice-based calls. However, the feature is currently only available in the US.

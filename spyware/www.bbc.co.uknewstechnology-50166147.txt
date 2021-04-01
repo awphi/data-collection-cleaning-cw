@@ -1,0 +1,45 @@
+Stalkerware: The software that spies on your partner
+Amy says it all started when her husband seemed to know intimate details about her friends.
+"He would drop snippets into conversations, such as knowing about Sarah's baby. Really private things that he shouldn't have known about. If I asked how he knew these things, he'd say I'd told him and accuse me of losing it," she says.
+Amy - not her real name - also began to wonder how he seemed to know where she was all the time.
+"Sometimes he would say he saw me at a cafe where I was meeting my friends and say he was just passing by chance. I started to question everything and trust no-one, even my friends," she says.
+For months, these incidents built up, turning an abusive marriage into a nightmare that came to a chilling conclusion after a Halloween family trip.
+"We'd been to visit a pumpkin patch and were having a rare good weekend, which basically means my husband hadn't taken anything out on me. Our six-year-old son was playing on the floor and was so happy," Amy says.
+"My husband passed me his phone to show me a picture he'd taken at the farm and in that split-second I saw an alert pop up on his screen. It read, 'Daily report on Amy's Mac is ready to view.'
+"I felt this chill go through me and I stopped breathing for a minute. I had to excuse myself and pretended I needed the bathroom. I had to be there for my son and pretend that I hadn't seen anything.
+"The first moment I could, I went to the library to use the computer and look up the spyware he'd used. That's when everything made sense after months of thinking I was going crazy."
+Stalkerware - also known as spouseware - are powerful surveillance software programs typically sold openly online.
+On a device, all messages can be read, screen activity recorded, GPS locations tracked and cameras used to spy on what an individual is doing.
+According to cyber-security company Kaspersky, the number of people who have discovered such software on their devices has risen by at least 35% in the past year.
+Kaspersky researchers say their protection technologies have detected stalkerware on 37,532 devices so far this year.
+And principal security researcher David Emm says this is the "tip of a very large iceberg".
+"Most people will routinely protect a laptop or desktop, not that many people actually protect a mobile device," he says.
+"This information is coming back from installations of our product on [smartphones]... so this figure doesn't even go close to what the total would be."
+Kaspersky's findings indicate Russia is the country with the highest levels of stalkerware activity. India, Brazil, the United States and Germany complete the top five, with the UK in eighth place with 730 detections.
+Another security company says there are practical steps people can take if they suspect they are already being spied on.
+"It's always advisable to check which apps are on your phone and conduct a virus scan where necessary and if there are any apps on your device that you do not recognise it is worth searching online for reviews and deleting them," says Jake Moore, from Eset.
+"As a general rule, if you aren't using an app, delete it."
+Once Amy realised her computer had been compromised, she developed a severe mistrust of technology, which she is only just overcoming.
+Charities say this is a common psychological response to such a trauma.
+Jessica was another victim of stalkerware. Her ex-husband routinely spied on her through her phone's microphone and would play mind games by repeating specific phrases she and her friends had used in private conversations.
+It's been years since she escaped the relationship but she still leaves her phone locked in the car when seeing friends.
+Gemma Toynton, from domestic abuse charity Safer Places, says she see this long-term effect a lot in her cases.
+"It reduces someone's trust," she says. "It makes them see a phone or laptop as a weapon, because that's what it's been used for.
+"Technology has become, in their minds like a net around them and a lot of people do withdraw from using the internet.
+"It really does impact your whole life. The fact that this stalkerware is on the rise is a real concern."
+Amy, who is from the US, is now divorced and lives many miles away from her ex-husband.
+She has a restraining order preventing him from direct contact with her and he is legally allowed to communicate logistics about their son's care via written letter only.
+Put to the test
+I tested out one of the most popular consumer products, which costs Â£140 for three months of surveillance.
+I bought it online and installed it on to my work phone. It took me about an hour and I used the 24-hour live support offered by the company when I encountered any problems.
+Spyware companies advertise their services as "employee monitoring" or "parental control" products.
+In many countries, including the UK, using the spyware on a spouse without their permission is illegal, so many of the companies' websites are littered with disclaimers advising against this.
+However, some of the same websites link to articles, seemingly written by associates, recommending the software as a spy tool for "cheatings wives and husbands".
+In a live chat with the company whose product I was testing, I directly told them: "I want to install this on my wife's phone, will it be secret?"
+The customer service-representative responded: "The application will start to work in stealth mode right after installation. I'll be happy to help."
+I also downloaded five of the top cyber-security products on to the infected mobile and carried out a free scan.
+All of them gave alerts for "potentially harmful software".
+The Crown Prosecution Service says there aren't specific laws related to the use of stalkerware but any criminal activity like this can be prosecuted by a number of means including the Protection from Harassment Act 1997.
+Amy says more should be done to legislate against the use of these technologies.
+"They need to stop hiding behind plausible deniability," she says.
+"There is a wink that's given when they send this little disclaimer that says, 'We don't approve of you spying on wives.' They know what their customers are doing though. This software causes real harm."

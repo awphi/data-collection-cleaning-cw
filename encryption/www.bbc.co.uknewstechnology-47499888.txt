@@ -1,0 +1,24 @@
+Tech Tent: Facebookâs Planned Privacy Pivot
+Suddenly the whole idea that we want to share our lives with the world has gone out of fashion. Facebook's founder Mark Zuckerberg says he wants to create a privacy-focused platform.
+Meanwhile campaigners are warning that facial recognition technology poses a threat to our privacy when we are out and about.
+On this week's Tech Tent we ask whether privacy - both online and in the real world - has moved up everyone's agenda.
+You may have thought Facebook's whole mission was about getting us to live our lives in public - or "Sharing is Caring" as the slogan of the fictional social media company in the novel The Circle had it.
+But that is all going to change, according to Mr Zuckerberg. In a 3,000-word blogpost, he outlined a somewhat vague "pivot" to privacy
+His plan involves more encryption, safer storage of data so information is not held in countries with poor records on privacy, and less permanence - in other words Facebook will follow Snapchat in making your posts disappear from its platform after a while.
+He compares it with moving from the digital equivalent of a town square - a public space - to the digital equivalent of the living room shared with only close friends..
+Given the series of privacy scandals which have battered the social media giant over the last few years, this new approach was bound to be met with cynicism - indeed Mr Zuckerberg himself admitted "frankly we don't currently have a strong reputation for building privacy protective services".
+And there are plenty of questions, How will Facebook balance its aim of giving users greater privacy through encryption with the need to police behaviour such as child abuse? The UK charity the NSPCC has already accused Mr Zuckerberg of taking "a breathtakingly cavalier attitude towards child safety".
+The UK charity said bringing end-to-end encryption to all of Facebook's messaging apps was "handing groomers a largely unchecked ability to target children across multiple apps".
+What is also not clear is just how Facebook's business model, which depends on knowing a lot about each of its users to target adverts, will be affected if they are being encouraged to share less of their lives.
+Dr Martin Moore, of the Centre for the Study of Media, Communication and Power at King's College London, tells us that Mr Zuckerberg may be looking to China for inspiration.
+He points out that the messaging service WeChat, owned by Tencent, has built all sorts of services on its platform along with a payment system: "WeChat now has about 900 million WeChat Pay users and takes a cut every time they use it." He says this kind of business model beyond advertising may look attractive to Facebook.
+Facing facts
+Our other angle on the privacy issue is the debate over facial recognition technology. We visit the Tate Modern art gallery in London for an event where children are shown how easy it it is to fool facial recognition cameras by adjusting hair or make-up so they can no longer see what they recognise as a human face.
+The aim, says Frederike Kaltheuner of Privacy International, is twofold - to show how unreliable the technology is and to question whether its use is appropriate. She does not want people to alter their appearance: "Our view is privacy is not about hiding - we want people to be open and transparent but on their terms."
+But she says that transparency is becoming impossible: "Facial recognition is essentially identification at a distance - we are all turning into walking ID cards."
+She sees all sorts of issues as the technology is used more widely, perhaps in shops to check staff are smiling or to monitor customer behaviour: "I think that's not a desirable future."
+But we get a very different view from Zak Doffman, whose British company Digital Barriers supplied facial recognition technology for the Brit Awards at London's O2.
+He says it worked well and served an important purpose in spotting people seen as a potential threat: "I feel that the balance of public consent would be that it is appropriate and proportionate to use technology to try and detect those people and prevent them from getting in."
+But he says there does need to be a public debate about the circumstances in which facial recognition can be used. And when I put to him that scenario about retailers tracking customers, he says that would make him too feel very uncomfortable. "That's incredibly creepy,"
+He says without checks and balances "we are stepping into slightly dangerous territory for the future".
+Also on this week's podcast:

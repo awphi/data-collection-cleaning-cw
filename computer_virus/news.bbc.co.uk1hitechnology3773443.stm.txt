@@ -1,0 +1,75 @@
+Potter-mania fuels pesky virus
+A pesky computer virus is taking advantage of the excitement surrounding the latest Harry Potter film.
+The Netsky.P worm is enjoying a resurgence by disguising itself as a Potter game, say anti-virus experts.
+The virus, which first appeared towards the end of March, spreads by e-mail and via file-sharing services.
+The third film about the adventures of the boy wizard, Harry Potter and the Prisoner of Azkaban, was released on Monday, making £5m in one day.
+Celebrity tricks
+According to anti-virus firm Sophos, Netsky.P was the second most common virus in May, topped only by the infamous Sasser worm.
+NETSKY.P FILENAMES
+                        
+                
+		
+                
+                     
+                    
+	Harry Potter 1-6 book.txt.exe 
+
+
+
+
+
+
+	Harry Potter 5.mpg.exe
+
+
+
+
+
+
+	Harry Potter all e.book.doc.exe
+
+
+
+
+
+
+	Harry Potter e book.doc.exe
+
+
+
+
+
+
+	Harry Potter game.exe
+
+
+
+
+
+
+	Harry Potter.doc.exe
+
+
+
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+	It now seems to be picking up steam again, with Sophos saying it had spotted thousands of copies of it in the last few days.
+Netsky.P, which only affects Microsoft Windows PCs, relies on tricking a computer user into clicking on an infected file.
+Virus writers have increasingly used the names of celebrities to try to make people open an e-mail and unleash its malicious payload.
+Past copies of Netsky.P have masqueraded as nude photos of Britney Spears, Eminem MP3 music files and illegal software.
+"Echoing a technique used in 2000 by the Pikachu worm, Netsky.P targets young computer users by sometimes posing as content connected with the Harry Potter books and movie franchise," said Graham Cluley, senior technology consultant at Sophos.
+"Parents need to educate their children against the threats of viruses, to ensure the popularity of Potter doesn't cast a nasty spell on their computer systems."
+"It's not just e-mail users who should be on their guard," said Mr Cluley.
+"Users of file-sharing systems who download content should equally be cautious that what they are downloading does not contain an unpleasant surprise."

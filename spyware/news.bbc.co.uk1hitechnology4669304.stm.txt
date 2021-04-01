@@ -1,0 +1,16 @@
+New bid to tackle spyware scourge
+PC users are getting help to tackle the rising tide of spyware.
+Five computer security firms are collaborating on a common naming system for spyware and will co-produce tools to remove the malicious software.
+The initiative hopes to remove some of the current confusion caused by anti-spyware firms managing their own labelling and removal methods.
+The group said collaboration was needed as the amount of spyware in circulation was rising by 50-100% per year.
+Common ground
+The initiative will see ICSA Labs, McAfee, Symantec, Thompson Cyber Security Labs and Trend Micro join forces to tackle spyware.
+In recent years spyware has become a big problem as many hi-tech criminals, over-zealous advertisers and vandals use surreptitious techniques to sneak their software onto users' PCs.
+Some of these nuisance programs get onto PCs via e-mail messages that hide the spyware in attachments but others are bundled in with popular software, such as file-sharing programs, and some install automatically if a user visits a booby-trapped website.
+Some spyware is simply an unpleasant nuisance as it bombards users with pop-up adverts they did not ask for or services they would never use.
+However, other spyware programs are explicitly criminal and aim to hijack home computers or steal confidential information.
+The involvement of the respected ICSA Labs in the initiative is significant because for years it has tested anti-virus programs to ensure they meet basic standards for detecting and removing malicious programs.
+The group aims to emulate some of the common labelling and prevention systems of the anti-virus world. The initiative is an acknowledgement of how serious the spyware problem is becoming. The work of the group will be collected on the spywaretesting.org website.
+"There is an enormous amount of confusion in the marketplace about the origins of spyware and the effectiveness of the tools designed to fight it," said Larry Bridwell from ICSA Labs.
+At first the initiative will produce tools and information to help users identify and remove the spyware they have on their machine right now. Eventually it hopes to create programs that help prevent people falling victim to spyware.
+The working agreement between the five firms comes only days after the announcement of the Stop Badware campaign set up by Google, Sun Microsystems, the Berkman Center for Internet and Society, and the Oxford Internet Institute.

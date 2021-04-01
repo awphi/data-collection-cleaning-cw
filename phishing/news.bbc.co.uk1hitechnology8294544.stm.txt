@@ -1,0 +1,29 @@
+Q&A: Phishing for your precious data
+"Phishing" - an increasingly diverse and sophisticated suite of methods to trick people into parting with their precious personal data - is at a two-year high.
+Here the BBC takes a look at the phenomenon and how to protect yourself.
+What is phishing?
+Phishing is a broad term for any effort to gain personal data, directly from the user - login details, passwords, bank account details, etc. - by tricking them into entering it into a website or email.
+It is a form of "social engineering", where the real power lies in the manipulation of behaviour, rather than technological prowess. As such, careful consumers can often avoid falling into the phishing trap.
+How does it work?
+Most often, a phishing attempt will direct a user to a "spoof" website, designed to look like a user's legitimate banking site, payment service, or social network site.
+This may be by sending an email purporting to be from a legitimate site, linking to a spoof site.
+Although they are not strictly a phishing measure, past attacks may have relied on key-logging computer code, which simply stores each and every keystroke on your keyboard.
+Such software can be hidden within an e-mail attachment, be downloaded from a "spoof" website, or masquerade as another kind of program.
+An old standby for malware in general being brought into the phishing tackle box is pop-up advertising that offers updated system performance or anti-virus software. Instead, users may be installing a key-logger that reports back with any passwords or details entered thereafter.
+What is the scale of the problem?
+While credit card fraud this year is decreasing nearly across the board, online banking fraud is conspicuously on the rise, up 55% on the same time last year, according to industry body Financial Fraud Action UK. Phishing is likely to contribute greatly to this rise.
+According to security firm MarkMonitor, the level of phishing so far this year has matched a peak that came about in 2007 as a result of the use of networks of infected computers to carry out phishing expeditions.
+MarkMonitor's report suggests that the traditional phishermen's targets for high-value information - banking websites - have taken a backseat to payment websites such as PayPal. Since such payment websites work by linking a user to his or her bank account, they can act as a proxy to gain the same information.
+Payment sites account for about half of all phishing attempts, while traditional banking websites have slipped to about a third.
+Social networking sites are also seen as a breeding ground on the rise for phishing; attacks against social network brands are at an all-time high, with three times as many occurrences than the previous peak at about the same time last year.
+How do I avoid being phished?
+First and foremost, having up-to-date anti-virus and anti-spyware programs is the best first line of defence. Some security software suites such as that from AVG provide a constantly updated list of unsafe websites, warning before you even visit them.
+Also, always remember that your bank and most reputable third-party payment services will never ask you for your password; were they legitimate, they would already have that information.
+More difficult are the phishing attempts that direct users to spoof sites that can be difficult to distinguish from the real thing.
+As always, be wary of the source of emails and the web destinations they may attempt to send you to. While the name tagged to an email sender might suggest "NatWest Bank", a nonsensical email address or one clearly outside the country should raise suspicion.
+Attachments to e-mails remain a particularly easy place to store malicious code of all sorts, so be sure of an attachment's provenance before you open or save it.
+Though it is relatively easy to mock up a website, it is much more difficult to mask exactly where that website sits in cyberspace.
+For users, it is always worth checking the URL of the site where they are being directed; in most browsers, it suffices to hover over a link and look in the browser's lower-left hand corner.
+Just like the source of a potentially phishy email, the URL that you are being sent to may be easily spotted as a fake. One typical approach is to transpose a couple of letters within a URL, so that a quick glance wouldn't pick it up: www.bankingwesbite.co.uk.
+It's worth knowing what your trusted sites' URLs look like and keep an eye out for any changes to the site as you conduct your business.
+And be careful with any site asking you to install a program, no matter how beneficial it may seem - if it seems too good to be free, there might be something phishy about it.

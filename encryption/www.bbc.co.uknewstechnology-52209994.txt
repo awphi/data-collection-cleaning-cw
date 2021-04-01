@@ -1,0 +1,14 @@
+Facebook releases couples-only messaging app
+Facebook has released a new app for couples to private message each other.
+The new app called Tuned allows couples to send messages, exchange music and create a digital scrapbook.
+Tuned was created by Facebook's New Product Experimental Team which focuses on creating new social media from scratch.
+The app claims to be a "private space" for couples to chat but it does not appear to have the end-to-end encryption of services like WhatsApp.
+Instead Tuned has the same data policy as Facebook, which allows the company to collect communications and other behaviour to target advertising at the user.
+This data policy could mean users are less inclined to send personal information or private photos via the app.
+Facebook did not respond to the BBC request for comment about the launch of Tuned.
+The app is available only to iOS users in the US and Canada and does not require a Facebook account to use it.
+Facebook announced it was entering the dating space in 2018. It has launched a dating service to rival Tinder and Bumble in 20 countries so far. But this new couples messaging app is separate from that service.
+The new product does not appear to be much different from other messaging services.
+Users add another person using their phone number and once they are connected can send pictures and voice memos and the app has new custom reactions that couples can send to one another.
+Facebook formed the group that created Tuned - the New Product Experimental Team (NPE) - in the summer of 2019. Its goal is to create new social media services. It has built a meme creation tool and an app for saving and organizing photos similar to Pinterest.
+When Facebook launched NPE it said the team apps were meant to change rapidly and that its services would be "shut down if we learn that they're not useful to people."

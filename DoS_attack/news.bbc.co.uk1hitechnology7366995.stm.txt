@@ -1,0 +1,41 @@
+Hackers warn high street chains
+High street chains will be the next victims of cyber terrorism, some of the world's elite hackers have warned.
+They claim it is only a "matter of time" before the likes of Tesco and Marks & Spencer are targeted.
+Criminals could use the kind of tactics which crippled Estonia's government and some firms last year, they warned.
+The experts were members of the infamous "Hackers Panel" which convened in London this week at the InfoSecurity Europe conference.
+The panel includes penetration testers and so-called "white hat" hackers, who help companies tighten up their digital security by searching for flaws in their defences.
+Previous panellists include Gary McKinnon, known as Solo, alleged by the US government to have hacked into dozens of US Army, Navy, Air Force, and Department of Defense computers.
+The "hackers" usually remain anonymous, "for security reasons", but this year's panellists agreed to break cover.
+Common cause
+First up was Roberto Preatoni, the founder of the cyber crime monitoring site, Zone-H, and WabSabiLabi, a trading site for security researchers.
+His appearance came just a few months after he was arrested by Italian authorities on charges of hacking and wiretapping, as part of the ongoing investigation into the Telecom Italia scandal.
+Mr Preatoni told the audience that the attacks in Estonia were a harbinger for a new era of cyber warfare.
+"I'm afraid we will have to get used to this," said Mr Preatoni, also known as SyS64738. "We had all been waiting for this kind of attack to happen.
+"Estonia was just unfortunate to be the first country to experience it. But very soon, our own [western] companies and countries will be getting attacked for political and religious reasons.
+"This kind of attack can happen at any time. And it will happen."
+During the two week "cyber war" against Estonia, hackers shut down the websites of banks, governments and political parties using "denial-of-service" (DoS) attacks, which knock websites offline by swamping servers with page requests.
+As many of the attacks originated from Russia, the Estonian government pointed the finger at the Kremlin. But Mr Preatoni said that, having spoken to contacts in the hacking community, he was clear that "Putin was not involved".
+"In my opinion, this was a collection of private individuals who spontaneously gathered under the same flag.
+"Even though Estonia is one of the world's most advanced countries in IT technology, the whole economy was brought to its knees.
+"That's the beauty of asymmetric warfare. You don't need a lot of money, or an army of people. You can do it from the comfort of your living room, with a beer in your hand.
+Gate control
+His warning was echoed by Steve Armstrong, who teaches seminars in hacking techniques, at the SANS Institute for information security training.
+"If someone wants to have a pop at the UK, they are unlikely to go for the government web servers. They will go for the lower hanging fruit - companies which are seen as good representatives of the country.
+"The likes of Tesco, Marks & Spencer and B&Q can be seen as legitimate targets.
+"We have to get the message across to companies [to invest in information security].
+"At the moment Chief Executives are only interested in the bottom line. But remember - if tesco.com goes down, that's a lot of shopping."
+Mr Preatoni said that the Estonian government's repeated failure to thwart the attacks was proof that we still have "no good solutions" for denial of service attacks.
+The panellists then argued over whether Internet Service Providers should do more to tighten security, by helping customers' protect their computers from being "zombified" by hackers for use in distributed DoS attacks.
+"Actually, I don't think the ISPs should have any role in security," said Preatoni.
+"In my opinion, that's like asking the Royal Mail to be responsible for the quality of your post."
+But his view was immediately challenged by the third panellist, Jason Creasey, head of research at the independent Information Security Forum.
+"I believe ISPs can play a phenomenal role in security, with a little bit of legal pressure," he claimed.
+Net weakness
+He was backed by an audience member, Angus Pinkerton, of Lynks Security Consulting. "The only way to defend against a distributed attack is with a distributed defence," he argued.
+"I think it's unacceptable that ISPs are content to let their customers be part of bot-nets."
+He challenged Steve Armstrong's view that asking ISPs to perform security duties was "fundamentally, censorship."
+"This is not about free speech," said Mr Pinkerton. "Free speech does not entitle you to shout fire in a crowded theatre."
+In the meantime, Mr Preatoni warned the audience it is "only going to get easier" to carry out a DoS attack, because he claimed the latest net address system, known as Internet Protocol Version 6 (IPv6), is actually more amenable to DoS.
+Later, he told the BBC that the rise in cyber attacks originating in China was a convenient cloak for western countries to disguise their own cyber espionage activities.
+"It's too easy to blame China," he said. "In fact, legitimate countries are bouncing their attacks through China. It's very easy to do, so why not?
+"My evil opinion is that some western governments are already doing this."

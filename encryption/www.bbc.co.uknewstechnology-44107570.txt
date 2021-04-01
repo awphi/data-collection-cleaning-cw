@@ -1,0 +1,21 @@
+PGP: 'Serious' flaw found in secure email tech
+A widely used method of encrypting emails has been found to suffer from a serious vulnerability, researchers say.
+PGP (Pretty Good Privacy) is a data encryption method sometimes added to programs that send and receive email.
+Details about the vulnerability were released by the Suddeutsche Zeitung newspaper prior to a scheduled embargo.
+Previously, the Electronic Frontier Foundation (EFF) had advised immediately disabling email tools that automatically decrypted PGP.
+The problem had been investigated by Sebastian Schinzel, at Munster University of Applied Sciences.
+After the embargo on releasing details about the vulnerability was lifted, Mr Schinzel and colleagues published their research revealing how the attack on PGP emails worked.
+A website explaining the issue has also now been made public.
+Mr Schinzel has been contacted by the BBC for comment.
+There was initially concern among cyber-security researchers that the issue affected the core protocol of PGP - meaning that all uses of the encryption method, including file encryption, could be made vulnerable.
+However, one provider of software that can encrypt data using PGP explained the problem specifically concerned email programs that failed to check for decryption errors properly before following links in emails that included HTML code.
+The issue had been "overblown" by the EFF, said Werner Koch, of GnuPG.
+His colleague Robert Hansen said on Twitter that the issue had been known about for some time.
+He argued it wasn't really a vulnerability in the OpenPGP system but rather in email programs that had been designed without appropriate safeguards.
+'Real secrets' risked
+Security expert Mikko Hypponen, at F-Secure, said his understanding was that the vulnerability could in theory be used to decrypt a cache of encrypted emails sent in the past, if an attacker had access to such data.
+"This is bad because the people who use PGP use it for a reason," he told the BBC.
+"People don't use it for fun - people who use it have real secrets, like business secrets or confidential things."
+Alan Woodward, at the University of Surrey, agreed, adding: "It does have some big implications as it could lead to a channel for sneaking data off devices as well as for decrypting messages."
+The researchers have said that users of PGP email can disable HTML in their mail programs to stay safe from attacks based on the vulnerability.
+It is also possible to decrypt emails with PGP decryption tools separate from email programs.

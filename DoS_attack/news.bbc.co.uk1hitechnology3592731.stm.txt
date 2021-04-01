@@ -1,0 +1,198 @@
+Bookies race to beat net attacks
+The Grand National may be popular with the British public but, so far, it is not a favourite with online criminals.
+In recent months extortionists have threatened gambling websites with web-based attacks unless they pay up.
+But analysis of website responses at 20 British bookmakers shows that the Grand National has not prompted a new round of denial of service attacks.
+Bookmakers are avoiding attack using technology to spot and stop data barrages before they hit web servers.
+Site seeing
+In March BBC News Online, in co-operation with web monitoring firm Netcraft, started logging response times of 20 bookmakers to see if they came under attack.
+In the first 19 days of monitoring Netcraft logged 33 outages on the sites it was scrutinising.
+Many of these outages, suffered by the websites of William Hill, Betdaq, Totalbet and UKBetting, bore all the hallmarks of a denial of service (DoS) attack.
+BETTING SITES MONITORED
+                        
+                
+		
+                
+                     
+                    
+	Capital Sports
+
+
+
+
+
+
+	Total Bet
+
+
+
+
+
+
+	Sporting Odds
+
+
+
+
+
+
+	William Hill 
+
+
+
+
+
+
+	Ladbrokes
+
+
+
+
+
+
+	Sporting Bet 
+
+
+
+
+
+
+	Coral
+
+
+
+
+
+
+	Eurobet
+
+
+
+
+
+
+	Victor Chandler 
+
+
+
+
+
+
+	Blue Square 
+
+
+
+
+
+
+	Betfair
+
+
+
+
+
+
+	Betdaq
+
+
+
+
+
+
+	Bet365
+
+
+
+
+
+
+	Paddy Power 
+
+
+
+
+
+
+	Tote BetXpress 
+
+
+
+
+
+
+	Premier Bet
+
+
+
+
+
+
+	Bet Direct 
+
+
+
+
+
+
+	Stanley Bet 
+
+
+
+
+
+
+	UK Betting 
+
+
+
+
+
+
+	Betabet
+
+
+
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+	
+By contrast between 19 March and 1 April, Netcraft logged 23 outages almost all of which seemed to be due to site maintenance rather than an attack.
+Most of these outages were of short duration and happened late at night suggesting they were planned.
+The only site that suffered a long term outage was that of Paddy Power which was not responding, according to Netcraft, for more than 48 hours between 27 and 29 March.
+The results suggest that either the criminals seeking to extort money from gambling sites have ended their attacks or that bookmakers are getting better at dealing with them.
+This week the UK's National Hi-Tech Crime Unit played down claims that bookmakers were being targeted ahead of the weekend's Grand National race.
+It said it was investigating attacks that have happened in the past but was not expecting Saturday's race at Aintree to trigger more attacks.
+Bookmakers are also taking other steps to protect themselves against the types of attacks mounted by the criminals, said Paul Gracie of Redline Networks.
+Mr Gracie said some bookmakers are putting so-called proxy servers between the computers that host their website and the internet.
+These proxies act as filters and are tuned to spot the data packets crafted by some types of attacks.
+They stop the attack traffic arriving at the server and instead only pass on genuine traffic.
+Flood warning
+But, said Mr Gracie, some of the attack traffic was harder to spot because of the type of attack being used.
+Some sites have been offline recently
+			
+			
+		
+		
+	
+
+	
+
+
+	
+One of the most popular is the well-known Syn Flood attack that tries to overwhelm a server with legitimate connection requests.
+Jose Nazario, an expert on web worms and DoS attacks from Arbor Networks, said that Syn Flood first came to light in 1996.
+Mr Nazario said that it worked by simply repeating connection requests. Because the attacker simply wants to overwhelm a server, rather than browse what is on it, they do not care if these connection requests are honoured.
+"This was all the rage about eight years ago," said Mr Nazario. "But as it's a long known technique there are a lot of defences against it."
+This has meant that for a Syn Flood attack to be successful it has to use far more computers to be effective and overwhelm a website.
+Mr Gracie from Redline said bookmakers faced a particular problem because many of their websites were in off-shore hosting centres that had limited bandwidth in and out.
+"They can generate a very large attack and taking out the upstream net service provider server as well," he said.

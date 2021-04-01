@@ -1,0 +1,31 @@
+Ransomware creation kit 'sought by cyber-thieves'
+Cyber-thieves are seeking to mass-produce new forms of ransomware, the security company Sophos has suggested.
+It said there were discussions on underground forums about ways to produce a "kit" that criminals could use to craft their own variants.
+Scammers try to extort cash by using ransomware to encrypt data, preventing access, or falsely accusing people of possessing illegal material.
+Sophos said the problem had become much more widespread in 2013.
+It said this was partly because Microsoft had protected Windows against other types of attack.
+But, said others, there were still millions of machines running versions of Windows vulnerable to older attacks.
+Crypto crime
+Ransomware was on the way to becoming the "market leader" in malicious code, said James Lyne, global head of security research at Sophos, who co-wrote the company's annual report into cyber-crime and emerging threats.
+Worryingly, he said, there was evidence that many cyber-thieves were keen to cash in on the success of ransomware programs such as Cryptolocker.
+Documents had been seen circulating online looking for criminally minded software developers to write a "kit" that anyone could use to create their own version of this type of malware.
+Cybercrime kits have fuelled the huge rise in the number of malicious programs circulating online and have helped many people get involved in hi-tech crime for the first time.
+The kits remove the need for any technical skill and some offer technical support numbers for those that need advice on how to craft their own malicious programs.
+Thanks to these kits Sophos and other security firms saw about 250,000 novel variants of malware every day, said Mr Lyne.
+Thieves were keen to emulate Cryptolocker because of the success it has had in making people pay up. One study of a handful of the servers run by the criminals behind Cryptolocker indicated 12,000 victims a week were being hit.
+A separate attempt to shut down the network supporting Cryptolocker found almost 150 separate systems gathering responses from infected machines. Although the systems found were shut down, the sophisticated networking software built in to the malware meant the malicious network quickly recovered.
+Blackmail by bitcoin
+Cryptolocker demands payment in bitcoins - a virtual currency - and many paid the ransom it demanded in the hope that the data it had encrypted would be unscrambled. There is evidence that some people who paid got their data back but experts say there was no guarantee that payment would produce a decryption key.
+The prevalence of Cryptolocker has also prompted warnings from national anti-cybercrime agencies in the UK and US.
+"Cryptolocker is very much a deviation from the norm," said Mr Lyne, "and I actually think it is a sign of things to come."
+Before now, he said, most cyber-thieves had tried to avoid detection and slip their malicious programs on to victims' machines without being detected.
+Typically, he added, once a machine was infected it then got searched for saleable data and enrolled onto a botnet so it could act as a proxy for sending spam or mounting other attacks.
+By contrast, he said, Cryptolocker and its ilk were "noisy" and made their presence known almost instantly.
+By adopting this approach criminals got their money straight away and also did not need to find and assess the worth of data stolen from compromised machines or launder cash stolen via credit cards, said Mr Lyne.
+Ransomware was on the rise in 2013, just as fake anti-virus and other "security" programs had gained popularity in 2012, he added.
+He speculated that changes Microsoft had introduced with Windows 8 and 8.1 were partly behind this. These changes, involving better memory management and erecting virtual walls around some applications, made it technically more difficult to find vulnerabilities that could help compromise a machine, causing the criminals to change tactics.
+"There could be a lot more mainstream cybercriminals looking to go 'noisy'," said Mr Lyne.
+Adrian Culley, a technical consultant at security firm Damballa who was formerly a Scotland Yard cyber-cop, said Microsoft may have beefed up defences in the latest version of Windows but other factors often left people vulnerable.
+"It assumes that people will have applied all the latest updates to their Windows machine," he said. "And that's not true."
+He said there were still millions of Windows machines connected to the web that ran very old and vulnerable versions of the operating system.
+In particular, Windows XP, he said, had "horrendous issues" with vulnerabilities.

@@ -1,0 +1,46 @@
+Post Prism: The new meaning of spyware
+If you thought you were pretty clever knowing that spyware refers to pieces of malicious code put on computers in order for cybercriminals to steal your passwords and other IDs, think again.
+These days it has a much more literal sense, at least if the latest documents leaked by former US National Security Agency (NSA) contractor Edward Snowden to the Der Spiegel newspaper are to be believed.
+The documents allege that spies are regularly using tools more usually associated with cybercriminals.
+It is alleged UK spy agency GCHQ operatives created fake web pages that injected malware into the computers of engineers running one of Belgium's largest telecommunications companies in order to be able to access its systems.
+"We have to realise that a number of GCHQ staff are indeed hackers,  but licensed by the state and protected by the Intelligence Services Act 1994 and ministerial warrant," said digital forensic expert Prof Peter Sommer.
+"They will deploy every type of hacker trick to achieve their aims."
+It is a view endorsed by Dwayne Melancon, chief technology officer of security firm Tripwire and a man used to looking at malicious code as part of his daily job.
+"It seems you can't throw a rock these days without hitting a nation state surveillance operation," he said.
+It raised some pretty fundamental questions about whom we trust online, said Prof Alan Woodward, security expert and lecturer at Surrey University, who has undertaken consultancy work for GCHQ.
+"When the criminals start to look like law enforcement, that is a very dangerous practice," he said.
+"Where do you draw the line? Is it with engineers who control machines or should they be allowed to have malware on everyone's PC 'just in case' they want to use it as a route to some high value target?"
+Bespoke malware
+There is now a growing body of evidence to suggest that the use of malware is standard practice for the police as well as the intelligence services.
+In the summer it was revealed that the FBI used mobile malware to infect and control a suspect's handset.
+And in September the FBI admitted that it had planted hidden code on the dark net, a part of the internet favoured by cybercriminals because it is unreachable by standard search engines.
+Security researchers who dissected the code found it exploited a security hole in Firefox, which reported back to a mysterious server in northern Virginia.
+Meanwhile leaked German police documents suggest that the Federal Criminal Police Office is working on its own surveillance software, which it hopes to have ready by the end of 2014.
+Accidental infection
+Prof Sommer said: "I'd hope that the intelligence service uses highly targeted malware.
+"So if they target someone specifically, they send an email with a booby trap - but they will only be sending it to the target and the malware wouldn't have any self-replicating properties."
+But Mr Melancon is not so sure, particularly if the authorities are using so-called "watering hole" websites, which are popular with specific groups of users.
+In the Belgian case, GCHQ is alleged to have targeted LinkedIn and tech news site Slashdot in order to lure the engineers it was targeting.
+"Such sites are notoriously indiscriminate," said Mr Melancon.
+" You can limit the risk of accidental infection of uninvolved persons, but you can't eliminate that risk entirely.
+"Collateral damage and inadvertent surveillance of non-targeted individuals is almost certain."
+Legal framework
+The other big question raised by the allegations published by Der Spiegel is just whom the spooks are after.
+If you hear the word "target" from an intelligence agency, you probably assume they are referring to a terrorist or some other individual intent on harm.
+What the Belgian case reveals is that engineers can also be targets.
+So is it ethical to put malware on the computer of an innocent employee who just happens to have access to a computer system you may want to look at?
+"If the result is damaging or destroying data or property, then it could certainly be deemed unethical by a reasonable person.
+"Likewise, violating the civil liberties of an individual crosses the ethical line. You can rationalise damage to engineers by lumping them into a collective as part of 'their organisation', but this is very subjective," said Mr Melancon.
+For its part, GCHQ offered a pretty standard response to the particular allegations about breaking into Belgian servers.
+"All GCHQ's work is carried out in accordance with a strict legal and policy framework, which ensure that our activities are authorised, necessary and proportionate, and that there is rigorous oversight, including from the secretary of state, the Interception and intelligence services commissioners and the Intelligence and Security Committee," it said.
+The only way to be sure you too do not become a "target" is to "consider all networks untrustworthy", according to Robert Hansen, technical evangelist at WhiteHat Security.
+"Unfortunately, there isn't much hope for the individual because most of the things that would otherwise secure the user have historically been controlled by groups that have close ties to the government," he said.
+He is talking about the companies that register websites and encryption certificates.
+Johnny English?
+Sir Tim Berners Lee, inventor of the world wide web, has described attempts by spy agencies to crack encryption as "appalling and foolish".
+But through it all the general public seems to have been remarkably sanguine.
+Prof Sommer said: "In Germany and the US people are outraged but in the UK that is less the case.
+"People are rather proud of what GCHQ did during the war and they think it probably is not going to affect me."
+What the Snowden leaks have dispelled once and for all is any lurking suspicion that the security forces are some bumbling Johnny English sort of outfit.
+"The fact is that intelligence agencies are using advanced techniques actually more advanced than those used by criminals," said Amichai Shulman, chief technology officer of security firm Imperva.
+"We have enough proof now that governments do have the necessary technology and personnel that can effectively fight cybercrime. They just chose to put it to a different use."

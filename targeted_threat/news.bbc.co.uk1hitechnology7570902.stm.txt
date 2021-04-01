@@ -1,0 +1,10 @@
+Stellar result in MoD challenge
+The Ministry of Defence today announced the winners of its Grand Challenge, a contest to identify promising battlefield robot technologies.
+The contest began in 2006, with a shortlist of seven contestants battling it out 16-18 August.
+The final phase included sniffing out a range of threats placed in a mock battle theatre.
+Saturn, the winner, included integrated ground and aerial robots with visual, thermal, and radar sensors.
+Baroness Ann Taylor, Minister for Defence Equipment and Support, said, "The Grand Challenge has proven a showcase for the wealth of talent that exists in the UK - not just in large defence firms, but in universities, schools and even garden sheds across the nation."
+Team Stellar, the winners, comprised a number of design firms and members from Cranfield University. The team submitted Saturn (Sensing & Autonomous Tactical Urban Reconnaissance Network), which comprised two unmanned aerial vehicles and one ground vehicle.
+A control station that integrated information from all three vehicles was able to identify the most "threats" in a mock urban battlefield scenario at Copehill Down, a village on Salisbury plain the military uses for training.
+The MoD also gave kudos to Team Swarm, who submitted the "most innovative idea". Their approach was a group of eight autonomous helicopters they call Owls, each weighing less than a kilogram. The swarm of helicopters was able to integrate high-resolution imagery from a number of angles to identify targets and threats.
+Defence contractor Thales's eponymous team employed another mix of aerial and ground vehicles working together. The team garnered the competition's "best use of national talent" by enlisting students from Chilton Trinity Technology College, Woking High, and Amersham School.

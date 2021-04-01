@@ -1,0 +1,74 @@
+How to avoid the phishing bug
+Technology analyst Bill Thompson is getting used to e-mails which alert him to problems with his online accounts - and he knows to ignore them.
+No reputable bank would ask for such details in an e-mail
+			
+			
+		
+		
+	
+
+	
+
+
+	
+Paypal supposedly want me to sort out my account with them.
+Apparently their "Account Review Team" has spotted some unusual activity, and access to my account has been restricted until I go to their website to reactivate it.
+They were very nice, though, and sent me an e-mail with the right link in it to save me the trouble of typing www.paypal.com into my browser.
+All I have to do is follow the link, give them some personal information and confirm my account details, and I will be back in action.
+Unfortunately, they messed up the e-mail so instead of appearing as a nicely formatted message, I got to see the raw HTML they were sending out. It made interesting reading.
+Faking it
+I was already suspicious because I do not actually have a PayPal account, so it was not very surprising to find that the link to PayPal in the message was really a link to another site, www.pcypal.com.
+I did not bother going there, since I knew what I would find: a web page that looked rather like an official PayPal page, with a URL just similar enough to fool the inattentive user.
+I would be asked for my login details and perhaps even for a credit card number, and all the information I handed over would be gathered up by some online low-life who would then scam my card and perhaps even use my PayPal account to buy stuff for themselves.
+By and large, companies like eBay and PayPal do not send out e-mails asking for details, they wait for you to log in and then tell you there is a problem
+
+
+
+			
+
+
+
+
+
+                
+                     
+                    
+	
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+	
+
+The e-mail was a rather amateur phishing trip, just like those targeted at customers of eBay, Amazon.com and almost every UK bank.
+They seem to be growing in frequency, perhaps because the fraudsters have found that they work, at least enough to make them worthwhile.
+After all, if you send out a million e-mails and only 100 people give you their credit card details, you can probably make £100,000 before you are caught.
+Phishing is the latest big thing in dodgy online activity.
+The name comes from fishing for passwords or credit card details, spelt in the hacker style.
+It seems to date from 1996 when hackers were stealing AOL account names and passwords from gullible new users, with a hacked account known as a "phish".
+Now it has spread from stealing access to someone's e-mail to stealing their credit card details, PayPal balance or even the contents of their bank account.
+Simple rules
+There are some simple rules to avoid falling for this sort of scam. One is never to click on a link in an e-mail, even if it looks OK. It is safer to type it in yourself or to cut and paste it from the e-mail into your web browser.
+This is really important because a recently discovered bug in Microsoft's Internet Explorer means that a scammer can make a fake website look real.
+A link which claims to be take you to PayPal might point to a fake site, but thanks to this as-yet-unpatched bug it will still say www.paypal.com in the address bar.
+You can also set your e-mail program so that it does not display HTML e-mail automatically, but shows you the HTML so you can check it out first.
+If you cannot rely on technology to protect you, you can think carefully about whether the organisation you are dealing with would really be asking for this sort of information.
+By and large, companies like eBay and PayPal do not send out e-mails asking for details, they wait for you to log in and then tell you there is a problem.
+And banks do not ask for customer passwords in e-mails.
+Switch off
+Phishing e-mails, like spam advertising sugar water and dodgy get-rich-quick schemes, are getting more and more common and more and more irritating.
+It is bad enough having to wade through 50 or 60 e-mails telling me that I am a physically, sexually and financially inadequate human being every morning, without having to wonder who is trying to steal my account details too.
+I cannot help envying Steve Cisler, the 20-year net veteran who is taking a few months off to travel around the US finding out what life is like without access to the online world.
+He will not have to cope with phishing, spam or any of  the other irritations of e-mail.
+I wonder sometimes about joining him offline, but I fear that my entire social and professional life would collapse overnight.
+I will just have to put up with the phishers.

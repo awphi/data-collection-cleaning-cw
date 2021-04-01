@@ -1,0 +1,37 @@
+Zoom 'unsuitable' for government secrets, researchers say
+The hugely popular video meetings app Zoom has "significant weaknesses" which might make it unsuitable for secrets.
+A team at The Citizen Lab found that Zoom was using a non-standard type of encryption, and transmitting information through China.
+Government use - such as Boris Johnson's use of the app for Cabinet meetings - may not be wise, the researchers warned.
+But the app is fine for keeping in touch for most people, they said.
+Until recently, Zoom was used mainly by large businesses for video conference calls. But the explosion in users during the coronavirus pandemic has created "a new gold rush for cyber-spies", The Citizen Lab's report said.
+It warned that Zoom "may not be suitable" for:
+But for people using Zoom for contacting friends, holding social events or organising courses or lectures, "our findings should not necessarily be concerning", the report said.
+Analysis: Still fine for most
+By Joe Tidy, Cyber-security Reporter
+Zoom says there are now 200 million meetings held on it every day, and despite the serious flaws uncovered in this latest report, it's probably safe to say that 199 million of them are not in danger.
+The Citizen Lab has shown compelling evidence here that it is possible to collect all the data of a video meeting and then partially unscramble it to find out, roughly, what was said and what was seen.
+However, it would take a huge amount of time and effort for a hacker to achieve this - and it simply wouldn't be worth the effort for an average work huddle or friendly pub quiz held on the service. It's the high-level talks at company board level, or in government, that will be targeted.
+The government has been led by the National Cyber Security Centre and other security experts on this since the beginning. The goal has always been to allow for open and smooth communications to take place, but this research may well lead to the advice on Zoom changing fast.
+"Zoom has made the classic mistake of designing and implementing their own encryption scheme, rather than using one of the existing standards for encrypting voice and video content," said Bill Marczak, a Research Fellow at The Citizen Lab.
+"To be sure, Zoom's encryption is better than none at all, but users expecting their Zoom meetings to be safe from espionage should think twice before using the app to discuss sensitive information."
+The research has not taken the security services in the UK by surprise and it is understood that a project is working "at pace" to adapt existing communication systems to the demands of home working and security.
+The UK's National Cyber Security Centre issued a statement saying: "Zoom is being used to enable unclassified crisis COVID-19 communications in the current unprecedented circumstances. Assured services are in place for more sensitive communications and the provision of these services is being widened given the demands of much greater remote working."
+The government is not disclosing which meetings are eligible for Zoom and which ones are not. As an example, the BBC was told that Zoom is safe for Cabinet-level discussions but not for emergency Cobra meetings.
+A Chinese 'heart' for the US company
+Aside from the encryption standards, the researchers also found that Zoom sends traffic to China - even when all the people in a Zoom meeting are outside of China.
+"During multiple test calls in North America, we observed keys for encrypting and decrypting meetings transmitted to servers in Beijing, China," the report said.
+The report also pointed to the strong involvement of Chinese firms in the company. Zoom has its headquarters in the US, but has about 700 employees across three companies in mainland China working on the app's development.
+"Running development out of China likely saves Zoom having to pay Silicon Valley salaries, reducing their expenses and increasing their profit margin. However, this arrangement could also open up Zoom to pressure from Chinese authorities," the report said.
+A 'roll your own' approach
+The team said there are mixed and confusing messages around the type of encryption that Zoom actually uses.
+In some places, it tells users that it uses "end-to-end" encryption - the gold standard for secure messaging, which makes it impossible for the service, or any other middlemen, to access data. In its documentation, Zoom has said it uses a type of encryption called AES-256.
+But the researchers said this is not true. Instead, Zoom has "rolled their own" encryption - using a variant of something called AES-128 in "ECB mode".
+Among security researchers, ECB mode "is well understood to be a bad idea", because it preserves some of the patterns of the original, the report said.
+The report also says that Zoom does not use end-to-end encryption "as most people understand the term". Instead, it uses "transport" encryption between devices and servers.
+"Because Zoom does not implement true end-to-end encryption, they have the theoretical ability to decrypt and monitor Zoom calls," the report said. But it noted that Zoom itself has already addressed this concern, promising that they have never built such a mechanism, even if it is theoretically possible.
+During their research, the team was able to extract a still image from a video meeting using the encryption key.
+Zoom clarified its encryption policy on 1 April, apologising for incorrectly suggesting that meetings were capable of end-to-end encryption.
+It also moved to quell fears about privacy and security issues, promising to spend the next 90 days exclusively working on  "trust, safety, and privacy issues".
+Alan Woodward, a professor of computer science at Surrey University, told the BBC that a major fix is needed.
+"I don't believe this is something that Zoom can just add to their list of jobs to do in the next 90 days. It's possible, but this requires a re-engineering of the way they encrypt their calls, so it's a major undertaking."
+Prof Woodward added: "I would not use Zoom for any sensitive or secret discussions."

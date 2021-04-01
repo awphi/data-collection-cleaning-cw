@@ -1,0 +1,17 @@
+Dark web sting leads to arrest of alleged spyware thief
+A programmer who allegedly tried to sell stolen surveillance tools worth $50m (Â£38m) on the dark web has been caught and charged in Israel.
+The software was reportedly stolen from a security firm called NSO Group, known for creating surveillance software.
+The former NSO developer is believed to have stolen the code after learning he was going to be sacked.
+Israel's Justice Ministry said if the sale had gone ahead it could have harmed state security.
+Security cracked
+In a statement, the ministry said the accused was a senior programmer at NSO who had access to the firm's development systems including its stores of source code.
+The ministry said once the programmer had downloaded company code, he posed as a hacker and sought to sell the software on dark web markets.
+It is claimed that he asked for a payment of $50m to be made in crypto-cash to make it harder to trace.
+The unidentified individual who agreed to buy the software contacted NSO before the deal went ahead. A sting was set up and the suspected thief was arrested.
+Daily newspaper Israel Hayom reported that the indictment against the former NSO employee said: "The defendant's âactions seriously jeopardised the NSO Group and âcould have led to its collapse."
+The programmer has been charged with theft, intent to compromise national security, pursuing an unlicensed defence transaction and disruption of a computer system.
+A statement released by the defendant's legal team said its client "never tried to undermine national security".
+They added: â"We believe the court will get to the truth in this âcase. We will prove these allegations to be âdisproportionate and baseless."
+NSO âGroup came to prominence in 2016 after being accused of creating software that can overcome security protections on Apple iPhones.
+NSO software has also been implicated in a long-running spyware scandal in Mexico.
+In response, NSO has said it only sells to authorised agencies and has no control over the way its tools are used.

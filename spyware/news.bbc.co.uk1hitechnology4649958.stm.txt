@@ -1,0 +1,15 @@
+Anti-spyware project helps users
+Hi-tech firms are setting up a project to help users spot if downloads are infested with spyware and adware.
+Funded by Google and Sun the Stop Badware project will expose the hidden extras that popular software, such as file-sharing programs, often has inside it.
+These extras can bombard users with unwanted adverts, slow down PCs and sometimes steal personal information.
+Eventually the project hopes to make tools to help clean up infested PCs.
+Name and shame
+Although the numbers of computer viruses are growing every day, many makers of malicious programs have started putting their energy into creating so-called spyware and adware programs.
+Some of these nuisances sneak on to PCs by exploiting loopholes in Microsoft Windows but many are simply bundled in with other programs that users do want to install.
+Also some unscrupulous companies produce fake programs that claim to help users get rid of spyware or block spam but which make sure they receive only ads and spam from the software maker's partners.
+The project aims to make clear what users will get when they download and install software.
+Although funded by Google, Sun and Chinese computer firm Lenovo, the research will be carried out by the Oxford Internet Institute and the Berkman Center for Internet & Society at Harvard University. Advice will also be provided by Consumer Reports WebWatch.
+"We do have companies in mind but we are not going to name names off the bat," said John Palfrey, co-director of the Stop Badware Coalition and director of Harvard Law School's Berkman Center for Internet & Society.
+"The key message here is that we are putting every company on notice," he said.
+The project aims to produce its first reports in February.
+To some extent the Stop Badware project will repeat work done by some anti-spyware campaigners such as Suzi Turner and Eric Howes who maintain a list of fake products that users should be wary of.

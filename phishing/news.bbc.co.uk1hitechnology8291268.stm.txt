@@ -1,0 +1,18 @@
+Phishing attack targets Hotmail
+Thousands of accounts on web-based e-mail system Hotmail have been compromised in a phishing attack, software giant Microsoft has confirmed.
+BBC News has seen a list of more than 10,000 e-mail accounts, predominantly originating from Europe, and passwords which were posted online.
+Microsoft said it had launched an investigation.
+Phishing involves using fake websites to lure people into revealing details such as bank accounts or login names.
+"We are aware that some Windows Live Hotmail customers' credentials were acquired illegally and exposed on a website," said a Microsoft spokesperson.
+"Upon learning of the issue, we immediately requested that the credentials be removed and launched an investigation to determine the impact to customers."
+Quick change
+Graham Cluley, consultant at security firm Sophos, told BBC News the published list may just be a subset of a longer list of compromised accounts.
+"We still don't know the scale of the problem," he told BBC News.
+Technology blog neowin.net was the first to publish details of the attack. It said the accounts were posted on 1 October to pastebin.com, a website commonly used by developers to share code.
+Although the details have since been removed, BBC News and Neowin has seen a list of 10,028 names beginning with the letters A and B.
+BBC News has confirmed that the accounts are genuine and predominantly originate in Europe.
+The list included details of Microsoft's Windows Live Hotmail accounts with email addresses ending hotmail.com, msn.com and live.com.
+Mr Cluley advised Hotmail users to change their password as soon as possible.
+"I'd also recommend that people change the password on any other site where they use it," he said.
+Around 40% of people use the same password for every website they use, he added.
+Hotmail is currently the largest web-based e-mail service.

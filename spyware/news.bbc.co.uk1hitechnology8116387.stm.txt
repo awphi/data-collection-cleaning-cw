@@ -1,0 +1,14 @@
+Microsoft offers free anti-virus
+A trial version of Microsoft's free anti-virus software has been launched in the US, China, Brazil, and Israel.
+Microsoft Security Essentials (MSE) promises to provide people with basic protection against viruses, trojans, rootkits and spyware.
+The software giant has been criticised in the past for failing to include free security software with Windows.
+Its first security package, Windows Live OneCare, failed to attract many customers and will be discontinued.
+Microsoft is hoping that MSE, available as a free download from its site, will prove more popular. It has said it will automatically update it for users.
+However, rival security vendors have questioned whether Microsoft can compete with more established anti-virus players.
+Family doctor
+"Early reviews of the beta are showing that it under-performs when compared to existing freeware products, and well below paid solutions," said security firm Symantec in a statement.
+"Referring to Microsoft's basic anti-virus and anti-spyware product as an essential security solution is misleading. Consumers need firewall protection, web protection, anti-spam and identity safeguards," it said.
+J.R Smith, chief executive of security firm AVG, said Microsoft's entry into the security market could "further confuse consumers about the inherent security of their computer".
+"It's important to recognise that Microsoft's role in the internet security realm is much like your relationship with your trusted family doctor. They can help diagnose the problems. In addition, they treat many general ailments. In the end, though, they are not a replacement for a specialist when you need one," he said.
+Initially 75,000 trial versions of MSE, codenamed Morro, will be available in the US, Brazil, China and Israel.
+The software will be rolled out in other countries later this year.

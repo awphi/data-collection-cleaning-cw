@@ -1,0 +1,21 @@
+Data breaches a 'time bomb', warns security report
+Data breaches are a "time bomb" under companies that let customer information go astray, warns a security expert.
+Bryan Sartin, Verizon's head of global security services, said he was "surprised" more breaches had not become public.
+Companies that lose data face fines of up to 4% of their global revenues, under European data protection laws.
+Mr Sartin was speaking following the publication of a report analysing thousands of successful attacks.
+It revealed a growing threat to senior staff in large companies from well organised phishing attacks.
+Slow response
+The annual Verizon Data Breach Investigations Report (DBIR) collates information from more than 2,000 confirmed breaches that hit large and small organisations all over the world.
+It also logs information about more than 40,000 incidents such as spam and malware campaigns and web attacks.
+"There's a time bomb around these breaches," Mr Sartin told BBC News.
+"There are so many investigations happening covering information under GDPR and at any moment any of those may leak or get some public attention," he said.
+The General Data Protection Regulation came into force in Europe in 2018 and requires companies that lose data to notify regulators quickly after a breach.
+Big fines can be levied if the organisation is judged to have not done enough to protect personal data or clean up after a breach.
+Mr Sartin said he was "surprised" so little information about data breaches had shown up in public in the 12 months since GDPR came into force.
+"There's probably some big situations queuing up right now," he said.
+"Compromises happen in minutes and then extend out to hours, days, weeks and some times months," said Mr Sartin. "Yet we are still looking at months for them to be discovered."
+The report revealed a shift in tactics by cyber-thieves, many of whom sought to steal the login details of senior staff so they could exploit the high-level access they enjoyed.
+"When it comes to account takeover, senior executives are getting hit hard right now," Mr Sartin said. "Humans are the weakest link in the chain especially when they are on their mobile device."
+On a more positive note, said Mr Sartin, the report showed only 3% of those targeted fell victim to booby-trapped emails. In the 2018 report, the click rate was about 12%.
+The report also showed that cyber-thieves rarely executed attacks that required them to get past more than four defences.
+"If you create a world where it takes five or more steps to get your data, we have little if any evidence of bad guys that will go that far," he said.

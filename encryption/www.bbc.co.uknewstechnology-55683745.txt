@@ -1,0 +1,10 @@
+WhatsApp extends 'confusing' update deadline
+WhatsApp has extended the deadline by which its two billion users must either accept its updated terms and conditions or stop using the service.
+The original cut-off date was 8 February, but users now have until 15 May to take action.
+The firm was criticised for sending the notification, which seemed to suggest changes to the data it would share with its parent company Facebook.
+It said there had been "confusion" about its message.
+Since the announcement and notifications went out across its platform, millions of people around the world have downloaded alternative encrypted messaging apps such as Signal and Telegram.
+In a blogpost, WhatsApp said personal messages had always been encrypted and would remain private. It added that its practice of sharing some user data with Facebook was not new, and was not going to be expanded.
+"The update includes new options people will have to message a business on WhatsApp, and provides further transparency about how we collect and use data," it said.
+In an earlier FAQ post, WhatsApp explained that the data that it already shares with other Facebook companies includes:
+However this does not apply in Europe and the UK, where different privacy laws exist.

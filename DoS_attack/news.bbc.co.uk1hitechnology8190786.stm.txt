@@ -1,0 +1,34 @@
+Web attack blogger blames Russia
+A blogger who was targeted in a co-ordinated attack against websites such as Facebook and Twitter has told the BBC he blames Russia for the assault.
+The pro-Georgian blogger, known as Cyxymu, said he had been targeted for "telling the truth about the Russian-Georgian war" in his writings.
+The attack caused a blackout of Twitter for about two hours on Thursday.
+Despite the blogger's claims, security researchers say there is "no suggestion the attack was state-endorsed".
+Google, Facebook and blogging platform Live Journal - all sites where Cyxymu had accounts - were also affected.
+"I write the truth about the Russian-Georgian war and somebody did not like these truths - these people in Russia," the blogger told BBC News.
+"I don't know which people," he added.
+The blogger, real name Georgy, has posted videos and blogs which criticise Russia over its conduct in the war over the South Ossetia region, which began one year ago.
+"It's a big surprise to me that my blog has meant that 250m people have not been able to enter Facebook," he said.
+Graham Cluley, of security firm Sophos, told BBC News there was no suggestion the attack against the blogger was state-endorsed.
+"It was almost certainly an individual who took objection to his blogs," he said.
+"They took internet vigilantism into their own hands to try to blast him off the web, but in the process blasted Twitter off instead."
+'Fragile service'
+Facebook had previously confirmed to BBC News that the attacks were directed at an individual who had "a presence on a number of sites, rather than the sites themselves".
+"A botnet was directed to request his pages at such a rate that it impacted service for other users," the spokesperson said.
+Botnets are networks of computers under the control of hackers.
+The machines were used to mount a so-called denial-of-service (DoS) attack on Thursday.
+DOS attacks take various forms but often involve a company's servers being flooded with data in an effort to disable them.
+"Attacks such as this are malicious efforts orchestrated to disrupt and make unavailable services such as online banks, credit card payment gateways and, in this case, Twitter, for intended customers or users," wrote Twitter co-founder Biz Stone on his blog.
+Twitter was knocked out by the attack for around two hours, while Facebook said its service had been "degraded". The effect on Live Journal is unclear.
+Only Google seems to have escaped unscathed from the attack.
+"Google systems prevented substantive impact to our services," the company said in a statement.
+Sudden realisation
+The company has not confirmed which services were targeted in the attack, but it is thought that its e-mail service Gmail and video site YouTube were under fire.
+"We are aware that a handful of non-Google sites were impacted by [an]... attack this morning, and are in contact with some affected companies to help investigate this attack," the company said.
+All of the affected services were keen to stress that users' data had not been put at risk in the attacks.
+"Please note that no user data was compromised in this attack," wrote Twitter's Biz Stone.
+"This activity is about saturating a service with so many requests that it cannot respond to legitimate requests thereby denying service to intended customers or users."
+The blogger said he first noticed that things were not right when he realised his Live Journal page was not working.
+"After, I entered Facebook to say Live Journal was not working and Facebook was down," he told BBC News.
+"So I entered Twitter to say that Live Journal and Facebook were not working, and Twitter was down.
+"And so I understood that it was under attack. It is not possible that these three services were all down at one time."
+He told the BBC that he still did not have access to his blog or profile pages on any of the services. However, he said, he had set up a new blog to continue his writings.

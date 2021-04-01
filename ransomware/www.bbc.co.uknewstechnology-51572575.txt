@@ -1,0 +1,19 @@
+ISS World hack leaves thousands of employees offline
+A cyber-attack has hit the major facilities company ISS World, which has half a million employees worldwide.
+ISS provides cleaning, catering, security and other services to companies in the UK and elsewhere.
+Its websites have been down since 17 February. And This Week in Facilities Management said 43,000 staff at London's Canary Wharf and its Weybridge HQ, in Surrey, still had no email.
+ISS said it was a "malware" attack, but declined to specify further.
+However, the BBC has learned it is a ransomware attack. Ransomware encrypts IT systems, locking users out and demanding money.
+The company says that many of its 500,000 global employees do not use its computers in their daily work - but the impact is affecting the whole company.
+Big companies, big payoffs
+Analysis by Joe Tidy, Cyber-security reporter
+Ransomware has become the biggest challenge in cyber-security.
+The frequency of attacks now makes it impossible to report on every incident but the overall picture is bleak.
+In the past couple of years, the number of individual victims has actually decreased.
+Hackers are all but ignoring the low-hanging fruit of home-PC owners and instead concentrating their resources and time on bigger targets for bigger rewards â and ransom payments are rising, with some hacker gangs successfully extorting millions from victims.
+The issue is a big concern for law enforcement agencies such as Europol and the FBI, which are constantly urging people not to pay hackers as it fuels the industry.
+But if your company's future is on the line, it's a tough decision to take.
+Recovery efforts are being led from the company's headquarters in Denmark, where teams of cyber-security experts are working alongside Danish police.
+The UK's national crime agency also said it was "working with partners to assess any UK impact".
+ISS said it had disabled access to its IT services "as a precautionary measure" when it had noticed the attack, isolating the incident.
+"Certain systems have already been restored," it said, and services to customers were continuing.

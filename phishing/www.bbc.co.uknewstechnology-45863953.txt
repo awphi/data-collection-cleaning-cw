@@ -1,0 +1,16 @@
+UK cyber-centre thwarts hostile hackers
+The UK's top cyber-defence centre has stopped Britain falling victim to almost 1,200 attacks in the last two years, its annual review reveals.
+The National Cyber Security Centre (NCSC) was currently defeating about 10 attacks every week, it said.
+Most of the attacks were carried out by state-sponsored hackers employed by hostile nations, it added.
+During its first two years of operation the NCSC has also tackled phishing sites which prey on UK consumers.
+Attack domains
+"We are calling out unacceptable behaviour by hostile states and giving our businesses the specific information they need to defend themselves," said Ciaran Martin, head of the NCSC, in a statement.
+Late last year, Mr Martin singled out Russia as one power actively working to attack firms working in the UK's media, telecoms and energy sectors.
+Revealing the review, Mr Martin said the Centre was also doing work to fortify the UK's critical infrastructure and to wrap other protections around the net, so it was "automatically safer".
+Mr Martin said he had "little doubt" that the UK would at some point be "tested to the full" by a major incident.
+As well as defeating sophisticated attacks by foreign powers, said the review, the NCSC had also sought to shut down net sites and domains used in phishing attacks.
+From mid-2017 to summer 2018, this activity led to the closure of almost 140,000 sites located in the UK that were crafted to look like they were created by banks, government agencies and businesses.
+In addition, the NCSC has led an initiative to mark legitimate government domains to help organisations filter emailed threats. It has also produced tools that let firms scan sites to spot common vulnerabilities.
+The detailed annual review also gives information about the incident response unit at the NCSC which coordinates responses when attacks manage to circumvent defences.
+The NCSC was setup in 2016 to act as the central body overseeing cyber-security in the UK. As well as tackling high-level threats, it also advises businesses on the best ways to defend themselves.
+On Monday, the NCSC issued a code of conduct which aims to help makers of smart gadgets secure them against attack.

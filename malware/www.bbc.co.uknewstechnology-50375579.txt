@@ -1,0 +1,12 @@
+Play store apps to be scanned for malware
+Google is beefing up the way it checks if any of the apps uploaded to its Play store are malicious.
+All new apps will be scanned by malware-spotting tools from three cyber-security companies as well as Google's own in-house system.
+Google said it needed help because the number of apps being uploaded was too large for it to handle alone.
+Nasty Play apps can hit lots of people. Malicious code found in June was in apps downloaded 400 million times.
+Security companies Zimperium, Eset and Lookout will work together on what Google has called the App Defense Alliance.
+The four partners will set up a combined scanning system that will scrutinise apps as they pass through Google's pipeline on the way to being offered to Android users via the Play store.
+Working from massive databases of known malware, behavioural clues and machine-learning models of novel threats the scanners will look for trojans, adware, ransomware, banking malware and phishing attacks.
+"On the malware side, we haven't really had a way to scale as much as we've wanted to scale," Dave Kleidermacher, Google's vice-president of Android security, told Wired magazine.
+Mr Kleidermacher added there were so many apps being developed, even making a "1% incremental improvement" could make a difference.
+The scanning system is the latest in a series of steps Google has taken in its bid to do a better job of policing the Play store.
+In April, it announced more rigorous checks for developers to root out "bad faith" coders who produced and uploaded malicious or fraudulent apps.

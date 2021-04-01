@@ -1,0 +1,13 @@
+Microsoft shuts down global spam network
+Microsoft has won court approval to shut down a global network of computers which it says is responsible for more than 1.5bn spam messages every day.
+A US judge granted the firm's request to shut down 277 internet domains, which it said were used to "command and control" the so-called Waledac botnet.
+A botnet is a network of infected computers under the control of hackers.
+The firm said that closing the domains would mean that up to 90,000 PCs would stop receiving orders to send out spam.
+A recent analysis by the firm found that between 3-21 December "approximately 651 million spam e-mails attributable to Waledac were directed to Hotmail accounts alone".
+It said it was one of the 10 largest botnets in the US.
+Machines in a botnet have usually been infected by a computer virus or worm. Typically, users do not know their machine has been hijacked.
+Microsoft said that although it had effectively shut down the network, thousands of computers would still be infected with malware and advised people to run anti-virus software.
+The court order was part of what was called "Operation b49".
+Along with intelligence organisation Shadowserver, the University of Washington and security firm Symantec, Microsoft managed to get a court in Alexandria, Virginia, to force Verisign, which manages the .com domain, to temporarily switch off the domains.
+Microsoft said it was the result of months of investigation and described it as a legal first.
+"This action has quickly and effectively cut off traffic to Waledac at the .com or domain registry level, severing the connection between the command and control centres of the botnet and most of its thousands of zombie computers around the world."

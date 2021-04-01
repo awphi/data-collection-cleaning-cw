@@ -1,0 +1,26 @@
+Hack of '150,000 cameras' investigated by camera firm
+A hack of up to 150,000 security cameras installed in schools, hospitals and businesses is being investigated by the firm that makes them.
+Hackers claim to have breached Verkada, a security company that provides cameras to companies including Tesla.
+Bloomberg reported feeds from prisons, psychiatric hospitals, clinics, and Verkada's own offices were hijacked.
+Verkada told the BBC it was "investigating the scale and scope of this issue".
+The company added it had notified law enforcement. However, it did not confirm the size and scale of the attack.
+Reuters has also reported that the transport start-up Virgin Hyperloop was among the list of impacted user accounts disclosed by the hackers.
+Software provider Cloudflare told the BBC that it had been alerted to a "handful" of cameras that might have been compromised at its offices around the world.
+A Verkada camera inside a Florida hospital, reportedly seen by Bloomberg, showed what appeared to be eight workers tackling a man and pinning him to a bed.
+Another video showed officers in a police station in Stoughton, Massachusetts questioning a man in handcuffs.
+One, inside a Tesla warehouse in Shanghai, showed people working on an assembly line.
+The BBC has not been able to independently verify these videos.
+'Too much fun'
+The hackers also said they had gained access to the security cameras of Sandy Hook Elementary School in Newtown, Connecticut, where a gunman killed more than 20 people in 2012.
+Speaking to Bloomberg, Tille Kottmann claimed credit for hacking into Verkada's systems.
+The reasons for the hack, Kottmann said, were, "lots of curiosity, fighting for freedom of information and against intellectual property, a huge dose of anti-capitalism, a hint of anarchism - and it's also just too much fun not to do it".
+The attack was reportedly unsophisticated, involving use of a "super admin" account to gain access to Verkada.
+Bloomberg said that after they had contacted Verkada, the hackers lost access to the video feeds and archives.
+A spokesperson for Verkada told the BBC: "We have disabled all internal administrator accounts to prevent any unauthorised access.
+"Our internal security team and external security firm are investigating the scale and scope of this issue, and we have notified law enforcement."
+The company has also set up a support line for their customers.
+Meanwhile Cloudflare told the BBC: "This afternoon we were alerted that the Verkada security camera system that monitors main entry points and main thoroughfares in a handful of Cloudflare offices may have been compromised.
+"The cameras were located in a handful of offices that have been officially closed for several months."
+Tesla has yet to comment.
+The breach comes after further details of a hack on Microsoft Exchange are beginning to emerge.
+The attack used previously unknown flaws in the email software - and sometimes stolen passwords - to steal data from targets' networks.

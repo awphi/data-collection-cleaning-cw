@@ -1,0 +1,59 @@
+Google recovers after virus hits
+Net giant Google has recovered after a sneaky virus severely affected its search engine.
+Net security firms reported that the havoc had been caused by a new variant of the MyDoom virus.
+Google confirmed it had been hit by fallout from the virus, slowing down searches, but said its search engine was not "significantly impaired".
+The search engine is one of the most popular on the net, dealing with 200 million global queries a day.
+Huge index
+First reports of the problems with the UK service started emerging at around 1530 GMT (1630 BST).
+Instead of getting a page of results, some users in the UK, US and France were confronted with a server error instead. Other net users reported no problems.
+In a statement Google said on Monday night: "The Google search engine experienced slowness for a short period of time earlier today because of the MyDoom virus, which flooded major search engines with automated searches.
+MyDoom uses a revolutionary new technique - I don't think we have seen this before
+
+
+
+			
+
+
+
+
+
+                
+                     
+                    
+	
+	Graham Cluley, Sophos
+
+
+
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+	"A small number of users and networks that have the MyDoom virus have been affected for a longer period of time.
+"At no point was the Google website significantly impaired."
+Google is one of several search engines used by MyDoom to find valid e-mail addresses on the net. Past versions of the virus only searched a user's own computer or address list.
+The MyDoom.O variant spreads in the form of an e-mail attachment.
+The attached message pretends to be from the user's net provider's or company's support team saying that their PC has been used by hackers to send spam.
+Previous versions of MyDoom have launched distributed denial of service attacks (DDoS) on websites like Microsoft and software firm SCO.
+Infected computers are used to bombard target websites with bogus data packages that utterly paralyse the sites.
+"It does not appear to launch a traditional DDoS attack," said Graham Cluley, senior technology consultant for anti-virus firm Sophos, "and it is not just Google, but AltaVista, Yahoo and Lycos."
+"MyDoom uses a revolutionary new technique - I don't think we have seen this before," he added.
+The new MyDoom variant searches infected machines for e-mail addresses, like other viruses before it.
+But it also uses search engines to look for even more addresses in online forums and webpages.
+High price
+Google, based in Mountain View, California, announced its plans to float on the stock market in April.
+On Monday it announced it hoped its initial public offering (IPO) could raise as much as $3.3bn (£1.8bn), although no date for the IPO has been set.
+This would give the California-based firm an initial market capitalisation as high as $36.25bn.
+Google's web index is huge, carrying more than six billion items.
+The phrase "to google" has entered popular parlance as a verb to describe an internet search.
+But it faces growing competition from MSN and Yahoo, which are investing in search technology to try to win back web surfers.

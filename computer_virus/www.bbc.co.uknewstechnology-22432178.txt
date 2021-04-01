@@ -1,0 +1,12 @@
+US extradites SpyEye cybercrime suspect Hamza Bendelladj
+A 24-year-old Algerian man has been extradited to the US to face charges he used a computer virus to steal cash from more than 250 American banks.
+Hamza Bendelladj, arrested in Thailand in January, is suspected of being a co-creator of the SpyEye malware.
+The widely used program steals log-in information for online bank accounts that thieves then plunder.
+If found guilty, Mr Bendelladj could face $14m (Â£9m) in fines and a jail sentence of more than 30 years.
+"Bendelladj's alleged criminal reach extended across international borders, directly into victims' homes," said US attorney Sally Yates in a statement.
+"In a cyber-netherworld, he allegedly commercialised the wholesale theft of financial and personal information through this virus which he sold to other cybercriminals."
+Mr Bendelladj, who used the alias Bx1 online, is believed to be one of the "critical" controllers of the SpyEye software that infected users' computers and then stole personal information used to log in to online financial accounts.
+SpyEye's controllers are believed to have built up a huge network, or botnet, of compromised computers they regularly ransacked for information.
+The US accuses Mr Bendelladj of using the information gathered by SpyEye to steal cash from banks and of using the botnet for other purposes such as sending spam.
+In addition, Mr Bendelladj is accused of helping to develop and sell versions of SpyEye that novice cyber-thieves used to find and fleece victims.
+US law enforcement agencies tracked and caught Mr Bendelladj by getting him to sell a copy of SpyEye to an undercover police officer for $8,500 (Â£5,500).

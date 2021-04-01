@@ -1,0 +1,58 @@
+Cyber-attack! Would your firm handle it better than this?
+What's it like being the victim of a live cyber-attack? What should you do to protect your company from further damage? And should you pay that ransom demand? Technology of Business eavesdropped on a "war games" exercise hosted by cyber security firm Forcepoint that was based on lots of real-life experiences.
+Scenario
+IT staff at fictional High Street optician Blink Wink's head office have been suckered by a phishing email. Someone clicked on a link to a spoof website because they thought the email looked legitimate. It wasn't. That was two months ago. Today, the proverbial hits the fan...
+Tuesday 08:30
+Tony Lewis, Blink Wink's IT administrator, starts his day clearing out the company's public email inbox of the usual junk and spam. One message stands out. His stomach lurches.
+"I have more where this came from. We will be in touch shortly with our demands," the text says below someone's name, credit card details and email address.
+Tony hopes it's a hoax, but can't take the risk. He swallows hard and calls the firm's security officer, Doug Hughes. Doug isn't impressed as he's on holiday in New York where it's 3:30am.
+"This better be good," he growls. Tony forwards the suspect email.
+"Have we validated the credit card number?" Doug asks, tension evident in his voice now. "Is it one of our customers?"
+"I don't know yet," admits Tony.
+"Well, when did we get this?" Doug snaps.
+"Um... well... it seems we got it yesterday just after I'd left work, so I didn't notice it until this morning."
+"So we're at least 12 hours into this?"
+"Um, yeah," Tony mumbles sheepishly.
+Tuesday 13:30
+"We've got a second email," Tony tells Doug. "It's a ransom demand for Â£15,000 in the Litecoin crypto-currency. We have to pay by 22:00 BST or they'll delete all our customer records."
+"What?" shouts Doug. "I thought they only had one?"
+"Um, no. They claim to have them all."
+In a sweat, Doug calls Blink Wink's legal counsel Grace Bolton for advice. She has to dial in several times as her headset is malfunctioning. Her voice keeps cutting out during the conversation.
+"This is obviously a potential breach," she says. "So do not respond to that message. I'll need to review existing legislation so we know where we stand."
+"What about the police?" asks Doug, his romantic city break now thoroughly ruined. "And the Information Commissioner? What about GDPR, who do we notify?"
+Tuesday 15:30
+Things are spiralling out of control for Blink Wink. The hackers have posted a tranche of customer names and credit card numbers on Pastebin, a public website for sharing text and source code.
+Doug has now confirmed that the data is genuine.
+"Shouldn't we shut down the website?" asks Tony. "Then we'll limit the risk."
+Grace butts in. "Before we do that, who do we need to tell first? What's our data breach policy?"
+"I thought that came from legal," says Doug.
+"Aren't you the data protection officer?" Grace asks Tony.
+"Nope, not me..."
+"God, is it me?" asks Doug despairingly. "Anyway, if we pull the website that'll just draw attention to ourselves won't it? Not sure that's the right thing to do."
+"Me neither," says Grace.
+Blink Wink's head of public relations, Sandra Ellis, has been looped in to the conversation.
+"This isn't looking good," she says rather obviously. "We've failed to protect our customers' private data. We could get really hammered for this."
+She points out that the firm has a "buy one get one free" contact lens promotion running at the moment.
+"We're driving people to the website right now. Are their details being stolen too?"
+"Very possibly," says Doug. "We've got to shut down the site - or parts of it anyway. And then we've got to decide whether to pay the ransom."
+Tuesday 17:00
+Sandra Ellis has drafted a public statement but doesn't propose releasing it to the media until people start asking questions.
+"We'll just say we are experiencing an incident and do it reactively," she says.
+"Not an incident - a breach," Doug advises.
+"No, don't use the word 'breach' - not yet anyway," chips in Grace, thinking of the legal ramifications. Tony bursts in on the conference call.
+"We've found some malware! We saw an email come in that went to quarantine so we checked it out and it had an attachment. That could be it."
+"You didn't click on it did you?" asks Doug, his day going from bad to worse.
+"Um... I just thought it would speed things up..."
+More Technology of Business
+Doug swears and dips out of the call to get his security staff to check for any more damage.
+Grace turns the conversation to informing the Information Commissioner's Office.
+"We can phone or report it online," she tells them. "But we need to say what we did to mitigate the problem."
+"Well, we were meant to get the latest threat detection software last year, but the guy who was looking into that left and wasn't replaced," says Tony. "It kinda didn't happen."
+"Well don't tell the ICO that," Grace barks. "If we can't show we had adequate controls in place we could be in trouble. And the cyber-insurance people might not pay out either."
+Later, Doug confirms that the latest phishing email was a red herring, but informs the team: "They did find a phishing email sent two months ago that linked to a log-in page made to look like the one for our cloud provider. That's how they got in.
+"We've got to handle things better from now on," Doug concludes. "This will happen again, and it's only going to get worse."
+So what should Blink Wink have done?
+Richard Ford, chief scientist at Forcepoint, says: "Reacting late has put Blink Wink on the back foot. You need to move quickly in these situations otherwise the attackers dictate the pace.
+"A poor knowledge of data breach laws has made the company vulnerable. They clearly didn't have a breach policy in place nor did they know who was responsible for each role or what they should be doing."
+Richard says the firm should have:
+And if your firm is the victim of a data breach, cyber expert Troy Hunt says it should:

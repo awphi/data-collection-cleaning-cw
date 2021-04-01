@@ -1,0 +1,27 @@
+Coronavirus: Hackers targeted Covid vaccine supply 'cold chain'
+The international vaccine supply chain has been targeted by cyber-espionage, according to IBM.
+The company says it tracked a campaign aimed at the delivery "cold chain" used to keep vaccines at the right temperature during transportation.
+The attackers' identity is unclear - but IBM said the sophistication of their methods indicated a nation state.
+It follows warnings from governments - including the UK's - of countries targeting aspects of vaccine research.
+Phishing emails
+IBM says it believes the campaign started in September 2020.
+It says phishing emails were sent out across six countries, which targeted organisations linked to the Cold Chain Equipment Optimisation Platform (CCEOP) of Gavi, the international vaccine alliance.
+Gavi's partners include the World Health Organization, Unicef, the World Bank and the Bill & Melinda Gates Foundation. They help distribute vaccines around the world to some of the poorest regions.
+This sometimes requires a "cold chain".
+Malicious code
+For example, the Pfizer-BioNTech vaccine - which was not the specific target of this campaign - will need to be kept at a temperature of about -70C as it is moved about.
+The attackers impersonated a business executive from a legitimate Chinese company involved in CCEOP's supply cold chain to make it more likely the targets would engage with the email.
+They then sent phishing emails to organisations that provided transportation, which contained malicious code and asked for people's log in credentials.
+That could have allowed them to understand the infrastructure that governments intended to use to distribute vaccines.
+"Advanced insight into the purchase and movement of a vaccine that can impact life and the global economy is likely a high-value and high-priority nation-state target," IBM says.
+'Precision targeting'
+IBM says the wider targeting included:
+IBM says the campaign was uncovered by a security team it set up at the start of the pandemic to track down Covid-19 cyber-threats.
+"The precision targeting and nature of the specific targeted organisations potentially point to nation-state activity," the US company said.
+"Without a clear path to a [pay]out, cyber-criminals are unlikely to devote the time and resources required to execute such a calculated operation."
+Intelligence gathering
+IBM says it has notified those targeted as well as law-enforcement authorities.
+The US's Cybersecurity and Infrastructure Security Agency (Cisa) has issued an alert encouraging organisations associated with the storage and transport of a vaccine to be on guard for the kind of attacks linked to IBM's report.
+In July, the UK warned Russian intelligence had targeted UK vaccine research, including at Oxford.
+The US also warned of Chinese hacking, while, more recently, Microsoft said it had seen North Korean and Russian hackers targeting vaccine research.
+Officials suggested the activity so far had been about intelligence gathering rather than disruption of any research.

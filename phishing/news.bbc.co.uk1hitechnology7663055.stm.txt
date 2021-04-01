@@ -1,0 +1,17 @@
+Bank turmoil fuels phishing boom
+Hi-tech fraudsters are taking advantage of the global financial turmoil, say governments and security experts.
+The US Federal Trade Commission (FTC) issued a warning saying phishing gangs were using the turmoil to extract valuable information from consumers.
+A UK parliamentary group said it expected a move away from ID theft towards attacks on account holders.
+The news comes as a UK banking group reveals that phishing attacks were up more than 180% in a year.
+Fresh targets
+The FTC said the current rapid changes in the banking world, where many institutions suddenly had new owners, could only help fraudsters keen to steal login and other personal details.
+"Scammers are taking advantage of upheavals in the financial marketplace to confuse consumers into parting with valuable personal information," it warned.
+It said it expected fraudsters to pose as the new owners of banks or the federal agencies charged with oversight of struggling institutions.
+The FTC urged consumers to be wary and not reply to e-mail messages or pop-ups that ask for personal or financial information even if they appeared to come from a bank. Consumers should also scrutinise bank and credit card statements for unauthorised withdrawals or transfers.
+Secure Computing said its October spam report showed that many of the banks and other financial institutions caught up in the turmoil were topping its list of phishing targets.
+Chase, Wachovia and Bank of America were among the most popular targets with scammers, it said.
+The company said it expected British banks to be popular too in the coming weeks as changes and mergers are completed.
+In its second annual report, the All Parliamentary Group on ID Fraud said tighter credit lending rules would lead to more attempts to get at existing bank accounts.
+"There is no longer a guarantee that they will get credit by applying assuming another person's identity, so they are instead tapping into accounts which already exist," read the report.
+Fraud figures released in early October by the Association of Payment Clearing Services (Apacs), which represents UK banks, show a steep rise in the number of phishing attacks even before the turmoil in the banking world began.
+From January to June 2008 phishing attacks rose by 186% on the same period in 2007, it said. In total it saw more than 20,682 phishing incidents during that six month period.

@@ -1,0 +1,30 @@
+Signal: Cellebrite claimed to have 'cracked' chat app's encryption
+Israeli security firm Cellebrite has claimed that it can decrypt messages from Signal's highly secure chat and voice-call app, boasting that it could disrupt communications from "gang members, drug dealers and even protesters".
+A blog on its website detailing how it did it has since been altered.
+According to one cyber-security expert, the claims sounded "believable".
+But others, including Signal's founder, have dismissed them as being risible.
+The BBC has contacted Cellebrite and Signal for comment.
+Signal did not reply but later posted a blog describing Cellebrite's original post as being "pretty embarrassing".
+'Amateur hour'
+Highly encrypted apps such as Signal and Telegram have become popular among people keen to keep their messages private. The adoption rates have worried law enforcement agencies, who feel they are hampering their ability to investigate crimes.
+"Apps like these make parsing data for forensic analysis extremely difficult," writes Cellebrite.
+The firm has a series of products, including the UFED (Universal Foresenic Extraction Device) - a system that allows authorities to unlock and access the data on suspects' phones.
+Cellebrite provided a technical explanation of how it found a decryption key that allowed it to access the messages that Signal stores its database. It then described how it searched Signal's open-source code for clues as to how to breach the database.
+"We finally found what we were looking for," it writes, with a full explanation of how it did it, which has since been deleted.
+Its claim suggested that it could "crack" Signal's encryption on Android phones to decrypt messages and attachments, but did not mention Apple devices.
+In response to people questioning Cellebrite's claims, the creator of Signal - Moxie Marlinspike - dismissed the idea that the app had been compromised.
+"This was an article about 'advanced techniques' Cellebrite used to decode a Signal message on an unlocked Android device," he tweeted.
+"They could have also just opened the app to look at the messages.
+"The whole article read like amateur hour, which is I assume why they removed it."
+John Scott-Railton, a senior researcher at Citizen Lab, an internet watchdog based at the University of Toronto, moved to reassure users that Signal "remains one of the most secure and private ways to communicate".
+"If they are worried about their chats being extracted from a confiscated device, they can enable disappearing messages," he added.
+'Extraordinary' claims
+Signal, owned by the Signal Technology Foundation, puts privacy at the heart of its system, using a system that  had been thought almost impossible to break.
+The messaging app is endorsed by whistleblower Edward Snowden, who claims to use it "every day".
+On its website, it says that it uses state-of-the-art, end-to-end encryption to keep all conversations secure.
+"We can't read your messages or listen to your calls, and no-one else can either."
+Alan Woodward, a professor of computer science at Surrey University, said Signal was "one of the most secure, if not the most secure, messenger service publicly available".
+"Signal employs end-to-end encryption, but goes further than apps like WhatsApp by obscuring metadata - who talked to who when and for how long," he explained.
+"Cellebrite seem to have been able to recover the decryption key, which seems extraordinary as they are usually very well protected on modern mobile devices."
+He added that if this was indeed true, it was no surprise Cellebrite would have altered its blog.
+"I suspect someone in authority told them to, or they realised they may have provided enough detail to allow others - who don't just supply to law-enforcement agencies - to achieve the same result."

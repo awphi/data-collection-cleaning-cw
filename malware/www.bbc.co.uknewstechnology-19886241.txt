@@ -1,0 +1,15 @@
+Skype targeted by 'worm' malware infecting Windows PCs
+Skype, the internet communications platform, is being used by hackers to distribute a "worm" that infects Windows PCs.
+When users click on an instant message saying "lol is this your new profile pic?" they unwittingly download a file containing a Trojan horse malware file.
+This opens a backdoor allowing hackers to hijack infected PCs and recruit them into a "botnet army".
+Users can be locked out of their machines and held to ransom.
+According to internet security specialist Sophos, the worm is a variant of the well-known "Dorkbot" worm which has been spread by social media platforms such as Facebook and Twitter.
+When the worm infects a computer it sends out the "lol" message to the user's contact list.
+Unsuspecting recipients think the message has originated from someone they know and click on the link, thereby downloading the malware payload.
+Hijacked computers
+Skype said in a statement: "Skype takes the user experience very seriously, particularly when it comes to security. We are aware of this malicious activity and are working quickly to mitigate its impact.
+"We strongly recommend upgrading to the newest Skype version and applying updated security features on your computer.
+"Additionally, following links - even when from your contacts - that look strange or are unexpected is not advisable."
+Botnets are often used to mount distributed denial of service (DDoS) attacks - forcing websites offline - to run spyware or to send out spam emails.
+Publicity about the threat has made many users wary of clicking on strange-looking links posted via social networks, which may have prompted the perpetrators of this latest attack to switch tactics.
+"The danger is, of course, that Skype users may be less in the habit of being suspicious about links sent to them than, say, Facebook users," said Sophos's senior technology consultant Graham Cluley.

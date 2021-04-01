@@ -1,0 +1,16 @@
+Ticketmaster fined Â£1.25m over payment data breach
+Ticketmaster UK has been fined Â£1.25m for failing to keep its customers' personal data secure.
+The fine was issued by the Information Commissioner's Office (ICO) following a cyber-attack on the Ticketmaster website in 2018.
+The ICO said personal information and payment details had potentially been stolen from more than nine million customers in Europe.
+Ticketmaster said it would appeal against the ruling.
+An investigation found a vulnerability in a third-party chatbot built by Inbenta Technologies, which Ticketmaster had installed on its online payments page.
+A cyber-attacker was able to use the chatbot to access customer payment details.
+Following the breach, 60,000 Barclays bank customers were victims of fraud. Online bank Monzo had to replace 6,000 payment cards due to fraud.
+The ICO said Monzo, the Commonwealth Bank of Australia, Barclaycard, Mastercard and American Express had all warned Ticketmaster of suspected fraud.
+But Ticketmaster took nine weeks to start monitoring activity on its payments page, according to the ICO.
+Privacy and trust
+"Ticketmaster should have done more to reduce the risk of a cyber-attack. Its failure to do so meant that millions of people in the UK and Europe were exposed to potential fraud," said James Dipple-Johnstone, deputy commissioner at the ICO.
+In a statement, Ticketmaster said: "Ticketmaster takes fans' data privacy and trust very seriously.
+"Since Inbenta Technologies was breached in 2018, we have offered our full cooperation to the ICO. We plan to appeal [against] today's announcement."
+Law firm Keller Lenkner said it was pursuing legal action against Ticketmaster on behalf of thousands of fraud victims.
+"While several banks tried to alert Ticketmaster of potential fraud, it took an unacceptable nine weeks for action to be taken, exposing an estimated 1.5 million UK customers," said Kingsley Hayes, the firm's head of cyber-crime.

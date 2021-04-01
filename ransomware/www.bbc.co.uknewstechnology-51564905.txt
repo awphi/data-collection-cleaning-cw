@@ -1,0 +1,16 @@
+Ransomware-hit US gas pipeline shut for two days
+A ransomware attack on a US natural gas facility meant a pipeline had to be shut down for two days, the US Department of Homeland Security (DHS) has said.
+However, it did not name the facility or say when the attack happened.
+A malicious link sent to staff at the facility eventually caused the shutdown "of the entire pipeline asset".
+It was so severe in part because the organisation was not prepared for such an attack, the DHS statement said.
+The incident was detailed in a security alert., which revealed it to be a "spear-phishing" attack, in which individuals are sent fraudulent but believable scam messages.
+That let the attacker into the company's IT network.
+How did that shut down a pipeline?
+Often, the "operational network" which runs computers in the factory is separated from the office IT - but not in this case, meaning the ransomware infection was allowed to spread.
+Ransomware typically encrypts files on a victim's computer and demands payment before offering to unlock them again - although there is no guarantee that the cyber-criminals who develop such software will be true to their word.
+A spate of ransomware attacks has troubled various US organisations recently - from local authorities to hospitals to a maritime base.
+In the case of the natural gas facility, only one office was targeted, but others in different geographic locations were forced to close down, too.
+The DHS said the affected organisation had not properly prepared for a cyber-attack of this kind - with its emergency plans being focused on all sorts of physical attacks instead.
+"Consequently, emergency response exercises also failed to provide employees with decision-making experience in dealing with cyber-attacks," the department added.
+All organisations, regardless of what sector they are in, should prepare for the possibility of a ransomware attack, said Carl Wearn, head of e-crime at cloud email firm Mimecast.
+Businesses could do this "by implementing offline back-ups with a fall-back email and archiving facility, as a minimum" he said.

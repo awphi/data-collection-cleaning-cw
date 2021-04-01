@@ -1,0 +1,17 @@
+Millions of Chinese CVs exposed on cloud server
+A database containing resumes of more than 200 million Chinese people has been found exposed online.
+Security firm Hackenproof said the "very detailed" information lacked even the most basic security protections.
+Names, mobile phone numbers, email addresses, education histories and many other personal details were included in the data trove.
+Analysis suggested the information was built up by "scraping" several Chinese job sites.
+Breach list
+Writing in a blog, Hackenproof research director Bob Diachenko said he initially thought the data had been taken from large, classified advert site BJ.58.com.
+However, in a statement given to Hackenproof, BJ.58.com denied it had let the data escape.
+"We have searched all over the database of us and investigated all the other storage, turned out that the sample data is not leaked from us," it said.
+"It seems that the data is leaked from a third party who scrape data from many CV websites," it added.
+Soon after Mr Diachenko publicised the existence of the data cache via Twitter, it was removed from the Amazon cloud server where it had been stored. Later analysis suggested it had been copied at least 12 times before being deleted.
+The data loss is the latest in a series that have exposed information about Chinese people.
+In early January, Beijing police arrested a man who was allegedly stole data on five million rail travellers. The hacker is believed to have targeted the widely used 12306 online rail booking system.
+In August 2018, Chinese police were reportedly investigating a data breach that involved 500 million records about customers of the Huazhu Group, which operates hotels across the country.
+The data lost included customer registration information, booking records and personal data.
+About 19% of Chinese net users had social media and other accounts hacked or lost passwords, reported the Internet Society of China in its 2018 look at online life in the nation.
+Phishing attacks crafted to look like they come from friends were widely used to catch people out, said the report.

@@ -1,0 +1,11 @@
+Beautiful People site issued challenge by security blogger
+Just after I had written about hoaxes fooling journalists yesterday, what appears to be another great example reared its ugly head. Or rather its alluring visage because this one involved the dating site Beautiful People.
+The story was that a computer virus, handily named Shrek, had attacked the sites systems, allowing 30,000 people to evade the normal beauty screening procedures and gain access to the site. Now they were being chucked off the site, to their great distress, and offered counselling for the pain that caused them.
+Well guess what - journalists loved this story. All sorts of respectable new outlets - including it must be said parts of the BBC - rushed to cover it, so that the name beautifulpeople.com was heard across the land, indeed around the globe.
+But one respected security blogger immediately smelled something rather ugly. Graham Cluley of Sophos pointed out that the website said it had not informed any computer security firms about the Shrek attack because it was being investigated internally and member privacy had not been affected.
+Phew! So, lots of publicity for the website but nothing for current or future members to worry about then. How convenient!
+Mr Cluley's conclusion is that this was all just a publicity stunt. He points out that the sites PR firm Golden Goose won a prestigious public relations award for a previous story about Beautiful People members letting themselves go over Christmas.
+But the site and its PR handlers reacted with hurt outrage at the suggestion that the story might perhaps have been the result of some creative thinking rather than a real hacker attack. A spokeswoman for the firm said it was a genuine incident which had cost a lot to repair:
+"Beautiful People had to refund over 61,000 to people who paid for premium services who were then rejected."
+Now Graham Cluley has issued a challenge via this tweet: "If Beautiful People forward the Shrek virus to an anti-virus firm for analysis Ill give 500 quid to Children in Need."
+Over to you, Beautiful People. Surely, having been damaged so badly by this evil piece of malware, the opportunity to earn some money for a great charity is too beautiful to miss?

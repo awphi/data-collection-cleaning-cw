@@ -1,0 +1,13 @@
+Cyber-crime profits reached $3.5bn in 2019, says FBI
+Criminals netted $3.5bn (Â£2.7bn) from cyber-crimes reported to the FBI alone in 2019, according to the service's internet crime complaint centre (IC3).
+It received 467,361 complaints from individuals and businesses during the year and has had nearly five million since its inception in 2000.
+Phishing and extortion remain the most popular ways of scamming people.
+It says techniques are becoming more sophisticated, making it harder for people to tell "real from fake".
+This is especially true of web and email addresses that are fooling people because they look increasingly legitimate.
+Last year IC3 had 13,633 complaints from victims of so-called tech-support fraud, which involves a scammer phoning an individual and claiming there is a problem with their computer that needs immediate fixing.
+'Keep reporting it'
+Losses amounted to more than $54m and complaints came from victims in 48 countries. The vast majority were over 60 years of age.
+Ransomware - where hackers lock down computers and demand a payment to unlock them - netted more than $8.9m over the year, according to the group.
+It urged members of the public to continue reporting crimes.
+"Information reported to the IC3 plays a vital role in the FBI's ability to understand our cyber-adversaries and their motives, which, in turn, helps us to impose risks and consequences on those who break our laws and threaten our national security," said assistant director of the FBI's cyber division Matt Gorham.
+"It is through these efforts we hope to build a safer and more secure cyber-landscape."

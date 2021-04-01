@@ -1,0 +1,21 @@
+China's Study the Great Nation app 'enables spying via back door'
+The Chinese Communist Party has gained the ability to spy on more than 100 million citizens via a heavily promoted official app, a report suggests.
+Analysis of the Study the Great Nation app found hidden elements that could help monitor use and copy data, said phone security experts Cure 53.
+The app gives the government "super-user" access, the security firm said.
+The Chinese government denied the app had the monitoring functions listed by the cyber investigators.
+Released in February, Study the Great Nation has become the most downloaded free program in China, thanks to persuasive demands by Chinese authorities that citizens download and install it.
+Mandatory use
+The app pushes out official news and images and encourages people to earn points by reading articles, commenting on them and playing quizzes about China and its leader, Xi Jinping.
+Use of the app is mandatory among party officials and civil servants and it is tied to wages in some workplaces.
+Starting this month, native journalists must pass a test on the life of President Xi, delivered via the app, in order to obtain a press card which enables them to do their jobs.
+On behalf of the Open Technology Fund, which campaigns on human rights issues, Germany cyber-security firm Cure 53 took apart the Android version of the app and said it found many undocumented and hidden features.
+In its lengthy report, Cure 53 said Study the Great Nation had "extensive logging" abilities and seemed to try to build up a list of the popular apps an individual had installed on their phone.
+It was "evident and undeniable that the examined application is capable of collecting and managing vast amounts of very specific data," said the report.
+The app also weakened encryption used to scramble data and messages, making it easy for a government to crack security.
+"The app contains code resembling a back door, which is able to run arbitrary commands with super-user privileges," said the report.
+Adam Lynn, research director at the Open Technology Fund, told the Washington Post, which broke the story: "It's very, very uncommon for an application to require that level of access to the device, and there's no reason to have these privileges unless you're doing something you're not supposed to be."
+Cure 53 said there was "no evidence" that this high-level access was being used. but said it was not clear why an educational app would need such access to a phone.
+One "proven" human-rights violation was the extensive work that had gone into obfuscating the code inside the app which made it very hard to reverse engineer and understand.
+The Chinese government denied the app worked in the way Cure 53 characterised.
+It told the Washington Post that the team behind Study the Great Nation had said there was "no such thing" in the program that resembled the capabilities Cure 53 identified.
+The Chinese embassy in London has not responded to a BBC request for comment on the report.

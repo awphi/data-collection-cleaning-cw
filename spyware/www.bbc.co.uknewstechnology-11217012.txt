@@ -1,0 +1,31 @@
+How easy is it to hack a mobile?
+Continuing scrutiny of the methods used by some News of the World journalists (NoW) to listen to private voicemails has turned the spotlight on mobile security. But how easy is it to hack a handset?
+"It depends on how much money, time and effort you want to put into it" said Nigel Stanley, a mobile security analyst at Bloor Research.
+Mr Stanley said the number of ways to get at information on a handset was growing, even as it got far less likely that the method used by the NoW journalists would still work.
+The journalists are believed to have listened to voicemail messages but, said Mr Stanley, changes introduced by UK network operators in recent months made it harder for anyone but the correct customer to listen to those messages.
+Some have also questioned whether the use of default pin codes to get at those voicemail accounts could be considered hacking.
+In addition, said Simeon Coney, a spokesman for mobile security firm Adaptive Mobile, the declining use of voicemail made it a less tempting target.
+"Rather than leave a voicemail, people will more likely send a text," he said. "It's more immediate."
+By contrast to voicemail, said Mr Coney, tapping texts was far trickier.
+"It's very, very hard to get access to people's text messages without putting something on the device," he said. "It's a separate architecture that the operators run to manage text messages."
+Access All Areas
+Key to handset hacking, he said, was installing software on a device either by getting physical access to the mobile, tricking its owner into downloading a booby-trapped application or making them visit a page that inserts malware onto a device.
+Mr Coney said commercial software, known as spyware, was available that could take copies of everything on a phone, log its location and switch on any of its components. All without revealing its presence on a handset.
+"They give remote access, take copies of text messages and can turn the telephone into an audio bug," he said.
+The hard part, he said, was getting hold of a device for a few minutes to insert the software. Alternatively, he said, targets could be sent an e-mail they read on their phone that contains a link to a website that looks benign but, in the background, is installing spyware.
+Security researchers have demonstrated such an attack working on high-end smartphones, he said.
+"It only required a user to look at a website," said Mr Coney. "That loaded the software on the device. It would not be hard to target someone like that."
+Bugs in the Bluetooth short-range radio technology common on many smartphones could also mean that some information about a handset could be "sniffed" from only a few metres away.
+The BBC has also shown how straightforward it is to create a booby-trapped code by creating a game that had spyware buried inside. Security firms also report a growing number of cases in which games and other applications have been found to contain code that steals more information than it should.
+Leaving aside the technology, modern smartphones leak information about their owners in a way that can be hard to control, said Mr Coney. Anyone sending tweets via their phone could be revealing their location and some of the apps that can be loaded on phones report where in the world they are at that moment.
+Such low level surveillance could be very useful if it was about high-value targets, said Mr Coney.
+Human factors
+Mr Stanley said flaws in the early versions of mobile network software meant that it was possible for skilful attackers to build hardware that pretended to be a mobile base station.
+The flaws in the mobile network software made it hard for phone owners to be sure they were connecting to a legitimate base station. Control of that fake base station would give attackers access to everything a mobile owner was doing.
+3G networks removed this flaw, said Mr Stanley, but the equipment needed to pose as a mobile base station was getting cheaper, smaller and easier to use all the time.
+A similar research project was also in the process of producing an easy to use kit that contains, among other things, all the encryption keys used on 2G networks that would give attackers access to tap into mobile calls.
+Mr Stanley pointed out that setting up the equipment to pose as a base station or crack phone conversations broke several UK laws. It is also illegal to carry out surveillance as the prison sentences handed down to the NoW journalists shows.
+Mobiles were only likely to become more tempting for attackers as people do more with them, said Mr Stanley. Getting hold of the data on a handset could unlock access to much more intimate details such as Facebook accounts, private e-mails, instant messages, photos, videos and much more.
+"People live their lives through their phone, they are more relevant and personal than a computer." he said. "If I were to target someone I would go after the phone."
+Finally, he added, the easiest way to get at a mobile was perhaps to avoid technology all together.
+"Why not just bribe one of the folks that work for the operators?" he said. "Get them to get the information for you."

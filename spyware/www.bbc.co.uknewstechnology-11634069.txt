@@ -1,0 +1,30 @@
+Users complacent about mobile security, finds research
+Seven out of 10 people store sensitive information such as medical and bank details on their mobile phone without any security, new research has found.
+At the same time, four out of five respondents cite security as a top priority when buying or using a smartphone.
+The research was conducted by security firm Juniper Networks.
+It announced its first global threat centre to monitor vulnerabilities in the mobile world.
+"We are all living the mobile dream and the next killer app is peace of mind," Mark Bauhaus, executive vice president for Juniper, told BBC News.
+"Mobile phones represent the fastest adopted technology in the history of mankind - faster than video camcorders or the TV.  I think the issue of security it hitting us quite quickly.
+"As we grow the number of devices, so the bad guys increase and the sophistication of attacks also grow," added Mr Bauhaus.
+Mobile spyware
+Juniper said that in the last year there had been a 250% jump in the number of threats in the mobile space from malware to viruses.
+Research has shown that beyond a certain prevalence of one kind of operating system, mobiles would be subject to massive virus attacks.
+In anticipation of a security market for phones that will in time run parallel to that for desktop computers, all the major security software vendors now offer a smartphone software package.
+Juniper said its threat centre is the first of its kind dedicated to tracking, responding and researching threats to mobile devices.
+In its research covering 6,000 participants spread over 16 countries, Juniper found that 61% of all reported smartphone infections were spyware, capable of monitoring communication from the device.
+A further 17% were text message Trojans that charge fees to a device's account holder.
+Compromise agents
+One of the big areas of concern in the security world is the workplace.
+Juniper reported that 59% of employees who use their phone for business do so without permission, representing a compromise of enterprise security.
+"Smartphones have changed the very dynamic around how organisations and individuals are thinking about security as smartphones increasingly replace the laptop and the PC as the normal way for employees to do their job," said Mark Patterson general manager of mobile data services for BT.
+"But there is also an awareness that these smart devices, which have been thought of as pretty innocent, can become agents of compromise."
+As to the workplace threat, Juniper said that one Fortune 15 company discovered that 5% - or 25,000 - of its mobile devices were infected with malware.
+Lost or stolen
+BT's Mr Patterson said he was not surprised and thought this represented the tip of the iceberg.
+"As soon as you bring the ability to do financial transactions, make real business decisions and move information that is 'corporate sensitive', that creates an opportunity and a threat.
+"The sophistication of the hacker threats grows because it represents too great an opportunity," added Mr Patterson.
+Industry watchers agreed mobile security is a critical problem and will only increase as more and more people rely on their mobile phone.
+Gartner research has estimated that the number of mobile devices will grow to around ten billion by 2013.
+"A lot of software and hardware vendors are trying to solve this issue of mobile security and the proliferation of smartphones and tablets are creating a new wrinkle in that problem," said J. Bonasia, staff writer for Investor's Business Daily.
+"In the not too distant future, we will hear more personal hardship stories about people telling their friends about their phones getting lost, stolen or corrupted.  This word-of-mouth will create a real tipping point about the issue among the public."
+Juniper revealed that in the last year in the US, two million people had either lost or had their mobile phone stolen.

@@ -1,0 +1,228 @@
+Bookies suffer online onslaught
+The extent to which British betting websites are being attacked by criminals using the net to bring down a site unless a ransom is paid has been revealed by a BBC News Online investigation.
+Attacks took place before the Cheltenham Festival 
+			
+			
+		
+		
+	
+
+	
+
+
+	Working with server monitoring firm Netcraft, BBC News Online has been keeping an eye on the UK's top 20 betting sites since 1 March.
+Netcraft monitors website performance by timing how long it takes a specific server or website to respond when sent a packet of data.
+It monitors the response times via servers sited in different hosting centres around the world. Servers being monitored are sent query packets every 15 minutes.
+Attack pattern
+Since the monitoring started, 33 outages have been reported. Only five bookmakers have had no outages over the monitoring period.
+Some outages do not last long and occur late at night and are probably connected with site maintenance rather than an attack.
+BETTING SITES MONITORED
+                        
+                
+		
+                
+                     
+                    
+	Capital Sports
+
+
+
+
+
+
+	Total Bet
+
+
+
+
+
+
+	Sporting Odds
+
+
+
+
+
+
+	William Hill 
+
+
+
+
+
+
+	Ladbrokes
+
+
+
+
+
+
+	Sporting Bet 
+
+
+
+
+
+
+	Coral
+
+
+
+
+
+
+	Eurobet
+
+
+
+
+
+
+	Victor Chandler 
+
+
+
+
+
+
+	Blue Square 
+
+
+
+
+
+
+	Betfair
+
+
+
+
+
+
+	Betdaq
+
+
+
+
+
+
+	Bet365
+
+
+
+
+
+
+	Paddy Power 
+
+
+
+
+
+
+	Tote BetXpress 
+
+
+
+
+
+
+	Premier Bet
+
+
+
+
+
+
+	Bet Direct 
+
+
+
+
+
+
+	Stanley Bet 
+
+
+
+
+
+
+	UK Betting 
+
+
+
+
+
+
+	Betabet
+
+
+
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+	
+Others, perhaps half of those logged, occur during the day and many show a characteristic pattern of a web server struggling to cope with the amount of requests it is getting.
+Sometimes this will be due to heavy traffic when big sports events are on such as the Six Nations and Uefa cup matches.
+Occasionally the outages are caused by a Denial of Service attack.
+In a DoS attack, a server is deluged with requests for information from thousands of PCs at the same time.
+When this happens the response time of the server climbs before it stops reacting once it has been overwhelmed. Soon after, it recovers and the cycle starts again.
+Netcraft monitors the website of the Recording Industry Association of America which is suffering a DoS attack by machines infected with the MyDoom.F worm.
+Some sites were out of action for hours
+			
+			
+		
+		
+	
+
+	
+
+
+	
+Betting sites contacted by BBC News Online when these outages were taking place declined to comment on what was causing the problems.
+Mike Prettejohn, president of Netcraft, said: "In the general case, we can't say authoritatively why a site isn't available, just when it isn't available."
+He said surges in response times followed by an outage could be the result of a routing problem, bandwidth congestion, or server overload.
+Extortion demand
+However, this week the response times from the betting sites became much easier to interpret when several sites admitted that they had been targeted by the extortionists.
+William Hill, Betdaq, Totalbet and UKBetting all said that they had been attacked or received extortion demands by criminals prior to the start of the Cheltenham Festival on 15 March.
+Gambling sites have been targeted because so many of the events they offer odds on are time-limited.
+A spokesman for William Hill said the attack started on 11 March and continued into Friday.
+"We knew we would be a target at some stage," he said.
+"The crux is that we will not give into extortion," he said, "we never have and never will."
+The spokesman added that DoS attacks on betting sites by extortionists were a global problem.
+Irish bookmaker Paddy Power was also attacked during the Superbowl.
+The sites attacked before the Cheltenham festival show the characteristic pattern of increasing response times and then suddenly no response from the server as it gets overwhelmed.
+Classic DoS traffic pattern at the RIAA site
+			
+			
+		
+		
+	
+
+	
+
+
+	
+The attacks seem to be well co-ordinated as the servers being targeted are overwhelmed very quickly.
+Once attacked the websites of the gambling sites stay offline for hours.
+Earlier this week the website of Totalbet was offline from mid-morning on 16 March to early afternoon on the 17th in an outage that had all the signs of a DoS attack.
+Fighting back
+A spokesman for the Bookmakers Fraud Forum declined the chance to comment as he did not want to give away any information about police investigations into attacks.
+A spokeswoman for the National Hi-Tech Crime Unit said: "The NHTCU is well aware of these attacks and has been investigating UK cases since the autumn.
+She added: "We are working closely with the UK bookmakers in tracing and tracking down the perpetrators."
+She said she could not add any more details because the investigations were active and ongoing.
+Rob Pollard, from security firm Arbor Networks, said in many cases bookmakers would struggle to cope with a DoS attack because the connection to their net service provider will be swamped by bad traffic.
+"It became clear quite a few years ago that DoS attacks are a service providers problem," he said.

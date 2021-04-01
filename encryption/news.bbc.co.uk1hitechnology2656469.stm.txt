@@ -1,0 +1,15 @@
+Liverpool teams up with encryption
+Now technology managers at Liverpool football club are doing the same.
+The club has turned to encryption to protect sensitive documents as they are passed around via e-mail.
+The documents can only be unlocked and unscrambled with a password known only to a few people at the club.
+Team talk
+Team talk
+Liverpool is using software called Wincrypt to protect sensitive documents detailing the fitness of players, the roster of who will play in a particular match as well as transfer offers and information about players being sold.
+"Details about a player's fitness and contract are highly confidential and it would be a disaster if they fell into the wrong hands," said Ken Webster, technology manager for Liverpool FC.
+"It's important we take every little step possible to ensure that what goes on within the club stays within the club," he said.
+The sensitive information that Liverpool, and many other clubs, ship around to agents, physiotherapists, coaches and managers would be of interest to journalists, bookmakers and rival teams.
+Phil Wilding, technical director at C2SG which set up the Wincrypt system for Liverpool, said the software lets sensitive documents be encrypted with a mouse click.
+Mr Wilding said Liverpool is using Wincrypt to scramble documents and files attached to e-mail messages rather than the contents of the messages themselves.
+The Wincrypt software adds a small program to the front of the word processed file that only gives access to the document if the correct password is used.
+"The password is always changing so it becomes a moving target for any wannabe crackers," he said.
+Encrypting documents with Wincrypt demands that the software be installed but, provided the right password is used, the documents can be read on any machine able to handle the file's word processing format.

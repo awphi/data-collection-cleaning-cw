@@ -1,0 +1,31 @@
+Hacked blogger seeks Russia probe
+A pro-Georgian blogger at the centre of a co-ordinated attack that hit Facebook and Twitter has asked Russian President Dmitry Medvedev to hold an inquiry.
+The blogger, known online as Cyxymu, said he was targeted for "telling the truth about the Russian-Georgian war".
+The attack forced down Twitter for two hours on 6 August, and Cyxymu now wants Mr Medvedev to find the culprits.
+Despite the blogger's claims, security researchers have said they doubt the attack was state-endorsed.
+As well as Twitter and Facebook, search giant Google and blogging platform LiveJournal - all sites where the blogger holds accounts - were also affected.
+In an open letter to Mr Medvedev, the blogger, whose real name is Georgy, appealed for an investigation into the attack, during which the affected websites were bombarded with data requests until they crashed.
+"Your special services are able to trace the persons involved in this case and organisers of this attack," he wrote.
+"And your court, the most humane court in the world, is able to find and punish them. "
+'Big surprise'
+He also said that last week's so-called denial-of-service (DoS) attack was not the first against his blog.
+In October 2008 his blog at livejournal.com was hit and did not function again until May this year.
+In his letter, Georgy said that "the entire world is speaking of the Russian hackers working for the Russian Federation government".
+Those hackers were able to prevent millions of people gaining access to world famous social networking sites merely "to block one blogger" because of his "unpleasant and unacceptable" position, he suggested.
+Georgy has posted a series of videos and blog entries criticising Russia for its conduct during the five-day conflict with Georgia a year ago over its disputed region of South Ossetia.
+Last week he expressed his surprise at the fallout from his blogging, saying: "It's a big surprise to me that my blog has meant that 250m people have not been able to enter Facebook."
+However, Graham Cluley of security firm Sophos told BBC News last week there was no suggestion the attack against the blogger was state-endorsed.
+"It was almost certainly an individual who took objection to his blogs," Mr Cluley said.
+"They took internet vigilantism into their own hands to try to blast him off the web, but in the process blasted Twitter off instead."
+Spam campaign
+Security experts at Facebook confirmed that the attack was directed at an individual "rather than the sites themselves".
+"A botnet was directed to request his pages at such a rate that it impacted service for other users," the spokesperson said.
+Botnets are networks of computers under the control of hackers. The machines were used to mount a DoS attack on Thursday.
+DOS attacks often involve a company's servers being flooded with data in an effort to disable them.
+A spam campaign, containing links to Cyxymu pages on the various sites, coincided with and compounded the attack.
+Although Facebook was back up and running within hours, Twitter continued to feel the effects into the weekend whilst LiveJournal has said it has continued to be attacked.
+Taking to BBC News following the attack, Cyxymu, said that he had noticed that things were not right when he realised his Live Journal page was not working.
+"After, I entered Facebook to say LiveJournal was not working and Facebook was down," he said.
+"So I entered Twitter to say that LiveJournal and Facebook were not working, and Twitter was down.
+"And so I understood that it was under attack. It is not possible that these three services were all down at one time."
+The blogger, whose online name translates as Sukhumi, the capital of the Georgian breakaway region of Abkhazia, published the letter on a blog from a rival service.

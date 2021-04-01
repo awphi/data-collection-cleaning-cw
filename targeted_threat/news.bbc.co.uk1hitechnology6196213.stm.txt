@@ -1,0 +1,16 @@
+Triple threat targets Word users
+Users of Microsoft Word are being urged to be careful as malicious hackers target the word processing software.
+Three unpatched bugs in Word have been uncovered in the last few weeks and two are already being exploited by attackers.
+The loopholes being exploited allow attackers to create booby-trapped documents that steal information or take over a PC when they are opened.
+Microsoft has yet to release patches to fix the bugs in the Word software.
+Attack pattern
+Information about the latest problem in Word was posted only a couple of days after Microsoft released its latest security update.
+Over the last year malicious hackers have taken to releasing code soon after the regularly-scheduled monthly Microsoft security update to give them the biggest chance to abuse it before a patch appears.
+So far the latest Word exploit, which revolves around the way the information describing formatting is handled, is only a proof-of-concept flaw but Symantec and McAfee have confirmed that it will work.
+Abusing the flaw could allow attackers to take over a PC or run malicious code on a compromised machine.
+The latest flaw joins two others that Microsoft has acknowledged are already being exploited in attacks which it describes as "limited and targeted".
+To avoid falling victim it said: "users should always exercise extreme caution when opening unsolicited attachments from both known and unknown sources".
+Malicious Word documents exploiting one bug discovered in early December are known to have been spammed out to firms in Asia.
+Together the three vulnerabilities are found in Microsoft Word 2000, 2002, Office 2003, Word Viewer 2003, Word 2004 for Mac, and Word v. X for Mac and Works 2004, 2005, and 2006.
+Microsoft pointed out that to fall victim to the attacks users must receive and then open a booby-trapped Word document.
+On its security blog Microsoft said it was actively investigating the three problems and would release patches when work was complete.

@@ -1,0 +1,40 @@
+Google warns on 'unsafe' websites
+Google has started warning users if they are about to visit a webpage that could harm their computer.
+The warning will pop up if users click on a link to a page known to host spyware or other malicious programs.
+The initiative comes out of a larger project cataloguing programs that plague people with unwanted ads, spy on web habits or steal personal data.
+Google is one of several companies trying to act as an "in-flight adviser" to ensure people stay safe online.
+Web watch
+The warnings will be seen by anyone using the search engine who clicks on a link to a site identified as harmful by the Stop Badware coalition.
+Google, PC maker Lenovo and Sun set up this initiative in January 2006 to identify dangerous software and the websites that try to trick people into installing these malicious programs.
+DANGEROUS KEYWORDS
+                        
+                
+		
+                
+                     
+                    Free screensavers
+
+
+Bearshare
+
+
+Screensavers
+
+
+Winmx
+
+
+Limewire
+
+
+Lime wire
+
+
+Free ringtones
+Initially the warnings seen via the search site will be generic and simply alert people to the fact that a site has been flagged as dangerous. Eventually the warnings will become more detailed as Stop Badware researchers visit harmful sites and analyse how they try to subvert users' machines.
+The warning suggests that people try a different site but if they want to continue to the potentially dangerous webpage Google will not stop them.
+A research report released in May 2006 looked at the safety of the results returned by a search and found that, on average, 4-6% of the sites had harmful content on them.
+For some keywords, such as "free screensavers" the number of potentially dangerous sites leapt to 64%.
+The keywords are used to entice people to access the website.
+The research report was partly sponsored by McAfee's SiteAdvisor which also warns people when they are about to visit potentially harmful sites.
+Another company ScanSafe has also created the Scandoo search engine which overlays its warnings on results produced via Google and MSN.

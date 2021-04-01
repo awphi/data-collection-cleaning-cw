@@ -1,0 +1,48 @@
+Storm chaos prompts virus surge
+E-mails claiming to contain details of the storms that battered Europe contain a malicious virus, security firms warn.
+The e-mails with the subject line "230 dead as storm batters Europe", can leave computers vulnerable to attack.
+The messages were first detected as the storms, which have killed at least 28 people, continued to rage.
+Variants of the Windows virus have circulated for several days, but  experts were surprised at how quickly the new modified virus appeared.
+"The new virus only started spreading a few hours ago," said Mikko Hypponen, chief research officer at security firm F-Secure. "The spamming started when the storms were still raging."
+Mr Hypponen believes the adaptation was designed to take advantage of the interest in the storms.
+Security firms advise computer users not to open e-mail attachments unless they are expecting them and to keep security software up to date.
+Slave network
+Malicious coders often take advantage of celebrity names or large news events to spread viruses and worms.
+in 2005, an e-mail scam offering regular news updates following Hurricane Katrina spread a virus that allowed hackers to take control of a computer user's files.
+"Malware writers will use any newsworthy event to try and gain a few minutes of airtime and infect a few unprepared computer users," said a spokesperson for security firm McAfee.
+How many people clicked on it? It could be thousands or tens of thousands
+			
+
+
+
+
+
+                
+                     
+                    
+	Mikko Hypponen
+
+
+
+                
+                    
+                        
+                            
+                        
+                     
+                    
+    
+	
+        
+        
+		
+			In pictures: European storms
+The new virus, called Small.DAM, was spread through e-mails with a variety of subject lines  purporting to be news. Other variants included "British Muslims Genocide" and "U.S. Secretary of State Condoleezza..."
+The virus is a trojan - a program or message that look benign but contains malicious code - that is installed when a user opens the e-mail and clicks on an attachment. The attachment could be called Video.exe, Read More.exe, Full Clip.exe or Full Story.exe. It can only infect Windows PCs.
+"When you click on the attachment it installs a backdoor on the infected PC giving full access to the virus writer to do anything they want," said Mr Hypponen.
+"What they typically do is search your hard drive for credit card numbers and e-mail addresses because they can resell both of those."
+Typically, said Mr Hypponen, the virus writers will then use the computer in a botnet -  network of slave machines used to support all kinds of cyber crimes such as sending spam  and phishing e-mails.
+Users would not be aware that their computer was infected.
+F-secure said it had seen "hundreds of thousands of e-mails sent" but did not know how many machines were infected.
+"How many people clicked on it? It could be thousands or tens of thousands," said Mr Hypponen.
+However, most firms treated the virus as a low security threat and have now issued security updates.

@@ -1,0 +1,14 @@
+Garmin smartwatch users cannot get hands on data
+Garmin, which makes GPS-enabled fitness trackers and navigational software, is suffering what it has described as an "outage".
+According to ZDNet, employees have claimed on social media that the firm is the victim of a ransomware attack, but this has not been confirmed.
+Garmin Aviation said its flyGarmin website and mobile app, used by pilots, were also unavailable.
+The company's production line in Taiwan is also believed to have been affected.
+The problems mean that customers are not currently able to log into Garmin Connect to record and analyse their health and fitness data.
+And pilots who use flyGarmin cannot currently download up-to-date aviation databases, which is a legal requirement.
+Ransomware is a type of malware. It lets hackers take control of a company's systems and encrypt their data, demanding payment to release it. It is often sent via a malicious email link to employees.
+Garmin has not officially confirmed the cause of its problems.
+In a statement it said: "We are currently experiencing an outage that affects Garmin.com and Garmin Connect. This outage also affects our call centres and we are currently unable to receive any calls, emails or online chats. Garmin are working to resolve this issue as quickly as possible and apologise for the inconvenience."
+Experts say it looks like a major problem for the firm.
+"Garmin's infrastructure has suffered a massive failure, and although the company has not officially confirmed it, the finger of suspicion points strongly in the direction of a ransomware attack," wrote security consultant Graham Cluley.
+"The danger isn't only that fitness fanatics may not be able to record how many miles they jogged today. Garmin also provides services for aviators and sailors, meaning they may not be able to use their trusted apps for weather reports or filing flight plans."
+Mr Cluley added that fitness tracker data could be a "treasure trove" as it would show a user's entire location history.

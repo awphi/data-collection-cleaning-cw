@@ -1,0 +1,15 @@
+Dalai Lama's Chinese website hacked and infected
+The Chinese-language website of the Tibetan government-in-exile, whose spiritual head is the Dalai Lama, has been hacked and infected with viruses.
+Experts at computer security company Kaspersky Lab warned that the Central Tibetan Administration (CTA) site had been compromised.
+It is believed the malicious software could be used to spy on visitors.
+Technical evidence suggests the hackers carried out previous cyber-attacks on human rights groups in Asia.
+Tibet.net is the official website of the CTA, which is based in Dharamshala, northern India.
+The organisation's spiritual leader is the 14th Dalai Lama, who fled Tibet in 1959 after a failed anti-Chinese uprising, and set up a government-in-exile. China considers the Dalai Lama a separatist threat.
+Constant threat
+Kaspersky says the CTA website has been under constant attack from the same group of hackers since 2011, but previous breaches have been quietly identified and repaired before attracting significant attention.
+Other Tibetan organisations, such as the International Campaign for Tibet, have also been targeted.
+Kaspersky Lab researcher Kurt Baumgartner says the hackers used a method known as a "watering-hole attack".
+A security bug in Oracle's Java software might have been exploited, giving hackers a "back door" into browsers' computers.
+"This is the initial foothold," Mr Baumgartner said. "From there they can download arbitrary files and execute them on the system."
+Kaspersky's education manager Ram Herkanaidu said the discovery of the attack came after an "email account of a prominent Tibetan activist was hacked".
+Mr Herkanaidu added: "The likely actors behind the sustained campaign against Tibetan sites are Chinese speaking, as in many cases we have seen log files written in Chinese."

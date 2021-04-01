@@ -1,0 +1,21 @@
+Chemicals and defence firms targeted by hacking attack
+At least 29 firms involved in the chemicals industry were targeted by a recent series of cyber-attacks traced to China, according to Symantec.
+The security company said it had evidence a further 19 companies, including defence specialists, had also been affected.
+It said the attacks began in late July and lasted until mid-September.
+Symantec said the campaign was focused on intellectual property, including formulas and design processes.
+While the report did not reveal the names of any of the companies involved, it did say they included Fortune 100 firms.
+It disclosed that at least 12 of the infected companies were based in the US, five in the UK, and two in Denmark.
+Several of the firms were also said to have developed materials for military vehicles.
+US giant Dow Chemicals confirmed to the BBC that it had been the target of "unusual emails" received during the summer.
+"Dow engaged internal and external response teams, including law enforcement, to address the situation," he said.  "As a result, we have no reason to believe our operations were compromised."
+Trojans
+Symantec said workers at the organisations were sent emails asking them to open an attachment.
+It said in some cases they claimed to be invitations from established business partners, in others a security update.
+The firm said if the attachments were opened they installed a piece of code known as a Trojan horse, which allowed the hackers to obtain details of the targets' computer networks. The attackers were then able to use this information to locate and copy files to another part of their targets' systems, from where they were extracted.
+Symantec identified the Trojan involved as PoisonIvy, which it said was developed by a Chinese speaker.
+The firm also said it had traced the attacks back to a "20-something male located in the Hebei region of China" who funnelled the process through a US computer server.
+Symantec said that when prompted, the man provided contact details for someone who would "perform hacking for hire". However, the company was unable to establish whether this was the same person or a different individual.
+The incidents are being linked to earlier attacks on carmakers and human rights organisations.
+"This is unfortunately becoming a new normal behaviour," Symantec's chief technology officer, Greg Day, told the BBC.
+"We had at least a decade of cybercrime which generally targeted anybody. Then we had the emergence of very skilled techniques involving a lot of time and effort to target global organisations."
+"What we have now is almost the commercialisation of those techniques, using elements such as advanced persistent threats to pursue espionage and intellectual property theft, whether that is for their own gain or resale."

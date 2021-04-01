@@ -1,0 +1,14 @@
+Ransomware attack takes US maritime base offline
+A computer virus forced a US-regulated maritime facility offline for more than 30 hours, the country's coast guard has revealed.
+Ransomware interrupted cameras, door-access control systems and critical monitoring systems at the site.
+The agency did not reveal the name or the location of the facility targeted by the attack.
+Officials said they believed the ransomware was sent in a malicious email link, clicked by an employee.
+The US Coast Guard (USCG) issued a security bulletin on 16 December, urging other bases to take measures to prevent further attacks.
+"Once the embedded malicious link in the email was clicked by an employee, the ransomware allowed for a threat actor to access significant enterprise information technology (IT) network files, and encrypt them, preventing the facility's access to critical files," it said.
+"The virus further burrowed into the industrial control systems that monitor and control cargo transfer and encrypted files critical to process operations."
+The BBC has contacted the USCG for more details.
+Ransomware attacks were a significant problem during 2019, when several companies and governments were targeted.
+The city of New Orleans declared a state of emergency in December after suspicious activity was detected on its network.
+Once officials confirmed they were under attack, servers and computers were closed down.
+Weeks earlier, Virtual Care Provider, which offers technology services to nursing homes, was hit by a ransomware attack that encrypted patients' health records.
+Hackers demanded $14m (Â£10.6m) to restore access to the hijacked servers.

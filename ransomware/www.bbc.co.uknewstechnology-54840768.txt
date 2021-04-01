@@ -1,0 +1,21 @@
+Capcom hacked in latest cyber-attack on game-makers
+Video game-maker Capcom said its computer systems were hacked earlier this week, in the latest cyber-attack to hit the games industry.
+The Japanese firm is behind major franchises such as Resident Evil, Street Fighter, and Mega Man.
+It said some of its internal networks had been suspended "due to unauthorised access" from outside Capcom.
+But it said "at present", there was no sign that customer information had been accessed.
+It noticed the attack after its internal networks began to have issues that affected company email and the servers where it stores its files, a statement said.
+"Capcom expressed its deepest regret for any inconvenience this may cause to its various stakeholders," it said.
+Online gameplay and websites did not seem to be affected, and in investigation is under way. Capcom did not say what had been accessed, or if any material had been stolen.
+It is the latest in a series of recent high-profile leaks and hacks of companies in the industry.
+Earlier this week, reports suggested that Ubisoft's game about hacking, Watch Dogs: Legion, may have been hacked, with its source code stolen and reportedly leaked online.
+Ubisoft, however, has not confirmed the reports, saying only: "We are aware of the group's claim and are currently investigating a potential data security incident."
+The same hacker group also claims to have accessed the developer Crytek's internal information.
+Ubisoft, Crytek and now Capcom - it's been a bad week for hacking in the games industry.
+Sources tell me there could be more major video game hacks revealed soon.
+The instinct is to think that there is something larger at work here, perhaps some sort of new hacking campaign to coincide with the launch of next-generation consoles.
+But speaking to cyber-security experts, it seems coincidental - and there's no evidence of a co-ordinated effort by hackers.
+The first two are reportedly victims of a relatively small ransomware gang that calls itself Egregor and analysis indicates Capcom is being held to ransom by the more established Ragnar Locker group.
+This could all mean precious source code of new and old games being shared or sold online.
+No reputable games company would touch the stolen information with a bargepole but we may see knock-off games or unofficial versions pop up - if the hackers are true to their threats.
+In September, the US Department of Justice charged a number of foreign nationals with hacking offences, some of which specifically targeted the video game industry. In that instance, the attacks were designed to create in-game items that could be sold for real-world money on the black market.
+And earlier this year, a series of leaks of internal data from Nintendo provided gamers with insights into the development of much-beloved older games such as PokÃ©mon and Super Mario.

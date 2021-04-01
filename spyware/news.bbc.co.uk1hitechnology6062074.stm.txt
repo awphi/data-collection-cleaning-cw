@@ -1,0 +1,15 @@
+Windows virus bites Apple iPods
+Apple is warning that some video iPods are harbouring a Windows virus.
+In a statement on its website Apple said that a small number of video iPods sold after 12 September are carrying the RavMonE virus.
+The company said that, so far, it had seen "less than 25 reports" of the problem affecting users.
+In a similar incident McDonalds Japan has recalled MP3 players it gave away after finding they were infected with a nasty spyware program.
+Bite back
+In its statement announcing the discovery, Apple said that less than 1% of video iPods sold after 12 September were despatched with the virus onboard.
+The RavMonE virus will only activate if an infected iPod is used on a Windows PC. Apple said up to date anti-virus should spot the malicious program and stop it causing problems.
+Apple said the virus got on to the gadgets via a Windows PC in the manufacturing line of one company that makes iPods.
+Anti-virus firm Sophos said there was confusion about exactly which virus was onboard the iPods.
+"There are a number of different pieces of malware which use a file called RavMonE.exe," said Graham Cluley, senior technology consultant for Sophos, "so we don't know at the moment precisely which trojan horse or virus may have been shipped."
+The virus in question could be part of the RJump virus family which tries to steal information and open a back door into an infected PC.
+In a related incident McDonalds Japan has been forced to recall some MP3 players given away as prizes that were infected with some spyware.
+About 10,000 people are thought to have been sent the MP3 players that had onboard a copy of the QQPass spyware program that logs keystrokes and sends data back to criminal hackers.
+A phone line has been set up to help those who have fallen victim. The spyware is thought to have been present on a machine used to download data to the flash memory MP3 players before they were sent out to prize-winners.

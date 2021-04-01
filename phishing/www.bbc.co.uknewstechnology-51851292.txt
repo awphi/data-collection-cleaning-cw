@@ -1,0 +1,28 @@
+Coronavirus: How can AI help fight the pandemic?
+Executives from Amazon, Google, Microsoft, Apple and Facebook met officials at Downing Street on Wednesday to discuss their role in the coronavirus crisis.
+One of the things discussed was their role in "modelling and tracking data".
+In similar meetings at the White House, meanwhile, companies were asked how they could use artificial intelligence.
+A World Health Organization report last month said AI and big data were a key part of China's response to the virus.
+Sharing data
+Facebook is already working with researchers at Harvard University's School of Public Health and the National Tsing Hua University, in Taiwan, sharing anonymised data about people's movements and high-resolution population density maps, which help them forecast the spread of the virus.
+The social network is also helping partners understand how people are talking about the issue online, via tools such as Crowdtangle, which aggregate social-media posts.
+In the past, Google search data has been used to track infectious diseases.
+To help people who want to track their own health, meanwhile, Google's life-science research arm, Verily is developing a small body-worn temperature patch that transmits data to a phone app.
+"This could be especially useful in elderly populations, where viral infections have higher rates of morbidity and mortality," blogged chief executive Sundar Pichai.
+Fighting misinformation
+So far, there has not been any comprehensive study of how much misinformation remains on platforms such as Google and Facebook but it is likely to be substantial.
+Google said its team was "working round the clock to safeguard our users from phishing, conspiracy theories, malware and misinformation".
+Search for coronavirus or Covid-19, and an SOS Alert appears, alongside links to help and information about the virus.
+YouTube, meanwhile, is using its homepage to direct users to the World Health Organization and other groups, for education and information, while working to remove videos suggesting alternative cures as soon as they go live.
+Finding drugs
+British start-up Exscienta became the first company to put a AI-designed drug molecule to human trials earlier this year.
+It took just 12 months for algorithms to create it, compared with four to five years for traditional research.
+AI could be used in three ways in the current crisis, according to chief executive Prof Andrew Hopkins:
+But he warned people to be realistic about what AI could achieve.
+"The fastest this could be done is 18 to 24 months away, because of the manufacturing scale-up and all the safety testing that needs to be done," he said.
+Google-owned AI company DeepMind, meanwhile, has used its AlphaFold system to release structure predictions of several proteins associated with the virus.
+These have not yet been experimentally verified but DeepMind hopes this will help the scientific community's understanding of how the virus functions.
+Scientists at both DeepMind and Exscienta praised the way those at the forefront of the outbreak had so quickly released data, which would be crucial for any algorithms searching for a cure.
+Robot cleaners
+Meanwhile, Prof Sabine Hauert, at Bristol University, told BBC News AI could simply make daily life easier during the crisis.
+"It can also be used to put people out of harm's way, for example using robots to clean hospitals, or telepresence systems for remote meeting, consultations, or simply to connect with loved ones," she said.

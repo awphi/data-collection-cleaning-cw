@@ -1,0 +1,78 @@
+US spyware bills win large vote
+US law makers have voted to introduce harsher penalties for those who spread spyware on people's computers.
+The House of Representatives voted overwhelmingly for two bills which clamp down on spyware programs.
+The I-SPY Prevention Act of 2005 and the SPY Act introduce multi-million dollar fines and prison sentences.
+Spyware has become a big problem for computer users. They are programs that sit on a computer collecting sometimes sensitive data and net browsing habits.
+The I-SPY Prevention Act of 2005 makes it an offence to access a computer without permission via spyware programs and introduces sentences of up to five years in prison for criminal activity.
+The SPY Act, means firms need a user's permission before installing programs onto their computers.
+The bills would also mean harsher penalties for those behind phishing scams.
+Phishing scams are where cyber criminals direct people to spoof websites which look like official bank or e-commerce sites, hence fooling them into giving away confidential information.
+The two bills now go to the Senate for further consideration.
+"Consumers have a right to know and have a right to decide who has access to their highly personal information that spyware can collect," said Californian representative Mary Bono, who introduced one of the bills.
+Although the moves are encouraging, there are still obstacles to preventing criminal use of spyware, such as lack of global enforcement policies, as well as the intricacies involved in distinguishing different types of spyware.
+Slow down
+Spyware programs can surreptitiously find their way onto a computer when free software is downloaded, or when certain websites are visited. They can also be picked up through some peer-to-peer networks.
+Once on a computer, they can cause a nuisance by redirecting web searches, installing unwanted bookmarks or bombarding a computer user with pop-up ads tailored to other search terms.
+It can also make computers slower and crash machines. Malicious spyware can also steal confidential information, such as key stroke details which might reveal passwords.
+Spyware was highlighted recently after the criminals who tried to steal money from Sumitomo Mitsui bank used keylogging software to gather confidential data from the financial institution.
+STAYING SAFE ONLINE
+                        
+                
+		
+                
+                     
+                    Install anti-virus software
+
+
+Keep your anti-virus software up to date
+
+
+Install a personal firewall
+
+
+Use Windows updates to patch security holes
+
+
+Do not open e-mail messages that look suspicious
+
+
+Do not click on e-mail attachments you were not expecting
+
+
+
+                
+                    
+                        
+                            
+                        
+                     
+                    
+    
+	
+        
+        
+	    	The threats on the net
+        
+	
+    
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+The problem for many countries, however, is tracking down the purveyors of spyware. Only two have been sued so far in the US.
+"We know that there are literally hundreds of these cases out there," Ari Schwartz, associate director at the Center for Democracy and Technology, a consumer-advocacy group, told the Reuters news agency.
+"Unless there's a push for enforcement, passing a new law is really only going to help after the fact."
+From 1 January 2005, California state introduced the Consumer Protection Against Spyware Act which banned the installation of software that takes control of another computer.
+Companies and websites also have to disclose whether they will install spyware under the Act.
+According to a recent survey, 90% of PCs are infested with spyware. Each computer has, on average, nearly 30 spyware programs on them.
+Computer users are urged to regularly scan their machines with more than one anti-spyware program, such as Spybot and AdAware. Webroot and Symantec produce anti-spyware programs too.
+Using a combination of anti-spyware software means one might recognise spyware that the other may have missed.

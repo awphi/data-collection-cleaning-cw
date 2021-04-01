@@ -1,0 +1,31 @@
+Can Zuckerberg stop Facebook's coronavirus conspiracies?
+In a time of crisis, it is now probably the single most important source of news for billions of people around the world.
+So what is Facebook doing to make sure that it is providing accurate and timely information about the new coronavirus? Plenty, according to Mark Zuckerberg.
+In a post last night, Facebook's founder explains that his company has been working closely with health authorities to co-ordinate their response to the virus.
+"We're focused on making sure everyone can access credible and accurate information," he says.
+As part of that effort, any search for coronavirus produces a pop-up directing users to the World Health Organisation or local health authorities for information.
+Facebook has also given free ads to the WHO to inform people, and Mark Zuckerberg says the social network will give millions in ad credits to other organisations involved in the battle to contain Covid-19.
+But there is also a job to be done battling spam and misinformation.
+Facebook's founder says that while it is important that everyone can share their experiences, the firm is removing false claims and conspiracy theories. It is also blocking ads that exploit the situation - "for example, claiming that their product can cure the disease".
+That is likely to prove a mammoth task, particularly when it comes to information circulating inside Facebook Groups.
+Look, for instance, at the Stop 5G UK group. Its members are busy posting conspiracy theories.
+"Anyone else think that part of the Coronavirus hoax is to undermine and prevent Brexit from happening?" reads one post.
+YouTube videos with titles such as "Coronavirus - a Globalist Tool" are also shared.
+The fact that so many users link to YouTube videos means that Facebook has to rely on the platform to join it in the battle against misinformation.
+But despite YouTube's efforts to stop the spread of conspiracy theories, its own app is awash with various "experts" from around the world delivering lengthy rants connecting the virus, 5G and global plots to bring in compulsory vaccination.
+Some of these appear to break both YouTube and Facebook's rules about advertising bogus cures.
+A couple of days ago, I alerted YouTube to one video from a British anti-5G campaigner. He also has an online store offering products such as anti-radiation hoods and tents.
+In this case, his video was promoting a Russian USB stick which apparently offered protection against both 5G and the coronavirus. YouTube agreed that this broke its rules, and took it down.
+Face masks
+I've seen other ads on Facebook that appear to skirt close to exploiting the situation.
+"Stay healthy this flu season with our new carbon filter face mask" reads one. Yours for just Â£29.95.
+Other ads offer Covid-19 masks, direct from China at Â£65 for 100.
+There is at least some evidence of a fightback from some Facebook group moderators against conspiracy theories.
+A member of the Stop 5G UK group posted this complaint about her local community group in Leeds: "Any 'conspiracy' anything to do with 5G/anything other than mainstream media is being taken down straight away."
+And indeed anyone wanting to join the Leedsplace Facebook group will find this message: "PCT's - Paranoid Conspiracy Theorists - We respect your right to be gullible but we will not allow PCT's to proliferate on Leedsplace. So if you subscribe to PCT's such as 'vaccines cause autism' or chemtrails are poisoning us or Holocaust denial and use this group to spread misinformation you risk being banned without warning."
+But plenty of other groups built around causes such as opposition to vaccines, actively encourage the spread of conspiratorial material.
+And fighting the spread of misinformation is going to get harder, as Facebook encourages its users to retreat to more private corners of its empire.
+Who knows, for instance, what is being said about the coronavirus inside WhatsApp groups?
+A year ago Mark Zuckerberg wrote another post entitled A Privacy Focused Vision For Social Networking.
+In it, he outlined plans to expand use of end-to-end encryption - a feature at the heart of WhatsApp - across other Facebook services.
+But if, as he predicts, the future of communication increasingly shifts "to private, encrypted services where people can be confident what they say to each other stays secure", then it will be much harder to stop the spread of dangerous nonsense.

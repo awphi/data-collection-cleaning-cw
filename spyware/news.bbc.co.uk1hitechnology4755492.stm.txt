@@ -1,0 +1,42 @@
+Viruses plague British businesses
+Computer viruses are the single biggest cause of security problems for UK businesses, a survey by the Department of Trade and Industry shows.
+The study found almost 50% of the biggest security breaches suffered by companies in the last two years were due to infection by malicious programs.
+In some cases viruses crippled key systems such as e-mail for more than a day while companies cleaned up.
+It also found that the worst outbreaks can take up to 50 days to fix.
+Threat profile
+The good news revealed by the survey was that the number of firms caught out by viruses had dropped by almost one-third since the last time the study was done in 2004.
+Past viruses were designed to cause large amounts of indiscriminate damage typically by taking down targets' networks. Today's viruses have become more insidious
+			
+
+
+
+
+
+                
+                     
+                    
+	Chris Potter, PricewaterhouseCoopers
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+This reduced infection rate was put down to the fact that most businesses now use anti-virus software to clean up e-mail traffic before it reaches in-boxes.
+Chris Potter, a partner at PricewaterhouseCoopers and one of the report's authors, said firms had got much better at keeping their anti-virus software up to date and patching vulnerable systems.
+But, he said, it was hard won experience. "They know how much this can hurt if they get caught out."
+However, the survey found that firms that those who do get caught out tend to get infected far more often. Some unlucky companies said they were being infected once a day.
+The report also highlighted the growing problem posed by spyware. These malicious programs sneak on to PCs via several different routes and try to steal confidential information or use a hijacked machine as a launch pad for other activities.
+Almost 25% of those surveyed said they had no defences in place to protect them against spyware. As a result one in seven of the most serious incidents were caused by machines infected with spyware.
+Mr Potter said companies needed to put defences in place to tackle newer threats. He added that it can be hard to spot spyware as it can be bundled in with software, such as file-sharing programs, that users do want to get hold of.
+"Spyware may appear completely legitimate and may even have licence agreements you have to click on," said Mr Potter.
+"There's a danger of fighting yesterday's battle," he said. "Past viruses were designed to cause large amounts of indiscriminate damage typically by taking down targets' networks."
+"Today's viruses have become more insidious," he said.
+The DTI survey questioned more than 1,000 businesses to find out how they coped with the escalating number of computer security threats.

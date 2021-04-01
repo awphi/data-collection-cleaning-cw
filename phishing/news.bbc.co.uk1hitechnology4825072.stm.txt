@@ -1,0 +1,15 @@
+European phishing gangs targeted
+Microsoft is launching legal action against 100 phishing gangs based in Europe, the Middle East and Africa.
+By the end of March, 53 cases will have begun said Microsoft, with all 100 filed by the end of June.
+Seven of the criminal groups behind fake websites that trick people into handing over confidential information are known to be in the UK.
+The legal cases follow investigative work undertaken by Microsoft, national police forces and Interpol.
+Caught case
+"This is specific action against people that we have identified as being behind phishing sites," said Jerry Fishenden, national technology officer for Microsoft UK.
+Phishing e-mails try to make you enter personal and login details on fake webpages made to resemble real bank sites.
+Mr Fishenden said phishing had grown enormously over the last couple of years. By the end of 2005 there were known to be more than 7,000 unique phishing sites on the net.
+But, said Mr Fishenden, this did not mean that there were 7,000 separate gangs at work. Many of the sites were repeat performances by established groups.
+Many of those sending out the phishing e-mails were organised crime gangs who ran a scam for a few days off a net domain and then quickly moved on before the site was shut down or investigators caught up.
+The phishing gangs make their money in different ways, said Mr Fishenden. Some use the login information to steal money directly from accounts, others sell the data on to those that can use it and some conmen get money for every compromised computer they seed with ad-serving software.
+The numbers of phishing sites in operation was being swelled by the appearance of "kits" that show people how to set themselves up as computer conmen.
+A couple of years ago, said Mr Fishenden, phishing e-mails were easy to spot because they were littered with spelling errors and the fake sites did not look authentic.
+Now, he said, unless users knew what to look for in e-mail messages or used add-on tools for their browser to flag up the fake pages, it was easy to get caught out.

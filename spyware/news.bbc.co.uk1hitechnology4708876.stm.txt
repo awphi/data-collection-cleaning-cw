@@ -1,0 +1,23 @@
+Warning over Valentine's e-cards
+Valentine's Day could be a bonanza for malicious hackers, internet security experts are warning.
+Fake Valentine's e-cards and dodgy dating websites are among the tactics being used by fraudsters to relieve internet users of their money.
+The government's Get Safe Online campaign is urging users to take care.
+As well as e-cards harbouring viruses and spyware, the missives are being used for phishing, using fake links to get bank and credit card details.
+Rogue e-cards could direct unsuspecting users via embedded URLs to dating websites that are not all they seem.
+There, efforts may be made to get hold of credit card details, bank account information and passwords.
+Human condition
+Online dating is booming, but security firm Internet Security Systems say some of the rise in dating sites could be explained by sites created by malicious hackers.
+Senior technology specialist James Rendell said spam e-mails could be cleverly constructed to contain innocuous looking links that in fact took users to one of these rogue sites.
+"What you see isn't necessarily what you get. Like the I Love You bug, people are quite likely to open an e-mail with that title. It's human nature."
+Mr Rendell advises users to avoid opening unsolicited attachments, not click on links in e-mails but instead type out the address in their browser, and consider not opening any potentially suspicious e-mails at all.
+Web security firm Finjan warned that hackers were exploiting the "conditioned response" of users to open out of curiosity unsolicited romantic e-mails.
+Yuval Ben-Itzhak, of Finjan, said: "Today's hackers are well aware of traditional security systems such as firewalls, anti-virus and intrusion prevention/detection products, and are crafting their malicious code to outsmart such systems.
+"Just the receipt of an e-card can be a huge threat. Some people will ignore these but for others, curiosity draws them to making a simple click on an innocent looking advert, and unknowingly our Romeo or Juliet exposes the organisation to web-borne security threats."
+Previous viruses, like 2000's Love Bug, have played on this tendency.
+Sophisticated spying
+Experts warn users to keep their security software up to date and not to open any unsolicited Valentine's-related messages.
+For their part, lovers are using increasingly sophisticated methods to check up on partners they suspect of infidelity.
+Mobile phone satellite navigation firm CoPilot said a survey had turned up respondents checking mobile phones and trawling dating sites for adverts from their loved ones.
+But by far the most ingenious was a woman who found her boyfriend was secretly visiting his ex-girlfriend's house after following him on the internet using the satellite navigation system she bought him.
+And paper Valentine's cards are increasingly under assault from their electronic counterparts.
+Research from BT suggests one in six in the UK, and a third of over-30s, have considered sending a text instead of a card.

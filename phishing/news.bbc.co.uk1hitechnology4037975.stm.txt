@@ -1,0 +1,71 @@
+Hi-tech tools fuel phishing boom
+October was a bumper month for phishing attacks that try to prise confidential information out of web users.
+In October the number of websites staging such attacks doubled, reports the Anti-Phishing Working Group.
+The group suspects that new tools which automate attacks are behind this huge increase.
+Many of the sites trying to con people into handing over personal information are being hosted on hijacked home computers.
+Home invasion
+The last 12 months has seen a huge rise in phishing scams in which conmen send e-mail messages that look like they come from financial institutions.
+The messages try to fool people into handing over details of bank account login details or other confidential information.
+Data gathered this way is used by the criminals to plunder accounts or to steal someone's identity.
+While warnings about such e-mails are issued regularly, it is thought that up to 5% of people fall victim to the con.
+PHISHING TARGETS
+                        
+                
+		
+                
+                     
+                    
+	Banks and financial institutions - 73%
+
+
+
+
+
+
+	Net service firms - 14%
+
+
+
+
+
+
+
+	Shops and retailers - 7%
+
+
+
+
+
+
+
+	Miscellaneous - 7%
+
+
+
+
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+	
+In October the Anti-Phishing Working Group reported that it saw 6,597 new phishing e-mail messages. The monthly growth rate for phishing e-mail messages is 36%.
+In total these messages targeted 46 different brands. In the last four months phishing gangs have exploited the names of 72 different brands, most of which (73%) were banks and other financial institutions.
+The biggest growth was seen in the number of websites supporting the e-mail messages.
+The Working Group reports that it has found 1,142 phishing sites online, more than double the number seen in September.
+Statistics on sites were gathered from all over the world. The majority of phishing sites are located in the US.
+Many of these sites look almost indistinguishable from the website they are posing as and use hi-tech tricks, such as fake toolbars, to hide their real location.
+The group theorises that tools are now available to phishing gangs that automate the process of setting up sites and sending out phishing spam.
+It also suspects that most of these sites are on hijacked home computers that have been infected by a virus or worm.
+This theory is lent weight by the fact that the sites tend to launch attacks against different targets on different days and typically only last a few days before being shut down.
+This month also saw a change in tactic by some phishing groups.
+One report suggests that fake job adverts are being used to catch new victims.

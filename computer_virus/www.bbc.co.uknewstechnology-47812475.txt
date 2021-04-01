@@ -1,0 +1,16 @@
+Computer virus alters cancer scan images
+A computer virus that can add fake tumours to medical scan images has been created by cyber-security researchers.
+In laboratory tests, the malware altered 70 images and managed to fool three radiologists into believing patients had cancer.
+The altered images also managed to trick automated screening systems.
+The team from Israel developed the malicious software to show how easy it is to get around security protections for diagnostic equipment.
+The program was able to convincingly add fake malignant growths to images of lungs taken by MRI and CT scanning machines.
+The researchers, from Ben Gurion University's cyber-security centre, said the malware could also remove actual malignant growths from image files to prevent patients who are targets getting the care they need.
+The images targeted were scans of lungs but the malware could be tuned to produce other fake conditions such as brain tumours, blood clots, fractures or spinal problems, according to the Washington Post,  which first reported on the research.
+Images and scans were vulnerable, said the researchers, because the files were generally not digitally signed or encrypted. This means any changes would be hard to spot.
+The researchers suggested the security flaws could be exploited to sow doubt about the health of government figures, sabotage research, commit insurance fraud or as part of a terrorist attack.
+In addition, they said, weaknesses in the way hospitals and health care centres protect their networks could give attackers easy access.
+While hospitals were careful about sharing sensitive data beyond their boundaries, they took much less care when handling data internally, said one of the researchers.
+"What happens within the hospital system itself, which no regular person should have access to in general, they tend to be pretty lenient about," Yisroel Mirsky told the Washington Post.
+Better use of encryption and digital signatures could help hospitals avoid problems if cyber-attackers tried to subvert images, he added.
+Hospitals and other healthcare organisations have been a popular target for cyber-attackers and many have been hit by malicious ransomware that encrypts files and only returns the data when victims pay up.
+The NHS was hit hard in 2017 by the WannaCry ransomware which left many hospitals scrambling to recover data.

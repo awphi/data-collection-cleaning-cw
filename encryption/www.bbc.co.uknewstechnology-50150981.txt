@@ -1,0 +1,24 @@
+BBC News launches 'dark web' Tor mirror
+The BBC has made its international news website available via the Tor network, in a bid to thwart censorship attempts.
+The Tor browser is privacy-focused software used to access the dark web.
+The browser can obscure who is using it and what data is being accessed, which can help people avoid government surveillance and censorship.
+Countries including China, Iran and Vietnam are among those who have tried to block access to the BBC News website or programmes.
+Instead of visiting bbc.co.uk/news or bbc.com/news, users of the Tor browser can visit the new bbcnewsv2vjtpsuy.onion web address. Clicking this web address will not work in a regular web browser.
+The dark web copy of the BBC News website will be the international edition, as seen from outside the UK.
+It will include foreign language services such as BBC Arabic, BBC Persian and BBC Russian.
+But UK-only content and services such as BBC iPlayer will not be accessible, due to broadcast rights.
+What is Tor?
+Tor is a way to access the internet that requires software, known as the Tor browser, to use it.
+The name is an acronym for The Onion Router. Just as there are many layers to the vegetable, there are many layers of encryption on the network.
+It was originally designed by the US Naval Research Laboratory, and continues to receive funding from the US State Department.
+It attempts to hide a person's location and identity by sending data across the internet via a very circuitous route involving several "nodes" - which, in this context, means using volunteers' PCs and computer servers as connection points.
+Encryption applied at each hop along this route makes it very hard to connect a person to any particular activity.
+To the website that ultimately receives the request, it appears as if the data traffic comes from the last computer in the chain - known as an "exit node" - rather than the person responsible.
+As well as allowing users to visit normal websites anonymously, it can also be used as part of a process to host hidden sites, which use the .onion suffix.
+Tor's users include the military, law enforcement officers and journalists, as well as members of the public who wish to keep their browser activity secret.
+But it has also been associated with illegal activity, allowing people to visit sites offering illegal drugs for sale and access to child abuse images, which do not show up in normal search engine results and would not be available to those who did not know where to look.
+While the Tor browser can be used to access the regular version of the BBC News website, using the .onion site has additional benefits.
+"Onion services take load off scarce exit nodes, preserve end-to-end encryption [and] the self-authenticating domain name resists spoofing," explained Prof Steven Murdoch, a cyber-security expert from University College London.
+In a statement, the BBC said: "The BBC World Service's news content is now available on the Tor network to audiences who live in countries where BBC News is being blocked or restricted. This is in line with the BBC World Service mission to provide trusted news around the world."
+On Wednesday, the BBC also announced the UK's first interactive voice news service for smart speakers.
+People using an Amazon Alexa-powered device will be able to skip ahead and get more information about the stories they are most interested in.

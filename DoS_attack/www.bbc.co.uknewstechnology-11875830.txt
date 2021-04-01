@@ -1,0 +1,15 @@
+Attack hits Wikileaks cable site
+A web attack has been launched against the Wikileaks site set up to host leaked US diplomatic cables.
+The deluge of data launched against the site managed to briefly make it unreachable around 1200 GMT on 30 November.
+So far no-one has come forward to claim responsibility for the so-called denial-of-service (DoS) attack.
+A similar attack was launched against the main Wikileaks site prior to the public release of the first cables.
+Wikileaks revealed that the separate cablegate website was suffering a distributed denial of service (DDoS) attack via a message posted to its Twitter stream.
+The cablegate site went live on Sunday night and soon after started to suffer occasional downtime.
+A DDoS attack involves swamping a site with so many requests for access that it becomes overwhelmed.
+Data gathered by net monitoring firm Netcraft showed that the cablegate site was intermittently available around Tuesday lunchtime and early afternoon because of the attack.
+Prior to the launch of the site, Wikileaks had taken the precaution of hosting it on three separate IP addresses to cope with any attack.
+"This does not appear to have prevented the current attack from succeeding," wrote Paul Mutton, a security analyst at Netcraft, in a blog post
+He told the BBC that it was hard to work out what type of attack was under way. At the weekend before the cablegate site went live, a hacktivist known only as The Jester threatened to attack Wikileaks claiming its leak of cables would endanger US troops.
+Mr Mutton said the latest attack was unlikely to be the work of The Jester as he has typically used Twitter to announce his targets. Something that was not done before the latest attack began.
+"The cablegate site has only released 281 of the 251,287 leaked cables, so these attacks are likely to be symbolic action more than anything else," said Mr Mutton.
+As cablegate came under attack, a separate ongoing assault against the main Wikileaks site made it unreachable on Tuesday afternoon.

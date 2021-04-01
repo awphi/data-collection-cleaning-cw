@@ -1,0 +1,33 @@
+How well do you know PC security?
+Is your PC well protected or is it the plaything of malicious hackers the world over?
+To find out if you are security savvy or simply a sucker, answer the questions in our quiz and find out how much you know about staying safe when using the web.
+A: Dig out your shotgun
+B: Clean up your PC with an anti-virus scanner - a zombie is a computer hijacked by malicious hackers
+C: Look for the TV cameras - it must be a new reality TV series
+A: The first computer virus seen in the wild - it infected Apple machines
+B: The first computer virus seen in the wild - it infected IBM mainframes
+C: The first computer virus seen in the wild - it infected TRS-80 machines
+A: Delete it - there's probably a virus in the attachment
+B: Open it and forward it to all your friends so they can enjoy the fun
+C: Sounds good, open it and sit back to watch
+A: Ignore it, the updates will just slow down your machine
+B: Install the updates as soon as they become available
+C: Update every six months. Just to keep Microsoft happy
+A: Forward it to your bank and then delete it. The message is a phish
+B: This sounds serious. Open it and click on the link in it and login
+C: Withdraw all your money and put it under the mattress where it will be safe
+A: A software package that helps you draw up your family tree
+B: A way to improve the health of your rose bushes
+C: A very stealthy computer virus that buries itself in your PC's operating system to avoid detection
+A: Install a pop-up blocker to get rid of the adverts
+B: Run an anti-spyware package to see if your computer has contracted any of the bothersome bugs
+C: Scan your machine with both anti-virus and anti-spyware software
+A: The bricks at the back of the hearth
+B: Software that sits between your PC and the net and blocks net-borne attacks
+C: The notice board in the corridor announcing redundancies
+A: Pick one that combines letters and numbers that make it hard to guess
+B: Use the word "password" - it's easy to remember
+C: Use the same one as you use on every other site
+A: Guerilla activism by open source software advocates in which they uninstall Windows on a PC and replace it with Linux
+B: US politicians criticising the US Department of Defense's Office of Security
+C: One that tries to knock a web server offline by bombarding it with huge amounts of data

@@ -1,0 +1,66 @@
+Viruses turn to peer-to-peer nets
+Virus writers are setting up peer-to-peer networks to help their malicious creations spread.
+The networks are being used to control thousands of innocent PCs that some virus programs have infected.
+The tactic is being used because peer-to-peer networks are hard to disrupt, making viruses using this technique hard to stop spreading.
+Security experts say peer-to-peer networks are likely to become more and more popular with virus writers.
+Evolving threat
+One of the first viruses to set up a peer-to-peer network to help it spread was the Slapper worm that was aimed at the Linux operating system.
+It's always been an arms race in the battle between virus writers and anti-virus companies 
+
+
+
+			
+
+
+
+
+
+                
+                     
+                    
+	
+	Pete Simpson, Clearswift
+
+
+
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+	A Windows virus called Sinit appeared in late 2003 that turned every machine infected by the malicious program into a member of a peer-to-peer network.
+It was expected that Sinit's creator would issue commands to infected computers via this network.
+"It's always been an arms race in the battle between virus writers and anti-virus companies," said Pete Simpson of mail filtering firm Clearswift.
+"Sinit represents a new and daunting challenge to anti-virus companies."
+There are many different ways to organise machines into peer-to-peer networks but most avoid having one central computer, or server, controlling all machines involved.
+Instead, each machine shares the burden of organising the system and each member lets others know the information that it holds.
+The most well-known peer-to-peer networks, such as Kazaa, are used by many people to find and share music, videos and other types of files.
+Bot nets
+In the past some creators of Trojan programs, that open up a backdoor into an infected PC, have used net chat channels as a way to issue commands.
+Many people use peer-to-peer networks to swap music and movies
+			
+			
+		
+		
+	
+
+	
+
+
+	
+Often thousands of computers were enrolled in these remote controlled networks that have been dubbed "'bot nets".
+Finding and shutting down the chat channels would effectively cut a virus writer off from his network of slave machines.
+But shutting down a distributed network would be much more difficult because no one machine is in charge.
+It also is much more difficult to trace where commands were being inserted and find the network's controller.
+Kevin Hogan, head of Symantec Security Response, said the good news about peer-to-peer virus networks was that they were rare.
+"It's a little bit trickier to do than just having the Trojan point to a single server," he said.
+He said many peer-to-peer networks were often not very efficient at passing commands between member machines. Also many swap data via rarely used ports that most firewalls routinely block.

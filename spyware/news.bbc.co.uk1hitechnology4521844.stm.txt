@@ -1,0 +1,97 @@
+Criminals target viruses for cash
+There were few large scale virus outbreaks in 2005
+At first glance 2005 looks like it was a quiet year for computer security because there were far fewer serious Windows virus outbreaks than in 2004.
+According to figures gathered by security firm Symantec, there were 33 serious outbreaks in 2004. These are incidents measured by the number of people a virus infects or the severity of the damage they inflict.
+In 2005, there were only six such incidents.
+"We're talking about a substantial decrease in worldwide pandemics," said Kevin Hogan, senior manager in Symantec's security response team.
+This decline is taking place because virus makers have largely stopped spreading their malicious wares with mass-mailers that try to infect as many people as possible via their inbox.
+Looks familiar
+Instead, virus creators are cranking out more versions of malicious programs than ever before.
+Year-end statistics from Finnish anti-virus firm F-Secure show that there were 50% fewer virus outbreaks in 2005 but the number of malicious programs has grown by, on average, 40% for the last two years.
+PC SAFETY TIPS
+                        
+                
+		
+                
+                     
+                    Install anti-virus software. Update it daily
+
+
+Regularly scan your PC to ensure it is clean of viruses
+
+
+Install a firewall. Keep it updated
+
+
+Use one or more spyware scanners. Keep them updated and scan your PC regularly.
+
+
+Do not respond to unsolicited e-mails bearing attachments.
+
+
+Keep Internet Explorer updated or use another web browser
+
+
+Be careful to check what also comes with anything you download from the web
+
+
+Keep Windows updated and apply patches for security loopholes
+
+
+Be careful where you visit online. Some sites may harbour spyware.
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+Similarly Sophos reported that it found 1,940 new malicious programs in November 2005, the largest increase since records began.
+Evidence for this rash of variants can be found in the list of the top 20 viruses for 2005 compiled by Kaspersky labs in which the MyTob virus fills nine places.
+Security experts say this explosion in variants is partly driven by a desire to overwhelm anti-virus firms. With defences spread thinly, hackers believe they will have more time for their particular creation to infect machines.
+The malicious hackers are also keen to replenish the ranks of the viruses circulating online as fixes are found for previous versions.
+Targeted code
+It also marks a tactical change toward more customised attacks. Instead of trying to infect everyone, many virus creators are creating variants that attack small groups of users.
+Sometimes these are customers of particular companies, often banks, and occasionally they are the workers in a single organisation.
+Visit the wrong website and your computer could catch a bug
+			
+			
+		
+		
+	
+
+	
+
+Smaller groups are being targeted because many of the groups sending out viruses are criminals keen to profit from the machines they compromise.
+Mr Hogan from Symantec said there was only circumstantial evidence in 2004 that criminals were getting involved in viruses, spam and phishing.
+But in terms of this year, he said: "With customers and others we have seen clear evidence that this is being done for money."
+Virus writers can make money by renting out control of the machines they have compromised as spam relays, pop-up ad networks, for mounting net attacks or as hosts for illegal material.
+It is not just virus writers that are customising their attacks. This year has also seen phishing gangs refine their methods to try to improve their success.
+For instance, in August 2005, customers of Swedish bank Nordea received an e-mail in their local language that tried to make them visit spoof websites and type in security codes.
+Notified about the attack, Nordea shut down its online arm while it made sure no money had been illicitly transferred.
+Other custom attacks have been launched against players of online games, such as Lineage, in an attempt to steal player accounts.
+Stealthy software
+Not all malicious hackers make money by stealing it. 2005 saw large numbers of tech savvy criminals generating significant incomes by compromising computers so people are bombarded with pop-up ads or have their web browser hijacked so it takes them to sites they would not otherwise visit.
+Behind these pop-up bombardments and browser hijackings are so-called adware and spyware programs. These can be contracted by visiting the wrong website which forces the installation of adware; by downloading applications such as file-sharing programs in which the adware lurks or by following a link in an e-mail.
+Virus writers are starting to target online game players
+			
+			
+		
+		
+	
+
+	
+
+Online security firm ScanSafe, which cleans up web traffic for customers, said the amount of spyware it had blocked was doubling every month since it started its monitoring program earlier in 2005.
+It also said that the number of web-based attacks that try to install spyware and adware had grown by 165% in the last 12 months.
+Spyware makers were working hard to stop their creations being found said Eldar Turvey, chief executive of ScanSafe.
+"Spyware is becoming more stealthy," said Mr Turvey. Many viruses are designed to be disposable but spyware makers want their creations to persist.
+Many spyware makers were disguising the data their programs send back by making it look like ordinary web browser traffic that easily slips through firewalls.
+One final worrying trend seen in 2005 was the emergence of attacks aimed at security software.
+Many makes of anti-virus, firewall and PC protection programs are seen as a weak link by hacker groups.

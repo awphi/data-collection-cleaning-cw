@@ -1,0 +1,19 @@
+Malware found on laptops given out by government
+Some of the laptops given out in England to support vulnerable children home-schooling during lockdown contain malware, BBC News has learned.
+Teachers shared details on an online forum about suspicious files found on devices sent to a Bradford school.
+The malware, which they said appeared to be contacting Russian servers, is believed to have been found on laptops given to a handful of schools.
+The Department for Education said it was aware and urgently investigating.
+A DfE official told BBC News: "We are aware of an issue with a small number of devices. And we are investigating as an urgent priority to resolve the matter as soon as possible.
+"DfE IT teams are in touch with those who have reported this issue."
+"We believe this is not widespread."
+Geo, the firm which made the laptops, told the BBC: "We have been working closely with the Department for Education regarding a reported issue on a very small number of devices. We are providing our full support during their investigation.
+"We take all matters of security extremely seriously. Any schools that have concerns should contact the Department for Education."
+According to the forum, the Windows laptops contained Gamarue.I, a worm identified by Microsoft in 2012.
+The government has so far sent schools more than 800,000 laptops, as it tries to distribute more than a million devices to disadvantaged pupils who may not have access at home.
+"Upon unboxing and preparing them, it was discovered that a number of the laptops were infected with a self-propagating network worm," wrote Marium Haque, deputy director of Education and Learning at Bradford Council.
+She recommended that schools also check their networks "as an added precaution".
+Information security consultant Paul Moore told the BBC that the Gamarue worm "presents a very severe threat to any PC or network".
+"Ideally users should reboot into safe mode and run a full scan with an anti-virus product," he said.
+"However with this type of malware, it is advisable to seek professional assistance in order to ensure it has been correctly removed."
+The malware in question installs spyware which can gather information about browsing habits, as well as harvest personal information such as banking details.
+"The fact that these devices were not checked and scrubbed before being sent to vulnerable children is a concern," said George Glass, head of threat intelligence at security firm Redscan.

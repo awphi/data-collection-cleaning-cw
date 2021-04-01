@@ -1,0 +1,17 @@
+Global phone networks attacked by hackers
+Hackers targeted mobile phone networks around the world to snoop on specific users, according to a report.
+The level of access they gained to the networks meant they could have shut them down had they wanted to.
+US-Israeli security firm Cybereason concluded "with a high level of certainty" that the hackers were based in China, probably sponsored by the government.
+The attack - dubbed Operation Softcell - began in 2017.
+Cybereason spotted the attacks in 2018 and helped one telecoms provider through four more over the next six months. It has now briefed more than a dozen others.
+None of the targeted firms or people has been named but, according to the report, the hackers collected the call records and geo-location of various individuals from a selection of countries, including those in Europe, the Middle East and Asia.
+The security firm identified changes in the pattern of attack and new activity every three or four months.
+The hackers gained entry to networks via a flaw in a web server product.
+'Grist to the mill'
+Cybereason said the tools and techniques bore the hallmarks of Chinese hacking group APT10, which is widely believed to operate on behalf of the Chinese government.
+Security expert at the University of Surrey,  Prof Alan Woodward said the scale and audacity of the attacks was "breathtaking".
+"The hackers used phishing attacks to get privileged access to networks and could potentially have closed them down.
+"They could see who called whom, when, and also seem to have been able to track people's movements."
+While US networks do not seem to be affected by this wave of attacks, they remain vulnerable and could have been targeted with different tools, said Prof Woodward.
+While there is no suggestion that Chinese firms played any part in the attacks, it will add "grist to the mill" for politicians calling for mobile operators to distance themselves from firms like Huawei, he added.
+In 2018, 30% of telecoms firms reported that sensitive customer data had been stolen in attacks.

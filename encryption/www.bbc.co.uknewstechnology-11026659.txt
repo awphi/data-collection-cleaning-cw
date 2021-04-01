@@ -1,0 +1,44 @@
+Wikileaks encryption use offers 'legal challenge'
+A novel use of encryption by whistle-blowing website Wikileaks could "challenge the legal system for years to come," according to an influential observer of the hacking community.
+Emmanuel Goldstein, editor of 2600 The Hacker Quarterly magazine, made his comments in reference to an encrypted file recently posted on the site.
+Some suspect the file - as yet unopened - contains further sensitive material.
+It has been reposted around the web and is available for anyone to download. So far, it has beeen downloaded 100,000 times.
+"If you release it in encrypted form, nobody really knows if you've released it or not - or even what the material is," Mr Goldstein told BBC News.
+"Then, if something happens to you, all it takes is the revelation of a simple spoken phrase known by a select group of people and everyone who has this mystery file now has all of the secrets."
+'Uncrackable file'
+Wikileaks recently published 76,000 secret US military logs detailing military actions in Afghanistan; an act the US authorities described as highly irresponsible.
+The website now says it will release 15,000 further sensitive documents, once it has completed a review aimed at minimising the risk that the release could put people's lives in danger.
+The site came under criticism after it released the first tranche for endangering the lives of informants or others named in the documents.
+The release of the logs has led many to wonder what action the US might take against Wikileaks.
+Now it seems the site may be using encryption as insurance against legal and other threats to the information it holds.
+The insurance.aes256 file has been posted alongside the already published leaked war logs and can be downloaded by anyone.
+From the file name, it is believed that it has been encrypted using the AES256 algorithm - described as "extremely strong" by Professor Whitfield Diffie, of the Information Security Group at Royal Holloway University, London.
+Prof Diffie believes that AES256, which he says has been "extensively studied" could prove too tough even for US intelligence agencies to break.
+While no-one knows what the insurance file contains, this has not prevented the contents becoming a matter of considerable speculation.
+Some suspect that the file contains a further leaked US military video, others that it is another tranche of US military logs - perhaps this time from Iraq. Or it could  just be an imaginative bluff.
+Even the name of the directory in which it is held - "straw-glass-and-bottle" - has prompted discussion and debate online.
+'Historical value'
+Speaking at a recent event at London's Frontline Club, Wikileaks founder Julian Assange told attendees how the use of encryption could help overcome legal efforts to prevent publication.
+Mr Assange told the BBC that Wikileaks had often distributed encrypted material among its members in order to protect it.
+"We have over a long period of time distributed encrypted backups of material we have yet to release," he told the gathering.
+"All we have to do is release the password to that material and it is instantly available," he said.
+By publishing the encrypted documents publicly, Mr Assange said Wikileaks was protecting material of historical value.
+"That duty to history is something that weighs heavily with us. If you had the Stasi archive in your pocket, that is a very heavy pocket indeed," he said.
+"We take precautions to make sure that sort of material is not going to disappear from history regardless of the sort of threats to this organisation."
+Intelligence test
+But with the "insurance file" Wikileaks has taken the unusual step of making an encrypted backup - if that is indeed what it is - publicly available online.
+Emanuel Goldstein told the BBC: "Julian is smart. He always has a backup, which is the rule of thumb in this community."
+But he believes this goes further than just a need to preserve information.
+"It's a fascinating tactic and one which will challenge the legal system for years to come."
+In Mr Goldstein's view, any attempt now to seize or prevent publication of material held by Wikileaks will be self-defeating because thousands of copies will already have been distributed world wide.
+It is, he says, "a tactic of intelligence to ward off the inevitable clampdown."
+But Cindy Cohn, legal director of the Electronic Frontier Foundation is less convinced the file represents a challenge to the US government.
+"I don't see it as a challenge, as much as being open about what's going on," she told the BBC.
+In Ms Cohn's view the idea of circulating encrypted copies of information to keep it safe is well-established.
+The tactic, according to Ms Cohn, has been used in the past by human rights groups and other organisations.
+She points to projects like Freenet, which use encryption and wide distribution of data to resist censorship.
+"Wikileaks is doing the same basic thing in a more directly political context and using encryption to allow them to be more open about it on the front end."
+For Prof Diffie, the release of information in this way does open up interesting possibilities.
+"In a sense communications networks can be defined entirely by who has cryptographic keys, and I think a lot of networks will work that way in the future."
+That's a view which will not be good news for those trying to prevent groups sharing and publishing leaked material.
+"I think that the people who are trying to shut down Wikileaks are going to have to accept this as a fact of reality that cryptography allows you to do this kind of thing," Prof Diffie said.

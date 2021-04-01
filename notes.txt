@@ -1,0 +1,9 @@
+Things to mention in report:
+ * Runtime of algorithm, why it's good blah blah
+ * I've merged problems 1 and 2
+
+TODO:
+ * Report
+ * Comment the hell out of the code
+ * Check Q&A for clarifications regarding question 1 and how to determine if an article is relevant
+

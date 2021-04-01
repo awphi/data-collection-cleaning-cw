@@ -1,0 +1,13 @@
+Chinese shipping firm infected by ransomware
+Chinese shipping firm Cosco has been caught out by Windows ransomware.
+The infection has knocked out some electronic communications at several of its North American locations.
+In a statement, it said a "local network breakdown" had hit its American region. It said it had isolated the offices as it investigated.
+China Ocean Shipping is China's largest carrier of containerised goods and the fourth largest of these maritime operators in the world.
+'Operating normally'
+Cosco's US website plus email and many phone lines were all reportedly rendered inoperable by the outbreak.
+Instead of using its own communications system. the infection forced Cosco staff to use Twitter and free Yahoo email addresses to handle queries.
+It is not clear which variant of Windows malware has hit the company. It told local media in Long Beach that problems at the company, including in its customer service centre, had been caused by the ransomware.
+On its Facebook page, Cosco gave few details of the infection.
+It added: "So far, all vessels of our company are operating normally, and our main business operation systems are stable."
+It said that despite the problems it was still doing business in America and expected to make a "full and quick recovery".
+Last year, shipping giant Maersk suffered a series of problems when it was infected by the Wannacry ransomware. Cleaning up required the firm to shut its facilities at the Port of Los Angeles for three days.

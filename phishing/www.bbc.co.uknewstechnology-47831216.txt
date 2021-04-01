@@ -1,0 +1,17 @@
+Facebook 'hosts' cyber-crime marketplaces
+Facebook has been host to "dozens" of busy marketplaces and exchanges used by cyber-thieves to buy and sell stolen goods, suggests a security firm.
+Researchers at Cisco found 74 groups on Facebook that openly traded stolen credit card numbers and bank account details.
+The groups had a regular membership of about 385,000 people, they found.
+Facebook said it had shut down the groups for breaking the social network's policies on financial fraud.
+Cashing in
+Jon Munshaw and Jaeson Schultz from Cisco's Talos security division detailed their findings in a blog and said they were surprised that the thieves were operating "right out in the open".
+Often, said the pair, pursuing cyber-criminals involved tracing them to hidden servers on dark web addresses, rather than just searching on social media sites.
+Instead, they said, the gangs operating on Facebook took few steps to conceal what they were doing. The groups exhibited a wide variety of behaviours that spanned the spectrum from "shady" to "illegal".
+Some openly advertised hacking, phishing and spamming services, while others sought buyers for stolen personal finance information that included both credit card numbers and personal documents, including driving licences and ID cards.
+Facebook's own algorithms also proved useful because they "helpfully" suggested other similar-themed groups once the two researchers started looking for card thieves, spammers and other cyber-criminals.
+Across the groups, payment was accepted in crypto-currencies or via payment services such as PayPal, said the Talos team. Some groups used middlemen or "mules" to pipe cash to buyers.
+The Talos researchers said they initially tried to get the groups shut down by using Facebook's own on-site tools but this proved ineffective.
+To make a bigger impact, the team built up links with Facebook's internal security team and passed on detailed information about the criminal marketplaces.
+This led to the "majority" of the groups being removed, they said, but some were still active and Talos was still working to shut these down.
+Facebook said it removed groups that "violated" policies against spam and financial fraud.
+It added: "We know we need to be more vigilant and we're investing heavily to fight this type of activity."

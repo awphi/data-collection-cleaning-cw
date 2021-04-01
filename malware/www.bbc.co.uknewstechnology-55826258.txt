@@ -1,0 +1,18 @@
+Emotet botnet taken down by international police swoop
+Police have seized thousands of computers running one of the most dangerous hacking networks worldwide.
+The Emotet network obtains access to victims' computers, via malicious email attachments, then sells it to criminals who install more dangerous malware.
+Police from the UK, EU, US and Canada worked together to "disrupt" Emotet.
+Europol called it "one of most significant botnets of the past decade" and one of the main "door openers" for computer systems worldwide.
+"Once this unauthorised access was established, these were sold to other top-level criminal groups to deploy further illicit activities such data theft and extortion through ransomware," it said.
+Dmitry Smilyanets, from Recorded Future, said: "Even if the creator and his support and operators are not arrested, they likely will not try to rebuild.
+"They have enough cash to retire in peace - or start a new criminal adventure.
+"A working botnet is a very complicated and gentle system.
+"If more than a half of the infrastructure is not working, it's safe to say bye-bye."
+'Enable Macros'
+Emotet was initially a banking trojan, designed to spy on victims' computers and steal login details.
+Victims would receive an apparently important Word document marked for their attention.
+When opened, it would ask them to "enable Macros" - a seemingly innocent feature built into Microsoft Word that actually opened their computer up to attackers.
+Lotem Finkelstein, of Check Point Software, said it had been tracking Emotet for years.
+"The most successful and prevalent malware of 2020 by a long way", he said, it had, over the course of the year, sent phishing emails with more than 150,000 different subject lines and 100,000 file names for the attachments.
+"It constantly adjusted its phishing emails to victims' interests and global events - for example, the Covid-19 pandemic or major shopping seasons such as Black Friday," Mr Finkelstein said.
+And although the Europol announcement may seem "abstract", it would protect "the public from cyber-threats that have caused losses of millions, if not more, of dollars".

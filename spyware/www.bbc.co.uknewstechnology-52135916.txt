@@ -1,0 +1,26 @@
+Coronavirus: Privacy in a pandemic
+These are strange times. Germany, perhaps the most privacy conscious nation on earth, is considering a mobile phone app that would trace the contacts of anyone infected with Covid-19.
+Earlier this week the British Prime Minister shared a picture of an online Cabinet meeting, complete with the Zoom meeting ID and the usernames of ministers. And millions of us are sharing views of our kitchens over this and other video-conferencing apps, without apparently being too concerned about poor privacy controls.
+Meanwhile, the National Health Service in England has sent out a document that appears to mark a shift in its policy on patient data, giving staff more latitude to share information relating to the coronavirus. In particular, it mentions the use of data to understand trends in the spread and impact of the virus and "and the management of patients with or at risk of Covid-19 including: locating, contacting, screening, flagging and monitoring such patients".
+In other words, hospital staff and GPs, who until now may have been cautious almost to the point of paranoia about data protection, can chill out a little.
+As someone who has previously been asked by my optician to take pictures on my phone of an eye scan and take them to a hospital doctor because they were not permitted to email them, the new policy seems sensible.
+So are we becoming more relaxed about privacy because of the pandemic, or are we in danger of allowing governments and corporations to trample over our rights using the excuse of the emergency?
+The former Portuguese Europe Minister Bruno Macaes, now a writer and commentator, made it clear where he stands in this startling tweet:
+The idea that any concern about privacy in the battle against the virus is not only irrelevant but could prove fatal is at one extreme of this argument.
+At the other are some privacy campaigners, who appear to think that any form of monitoring people with the virus risks the creation of a surveillance state.
+We can see this battle playing out in the debate over the contact-tracing apps now being considered by a number of European countries, including the UK.
+A press conference with a consortium of European scientists aiding their development began with a clear declaration about putting privacy at their core.
+Hans-Christian Boos, an AI entrepreneur and adviser to Chancellor Merkel, is one of the initiative's leaders.
+He said one of the motivating factors was to address the question: "Can we really build proximity-tracing while preserving privacy completely?"
+It is possible, they concluded, if the system is built round the use of Bluetooth signals and anonymous IDs. Singapore's TraceTogether, which already does this, is being cited as a good example.
+But some countries are taking a less cautious approach.
+Russia's Social Monitoring app for citizens who have tested positive for Covid-19, will request access to calls, location, camera, storage, network information and other data to check they do not leave their home while contagious.
+Taiwan has been using network data to monitor citizens in quarantine, in one case resulting in a man getting a visit from the police 45 minutes after his phone went flat.
+And perhaps the most extreme option is a software tool being touted by the Israeli spyware firm NSO Group. It envisages governments telling mobile phone operators to hand over all their data on the movements of every subscriber.
+When I asked an NHS official whether such an approach would be feasible here, I could almost hear him turn white over the phone.
+The team working on an app for the UK is acutely conscious that it needs to retain the trust of the public if they are to achieve a target of getting about 60% of the population to install it when released.
+Telling citizens their government will be logging their every move would be a clear deterrent .
+But here's the problem. Getting apps and other technology solutions out there fast, while cutting a few privacy corners, could mean that lockdowns and the other restrictions on daily life might be be eased earlier.
+Countries like the UK which are more cautious about privacy are likely to be slower in rolling out contact-tracing technology - and that may mean they are locked down for longer.
+So, might the public be willing to trade one kind of freedom -  the right to privacy - for another - the right to leave their homes and return to work?
+As with so many areas of our lives, the virus is forcing us to confront difficult questions about our priorities.

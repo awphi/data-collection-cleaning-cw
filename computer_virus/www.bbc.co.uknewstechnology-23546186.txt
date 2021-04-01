@@ -1,0 +1,18 @@
+Latvia resists US call to extradite 'virus maker'
+Latvia is resisting calls to extradite a man the US alleges wrote a computer virus used to steal millions.
+In January, Latvian Deniss Calovskis was named by the US as one of the creators of the Gozi virus.
+Latvian courts have twice rejected Mr Calovskis' appeal to prevent himself being extradited, but the country's foreign minister opposes the move.
+He said the potential jail term Mr Calovskis faced was too severe for the crimes he is alleged to have committed.
+The US began its campaign to extradite two of the three men alleged to have used Gozi soon after publicly accusing the trio of infecting more than one million computers with the virus and stealing data that was then used to plunder bank accounts.
+They ran a "modern-day bank robbery ring, that required neither a gun or a mask", said US attorney Preet Bharara in January.
+Romanian Mihai Ionut Paunescu and Russian national Nikita Kuzmin were named as the co-creators of Gozi. Mr Kuzmin is already in jail in the US following his arrest in May 2011 on separate hacking and fraud charges. Extradition proceedings against Mr Paunescu are currently on hold pending an appeal.
+In a message posted to the website of Latvia's Foreign Ministry, minister Edgars Rinkevics said Latvian law guaranteed that people who broke the law suffered only "proportionate punishment".
+Mr Rinkevics said the US sought a jail term for Mr Calovskis that exceeded 60 years.
+While he could not take a view on whether Mr Calovskis broke the law or not, the jail term amounted to an effective life sentence, he wrote.
+"In my view, such a penalty is disproportionate to the amount, and so far no-one has been able to conclusively dispel my fears that it might be otherwise," he said.
+In addition, he said, there were questions over whether any of the crimes Mr Calovskis is alleged to have committed actually took place on US soil. The trans-national nature of much cyber crime would make it hard to prove his involvement, wrote Mr Rinkevics.
+Finally, said the minister, if Mr Calovskis was found guilty there was no reason why he could not serve a sentence for his crimes in his native Latvia.
+Security analyst Graham Cluley said Gozi was a very successful trojan that pilfered huge sums from bank accounts.
+"If you caught a criminal who stole sums like that in traditional bank robberies, you would expect them to have the book thrown at them and wouldn't be surprised if they ended up with a serious criminal sentence," he said.
+"It's important to see more co-operation internationally to bring internet criminals to justice, and a consistency in the treatment and sentencing of convicted hackers," he added.
+"It's necessary when investigations cross national boundaries that proper legal processes are followed, which can mean it takes a lot of time and effort to get a result," said Mr Cluley.

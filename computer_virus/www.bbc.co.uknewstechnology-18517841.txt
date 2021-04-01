@@ -1,0 +1,32 @@
+US and Israel tied to Flame attack by Washington Post
+Accusations the US and Israel jointly created the computer virus Flame have been printed by the Washington Post newspaper.
+It quoted unnamed "Western officials with knowledge of the effort"  
+          
+ 
+          as its sources
+.
+The powerful malware was discovered after the UN noticed data disappearing from PCs in the Middle East.
+The Post said the US National Security Agency, the CIA and Israel's military had collaborated on the project.
+It had "intended to slow Iran's nuclear program, reduce the pressure for a conventional military attack and extend the timetable for diplomacy and sanctions", the newspaper said.
+Reuters subsequently reported  
+          
+ 
+          that current and former Western national security officials
+ had told the news agency the US had been involved in making the virus.
+The BBC has been unable to confirm or disprove the allegations.
+Flame is thought to have been first noticed when Iran's servers were taken offline in April following a malware attack on key oil terminals.
+Covert action
+A later report by anti-virus company Kaspersky Labs said there had been 189 attacks in Iran, 98 in Israel and Palestine, and 32 in Sudan.
+A "former high-ranking US intelligence official", who it said had spoken on the condition of anonymity, told the Washington Post: "[Flame] is about preparing the battlefield for another type of covert action.
+"Cyber-collection against the Iranian programme is way further down the road than this."
+Iran has said it is now able to defend itself against the malware and clean up infected PCs .
+Under siege
+But the attacks could lead the country to develop its own sophisticated cyber-capabilities, Mark Phillips, a research fellow at defence think tank the Royal United Services Institute (RUSI), told BBC News.
+"If it did originate from the US and/or Israel, Iran is going to feel under siege as a result of a number of attempts - a previous one was Stuxnet - and will seek to improve its cyber-defences," he said.
+"The better you are at detecting cyber-actions, the better you are at infiltrating others.
+"This cyber-onslaught that Iran has been facing from Stuxnet through to Flame is actually helping it to become a really serious cyber-power in its own right, which would not have been an intended effect of whoever developed Flame."
+Nation-state involvement
+Security experts call Flame one of the most complex threats ever seen, suggesting a nation state rather than individual hackers are likely to have been behind its development.
+"The reason [sources] may want to stay anonymous is because of the sensitive nature of technologies and capabilities involved," said Mr Phillips.
+"We're probably stuck with a situation where we'll only have this speculation for a foreseeable future."
+The Israeli embassy in London declined to comment.

@@ -1,0 +1,26 @@
+Facebook encryption: Should governments be given keys to access our messages?
+Governments in the UK, US and Australia have asked Facebook, in an open letter, to roll back plans to bring end-to-end encryption to all of its platforms.
+Facebook, rocked by privacy scandals, responds that everyone has the right to a private conversation.
+It is the latest in an age-old battle between privacy and safety, which has played out between governments and tech firms ever since digital communication became mass market.
+What is end-to-end encryption?
+As the name suggests, this is a secure way of sending information so that only the intended receiver can read it.
+The information is encrypted while it is still on the sender's device and is only decrypted when it reaches the person intended. Nobody, not even the platform owner, has the keys to unlock it.
+It was introduced partly as a response to National Security Agency whistleblower Edward Snowden's revelations that the intelligence services in the UK and US had many ways to intercept communication and were doing so on a mass scale.
+Why has this become an issue now?
+The UK and the US have just signed an historic agreement to give each other a much faster way of getting hold of private conversations - cutting down the process time from months or years, to weeks or days.
+But that agreement could potentially be rendered a bit useless, if they cannot read the scrambled messages.
+Is there evidence encryption has hampered police enquiries?
+When the BBC asked the Home Office to provide examples, it could not do so.
+The real issue is the fact that Facebook will no longer be able to police its own content, it said.
+It pointed to the fact that last year Facebook sent 12 million reports of child exploitation or abuse to the US's National Center for Missing and Exploited Children, and it would no longer be able to do this if it had encryption on all its platforms.
+It is something that Facebook chief Mark Zuckerberg addressed directly in a Q&A with staff about the issue.
+"When we decided to go to end-to-end encryption across the different apps, this is one of the things that just weighed the most heavily on me," he said.
+"There is more stuff on basically being able to identify patterns of activity, especially around sharing child pornography, and things like this that are just terrible, that I think you can probably find through patterns of activity and that we are going to ramp up investment of," he added.
+He was keen to point out that the fact there was so much child abuse imagery reported via Facebook did not indicate that Messenger, the name of Facebook's direct messaging service, was the preferred platform for it, more that Facebook had become very good at finding it and sending it on.
+Would it be easy for Facebook to give police a backdoor?
+"A backdoor is rather like leaving a key under the mat - once someone knows it is there anyone can walk in," said Prof Alan Woodward, a security expert at the University of Surrey and a consultant to Europol.
+His words were echoed by human rights pressure group Amnesty International in its response.
+"Proposals for a 'backdoor' have repeatedly been shown to be unworkable. There is no middle ground: if law enforcement is allowed to circumvent encryption, then anybody can," it said.
+Governments could also ask the social network to change the technical architecture of its platforms so messages could be decrypted when they reached the server. But that would signal a return to days of mass surveillance, thinks Prof Woodward.
+"It's exactly what we had before Snowden's revelations and the reaction of the service providers was to introduce end-to-end encryption such that they could not disclose either the key or the decrypted message even if compelled to by law. The laws of mathematics currently trump the law of the land."
+And, of course, there is good old-fashioned policing - if the police request data from WhatsApp, they do get IP addresses, phone numbers and contact lists which could be useful in piecing together evidence, even without the full messages

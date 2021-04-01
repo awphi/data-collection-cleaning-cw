@@ -1,0 +1,9 @@
+India exempts social media from encryption policy
+The Indian government has exempted social media applications from a new encryption policy after public uproar over the proposed measures.
+The new law would have forced Indians to store plain-text versions of their encrypted data for 90 days and make it available to security agencies.
+The policy sparked outrage on social media, as most messaging services like WhatsApp use some form of encryption.
+Online banking and purchases will also be exempt from the law.
+Indians have until 16 October to weigh in on the proposed measures, and the government has said that the final policy will only be drafted after the feedback is taken into account.
+The encryption policy was proposed to enhance information security in India.
+But experts argue that if enforced in its current form, the policy could make personal information vulnerable to hacking.
+Plain text files like a Word document or email are not encrypted and can be read by anyone.

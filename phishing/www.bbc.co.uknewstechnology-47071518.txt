@@ -1,0 +1,20 @@
+Google works on spotting dodgy 'evil domains'
+Google is working on a way for Chrome to do a better job of spotting fake websites that seek to trick people into handing over personal information.
+It is concentrating on websites that use letters and numbers to approximate a recognised brand.
+The work will mean Chrome will warn people they are about to visit sites it believes are fake.
+Security firm Wandera said it had seen a "constant rise" in attacks using the non-standard characters.
+The criminal gangs were exploiting a technology known as punycode, which converts non-English character codes into more familiar formats.
+British Airways was a popular target for gangs using these attacks, said the security firm.
+Hidden danger
+Google engineer Emily Stark talked about the search giant's development of the "evil domain" spotter at the Usenix Enigma security conference this week. Google has also shared early versions of the tool to help web developers test and refine it.
+While Chrome already includes features that aim to spot known unsafe sites, the new tool would go much further.
+Ms Stark said more needed to be done, because currently staying secure often relied on users noticing when domains were dodgy - even when experts would struggle to distinguish legitimate ones from those crafted by cyber-criminals.
+In particular, the tool will seek to tackle the growth of so-called homograph attacks that exploit modern browsers' ability to handle non-English characters.
+However, this transformation can hide the fact that they were not created by the organisation they seem to represent.
+Haris Kampouris, head of threat research at Wandera, said more and more cyber-crime gangs had turned to homograph attacks that abuse the punycode technology.
+"We are still seeing a constant rise on this type of scam or phishing domain," he told the BBC. "That's likely to be due to the plentiful combinations that can be used."
+Wandera had recently seen punycode domains for Google, BA, Adidas, Tesco, Asda and Ryanair that typically include one character that differed only slightly from its English equivalent, he said.
+BA was currently the most-targeted UK brand in terms of punycode domains, said Mr Kampouris.
+Many security firms and independent researchers have made add-ons for browsers or programs that spot phishing domains and try to warn people about these criminal domains.
+Mr Kampouris said Google's move was a "step in the right direction" in tackling homograph-based attacks but hoped that the feature would make it to browsers on mobile devices which often did not receive protections seen on desktops and laptop versions.
+Google has not given a date for when the domain-checking system will be added to Chrome.

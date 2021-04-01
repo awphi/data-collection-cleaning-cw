@@ -1,0 +1,21 @@
+Tech Tent: The battle with the bots
+Is the battle against online propaganda already being lost as AI puts powerful new weapons in the hands of the fake news merchants?
+Tech Tent reports this week on the desperate efforts by the social media giants to root out the armies of bots trying to pollute online debate.
+Following the mass shooting at a Florida school, conspiracy theorists and other trolls harassing some of the survivors were spreading stories that those who spoke out for gun control were actors.
+The Twitter Safety account highlighted action the company was taking, and also revealed that it was using what it called anti-spam and anti-abuse tools, to weed out "malicious automation" - bots that retweet abusive messages thousands of times, amplifying their impact.
+In other words, both the social media firm and the troll army it is fighting are deploying what you might describe as autonomous weapons made possible by advances in machine learning. Twitter has also been rooting out bots apparently linked to Russia, following the indictment of 13 Russians believed to have created fake accounts to conduct information warfare against the US.
+That means that one of the scenarios described in a report on potential malicious use of artificial intelligence published this week has already come true.
+One of the global experts behind the report, Haydn Belfield from Cambridge University's Centre for the Study of Existential Risk, tells us that what he calls "AI-enabled interference" in the democratic process is one of their major concerns.
+"What we're particularly worried about is undermining institutions of democracy, undermining what enables us to trust our fellow citizens and know what's happening in the world."
+Advances in machine learning, coupled with software which makes it easy to produce fake speech and video are putting new tools in the hands of those with malicious purposes.
+"It's very cheap and very easy to pump this stuff out and it really undermines the ability to continue a functioning democratic conversation in society."
+Not smart
+But do the bot armies which Twitter is battling really amount to an example of artificial intelligence - however widely defined - and are they really as potent a threat as has been claimed?
+Samantha Bradshaw, a researcher from the Computational Propaganda project at the Oxford Internet Institute, is rather more sceptical. She tells us that Twitter is finding it quite easy to spot automation and the bot creators are taking notice.
+"We're seeing a lot of bot developers taking a step back from automation, and instead blending automation with human curation," she said. That means they will post new comments, along with the automated retweets, to show that a "real person" is behind the account.
+While the spotlight has been on Russia when it comes to this wave of computational propaganda and other types of cyber-warfare, one expert tells us we should be more worried about North Korea.
+Dmitri Alperovitch is the Russian-born US cyber-security entrepreneur who founded Crowdstrike, the company which first identified Russian involvement in the hacking of America's Democratic Party. But he tells us that North Korea has spent 15 years building cyber-warfare capabilities, including "breaking into financial institutions and stealing hundreds of millions of dollars," and hacking Sony Pictures after it made a jokey film about the regime.
+What seems extraordinary is that a country that is so impoverished and so closed off from the outside world should be able to pose a serious cyber-warfare threat to  the United States, the world's technology superpower.
+"Anyone who can build a nuclear weapon can certainly do cyber," said Mr Alperovitch, explaining this is a kind of asymmetric warfare, where attack is easier than defence.
+Cyber-warfare techniques and artificial intelligence have advanced a long way in recent years. Linking the two fields could bring new threats to our security that we cannot imagine today.
+Podcast available now:

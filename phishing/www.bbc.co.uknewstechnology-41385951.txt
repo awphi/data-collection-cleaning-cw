@@ -1,0 +1,23 @@
+Deloitte hit by data breach
+Corporate finance giant Deloitte suffered a cyber-attack that compromised confidential data, including the private emails of some of its clients, the company has confirmed.
+Its system had been accessed via an email platform and "very few" clients had been affected, Deloitte said.
+The Guardian reported the attack had been discovered in March but could have happened months earlier.
+Deloitte said it had contacted those whose data had been accessed.
+It did not confirm exactly how many people had been affected or how much information had been compromised.
+Deloitte carries out auditing, consultancy, tax and financial advice services for clients worldwide.
+For the year ending on 31 May, it reported revenues of of $38.8bn (Â£29bn).
+Email addresses
+Prof Alan Woodward, cyber-security expert at Surrey University, told the BBC that private email addresses alone were valuable data for hackers.
+"Many people expect their email address to be in the public domain," he said.
+"But what most people have done when dealing with confidential matters is they have a second address - and it looks like it is that one that may have been let out here.
+"Is it immediately going to be mean people's data will be breached? Not really - but the secondary, more confidential email addresses mean phishing can become much more sophisticated."
+Phishing is an attempt by criminals to get valuable information, such as banking login details, by pretending to be emailing from an official source.
+It is more likely to succeed if it is sent to an address that regularly receives correspondence from the real organisation.
+Deloitte said it had reviewed the email platform accessed and had determined there had been "no disruption" to the work of its clients.
+However, Tony Pepper, chief executive of data security company Egress, said that compromised email servers could be full of sensitive information.
+"This is why multi-factor access control such as two-factor authentication is important, especially for administrators," he said.
+"It makes it much harder to gain illicit access in the first place, and provides a warning if someone is trying to log in without your knowledge."
+Two-factor authentication involves providing extra information before logging in - for example, an access code sent by text message.
+Mr Pepper added that individual emails should also be encrypted.
+In a statement, Deloitte said it had informed government authorities and regulators of the breach.
+"Deloitte remains deeply committed to ensuring that its cyber-security defences are best in class, to investing heavily in protecting confidential information and to continually reviewing and enhancing cyber-security," it said.

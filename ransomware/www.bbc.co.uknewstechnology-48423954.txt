@@ -1,0 +1,34 @@
+Baltimore ransomware attack: NSA faces questions
+Politicians representing a US city struck by a ransomware attack are asking questions of the National Security Agency after claims it helped make the breach possible.
+The New York Times reported on Saturday that a hacking vulnerability known as EternalBlue has been exploited to blackmail Baltimore's local government.
+The NSA discovered the flaw, but the paper claims that its cyber-spies kept the discovery secret for years.
+The NSA declined to comment.
+But the report has particular resonance as the organisation is headquartered at Fort Meade, Maryland, which is a short drive from Baltimore.
+"We don't have anything for you on this," an NSA spokesman told the BBC.
+The EternalBlue flaw has been implicated in a range of cyber-attacks over the past three years, including the WannaCry assault that disrupted the UK's NHS.
+It involves a bug in old versions of Microsoft's Windows operating system that allows other malicious code to be run on infected computers.
+The NSA reportedly created a tool to do this, which it also called EternalBlue.
+The New York Times said the agency did not disclose the problem to Microsoft for more than five years until a breach forced its hand.
+Microsoft released a fix for EternalBlue flaw in March 2017.
+Weeks later, a group calling itself the Shadow Brokers leaked the NSA's related hacking tool online.
+The NSA has never confirmed how it came to lose control of its code nor officially commented on the affair.
+But the suggestion is that if it had shared its findings with Microsoft at an earlier stage, fewer PCs would have been exposed to subsequent attacks that made use of the vulnerability.
+Email lock-out
+Thousands of Baltimore's city government computers were frozen on 7 May after their files became digitally scrambled.
+The criminals responsible demanded 13 Bitcoin ($114,440; Â£90,200) to unlock them all, or three Bitcoin to release specific systems ahead of a deadline, which has now passed.
+The authorities refused.
+Local residents have been unable to pay utility bills, parking tickets and some taxes online as a consequence.
+In addition, staff have been unable to send or receive emails from their normal accounts.
+Senator Chris Van Hollen and Congressman Dutch Ruppersberger have told the Baltimore Sun newspaper that they are now seeking "a full briefing" directly from the NSA.
+"We must ensure that the tools developed by our agencies do not make their way into the hands of bad actors," the senator told the paper.
+Some security experts say if EternalBlue is truly involved, then IT managers should have installed a patch long ago.
+But one consultant noted that this may have been easier said than done.
+"For some organisations, patching can be a non-trivial exercise, even with a couple of years of lead time," said Troy Hunt.
+"Specialised systems such as medical devices, for example, often go unpatched for long periods of time.
+"Offsetting that risk are factors such as the devices not being internet-connected. although given we're still seeing infections due to EternalBlue two years after it was patched, evidently there are still systems out there both unpatched and exposed."
+On the ground in Baltimore:
+It's not exactly the talk of the town here - after all, it's not like Facebook has gone down, merely crucial public services.
+For those who have been affected, it's very frustrating - a delayed house sale here, a new business that can't open on schedule there. One person told me about how they have been unable to pay for their wedding venue at a place part-owned by the city.
+Another told me they couldn't go online to pay a parking ticket - that's not as fortunate as it sounds, trust me.
+A further kick in the teeth for this city is the suggestion that this attack used an exploit discovered not by the Russians or Chinese, but by an organisation based just 20 miles away - the US National Security Agency.
+City officials want answers on that, but locals don't want it to be a scapegoat. There have been repeated warnings here about severe underinvestment in government IT infrastructure.

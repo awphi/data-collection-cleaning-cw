@@ -1,0 +1,16 @@
+Police will 'struggle' to track criminals via 5G
+European police forces may not be able to track criminals effectively over 5G mobile networks, Europol has warned.
+The pan-European agency's director said it currently lacked tools that on 4G networks gave police the ability to eavesdrop on criminals.
+Police forces joined discussions about 5G too late to ensure tracking abilities were preserved, it added.
+Mobile industry body the GSMA said the comments were "surprising" as criminals could still be lawfully tracked via 5G.
+Acute need
+Speaking to Reuters, Europol director Catherine De Bolle said the ability to carry out surveillance via current 4G networks was "one of the most important investigative tools that police officers and services have".
+The tools and techniques developed to work with 4G had proved useful to forces investigating criminal gangs but could also help in cases of kidnapping to locate victims, she added.
+5G networks made monitoring much more difficult because they scattered data across lots of elements of the mobile system, she said.
+Discussions were now underway with tech firms and governments on how to close the surveillance gap, said Ms De Bolle.
+"The area we are working in and the technological evolution we are dealing with - the innovation used by criminals, the web-based criminality - it is huge," she added.
+The GSMA - which helps to co-ordinate the development of mobile technology - said 5G did not mean criminals would go untracked,
+It said: "Law enforcement agencies have been actively involved in the global 3GPP initiative that is responsible for setting the standards for 5G - this includes setting the standards for enabling lawful interception.
+"The mobile industry and anyone involved in the development of 5G are acutely aware of the need for lawful access to telecommunications as we deploy 5G networks."
+Ms De Bolle spoke to Reuters in advance of the release of a report by Europol looking at the dangers future technologies posed to its work and the efforts of law enforcement to catch criminals.
+The report warned about other potential threats such as terrorists using autonomous cars as weapons, or the ability of quantum computers to crack encryption systems.

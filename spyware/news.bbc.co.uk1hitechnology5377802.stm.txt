@@ -1,0 +1,14 @@
+Browser bug could get early patch
+Microsoft is considering the early release of a fix for a bug in Internet Explorer that malicious hackers are actively exploiting online.
+The software giant usually only releases patches once a month but said it might put the fix out sooner if the problem grew severe enough.
+Via the bug, hackers can take over Windows machines and implant spyware or bombard people with unwanted adverts.
+Independent, unofficial patches have already appeared from security firms.
+Patch protection
+The bug in the Internet Explorer browser was discovered by anti-spyware firm Sunbelt Software on 21 September. It found that hackers could exploit weaknesses in the way that Microsoft's browser handles vector graphics to hijack Windows PCs.
+One site found by Sunbelt used this vulnerability to install huge amounts of spyware and adware on a PC even though the machine was patched with the latest updates.
+Since the discovery, more websites have been discovered using the exploit to hijack PCs, install key-loggers or other unwanted programs.
+On its security blog, Microsoft acknowledged the discovery of the browser bug and said it was monitoring the situation. So far, it said, there was no indication that attacks mounted via the bug were "dramatic and widespread".
+However, it said, this situation could change and it would release the patch earlier than the scheduled date of 10 October if it was warranted.
+"The primary driver here is quality and protecting customers, not adherence to the monthly schedule," read the blog.
+Patches have already started to appear from security firms including one from the newly created Zeroday Emergency Response Team (Zert).
+This loose coalition of security researchers aims to produce fixes for bugs for which there are no official patches.

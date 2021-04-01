@@ -1,0 +1,25 @@
+Ransomware tops malicious attack charts
+Ransomware has become the most popular form of malware used in cyber-attacks, suggests a study.
+Almost 40% of all successful malware-based attacks involved ransomware suggests the annual Verizon data breach investigations report.
+The types of systems compromised were changing too, it found, with criminals trying to hit databases not just PCs.
+It also indicated firms had significant success dealing with some types of cyber-attacks.
+They had particular success in dealing with attempts to knock web servers offline and spotting phishing emails,
+Small firms
+"Ransomware breaches doubled last year and could double again this year," said Gabe Bassett, senior information security scientist at Verizon who helped compile and write the report.
+Once ransomware infects a machine it encrypts data until a payment, usually in the form of a popular cryptocurrency, is made.
+Mr Bassett said ransomware was popular because it let cyber-thieves quickly cash in on the security mistakes made by firms both large and small.
+Desktop machines were most likely to be compromised by ransomware, found the report, but attackers had started turning their attention to more critical business systems.
+"We are seeing more and more databases hit as attackers find these systems online and encrypt them," said Mr Bassett, adding that the numbers of such attacks trebled last year.
+He said these were attractive targets because companies were more likely to pay a high ransom to unlock the business-critical data.
+Bill Conner, chief executive at security firm SonicWall said the high-profile WannaCry and NotPetya ransomware attacks in 2017 were behind the growing popularity of the category. And, he added, it was now starting to hit a very "target rich" segment.
+"Ransomware is really the first time that medium and small companies have been targeted," he said. "But they are least prepared because they have the least money and they cannot go out and hire cyber-experts."
+Small steps
+Ransomware was just one common attack among many in the arsenal of cyber-thieves, said Mr Bassett.
+Other popular attacks include:
+Despite the relentless tide of attacks, the report also found that companies were enjoying success when fighting off some cyber-threats, said Mr Bassett.
+Firms were now much less likely to fall victim to phishing and so-called Distributed Denial of Service (DDoS) attacks. DDoS involves swamping a server with traffic so it becomes unresponsive or crashes.
+"We know how to deal with DDoS," said Mr Bassett. "We have defences against them and they work." Statistics in the report suggest server downtime caused by DDoS often only lasts a few minutes.
+In addition, he said, many companies had got better at dealing with phishing by quarantining the machines of those staff who were most likely to click on a malicious link or document.
+And, added Mr Bassett, while cyber-attackers put billions of malicious files on the net every year, the number that got through to firms was often quite small.
+On average, found the Verizon survey, firms received about seven pieces of malware a day.
+"That's a threat we can handle," said Mr Bassett. "The reality is that there's a lot that we can do. We can take some simple steps and make it much harder for attackers."

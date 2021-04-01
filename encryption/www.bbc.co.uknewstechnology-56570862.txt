@@ -1,0 +1,34 @@
+'We have your porn collection': The rise of extortionware
+Cyber-security companies are warning about the rise of so-called 'extortionware' where hackers embarrass victims into paying a ransom.
+Experts say the trend towards ransoming sensitive private information could affect companies not just operationally but through reputation damage.
+It comes as hackers bragged after discovering an IT Director's secret porn collection.
+The targeted US firm has not publicly acknowledged that it was hacked.
+In its darknet blog post about the hack last month, the cyber-criminal gang named the IT director whose work computer allegedly contained the files.
+It also posted a screen grab of the computer's file library which included more than a dozen folders catalogued under the names of porn stars and porn websites.
+The infamous hacker group wrote: "Thanks God for [named IT Director]. While he was [masturbating] we downloaded several hundred gigabytes of private information about his company's customers. God bless his hairy palms, Amen!"
+The blog post has been deleted in the last couple of weeks, which experts say usually implies that the extortion attempt worked and the hackers have been paid to restore data, and not publish any more details.
+The company did not respond to requests for comment.
+The same hacker group is also currently trying to pressure another US utility company into paying a ransom, by posting an employee's username and password for a members-only porn website.
+'The new norm'
+Another ransomware group which also has a darknet website shows the use of similar tactics.
+The relatively new gang has published private emails and pictures, and is calling directly for the mayor of a hacked municipality in the US to negotiate its ransom.
+In another case, hackers claim to have found an email trail showing evidence of insurance fraud at a Canadian agriculture company.
+Brett Callow, a threat analyst at cyber-security company Emsisoft, says the trend points to an evolution of ransomware hacking.
+"This is the new norm. Hackers are now actually searching the data for information that can be weaponised. If they find anything that is incriminating or embarrassing, they'll use it to leverage a larger pay-out. These incidents are no longer simply cyber-attacks about data, they are full-out extortion attempts."
+Another example of this was seen in December 2020, when the cosmetic surgery chain The Hospital Group was held to ransom with the threat of publication of 'before and after' images of patients.
+Ransomware is evolving
+Ransomware has evolved considerably since it first appeared decades ago.
+Criminals used to operate alone, or in small teams, targeting individual internet users at random by booby-trapping websites and emails.
+In the last few years, they've become more sophisticated, organised and ambitious.
+Criminal gangs are estimated to be making tens of millions of dollars a year, by spending time and resources targeting and attacking large companies or public bodies for huge pay-outs, sometimes totalling millions of dollars.
+Brett Callow has been following ransomware tactics for years, and says he saw another shift in methods in late 2019.
+"It used to be the case that the data was just encrypted to disrupt a company, but then we started seeing it downloaded by the hackers themselves.
+"It meant they could charge victims even more because the threat of selling the data on to others was strong."
+Tough to defend against
+This latest trend of threatening to publicly damage an organisation or individual has particularly concerned experts because it is hard to defend against.
+Keeping good backups of company data helps businesses to recover from crippling ransomware attacks, but that is not enough when the hackers use extortionware tactics.
+Cyber-security consultant Lisa Ventura said: "Employees should not be storing anything that could harm a firm reputationally on company servers. Training around this should be provided by organisations to all their staff.
+"It's a troubling shift in angle for the hackers because ransomware attacks are not only getting more frequent, they are also getting more sophisticated.
+"By identifying factors such as reputational damage, it offers far more leverage to extort money from victims."
+A lack of victim reporting and a culture of cover-up makes estimating the overall financial cost of ransomware difficult.
+Experts at Emsisoft estimate that ransomware incidents in 2020 cost as much as $170bn (Â£123bn) in ransom payments, downtime and disruption.

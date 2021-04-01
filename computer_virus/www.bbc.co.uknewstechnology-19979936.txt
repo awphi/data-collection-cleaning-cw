@@ -1,0 +1,22 @@
+Computer viruses and malware 'rampant' in medical tech, experts warn
+High-risk medical technology has been found to be infected by computer viruses and malware, health and security experts have said.
+They fear that the virus infections could become so severe that a patient may end up getting harmed.
+Out-dated computer systems which were not able to be changed were to blame for the vulnerabilities, the experts said.
+One US hospital is said to be deleting viruses from up to two machines a week.
+The warnings were given as part of a panel discussion in Washington DC, as reported by Technology Review from the Massachusetts Institute of Technology.
+Mark Olsen, chief information security officer at Beth Israel Deaconess Medical Center in Boston, said the hospital had 664 pieces of medical equipment running on old versions of Windows.
+This means the equipment is affected by weaknesses which later releases of Windows have since fixed.
+Kevin Fu, a leading expert in medical technology, explained that the machines were not updated because of fears that doing so would mean they were in breach of regulations put in place by the US Food and Drug Administration (FDA).
+The FDA approve the use of technology by testing safety rather than security - meaning any potential exposure to cyberthreats is not considered.
+Raised eyebrows
+"I find this mind-boggling," Mr Fu told Technology Review. "Conventional malware is rampant in hospitals because of medical devices using unpatched operating systems. There's little recourse for hospitals when a manufacturer refuses to allow [operating system] updates or security patches."
+There are also fears, the panel agreed, that medical devices could even end up being part of botnets - large networks of hijacked computers that are often used to send out spam email.
+Medical devices could be struck down by slow performance related to being infected, Mr Fu told the BBC.
+"Imagine you have a heart monitor that's running Windows and it gets infected by a computer virus and slows down.
+"This mere slowing down of the computer could cause the device to miss a sensor reading. It certainly raises an eyebrow. Who's watching out for that?"
+He said that there is no evidence as yet that the malware is reaching medical machines as a result of being targeted by criminals.
+Instead, he said it was more likely to be "collateral damage" from conventional malware designed to infect normal PCs.
+"What we're finding is that software has brought tremendous benefit to medicine, but we've kind of forgotten that there's these inconvenient risks of software," he said.
+In the UK, the NHS faces similar challenges.
+"The need to implement security and privacy at the design of all systems, whether they're embedded or not is of paramount importance, particularly to the health industry," said Raj Samani, who worked in the health sector and is now chief technology officer for security specialists McAfee.
+A Channel 4 investigation in 2008 discovered that NHS computers had been affected by more than 8,000 viruses.

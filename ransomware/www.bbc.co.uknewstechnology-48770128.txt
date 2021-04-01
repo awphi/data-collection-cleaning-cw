@@ -1,0 +1,23 @@
+Second US town pays up to ransomware hackers
+A town in Florida has paid $500,000 (Â£394,000) to hackers after a ransomware attack.
+The total paid by Florida municipalities over ransomware in the last two weeks now stands at $1.1m.
+Officials in Lake City voted to pay hackers in Bitcoin after suffering downed computer systems for two weeks.
+Coastal suburb Riviera Beach recently paid hackers $600,000 following a similar incident that locked municipal staff out of important files.
+According to reports, IT staff in Lake City disconnected staff computers within minutes of the attack starting, but it was too late.
+Workers were locked out of email accounts and members of the public were left unable to make municipal payments online.
+The town's insurer was contacted by the hackers and negotiated ransom payment of 42 bitcoins, or roughly $500,000. Officials felt that paying the ransom was the most efficient way of regaining computer access.
+"I would have never dreamed this could have happened, especially in a small town like this," mayor Stephen Witt told local media.
+Insurance would cover the vast majority of the ransom payment, he added, although $10,000 would be incurred by taxpayers.
+Switch to paper
+Just last week, it was reported that another Florida municipality had paid $600,000 in Bitcoin to hackers following a similar ransomware attack.
+The computer infection in Riviera Beach, a suburb of Palm Beach, affected email as well as emergency response systems and forced staff to switch to using paper for some tasks.
+Ransomware attacks have become an increasingly common tool for cyber-criminals. Municipal staff in one Alaskan community reverted to using typewriters after their computers were hit by ransomware last year.
+Attacks have also affected the US cities of Baltimore and Atlanta as well as towns in California, North Carolina and Ohio, among other places.
+In 2016, three US hospitals were hit by ransomware infections.
+"Ransomware is the canary in the coal mine," said cyber-security expert Kevin Beaumont, who argued that the spate of attacks showed organisations needed to get better at basic IT security.
+"Organisations are financing their attackers to be better than them - and sooner or later that situation may snowball for everybody else trying to defend their networks."
+He advised having robust back-ups and disaster recovery protocols to avoid being crippled by ransomware, should it strike.
+Cyber-security experts have consistently advised not paying ransoms as there is no guarantee files or computer systems will be restored.
+But recovering from a ransomware infection without paying up is also expensive.
+The large aluminium manufacturer Norsk Hydro recently became a victim of ransomware and decided not to pay the hackers.
+Nonetheless, the cost of recovering from the attack has so far totalled Â£45m.

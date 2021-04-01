@@ -1,0 +1,40 @@
+Sites exploit Windows image flaw
+Computer users are being alerted to a new flaw in Microsoft Windows which can be used to attack a PC.
+The US net watchdog, the Computer Emergency Response Center (Cert), and security firms have issued warnings about certain types of image files called Windows Metafiles.
+Experts said numerous websites were taking advantage of the flaw to sneak into computers and install spyware.
+Microsoft has said it is looking into the issue.
+Spam bots
+The flaw centres on the way Microsoft's operating system handles Windows Metafiles (.wmf). These are image files that can contain both vector and bitmap-based picture information.
+Microsoft encourages users to exercise caution when they open e-mail and links in e-mail from untrusted sources
+			
+
+
+
+
+
+                
+                     
+                    
+	Microsoft security advisory
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+The hole means that an attacker can hide malicious code on a webpage or an e-mail containing files with the wmf extension.
+"Exploit code has been publicly posted and used to successfully attack fully-patched Windows XP SP2 systems," said Cert. "However, other versions of the Windows operating system may be at risk as well."
+Security firm Websense said it had discovered numerous websites that were using the flaw to infect a PC with spyware.
+It said the spyware tried to trick people into handing over their credit card details as well as installing software to send thousands of spam e-mails.
+The appearance of the exploit on websites has led security firms to raise the level of alert, with Secunia describing the hole as extremely critical.
+Experts say there is no patch available for the flaw, which affects computers running Windows XP, ME, 2000 and Windows Microsoft Windows Server 2003.
+"Microsoft is investigating new public reports of a possible vulnerability in Windows," said a security advisory on its website.
+"Upon completion of this investigation, Microsoft will take the appropriate action to help protect our customers.
+"Microsoft encourages users to exercise caution when they open e-mail and links in e-mail from untrusted sources."

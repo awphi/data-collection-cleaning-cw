@@ -1,0 +1,12 @@
+Global tech giants back encryption
+Weakening encryption in the wake of the Paris terror attacks "does not make sense", say some of the world's biggest technology firms.
+A statement about encryption was released by the Information Technology Industry Council (ITIC) - a  policy body that represents tech giants.
+Google, Microsoft, Facebook, Samsung and many other computer industry firms are all ITIC members.
+It said encryption helped preserve safety and security every day.
+The ITIC is a global lobby and policy group that communicates the views of tech firms to politicians and legislative bodies.
+The statement comes after many politicians criticised the data-scrambling systems that tech firms are increasingly applying to hardware and services.
+They have called for encryption to be weakened in order to help police and intelligence services catch criminals or thwart potential terror attacks. Others want backdoors included in encryption software that would give law enforcement access to data that is otherwise locked away.
+But, said the ITIC, weakening encryption in a bid to help the "good guys" was a mistake.
+Doing so "would actually create vulnerabilities to be exploited by the bad guys", it warned.
+Such a move "would almost certainly cause serious physical and financial harm across our society and our economy".
+"Weakening security with the aim of advancing security simply does not make sense," said the ITIC.

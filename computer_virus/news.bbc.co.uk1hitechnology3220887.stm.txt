@@ -1,0 +1,99 @@
+New Windows virus hits computers
+Anti-virus firms are warning about a Windows worm called Sober that is starting to spread widely online.
+The virus emerged at the weekend and is multiplying because so many versions of Windows are vulnerable.
+Many people are thought to be falling victim to it because one version poses as an update from anti-virus firms.
+It also tries to hide by using many different subject lines in both German and English and by changing the name of the payload holding the virus.
+Hidden harm
+Other subject lines used by Sober try to trick people into opening the message by looking like a warning that they are sending out e-mail messages infected with a virus.
+Sober also re-uses subject lines seen in older viruses but again tries to fool users by adding comments that make messages bearing them look benign.
+The payload that an infected message bears also changes its name regularly to disguise the fact that it hides a virus.
+SAMPLE SUBJECT LINES
+                        
+                
+		
+                
+                     
+                    
+	New internet virus!
+
+
+
+
+
+
+	You send spam mails (Worm?)
+
+
+
+
+
+
+	Sorry, Ive become your mail
+
+
+
+
+
+
+	Viurs blocked every PC (Take care!)
+
+
+
+
+
+
+	New Sobig-Worm variation (please read)
+
+
+
+
+
+
+	A worm is on your computer!
+
+
+
+
+
+
+	Surprise
+
+
+
+
+
+
+	Back At The Funny Farm
+
+
+
+
+
+
+	I love you (Im not a virus!)
+
+
+
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+	
+
+Sober travels with its own e-mail engine so it can send itself to any addresses it harvests from computers it has managed to infect.
+The virus is spreading most widely in Germany but is starting to turn up in the UK too. Mail filtering firm Message Labs said it had stopped 3,400 copies of Sober since the weekend.
+Windows 2000, 95, 98, Me, NT, Server 2003, and XP are all vulnerable to infection by the Sober virus.
+Like many other e-mail viruses Sober must be opened and its attachment clicked on to infect a computer.
+Once installed the virus displays a false error message that might make people think they have avoided infection.
+Hidden inside the body of the virus is text that praises the creator of the Sobig worm that in August became the fastest spreading worm ever.
+Security firms urge people to keep their anti-virus software up to date and be wary of unsolicited or unexpected e-mail messages.

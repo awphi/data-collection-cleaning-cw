@@ -1,0 +1,24 @@
+Cyber-thieves turn to 'invisible net' to set up attacks
+Cyber-thieves are creating an "invisible internet" to stop police spying on cyber-crime deals being done on the dark net, research suggests.
+Instead of trading on marketplaces, criminals have turned to "gated" chat forums, invitation-only communities and encrypted apps, say researchers.
+The change could make it hard for law enforcement agencies to spot and trace attacks, they warn.
+They also found a large increase in attacks aimed at big companies.
+Hidden chatter
+The study embedded undercover researchers into a wide variety of forums and gated chat forums on the dark net.
+The dark net is the part of the internet not accessible to search engines such as Google, and for which people need a special browser to visit. The most well-known dark net is accessed via the Tor browser.
+Successful efforts by police to infiltrate dark net marketplaces as well as raids that saw many of them closed down, had pushed criminal hackers to adopt more secure ways of communicating, said Dr Mike McGuire, a criminologist from the University of Surrey, who led the project.
+"It's not as vibrant as it once was because they know the feds are listening and that they will take down markets," he said.
+While criminal gangs were still active on those publicly accessible marketplaces, said Dr McGuire, any conversations about targets and tactics were instantly moved to secure apps such as Telegram or separate forums and chat rooms.
+"It's becoming like an invisible internet," he told the BBC. "That's going to be worrying for law enforcement."
+For the study, researchers posed as customers and quizzed hackers about the cost of a wide variety of cyber-attacks, They probed market rates for tailored malware attacks, phishing campaigns, industrial espionage and insider information.
+Sample costs included:
+The cyber-crime economy that had emerged on the dark net was a mirror to the legitimate industry, said Ian Pratt, co-founder of security firm Bromium that sponsored the research.
+The cyber-crime economy was diverse and sophisticated, he said, with many hacking gangs specialising in just one aspect of an attack, such as crafting malware, writing convincing phishing emails or setting up sites to grab data from victims.
+It was also clear, he said, that the hackers could get access to almost any network they desired.
+"It's not hard to get into corporate networks," he said, adding that the most successful method of winning access was via a well-crafted phishing campaign.
+He said adverts and listings for attacks on enterprises had grown by 20% since 2016, suggesting corporates were becoming a lucrative target.
+A successful phishing attack gave hackers "instant deep access" said Mr Pratt, that they could then build on to either get at saleable data or to thoroughly compromise a target.
+The changing nature of the dark net underworld should prompt police to change the way they tackle cyber-crime, said Dr McGuire.
+"Law enforcement have a very focused and narrow perception and take down particular groups," he said. "But by taking out specific groups they are not making much of a dent in it."
+If one group disappeared or was broken up by police another would just move to fill in the gap, he added.
+"It's like cutting the head off a hydra."

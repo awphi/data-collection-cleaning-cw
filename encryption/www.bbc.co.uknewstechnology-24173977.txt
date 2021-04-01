@@ -1,0 +1,16 @@
+RSA warns over NSA link to encryption algorithm
+RSA, the internet security firm, has advised its customers not to use a particular encryption algorithm after fears it could be unlocked by the US National Security Agency (NSA).
+In an advisory note to its developer customers, RSA said that a community-developed algorithm in one of its toolkits could contain a vulnerability.
+It "strongly recommends" switching to other random number generators instead.
+The warning came from the US National Institute of Standards and Technology.
+The advice comes in the wake of New York Times allegations that the NSA may have intentionally introduced a flaw into the algorithm - known as Dual Elliptic Curve Deterministic Random Bit Generation - and then tried to get it adopted as a security standard by the US National Institute of Standards and Technology.
+Privacy
+In the 1990s, the NSA tried to claim the right to unlock all encryption systems, but lost the battle after privacy rights and freedom of speech advocates objected.
+The NSA maintains that it needs to be able to decipher encrypted communications to protect the US against terrorism and organised crime.
+As the documents leaked by the former government security contractor Edward Snowden have demonstrated, the NSA has been intercepting communications data from all over the world through its Prism surveillance programme.
+But it is locked in a continuous battle with cryptographers who are developing increasingly sophisticated security systems.
+One of the NSA's tactics has been to persuade leading technology companies, such as Microsoft and Google, to co-operate with the security services in providing access to user data. Privacy rights campaigners have been concerned over how far this co-operation may extend.
+Under US law, service providers have to hand over user data to the NSA but are not allowed to publish how many security-related data requests they receive.
+A growing number of providers are beginning to stand up to the government and demand more transparency.
+For example, the Digital Due Process Coalition, which is calling for reform of the 1986 US Electronic Communications Privacy Act (ECPA), includes companies such as Apple, Google, Facebook, Amazon, Linkedin and Microsoft.
+The coalition argues that the ECPA has been outpaced by the rapid rise of the internet and the explosion of digital data.

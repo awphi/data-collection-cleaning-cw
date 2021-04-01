@@ -1,0 +1,11 @@
+Regin, new computer spyware, discovered by Symantec
+A leading computer security company says it has discovered one of the most sophisticated pieces of malicious software ever seen.
+Symantec says the bug, named Regin, was probably created by a government and has been used for six years against a range of targets around the world.
+Once installed on a computer, it can do things like capture screenshots, steal passwords or recover deleted files.
+Experts say computers in Russia, Saudi Arabia and Ireland have been hit most.
+It has been used to spy on government organisations, businesses and private individuals, they say.
+Researchers say the sophistication of the software indicates that it is a cyber-espionage tool developed by a nation state.
+They also said it likely took months, if not years, to develop and its creators have gone to great lengths to cover its tracks.
+Sian John, a security strategist at Symantec, said: "It looks like it comes from a Western organisation. It's the level of skill and expertise, the length of time over which it was developed."
+Symantec has drawn parallels with Stuxnet, a computer worm thought to have been developed by the US and Israel to target Iran's nuclear program.
+That was designed to damage equipment, whereas Regin's purpose appears to be to collect information.

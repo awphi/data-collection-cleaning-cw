@@ -1,0 +1,42 @@
+Coronavirus: Russian spies target Covid-19 vaccine research
+Russian spies are targeting organisations trying to develop a coronavirus vaccine in the UK, US and Canada, security services have warned.
+The UK's National Cyber Security Centre (NCSC) said the hackers "almost certainly" operated as "part of Russian intelligence services".
+It did not specify which organisations had been targeted, or whether any information had been stolen.
+But it said vaccine research had not been hindered by the hackers.
+Russia has denied responsibility.
+"We do not have information about who may have hacked into pharmaceutical companies and research centres in Great Britain. We can say one thing - Russia has nothing at all to do with these attempts," said Dmitry Peskov, a spokesman for President Putin, according to the Tass news agency.
+The warning was published by an international group of security services:
+One expert said it was "plausible" that, despite the Kremlin's denials, Russian spies were involved.
+"The received wisdom is that in cyber-space, attribution is difficult but not impossible," commented Emily Taylor from the Chatham House think tank.
+"Usually the security services are much more hedgy in their language if they think there is any doubt.
+"Cozy Bear [the named group] has been implicated in past cyber-attacks and has left quite a trail, and there are fairly good links to the Russian state itself."
+In recent years, Western security agencies have become more willing to call out hackers targeting companies and organisations in their countries in the hope it will deter them.
+But the latest accusations are more unusual since officials are directly pointing the finger at Russian spies rather than talking generally about "state-backed hackers" or using other more cautious references.
+And they are also challenging them over targeting something that the general public recognises as being highly sensitive - coronavirus vaccine research - rather than simply some company or government department's information.
+However, on another level we should not be too surprised by the claim.
+Understanding vaccine research and other details about the pandemic has become a top target for intelligence agencies around the world and many others, including Western spies, are likely to be active in this space.
+The UK, US and Canadian agencies said the hackers had exploited software flaws to get access to vulnerable computer systems, and had used malware called WellMess and WellMail to upload and download files from infected machines.
+They are also said to have tricked individuals into handing over login credentials with spear-phishing attacks.
+But one cyber-security expert said the Russians were unlikely to be the only ones involved in such a campaign.
+"They have lots of people, we have lots of people, the Americans have even more people, as do the Chinese," commented Prof Ross Anderson from the University of Cambridge's Computer Laboratory.
+"They are all trying to steal this kind of stuff all the time."
+Who is accused of being responsible?
+The NCSC calls out a hacking group called APT29, also known as The Dukes or Cozy Bear.
+It says it is more than 95% certain that the group is part of the Russian intelligence services.
+Cozy Bear was first identified as being a significant "threat actor" in 2014, according to the American cyber-security firm Crowdstrike.
+It describes the group as being "aggressive" in its tactics and "nothing if not flexible, changing tool sets frequently".
+The unit has previously been implicated in hacking the US Democratic National Committee (DNC) during the US Presidential election in 2016.
+In 2017, it attacked Norway's Labour Party, defence and foreign ministries, as well as the country's national security service.
+The report includes recommendations that can help protect organisations from cyber-attacks.
+"Throughout 2020, APT29 has targeted various organisations involved in Covid-19 vaccine development in Canada, the United States and the United Kingdom, highly likely with the intention of stealing information and intellectual property relating to the development and testing of Covid-19 vaccines," it said.
+UK Foreign Secretary Dominic Raab said: "It is completely unacceptable that the Russian intelligence services are targeting those working to combat the coronavirus pandemic.
+"While others pursue their selfish interests with reckless behaviour, the UK and its allies are getting on with the hard work of finding a vaccine and protecting global health."
+On Thursday, the UK government also said Russians had "almost certainly" sought to interfere in the 2019 UK general election through illicitly-acquired documents.
+"We worked very closely with our allies to ensure we would take measures to keep that information safe," said White House spokeswoman Kayleigh McEnany, "and we continue to do so and we are aware of those activities."
+What else has the US said?
+by Tara McKelvey in Washington DC
+"The National Security Agency, along with our partners, remains steadfast in its commitment to protecting national security by collectively issuing this critical cyber-security advisory as foreign actors continue to take advantage of the ongoing Covid-19 pandemic," said NSA cyber-security director Anne Neuberger.
+Earlier in 2020, John Demers, an assistant attorney general for US national security, warned that hackers working for foreign governments were trying to steal vaccine research.
+He said that the first nation to find a vaccine first will gain clout on the world stage with a "significant geopolitical success story".
+For that reason, hackers have been pursuing vaccine research in several countries. Demers and others who work in US intelligence have been watching their activities closely.
+Now, intelligence experts know more about the goals of the hackers and how they using spear-phishing and malware to get what they want.

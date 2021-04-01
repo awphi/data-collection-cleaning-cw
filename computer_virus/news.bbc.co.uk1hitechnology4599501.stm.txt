@@ -1,0 +1,71 @@
+Bagle virus peril in empty e-mail
+Another variant of the computer virus Bagle has quickly been making its way  across the net, say security experts.
+Anti-virus firm MessageLabs gave it a "high outbreak" rating after it caught  more than 850,000 copies by Wednesday.
+The Bagle bug arrives as an empty e-mail. If the attachment is opened, it releases a trojan which downloads the actual virus from various locations.
+Security experts said computer users should protect themselves by ensuring anti-virus programs are updated.
+The attachment, which arrives in the blank e-mail, is a zip file that tries to download a trojan horse from a pre-selected list of websites when it is opened.
+The virus, once activated, sends itself out to all the e-mail addresses it finds on the computer's hard drive.
+STAYING SAFE ONLINE
+                        
+                
+		
+                
+                     
+                    Install anti-virus software
+
+
+Keep your anti-virus software up to date
+
+
+Install a personal firewall
+
+
+Use Windows updates to patch security holes
+
+
+Do not open e-mail messages that look suspicious
+
+
+Do not click on e-mail attachments you were not expecting
+
+
+
+                
+                    
+                        
+                            
+                        
+                     
+                    
+    
+	
+        
+        
+	    	The threats on the net
+        
+	
+    
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+More than 45,000 copies were intercepted by MessageLabs in one hour early on Tuesday,  it said. The virus seems to have originated from a Yahoo group.
+"The interesting bit is the list of websites were chosen very thoughtfully," Maksym Schipka, senior anti-virus researcher at MessageLabs, told the BBC News website.
+"They are located in different parts of the world to exploit the lack of common legalisation, so that it is more difficult to close those websites. Obviously,  in the UK this is easier to do, but in eastern European countries it is more difficult."
+Overloading and out-foxing
+There have been about 70 variants in total of the mass-mailing computer virus, Bagle, which have been reported since it first appeared in January 2004.
+But in the latest occurrence, which is now showing signs of slowing down, the originator has tried to out-fox anti-virus firm security updates, or "signatures", which are done every hour, said Mr Schipka.
+At the close of business on Tuesday, eight different variants of the Bagle downloader, as it is known, had been released every hour.
+"They decided to beat anti-virus companies with the speed at which he/she released the variables," said Mr Schipka.
+"Anti-virus companies release generic signatures, usually on one hour release cycles. The guy realised that and started to release his variant every hour so that it corresponded with each signature release."
+The first variant was spotted at about 1.30pm GMT, then another one came out an hour after that. They then started to be released every half hour.
+The purpose of producing variants is to overload anti-virus firms, and has been seen before.

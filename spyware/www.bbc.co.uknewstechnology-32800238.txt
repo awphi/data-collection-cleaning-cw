@@ -1,0 +1,34 @@
+Child spy firm hit by blackmailers
+A company that sells software for parents to spy on their children has denied the personal data of 400,000 customers has been leaked online.
+MSpy told BBC News it had been the victim of a "predatory attack" by blackmailers, but said it had not given in to demands for money.
+Claims the hackers had breached its systems and stolen data were false, it said.
+A leading security expert had earlier reported a breach of its systems.
+"There is no data of 400,000 of our customers on the web," a spokeswoman for the company told BBC News.
+"We believe to have become a victim of a predatory attack, aimed to take advantage of our estimated commercial achievements.
+"We have received frequent threats of similar nature, pursuing financial gain 'or else' and have just received a number of those in recent weeks.
+"We never have or ever will fall for provocations of third parties, and our only response for such 'ventures' will be further securitisation of any corporate and customer related data.
+"We pay close attention to each and every 'hacking' threat, making sure it doesn't have reasonable grounds for considering our security measures compromised.
+"And surely none of such threats deserve being indulged in their demands for 'easy money', as the most recent case has served an example of."
+Data dump
+The story of a wide-scale breach at mSpy was first reported by security expert Brian Krebs.
+He wrote that he had been contacted by an anonymous source who had directed him to a Tor-based site hosting several hundred gigabytes of data.
+Tor allows users to mask their internet address and sites, using so-called "dark net" technology.
+According to the source, the data had been taken from mobile devices running mSpy products.
+"There is a crazy amount of personal and sensitive data in this cache, including photos, calendar data, corporate email threads, and very private conversations," Mr Krebs wrote.
+"Also included in the data dump are thousands of support-request emails from people around the world who paid between $8.33 [Â£5.37] to as much as $799 [Â£515] for a variety of subscriptions to mSpy's surveillance software."
+The data has since been removed from Tor.
+That made it hard for anyone to verify whether or not the data had been fake, security expert Graham Cluley said.
+"When data is stolen from a company, it is not like the Mona Lisa being taken from the Louvre, there is no blank space where it used to be," he told BBC News.
+"MSpy would have had to have accessed this data on Tor and cross-checked it against its customer data to verify it was definitely not theirs."
+BBC News asked mSpy whether it had done this, but did not receive a reply.
+Nefarious purposes
+The company's app allows users to track movements, read messages and listen to the calls of another person.
+Anyone being monitored must be notified and give permission.
+Its website states that it is designed "for monitoring your children, employees or others, on a smartphone or mobile device".
+But, according to Mr Cluley, it is also used for more "nefarious purposes".
+"It is used by jealous spouses to partner their partners," he said.
+"It is, in my opinion, spyware. It gathers an astonishing amount of personal information, and it only takes a few minutes to install it on a device."
+Vice-president of security research at TrendMicro, Rik Ferguson, told BBC News criminals holding companies to ransom and threatening to release data was "relatively frequent".
+It was, he said, also common that data dumps claiming to be from large corporations turned out to be fake.
+"It does happen very often that junk data is dumped on such sites, masquerading as something it is not," he said.
+"The saddest part of the whole story is that, if the data does turn out to be genuine, the real victims are the people who are being spied on who might not know that their communications have been under surveillance."

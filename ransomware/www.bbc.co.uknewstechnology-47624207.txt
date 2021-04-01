@@ -1,0 +1,23 @@
+Huge aluminium plants hit by 'severe' ransomware attack
+One of the world's biggest aluminium producers has switched to manual operations at some smelting plants following a "severe" ransomware attack.
+Hydro, which employs more than 35,000 people in 40 countries, says the attack began on Monday night and is ongoing.
+Some of the company's factories have been forced to halt production though other facilities, including its power plants, are functioning normally.
+The firm's website is down but updates are being posted to Facebook.
+US factories were among those affected, as were smelting plants in Norway.
+Notices have been posted at the entrances to some of Hydro's offices telling employees not to log in to their computers.
+Staff worldwide are instead using mobile phones and tablets to access their emails, according to Hydro's chief financial officer Eivind Kallevik.
+At some factories, workers are using printed order lists while they remain unable to retrieve order data from their computers.
+Norwegian security authorities said they were investigating the possibility that the cyber-attack was caused by a relatively new form of ransomware known as LockerGoga. However, they added it was not yet clear that this was the case.
+A spokesman for Hydro also told the BBC that he could not yet confirm who was behind the attack.
+He added that digital systems at Hydro's main smelting plants were programmed to ensure machinery worked efficiently.
+However, these systems had had to be turned off at some of the facilities.
+"They are much more reliant today on computerised systems than they were some years ago," a spokesman said.
+"But they have the option of reverting back to methods that are not as computerised, so we are able to continue production."
+Work was also stopped at some metal extrusion plants, where aluminium is processed into products such as building facades.
+Relying on back-ups
+The firm said it was working to contain and "neutralise" the attack and added that it had not caused any safety-related incidents.
+It added that it had data backups ready with which to restore systems once the virus had been dealt with.
+Norway's state cyber-security agency is helping Hydro to respond to the incident.
+Cyber-security expert Kevin Beaumont told the BBC that if the LockerGoga ransomware had been used, it would likely have been deployed to Hydro's systems manually by an attacker.
+This could have been done by someone who had gained administrator access to those systems.
+"For an industrial manufacturing business this is potentially bad news, as it may have spread across their company, including near industrial control systems," added Mr Beaumont.

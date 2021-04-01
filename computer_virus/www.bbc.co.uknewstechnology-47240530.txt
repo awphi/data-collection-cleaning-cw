@@ -1,0 +1,12 @@
+British hacker Marcus Hutchins loses bid to omit 'intoxicated' testimony
+British cyber-security expert Marcus Hutchins - who has been accused of writing virus code - has lost a legal bid to suppress some evidence prosecutors want to use against him.
+The evidence is comments he made in an interview after the FBI arrested him.
+He wanted the testimony discounted, claiming he gave it when "intoxicated".
+A court ruling issued earlier this week threw out the request saying there was no evidence that he was under the influence of drugs.
+FBI agents arrested Mr Hutchins on 2 August 2017 at Las Vegas's McCarran International Airport as he was starting his journey home after attending the Def Con hacker conference. He has been held in the US ever since his arrest.
+He faces 10 charges related to malware, or malicious software, including a program called Kronos which is designed to steal banking credentials.
+He has pleaded not guilty to the charges.
+Judge JP Stadtmueller wrote: "Hutchins appeared to be alert, engaged, co-ordinated, and coherent," in his ruling, tech news site Ars Technica recorded.
+The judge added that there was no evidence that Mr Hutchins was under the influence of drugs but was rather suffering a "terrible hangover". This did not render him unable to understand the procedure or be fully aware of why he was being quizzed, said the judge.
+The ruling also said he was informed of all relevant rights prior to the interview by the agents who arrested him.
+Mr Hutchins, from Ilfracombe in Devon, came to prominence for his pivotal role in preventing the spread of the Wannacry computer virus in early 2017.

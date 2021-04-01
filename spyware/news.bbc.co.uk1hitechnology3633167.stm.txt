@@ -1,0 +1,51 @@
+PCs 'infested' with spy programs
+The average computer is packed with hidden software that can secretly spy on online habits, a study has found.
+The US net provider EarthLink said it uncovered an average of 28 spyware programs on each PC scanned during the first three months of the year.
+Spyware is a broad term for programs that hide on a person's computer without their knowledge.
+It has become so pervasive that lawmakers in the US are looking into ways to prevent or regulate it.
+Hidden away
+The Spy Audit by EarthLink reflects the results of scans involving over one million computers between January and March.
+While most spyware is adware-related and relatively benign, it's disturbing that over 300,000 of the more serious system monitors and Trojans were uncovered
+
+
+
+			
+
+
+
+
+
+                
+                     
+                    
+	
+	Matt Cobb, EarthLink.
+
+
+
+
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+	It uncovered more than 29.5 million examples of spyware. These are parasite programs sometimes come attached to software downloaded from the web.
+The details are often included in the license agreement small print that most users click through without reading.
+But sometimes they do not even need your permission to download, but just bury themselves on a hard drive as you browse the net.
+With the exception of pop-up ads or a slower computer, people may not notice anything different when spyware programs are present, say experts.
+Insidious software
+EarthLink said the most common type of spyware it found was adware. These are programs that display ads on an infected computer and also send data about surfing habits.
+But it also found examples of more insidious spyware.
+"While most spyware is adware-related and relatively benign, it's disturbing that over 300,000 of the more serious system monitors and Trojans were uncovered," said Matt Cobb of EarthLink.
+"This figure represents how real a threat identity theft or system corruption is for users."
+System monitors can surreptitiously watch what you do, steal personal information and despatch it across the web, while Trojans can allow malicious hackers to get access to a computer and steal information.
+"By tracking and publicising the growth of spyware, we can better educate consumers of its risks and encourage them to take steps to protect themselves and their families while online," said Christine Stevenson of Webroot, which conducted the scans.

@@ -1,0 +1,17 @@
+Web helps criminals trap victims
+Malicious hackers and hi-tech criminals are changing tactics in a bid to outwit security firms.
+Statistics show that tech-savvy criminals are starting to turn away from e-mailed viruses to webpages to snare their victims.
+Also, say security firms, criminals are using spyware to get hold of personal data they can sell or use themselves.
+Fake programs that pose as proper products or security updates are reported to be on the rise.
+Tactical shift
+Monthly statistics on the threats facing web users are showing a steep decline in the traditional line up of malicious e-mail viruses.
+Before now many virus writers have used mass mailed messages that spread viruses by either tricking people into opening the message or by exploiting bugs in Microsoft's Outlook program.
+But as the creators of these malicious programs increasingly look for a financial return, they are turning to websites, worms and spyware programs to do the work.
+"More and more malicious code is appearing in web traffic as opposed to e-mail," said Mark Sunner, chief technology officer at MessageLabs.
+For instance, said Mr Sunner, many phishing attacks use fake websites to try to steal login details and personal information rather than just rely on people filling in fields on a fake mailed message.
+While statistics on top net threats gathered by security firms Sophos and Kasperksy Labs reveal a list dominated by e-mail worms, such as Netsky and Mytob, also starting to appear in large numbers are spyware programs.
+Once installed these programs bombard users with unwanted adverts or surreptitiously gather data about browsing habits or simply steal login information.
+Although people can fall victim to many of these spyware programs when they install popular software such as file-sharing applications, others install themselves if a user is unlucky enough to visit the wrong part of the web.
+"Now that large-scale nets of infected hosts [botnets] have been well established for a while, the commercial activities of their owners are flourishing - the two most lucrative ones being spam and phish relaying and aggressive seeding of spyware," said Guillaume Lovet, European spokesman for Fortinet.
+Also starting to pop up more frequently were fake programs that either pose as legitimate security utilities or updates for key programs. Regular entrants on lists of security threats are fake updates that purportedly come from Microsoft.
+Users are being urged to keep anti-virus software up to date and regularly use reliable anti-spyware programs such as Spybot and Ad Aware.

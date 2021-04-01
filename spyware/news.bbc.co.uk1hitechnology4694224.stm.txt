@@ -1,0 +1,15 @@
+Microsoft tackles security rivals
+Microsoft is launching its own brand of home security software to protect Windows PCs from hackers, viruses, spyware and other net threats.
+The software giant will unveil the OneCare Live service in June in the US.
+The move puts Microsoft in direct competition with well-established companies such as Symantec and McAfee.
+The Windows operating system has long been a favourite of virus writers, malicious hackers and other hi-tech vandals because it is so widely used.
+Closing Windows
+The launch of OneCare Live is the latest result of Bill Gates' declaration in January 2002 to make Windows more secure.
+In September 2004 Microsoft released the SP2 update for Windows XP which introduced a security console that users could use to check the status of their anti-virus software, firewall and Windows updates.
+In the past few years it has also bought some security companies and has used their software as the basis for the new service.
+In 2005 Microsoft began offering its own-brand anti-spyware software and recruited users to test out its creation.
+Users will be able to get hold of OneCare Live in shops or via the web. It will roll together a firewall as well as anti-virus and anti-spyware programs plus backup and computer maintenance tools.
+The package of programs will cost $49 for a year's subscription. Prices and launch dates for the rest of the world have not yet been announced. Up to three computers can be protected with the software.
+Those Americans keen to test the service can sign up in April and get a year's subscription for $19.95.
+In launching its own-brand anti-virus and security products Microsoft will be taking on firms that are firmly established brands in home security software such as Symantec, McAfee, Trend Micro and many others.
+Earlier this year Symantec declared its intent to produce an all-in-one software package of security software called Genesis in late 2006.

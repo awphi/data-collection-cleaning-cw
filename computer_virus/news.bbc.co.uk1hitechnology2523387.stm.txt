@@ -1,0 +1,122 @@
+Computer virus insults victims
+Known as Winevar, the worm is spreading via e-mail as an attachment that infects computers running Windows.
+Winevar has a particularly rude insult, displaying the message: "Make a fool of oneself: What a foolish thing you've done!"
+If users press the ok button, they could lose all the files on their computer.
+Security links
+Security links
+After infecting a system, the worm disabled security software and anti-virus programs, launching the W32FunLove.4099 virus.
+Top three viruses in October
+
+
+
+
+
+    
+	
+
+
+
+
+
+
+        
+
+
+
+	Bugbear - 77%
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+	Klez.H - 6.2%
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+	Opaserv-A - 2.5%
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+	Source: Sophos
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	The worm arrives with the subject line of "Re: AVAR (Association of Anti-Virus Asia Researchers).
+Top three viruses in October
+Anti-virus firm Sophos suspects the author has links to the recent AVAR conference held in Korea.
+"Ironically the Winevar worm author seems to have got his inspiration from a conference intended to reduce the impact of computer viruses," said Graham Cluley, Senior Technology Consultant for Sophos.
+CEO danger
+CEO danger
+As part of its payload, Winevar attempts to launch a denial-of-service attack on the website of US security firm Symantec.
+Another side effect of the virus is its ability to change a computer's settings to create an imaginary file extension ".ceo".
+Any future viruses sent with this file extension will be automatically run on the computer.
+"It is quite amusing that in the post-Enron world we find that CEOs can be dangerous to your PC," said Mr Cluley.
+Anti-virus firms have posted information about the worm and users are advised to check out their websites to find out how to protect themselves and clean up their PCs.

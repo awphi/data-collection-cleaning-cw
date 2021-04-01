@@ -1,0 +1,12 @@
+Billion euro cyber-suspect arrested in Spain
+A cyber-crime mastermind suspected of stealing about Â£870m (â¬1bn) has been arrested in Spain.
+The individual is alleged to be the head of the organised crime gang that ran the Carbanak and Cobalt malware campaigns that targeted banks.
+Europol said the group had been active since 2013 and infiltrated more than 100 banks in that time.
+Cash was siphoned off via bank transfers or dispensed automatically through cash machines.
+Luxury goods
+The arrest was a "significant success" against a top cyber-crime group, Steven Wilson, head of Europol's Cyber-Crime Centre (EC3), which co-ordinated the long-running, cross-border investigation into the group. said in a statement.
+"The arrest of the key figure in this crime group illustrates that cyber-criminals can no longer hide behind perceived international anonymity," he said.
+The cyber-thieves got their malware on to bank networks by sending key staff booby-trapped phishing emails, said Europol. The gang used three separate generations of malware, each one more sophisticated than the last, to penetrate and then lurk on financial networks.
+Once the machines of key staff were compromised, the gang used their remote access to banking networks to steal money in several different ways.
+Money was laundered via crypto-currencies and payment cards, which were used to buy luxury goods including cars and houses.
+Europol, the FBI, cyber-security firms and polices forces in Spain, Romania, Belarus and Taiwan all collaborated to track down the gang, said the European policing agency.

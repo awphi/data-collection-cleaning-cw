@@ -1,0 +1,13 @@
+UK cyber-centre targets payment card fraud
+Britain's cyber-defence centre has thwarted more than one million cases of suspected payment card fraud in the last year, its annual review reveals.
+The National Cyber Security Centre (NCSC) said a dedicated anti-fraud effort stopped the cards being abused.
+It said it had stopped more than 1,800 cyber-attacks aimed at UK citizens and businesses in its first three years.
+Hostile nation states were behind a "significant" number of the incidents it tackled, it added.
+The figures were revealed in a report which sets out how the NCSC acts to protect the public.
+In the last year it said it had run Operation Haulster that sought to uncover which payment cards were being targeted by online fraudsters. The operation told banks about potential targets so they could prevent future attacks or spot when cards were being abused.
+"The most immediate threats to UK citizens and businesses come from large-scale global cyber-crime," said NCSC chief executive Ciaran Martin in a statement. "Despite often being low in sophistication, these attacks threaten our social fabric, our way of life and our economic prosperity."
+Alongside the anti-fraud action there was more sophisticated work to stymie attacks by hackers sponsored by hostile nation states or acting as proxies for them, said Mr Martin.
+"We can say that Russia, China, Iran and North Korea continue to pose strategic national security threats to the UK, but we can't often talk about the operational successes," he said.
+The review reveals other work carried out by the NCSC, which includes:
+The NCSC was set up in 2016 as part of a Â£1.9bn cyber-security strategy. It acts as a central body overseeing cyber-security in the UK and also has a role in advising businesses on the best way to stay safe online.
+Earlier this week, it emerged that NCSC analysts had uncovered efforts by an alleged Russian group that had infiltrated an Iranian cyber-gang to carry out attacks on UK universities.

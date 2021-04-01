@@ -1,0 +1,21 @@
+Al Jazeera journalists âhacked via NSO Group spywareâ
+Dozens of Al Jazeera journalists were allegedly hacked with the help of spyware developed by Israeli firm NSO Group, cyber-security researchers say.
+Details of the alleged hack targeting 36 members of staff, including TV anchors and executives, have been published in a report by Citizen Lab at the University of Toronto.
+It says a vulnerability in iPhone operating system software was used.
+NSO Group has denied the allegation, saying it âlacks any evidence".
+Citizen Lab researchers say they concluded with âmedium confidenceâ that two attackers who had spied on the phones of Al Jazeera journalists were doing so on behalf of the Saudi Arabian and UAE governments.
+âThe phones were compromised using an exploit chain that we call Kismet,â the researchers write.
+In July 2020, Kismet was a "zero-day" attack - meaning Apple was supposedly unaware of the flaw - and it worked on at least iOS 13.5.1, and could hack Appleâs iPhone 11, the latest model at the time.
+Pegasus spyware
+Citizen Lab was first alerted to potential spying activity on the journalistsâ phones when contacted by Tamer Almisshal, an investigative filmmaker at Al Jazeera.
+Mr Almisshal had expressed concerns that his iPhone had been hacked and so allowed Citizen Lab to monitor activity on the device.
+âWe noticed that on 19 July 2020, his phone visited a website that we had detected in our internet scanning as an Installation Server for NSO Groupâs Pegasus spyware, which is used in the process of infecting a target with Pegasus,â the Citizen Lab researchers allege in their report.
+Hitting back at the allegations, a spokesman for NSO Group said: âThis memo is based once again on speculation and lacks any evidence supporting a connection to NSO.â
+He added that the firm provided software to governments, who used it tackle serious organised crime and terrorism, and did not operate the software itself.
+NSO Group would continue âto work tirelessly to make the world a safer placeâ, he added.
+The exploit described by the Citizen Lab team fails to work on iPhones running iOS 14, the latest version.
+Users should update to this version immediately, the researchers said.
+A spokesman for Apple added that iOS 14 was âa major leap forwardâ in protecting against such attacks.
+âThe attack described in the research was highly targeted by nation states against specific individuals,â he said.
+âWe always urge customers to download the latest version of the software to protect themselves and their data.â
+The BBC has contacted Al Jazeera and the London embassies of Saudi Arabia and the UAE for comment.

@@ -1,0 +1,14 @@
+Baidu lawsuit against domain register approved
+Chinese search engine Baidu can proceed with negligence claims against its domain register following a hacking attack, a US judge has ruled.
+The claims arose from an attack in January on Register.com by a group claiming to be the Iranian Cyber Army.
+Baidu alleges the hackers had contacted Register claiming to be Baidu employees and were given access to their account.
+This enabled them to change the server number that the address baidu.com normally takes users to.
+Visitors to the Baidu site, China's most popular search engine, were then redirected to a page displaying political messages.
+"It's like somebody going into the telephone book and changing your phone number," said security expert Graham Cluley from Sophos.
+Baidu says it lost millions of pounds as a result of the hack and filed seven complaints against Register. Judge Denny Chin allowed two of them.
+"I hold that Baidu has alleged sufficient facts in its complaint to give rise to a plausible claim of gross negligence or recklessness," he said in his ruling.
+The pre-trial is due to begin in New York next month.
+"If you feel a company has caused you damage or cost you money one of the routes you can take is the legal route - but it does bring bad news back into headlines again which some companies would rather forget," said Graham Cluley.
+The hack itself could have had far more serious implications, he added.
+"Rather than displaying propaganda (the website) could have installed malware or spyware. Baidu in China is extremely popular - it could have infected a lot of computers."
+Register.com has not yet commented on the ruling.

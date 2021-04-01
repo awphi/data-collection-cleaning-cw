@@ -1,0 +1,20 @@
+Chinese hackers fish for naval secrets
+Chinese hackers are alleged to have targeted universities around the world in a bid to steal naval secrets.
+A total of 27 institutions, including the Massachusetts Institute of Technology (MIT) are understood to have been singled out by a cyber-espionage group.
+Security research company iDefence says hackers sent malicious emails to their targets.
+One expert told the BBC that the attacks were "unsurprising".
+A report by the Accenture-owned unit iDefense, first obtained by the Wall Street Journal, claims Chinese hackers carried out a targeted campaign against institutions in the US, Canada and South East Asia.
+While the full list of universities has not been revealed, iDefense says they share a common interest in research on underwater warfare technology - particularly the launching of submarine missiles.
+The attackers used a technique called "spear phishing", which involved sending emails that were made to look like they had been sent by other universities, but which contained malware that allowed the hackers to access stored research.
+"If a university is operating with classified material it should operate to the same standards as the government," Ewan Lawson, senior research fellow at the Royal United Services Institute (Rusi), told the BBC.
+"But the reality of a lot of this is that [the hackers] are not necessarily going after classified material. They may be trying to identify who the researchers are, who the key thinkers are."
+Many of the institutes targeted had ties to the largest hub of oceanographic research in the US, the Woods Hole Oceanographic Institution. This in turn has strong ties to the US Navy. It is likely that the centre had been breached, according to iDefense.
+The analysts behind the report say they have "moderate to high confidence" that the perpetrator of the hacks is a known Chinese group called Mudcarp, which goes by other names including Temp.Periscope and Leviathan. They came to this conclusion after analysing the malware sent to the universities, and finding indicators associated with Mudcarp's previous activity.
+"Any technology or program that involves the delivery or launching of a payload from a submerged submarine, or undersea autonomous vehicles, is of high interest to Mudcarp," the report says. The group's connection to the Chinese government is not certain.
+Chinese officials have not immediately responded to a request for comment from the BBC. The country has previously denied state-sponsored hacking efforts. In 2015 it labelled allegations that Chinese hackers had breached the US Office of Personnel Management "irresponsible and unscientific".
+This follows a separate investigation by security firm FireEye, which similarly found evidence that a Chinese group - which it calls APT 40 - has pursued information relating to maritime technologies over the course of several years.
+FireEye says it has also observed "specific targeting of countries strategically important to the Belt and Road Initiative", including Germany, the US and the UK.
+The Belt and Road Initiative is an ambitious plan by the Chinese government that encompasses new global trade routes, across land and water.
+According to Mr Lawson, Chinese cyber-espionage efforts to gather information about potential future naval routes is "unsurprising", particularly if the nation is seeking details on the underwater attack capabilities of other countries.
+"If you're trying to keep your adversaries from as far as your shores as possible, having some understanding of their abilities to attack you [from] subsurface makes sense."
+"Is the West trying to do the same with Chinese military technology? I wouldn't bet my money against it."

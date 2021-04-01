@@ -1,0 +1,40 @@
+Virus writers target web videos
+Some malicious hackers exploit interest in Halloween
+			
+			
+		
+		
+	
+
+	
+
+
+
+The growing popularity of online video has caught the attention of malicious hackers and hi-tech criminals.
+Security firms are reporting more and more instances of booby-trapped Windows codecs - file compressors - required to play some video formats.
+Some of the codecs let users play types of net-based video, but also have spyware and adware wrapped inside.
+Others, say experts, are outright fakes that just want to infect victims with data-stealing programs.
+Audience ratings
+"Everyone is watching movies on their PC," said David Robinson, UK head of security firm Norman Sandbox, "they are downloading the latest, greatest clips."
+While sites such as YouTube and Revver try to make it easy to watch video online, many of the downloadable clips posted on the web require extra software, called a codec, to play them.
+Mr Robinson said many security firms were now logging instances in which spyware and adware firms are turning out software bundles that claim to roll together many popular codecs or just have the one needed to play a particular clip.
+Some of the codecs do help to play clips, but others are disguised as a variety of nuisance or malicious programs.
+Some rogue codecs plague users with pop-up adverts, while others invisibly install keyloggers that try to grab confidential data.
+Anti-spyware firm Sunbelt Software discovered one codec that  became a program that found fictitious security problems on a PC and demanded payment to repair them.
+Many downloads look benign when scanned with an anti-virus program, but, once installed, download updates from other websites that contain the malicious payload.
+Security firms expect the popularity of clips to be exploited
+			
+			
+		
+		
+	
+
+	
+
+Mr Robinson said the growth of booby-trapped video codecs was just another example of how hi-tech criminals have moved on from the old days in which a virus only travelled by e-mail.
+Now, he said, they maintain a diverse portfolio of attack methods and will tailor these to whatever is proving popular online.
+Mr Robinson said his company Norman Sandbox, which analyses captured samples of malicious code, gets hundreds of new variants of malicious programs submitted to it every day.
+David Emm, senior technology consultant at anti-virus firm Kaspersky Labs, said it was only a matter of time before virus writers turned to sites such as YouTube and booby-trapped pages showing popular clips with bugs.
+"YouTube is almost by definition unregulated," he said, and was ripe for exploitation by malicious hackers. "It gives an almost endless stream of stuff to tap into."
+Already spyware firms are known to be using the popularity of some clips on YouTube and social networking site MySpace to install their wares on the PCs of more victims.
+Increasing numbers of malicious attacks were pegged to news or other events, said Mr Emm, which helped to catch people out.

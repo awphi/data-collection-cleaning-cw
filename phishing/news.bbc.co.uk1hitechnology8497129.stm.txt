@@ -1,0 +1,17 @@
+Phishing attack nets 3 million euros of carbon permits
+The international carbon market has been hit by a phishing attack which saw an estimated 250,000 permits worth over 3 million euros stolen this week.
+The scam involves six German companies and meant emissions trading registries in a number of EU countries shut down temporarily on 2 February.
+In the global carbon market, companies can buy permits from other firms, allowing them to emit greenhouse gases.
+The criminals are believed to have created fake emissions registries.
+They then sent e-mails to thousands of firms around the globe, including New Zealand, Norway and Australia.
+"It was a world-wide action," Hans-Juergen Nantke, head of German emissions registry DEHSt told the Reuters news agency.
+Seven out of 2,000 German firms targeted are known to have fallen victim to the scam, handing over registration details which allowed the thieves to steal their emissions permits.
+"Of the seven, six have been subject to theft," said Mr Nantke.
+The registry has submitted details of the attack to state prosecutors in Berlin.
+Illegal transactions have also been reported in the Czech Republic.
+Registries in nine countries, including Belgium, Denmark, Spain, Italy and Greece, closed after details of the attacks emerged. Registries in Austria, the Netherlands and Norway were temporarily suspended but reopened the same day.
+Emissions trading continued via the European Emissions Exchange.
+The United Nations' Framework on Climate Change (UNFCCC) said it was working closely with national registries to ensure their systems were secure.
+The EU Commission may get involved in investigations.
+"If they [transactions] happened at national level, they are traceable. If they happened internationally, our community registry will be involved as we can trace international transactions," a spokeswoman told Reuters.
+Phishing scams, which redirect people to a fake website via an e-mail, are common in the banking industry.

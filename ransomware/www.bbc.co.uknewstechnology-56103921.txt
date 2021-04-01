@@ -1,0 +1,28 @@
+US charges three North Koreans over $1.3bn theft
+Three North Koreans have been charged in the US over a scheme to steal and extort more than $1.3bn (Â£940m) from banks and businesses around the world.
+The three, who are not in custody, are also accused of deploying malicious cryptocurrency programs.
+A Canadian-American citizen was also charged with money laundering.
+The men are also accused of being part of the Wannacry cyber-attack of 2017, which crippled UK health service computer systems on a national scale.
+Announcing the charges, Assistant Attorney General for National Security, John Demers, said North Korea "has become a criminal syndicate with a flag".
+One of the defendants, Park Jin Hyok, was previously charged two years ago for his role in the 2014 hacking of Sony Entertainment Pictures.
+Mr Park, Jon Chang Hyok and Kim Il are accused of criminal conspiracy, conspiracy to commit wire fraud and bank fraud.
+The Department of Justice says the defendants work for the Reconnaissance General Bureau, North Korea's military intelligence agency.
+"North Korea's operatives, using keyboards rather than guns, stealing digital wallets of cryptocurrency instead of sacks of cash, are the world's leading bank robbers," Mr Demers said.
+All three men are believed to be in North Korea, which does not extradite its citizens to face US charges.
+The Canadian-American man, 37-year-old Ghaleb Alaumary, from Mississauga, Ontario, is accused of being the group's money launderer in a separate case announced on Wednesday. Officials say he has agreed to plead guilty to the charge
+Satirical source
+Sony Entertainment Picture's 2014 film, The Interview, is widely believed to have been the initial motive for the attack on the film company.
+The satirical film, starring Seth Rogen and James Franco, ridicules North Korean leader Kim Jong-un, and centres around a fictitious assassination plot against him.
+The men are also believed to have had a hand in the WannaCry 2.0 ransomware attack in 2017.
+The attack temporarily crippled UK National Health Service (NHS) computer systems and affected more than 150 countries around the world.
+About 40 NHS organisations and some medical practices were hit, with operations and appointments cancelled.
+There are broadly three reasons why governments choose cyber-attacks to further their interests: to spy on each-other; to steal intellectual property; or to meddle in politics.
+This indictment adds further evidence to the theory that North Korea bucks the trend. The politically isolated country is actually far more interested in making money.
+As the assistant attorney general put it, North Korean hackers are "the world's leading bank robbers".
+Of all the major cyber powers, North Korea has time and time again used its considerable skills to prop up a struggling economy.
+It's working rather well, too - with well over $1bn in the bank from these hacks alone.
+While other nations cause chaos and political noise with their hackers, North Korea seems content to quietly continue lining its coffers.
+The three men hit by the indictment also conducted campaigns targeting US defence and energy contractors. As part of this, Department of State and Pentagon officials were tricked into sharing their credentials so hackers could access their computers.
+"The scope of the criminal conduct by the North Korean hackers was extensive and long-running and the range of crimes they have committed is staggering," Acting US Attorney Tracy Wilkison said.
+The UK's National Cyber Security Centre said it fully supported the criminal charges.
+"Working with our allies we are committed to countering malicious activity by state and non-state actors and will defend ourselves from disruptive behaviour in cyber-space," said the organisation's director for operations, Paul Chichester.

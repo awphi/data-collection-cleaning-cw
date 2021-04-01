@@ -1,0 +1,19 @@
+EA games web server hacked to host phishing website now fixed
+A web server belonging to the games company Electronic Arts which had been hacked and was hosting a phishing website, has now been fixed.
+The website that was put in place by hackers asked users to enter their Apple IDs - the credentials needed to access services like Apple's iTunes.
+A second screen then asked users to enter further personal information, including credit card details.
+EA said the problem had been found and hacking attempts had been stopped.
+Paul Mutton, from Netcraft, the internet security company that uncovered the hack, said in a blog that it was likely a vulnerability in an online calendar application hosted on the web server had been exploited by the attackers.
+The calendar based on the web server was an old version of software that had since been updated, he said.
+"The mere presence of old software can often provide sufficient incentive for a hacker to target one system over another, and to spend more time looking for additional vulnerabilities," he wrote.
+Once a user has entered their Apple ID and password on the fake website they are then asked to verify their name, date of birth, phone number and credit card details among other information.
+Users were then directed to the legitimate Apple ID website, said Mr Mutton.
+It was reported earlier in the year that other servers belonging to EA had been hacked, causing problems for users trying to log on to online games and services.
+A hacking group known as Derp posted a tweet claiming responsibility for that attack.
+Mr Mutton said he had reported the most recent problems to Electronic Arts.
+In a statement to the BBC, EA said: "We found it, we have isolated it, and we are making sure such attempts are no longer possible."
+Michael Sutton, from security research firm Zscaler, said that hackers using legitimate websites to host malicious content was now the norm.
+"Social engineering attacks always involve an element of communication - the victim must be tricked into performing an action such as providing data, clicking on a link, downloading a file, et cetera. Attackers have learned that it's far easier to simply infect an already popular web property than to attempt communication with victims directly," he said.
+Users should check that websites are secure before entering any private information, says guidance from Get Safe Online.
+They should look for a padlock symbol in the browser window frame and they should check that the web address begins with https - the "s" stands for secure.
+The advice also says that users should check the address in the browser's address bar after arriving at a website to check that it matches what they actually typed.

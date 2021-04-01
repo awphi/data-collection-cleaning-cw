@@ -1,0 +1,18 @@
+Global virus fear prompts update for old Windows
+Fears of a massive global computer virus outbreak have prompted Microsoft to issue security updates for very old versions of its Windows software.
+One patch is for Windows XP, which debuted in 2001 and Microsoft stopped supporting in 2014.
+Microsoft said the patch closed a hole that could be used to spread a virus.
+Malicious hackers exploiting it could kick off a worldwide outbreak like the 2017 Wannacry worm, which hit thousands of machines.
+Risky connection
+It was "highly likely" the vulnerability would be exploited if it went unpatched, wrote Simon Pope, Microsoft's director of incident response, in a blog about the bug.
+He said the bug could be exploited simply by connecting to a vulnerable machine over the internet.
+"Any future malware that exploits this vulnerability could propagate from vulnerable computer to vulnerable computer in a similar way as the WannaCry malware spread across the globe in 2017," he said.
+This danger prompted the release of a patch that closes the loophole in:
+Market industry data suggests about 3.75% of desktop machines currently use XP or its variants.
+Technology news site Wired said the wide range of vulnerable versions of Windows meant "millions" of machines were at risk.
+Although Microsoft ended support for Windows XP more than five years ago, the last software patch it issued for the operating system was released just prior to the Wannacry outbreak.
+"We strongly advise that all affected systems... should be updated as soon as possible," said Mr Pope.
+Microsoft said there was no evidence that cyber-criminals were currently exploiting the loophole.
+People and organisations using Windows 8 or 10 were not at risk, Microsoft said.
+Independent security expert Graham Cluley said the creation of the patch for XP showed the threat of a virulent worm was "serious".
+Many old and vulnerable systems were still "riskily" connected to the internet, he said, urging people to update swiftly.

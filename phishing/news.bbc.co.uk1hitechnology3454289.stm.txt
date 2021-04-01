@@ -1,0 +1,14 @@
+Microsoft fixes 'phishing' flaw
+Net users are being urged to update their Internet Explorer browser to close a loophole that could be used to trick people with a fake web link.
+Microsoft has described the problem as "critical," the highest level of alert.
+The flaw is not related to the Mydoom bug, which is behind one of the biggest virus epidemics to hit the internet.
+People using Internet Explorer versions 5.01, 5.50 and 6 are being urged to download a security patch from Microsoft's website.
+Spoof e-mails
+The security update addresses three flaws in Microsoft's browser. The most serious is one which could direct a user to a fake website, even though the internet link looked real.
+The flaw could be used in so-called "phishing" scams in which people are sent e-mails and asked to click on a link to update financial information or verify passwords.
+"This vulnerability has already been in use since December, and we've been in great anticipation for an update," said Jimmy Kuo of anti-virus firm McAfee.
+"A user could see the address www.citibank.com, but could actually be somewhere else."
+Phishing has been used by fraudsters and organised crime to get customer bank details.
+Some leading financial institutions have had their names used in "spoof" e-mails.
+In December, NatWest temporarily suspended its internet banking facility after some of its customers were sent fraudulent e-mails asking them to divulge their account details.
+In October, Nationwide and NatWest were targeted by a similar hoax as was the Halifax, while in September fraudsters tried to trick customers of Lloyds TSB and Barclays.

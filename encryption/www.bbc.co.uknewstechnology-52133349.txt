@@ -1,0 +1,33 @@
+Zoom boss apologises for security issues and promises fixes
+Zoom is to pause the development of any new features to concentrate on safety and privacy issues, in the wake of criticism from users of the app.
+In a blog, the chief executive of the video conferencing app apologised for "falling short" on security issues and promised to address concerns.
+He said that the use of Zoom had soared in ways he could never have foreseen prior to the coronavirus pandemic.
+One security expert said he hoped the company culture would change.
+Zoom is now being used by millions of people for work and leisure, as lockdowns are imposed in many countries.
+Eric Yuan spoke candidly about how "usage of Zoom ballooned overnight".
+"As of the end of December last year, the maximum number of daily meeting participants, both free and paid, was approximately 10 million. In March this year, we reached more than 200 million, he said.
+He admitted that despite "working around the clock" to support the influx of new users, the service had "fallen short of the community's - and our own - privacy and security expectations".
+"For that, I am deeply sorry," he wrote.
+"We did not design the product with the foresight that, in a matter of weeks, every person in the world would suddenly be working, studying, and socialising from home," he wrote.
+"We now have a much broader set of users who are utilising our product in a myriad of unexpected ways presenting us with challenges we did not anticipate when the platform was conceived."
+Zoom has been criticised for a range of privacy issues, including sending user data to Facebook, wrongly claiming the app had end-to-end encryption, and allowing meeting hosts to track attendees.
+Ex-NSA (National Security Agency) hacker Patrick Wardle identified a series of issues, including a flaw which left Mac users vulnerable to having webcams and microphones hijacked.
+Security consultant Graham Cluley said that Zoom faced "a crisis".
+"It risked losing a large amount of goodwill it had received because of revelations about its less-than-perfect attitude towards security and privacy."
+The fact that it was addressing some of the "alarming vulnerabilities" and had recognised the need to focus on security rather than "adding bells and whistles" was good news, he said.
+"Let's hope that the company's culture will change from its previous 'fast and loose' attitude when it comes to such concerns," he added.
+Zoombombing
+The huge uptake of Zoom has created the new phenomenon of 'zoombombing' which sees uninvited guests join video conferences, usually to shout abuse, share pornography or make racist remarks.
+The mischief-makers find out the details of the meetings either via links that have been shared publicly on social media platforms or websites or, in some cases, by simply guessing the nine digit ID code. It is reasonably easy to prevent attacks by password protecting meetings and not allowing anyone other than the host to screen-share.
+Mr Yuan, who founded Zoom in 2011, said steps the firm had taken to address concerns included:
+And over the next 90 days it plans to:
+Rik Ferguson, vice president of security research at Trend Micro, welcomed the changes.
+"These issues run the full gamut: from configuration and lax default settings, software vulnerabilities, corporate policy and product roadmap decisions, and that it painfully clear from the blog post."
+"One has to feel some sympathy for an organisation that was one of the first to offer free services during the pandemic and found itself not just a victim of poor decision-making, but also a victim of its own success."
+'High-risk'
+There has been debate in the UK about whether the government should be using Zoom for cabinet meetings.
+The government justified its use during "unprecedented times" when some members of government were self-isolating and did not have access to more secure technology at home.
+But the debate intensified when prime minister Boris Johnson tweeted a picture which included the ID number of the latest meeting.
+It is also reported that Elon Musk has banned the use of Zoom for SpaceX meetings, citing security concerns. Nasa, which is one of Space X's biggest customers, also prevents employees from using it.
+Mr Cluley said anyone using it for sensitive conversations needed to be careful.
+"Fixing these problems will take time. And those particularly high-risk users of Zoom, having highly sensitive discussions on the service, who might potentially be the target of state-sponsored attacks (for instance the UK cabinet), might be wise to find alternative, more secure methods of communication in the meantime."

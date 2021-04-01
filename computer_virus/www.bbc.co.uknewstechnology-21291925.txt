@@ -1,0 +1,16 @@
+Computer virus accuses victims of viewing child porn
+German federal police are warning about a computer virus that accuses victims of viewing "juvenile pornography".
+It also displays an image that it claims reveals images of child sexual abuse have been viewed on a computer.
+The Windows virus locks a computer and only returns control to its owner on payment of a 100 euro (Â£86) fine.
+It purports to be collecting cash on behalf of German copyright authorities and the country's national computer security agency.
+The virus amounted to "digital extortion" and victims should not pay up, said German police.
+The warning about the novel strain of ransomware was issued by Germany's Federal Criminal police office (the Bundeskriminalamt or BKA).
+The ransomware version found by the BKA uses a pop-up window that says the machine has been locked down due to "unauthorised network activity". The window is crafted to look like it has been put together by Germany's Federal Office for Information Security (BKI) and its society for prosecution of copyright infringement (GVU).
+'Emotional blackmail'
+Text in the window claims that images of child sexual abuse as well as pirated content have been found on the machine. Also displayed is an picture of a child which it claims reveals illegal images have been viewed.
+Rik Ferguson, director of security research at Trend Micro, said it was the first time he had heard of ransomware displaying images that users were accused of harbouring.
+"It seems that they are attempting to increase the pressure of this kind of emotional blackmail," he told the BBC.
+Germany's BKA said users should not pay the fine "under any circumstances" and added that neither the BKI or GVU collected cash in this way from those suspected of viewing illegal images or pirating content. Instead, users should use anti-virus and other security software to clean up their PC and deal with the virus.
+"This is a form of digital extortion," said the BKA in its alert about the virus.
+Ransomware, which tries to make victims pay an on-the-spot fine, is becoming more prevalent but most strains simply accuse people of pirating movies or music. Others scramble data that is only unscrambled when a fee is paid.
+Security firm Symantec said it was seeing more and more strains of ransomware and said it could be "highly profitable" for its creators. It estimated that ransomware makers were already making about $5m (Â£3m) a year from such malicious code.

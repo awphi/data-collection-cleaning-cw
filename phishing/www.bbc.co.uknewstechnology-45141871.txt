@@ -1,0 +1,29 @@
+Gab user's anti-Semitic posts removed
+Two anti-Semitic posts have been deleted from fringe social network Gab after Microsoft, citing the content, threatened to take the site down.
+The posts were made by Patrick Little, who says he is running for US president and wants to remove Jewish people from America.
+Microsoft hosts Gab on its Azure cloud service.
+Gab's founder Andrew Torba said that one of the posts "unquestionably" broke the site's rules.
+The BBC has sent a request to Gab for comment.
+The social network describes itself as a platform for free speech, but much of the content on the site presents far-right viewpoints, including racist and anti-Semitic posts.
+'Malicious activity'
+"Gab's hosting provider, Microsoft Azure, has given us 48 hours to take action on two posts, or they will pull our service and Gab will go down for weeks/months," wrote Mr Torba on the site.
+Microsoft said it had received a third-party complaint about Mr Little's posts, which were described as "malicious activity" in a message to Mr Torba requesting that they be removed.
+They were also described as "phishing URLs" - though the posts did not appear to contain any content that could be described as phishing.
+"We believe we have an important responsibility to ensure that our services are not abused by people and groups seeking to incite violence," the tech giant said in a statement.
+"Gab.ai is of course free to choose otherwise and work with another cloud service provider or host this content itself."
+Later, Mr Torba acknowledged that one of Mr Little's posts "unquestionably breaks our user guidelines".
+He accused Mr Little of "playing games" after Mr Little said he would delete the posts himself but did not.
+"We took action and removed both posts," wrote Mr Torba on Gab. "We had no choice."
+"We are actively looking into other hosting providers and our long-term goal is building our own infrastructure."
+He added that he believed taking the posts down was the "best decision for the longevity of the platform and the war against Silicon Valley".
+Previously, Mr Little had said, "I'll delete the posts, but this is a violation of our rights as Americans."
+Shortly afterwards, Gab's official Twitter account said Mr Little did remove the posts.
+However, this was subsequently contradicted by Mr Torba, who said it was Gab that had stepped in to delete them.
+Last September, Gab filed a lawsuit against Google after the social network was removed from Play, the Android app store.
+Gab has become more prominent at a time when the extent to which "free speech" should be allowed on the web is being hotly debated.
+In recent days, a number of tech giants have removed content by conspiracy theorist Alex Jones.
+Apple, Facebook, YouTube and Spotify all decided to take down some or all of Jones's videos or podcasts, citing rules against "hate speech".
+Gab user jailed
+On 9 August, a man who used Gab to call for Muslims to be burnt on bonfires or gassed, was jailed in the UK for 16 months.
+Jonathan Jennings also threatened to kill Jeremy Corbyn if he became prime minister and said Gina Miller, a pro-EU campaigner, should be executed.
+He pleaded guilty to six counts of publishing or distributing written material intended to stir up religious hatred, and four counts of sending communication with intent to cause distress or anxiety.

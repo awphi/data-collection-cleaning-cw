@@ -1,0 +1,14 @@
+Google thwarts Baltimore ransomware fightback
+Google has inadvertently thwarted attempts by Baltimore's city government to fight off crippling ransomware.
+The cyber-attack struck civil computers in Baltimore on 7 May, blocking email accounts and online payment systems.
+City officials set up GMail accounts to restore communications between citizens and staff.
+The mass creation of the accounts triggered Google's GMail defences which shut them down, believing they were being used by spammers.
+Google said it restored access to the GMail accounts once it discovered who had created them and why.
+"Our automated security systems disabled the accounts due to the bulk creation of multiple consumer Gmail accounts from the same network," Google told the BoingBoing website.
+House sales on hold
+The cyber-attack has meant that many day-to-day administration tasks of Baltimore's city government have stopped. It has delayed the sales of many homes, and stopped water bills being generated. And people cannot pay tax bills or parking fines.
+A manual workaround for the home sales has been put in place, and the switch from internal email to GMail was another scheme to defeat the attackers.
+The cyber-criminals who launched the ransomware attack have demanded a payment of $100,000 (Â£79,000) in Bitcoins to restore control of official systems to city workers. About 10,000 computers were hit by the virus.
+Baltimore has so far refused to pay the ransom. The FBI and Secret Service are known to be investigating.
+City Mayor Bernard Young said it was unclear when systems would be back in full operation.
+Last year Baltimore was hit by a cyber-attack which knocked out the communications systems for emergency services for a day.

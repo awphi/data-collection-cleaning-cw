@@ -1,0 +1,92 @@
+Lazarus-like virus hits computers
+Security firms are warning about a PC virus that comes back from the dead.
+The newest variant in the Sober family of Windows viruses resurrects itself if some of the parts it leaves on infected machines are not deleted.
+The virus also tries to trick people into opening infected attachments by claiming that the message has been passed as clean by anti-virus scanners.
+Computer security firms warned people to be suspicious of unsolicited e-mails bearing attachments.
+Clever code
+The first Sober virus appeared in late October 2003 and was most prevalent in Germany.
+The latest Sober-I variant debuted on 19 November, is more international in flavour and uses several new tricks to try to preserve itself and fool people into opening it and infecting their Windows machine.
+POPULAR SOBER-I SUBJECT LINES
+                        
+                
+		
+                
+                     
+                    
+	Details
+
+
+
+
+
+
+	Registration Confirmation 
+
+
+
+
+
+
+	Your mail password 
+
+
+
+
+
+
+	invalid mail 
+
+
+
+
+
+
+	Mail delivery_failed 
+
+
+
+
+
+
+	Re: Delivery_failure_notice 
+
+
+
+
+
+
+	Re: illegal signs in your mail 
+
+
+
+
+
+
+	Your Password 
+
+
+
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+	
+The virus places two small files into the memory of any machine that it infects. If either one of these files is manually deleted, its partner will resurrect the missing file.
+Similar tactics have been seen in spyware programs that capture information about browsing habits, but it is believed that this is the first time such a tactic has been used by a computer virus.
+In an attempt to reassure people that it is benign, the virus adds text to the messages it travels in that claims the e-mail has been scanned and found clean by anti-virus programs.
+The message can use any one of 150 separate subject lines and the message forming its body can be generated from short strings of text that it carries with it.
+The infectious attachments bearing the virus code try to hide by labelling themselves as either a screensaver (scr), batch (bat), information (pif) or command (com) file.
+Anyone clicking on the attachment could leave themselves open to more infections as the virus disables many of the security features used to keep machines virus free.
+Once installed the mass mailer scours a Windows machine for addresses and then uses its own built-in e-mail software to send itself to potential new victims.
+The BBC News website has received warnings from four different companies about the Sober-I virus which appears to be catching quite a lot of people out.
+Mail filtering and scanning firm Blackspider Technologies said it had seen more than 1 million copies of the virus in the first few hours of the day.

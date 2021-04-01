@@ -1,0 +1,21 @@
+US military contractors 'hit by Chinese hackers'
+Hackers associated with the Chinese government broke into the computers of airlines and military contractors over 20 times in a single year, according to the US Senate.
+The attacks were allegedly targeted at systems that move troops and equipment.
+They included breaking in to computers on a commercial ship and uploading malicious software on to an airline's computers, the Senate report alleged.
+Chinese officials denied the allegations.
+A year-long investigation was concluded in March, but the findings have only just been made public.
+In a 12-month period from June 2012, it found evidence of about 50 cyber-attacks on military contractors.
+Of those, 20 were attributed to "an advanced persistent threat", a term associated with attacks on governments. All were attributed to China.
+The report did not disclose the names of the affected contractors.
+"These peacetime intrusions into the networks of key defence contractors are more evidence of China's aggressive actions in cyberspace," senator Carl Levin, chairman of the committee, said.
+Chinese embassy officials in Washington questioned the report, calling the accusations "groundless".
+The row between China and the US over cyber-attacks has been a long-running one.
+The Chinese government has previously accused US spies of infiltrating its computer networks.
+In May the US government accused five Chinese military members of hacking into and stealing trade secrets from the computers of several large US companies.
+Clearinghouse
+The latest report revealed that officials had only been told about two of these incidents. It also found that US government agencies had failed to share the information about the attacks among themselves.
+This lack of transparency from contractors has raised questions and prompted calls for new procedures about how such hacks are reported.
+Senator Jim Inhofe, who sits on the committee, called for a central clearinghouse to make it easier for contractors to report suspicious cyber-activity.
+According to the report, contractors are only required to report network-level cyber-intrusions.
+Paul Dignan, from security firm F5 Networks, said: "A lot of attacks target end-users with malware so that they can piggyback on legitimate access to the network.
+"Firms use lots of security vendors but there are also lots of gaps and, without adequate integration, it is these gaps that will be exploited."

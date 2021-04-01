@@ -1,0 +1,40 @@
+Virus program incurs church wrath
+Vicars in the UK are up in arms after parts of a program they use to organise church services were branded spyware.
+Many users of the Visual Liturgy software rendered the program useless after deleting a file wrongly identified as spyware.
+The creators of Visual Liturgy criticised anti-virus firm Symantec for the time it took to fix the bug.
+Symantec said the mistake had been fixed and users could avoid the problem by updating their anti-virus software.
+Unholy row
+The row between Symantec and Church House Publishing, the creator of Visual Liturgy, blew up on 8 July following an update to the Norton anti-virus software.
+More than 4,500 Church of England parishes rely on Visual Liturgy to help them plan and prepare church services.
+As Christians, we're used to not always getting answers to our prayers immediately, but this seemed to take the biscuit
+			
+
+
+
+
+
+                
+                     
+                    
+	Church House Publishing
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+The update identified a file called vlutils.dll as being part of a keylogging program called SniperSpy. In fact the file was an integral part of Visual Liturgy. Many people who reacted to the warning by deleting the files crippled the program.
+As a result Church House Publishing was inundated with calls from users trying to find out why the software had stopped working.
+In a statement, Church House Publishing said it reported the mistake to Symantec on 10 July and then made repeated attempts to get the problem corrected.
+While waiting for a response it made a copy of the vlutils.dll file available so users could download it and get Visual Liturgy working again.
+A spokesman for Church House Publishing said an investigation confirmed that the problem had been fixed but criticised the way Symantec handled it. In particular, said a spokesman for Church House Publishing, it proved hard to get confirmation from Symantec that the mistake had been corrected.
+"Whilst we are very glad that this issue has now been fixed, the issue at stake here is that there will be parish churches who rely on Visual Liturgy to create their service sheets who have been severely disrupted," said the spokesman.
+"The time taken to run the update and then re-download the deleted files is time that could have been spent on much more important things," he added.
+"As Christians, we're used to not always getting answers to our prayers immediately, but this seemed to take the biscuit," said the spokesman.

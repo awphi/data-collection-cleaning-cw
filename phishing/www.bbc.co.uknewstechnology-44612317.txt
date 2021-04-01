@@ -1,0 +1,16 @@
+Scammers abuse multilingual domain names
+Cyber-criminals are abusing multilingual character sets to trick people into visiting phishing websites.
+The non-English characters allow scammers to create "lookalike" sites with domain names almost indistinguishable from legitimate ones.
+Farsight Security found scam sites posing as banks and loan advisers. Another firm saw children's brands such as Lego and Haribo being abused.
+Smartphones screens put users at risk as they make lookalikes hard to spot.
+Targeted attack
+The Farsight Security report looked at more than 100 million domain names that use non-English character sets - introduced to make the net more familiar and usable for non-English speaking nations - and found about 27% that were unique, indicating the prevalent usage of internationalized domain names.
+It also uncovered more than 8,000 international domain name homographs, or lookalike domain names, characters, representing or containing a top global brand name.
+Farsight founder Paul Vixie, who wrote much of the software underpinning the net's domain names  told the BBC: "Any lower case letter can be represented by as many as 40 different variations."
+And many internationalised versions added just a tiny fleck or mark that was not easy to see.
+Eldar Tuvey, founder and head of security company Wandera, said it had also seen an upsurge in phishing domains using different ways of forming characters.
+In particular, it had seen an almost doubling of the number of scam domains created using an encoding system called punycode over the past few months.
+And phishing gangs were using messages sent via mobile apps to tempt people into clicking on the similar-looking links.
+"They are targeting specific groups," Mr Tuvey said.
+And research had established people were three times more likely to fall for a phishing scam presented on their phone.
+"To phish someone, you just have to fool them once," Mr Tuvey said. "Tricking them into installing malware is much more work."

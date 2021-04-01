@@ -1,0 +1,27 @@
+Texas government organisations hit by ransomware attack
+Hackers have infected 23 organisations connected to local government in the US state of Texas with ransomware.
+Officials indicated the attack over the weekend was co-ordinated.
+The Texas Department of Information said the attack had primarily affected smaller local government departments.
+A spokesman said the situation was still ongoing on Monday morning.
+Texan authorities have drafted in cyber-security experts, as well as the military and counter-terrorism units, to help bring systems back online.
+In a statement, the Texas Department of Information Resources said evidence suggested the attacks "came from one single threat actor".
+Officials did not release specific details of the affected departments or say whether the cyber-criminals had specified a ransom amount.
+Ransomware is a type of malicious software that cyber-criminals use to disable a computer and its data until a ransom is paid.
+Hackers have targeted a number of US states this year, paralysing government computers in New York, Maryland and Florida.
+In May, hackers seized control of thousands of government computers in Baltimore.
+The attack disabled email accounts and prevented online payments to city departments for weeks.
+How have cities dealt with ransomware attacks?
+Officials in Baltimore refused to pay the ransom, opting instead to manually process thousands of transactions, including home sales.
+They also slowly restored access to around 10,000 employee email accounts.
+The city estimated losses of around $18m (Â£15m) from the attack.
+The hackers originally demanded $100,000 worth of Bitcoin.
+Other cities have chosen to pay.
+In June, council leaders in Riviera Beach, Florida, voted to pay almost $600,000 in the digital currency Bitcoin to hackers who paralysed the city's computer systems for weeks.
+A week later, officials in Lake City, Florida paid hackers $500,000 following a similar ransomware demand.
+Lisa Forte, a partner at Red Goat Cyber Security, which specialises in cyber-security testing, said ransom payments left cities vulnerable to more attacks.
+She said: "Even if you do recover your data, your organisation will likely be added to a list on the dark web of 'organisations that pay ransoms'. This may lead to you being targeted again."
+Are cities becoming easy targets?
+Ransomware attacks are on the increase.
+Liron Barak, chief executive of cyber-security firm BitDam, said the complex structure of government departments often made them an easy target for hackers.
+She said: "In addition, local governments tend to communicate with a wide variety of businesses and individuals, with many of them being one-time contacts.
+"This makes them more vulnerable to attacks, as their employees don't know most of the contacts with whom they communicate, in person."

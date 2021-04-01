@@ -1,0 +1,63 @@
+Malicious worm that talks back
+A worm that reassures you that it is not infectious has impressed technology consultant Bill Thompson.
+Do you know who you are chatting to online?
+			
+			
+		
+		
+	
+
+	
+
+
+	
+	Worms and viruses will use any available channel to spread, as recipients of infected email attachments, visitors to websites loaded with malicious software and users of peer-to-peer networks can all testify.
+Instant messaging networks are not immune, since most allow users to exchange files.
+Now it seems that the latest worm to infect AOL's instant messaging community, Aim,  actually chats with the users it is targeting in order to persuade them to download and run an infected file.
+Called IM.Myspace04.AIM - and someone really needs to think about the naming scheme used for viruses and worms, because that one is just dull - it uses infected computers to send itself to people on any Aim buddy list it finds, and even responds to messages sent to it in order to allay suspicion.
+It can do this because it is a bot, or software robot, a program that can interact with people.
+Although there have been malicious bots around for some time instant messaging, security firm IMLogic believes that this is the first time someone has tried to use bot code to help spread a worm around an IM network by pretending to be a legitimate user.
+The first sign of attack is a message that appears to come from a contact, offering you a file to download. If you respond then the wormbot tries to persuade you to save the file, and it will even say "lol no its not a virus" (sic) if you ask about the possibility of infection.
+If you do open the file then your security software is disabled, a backdoor is installed and the worm will start trying to reach the people on your personal buddy list.  So far it does not seem to do any more damage, or steal any sensitive information.
+Helpful bots
+Instant messaging bots have been around for some years, and there are many services online that let you interact with them through an instant messaging network.
+One of my favourites is RecipeBuddie, which will offer helpful advice on what to cook. But there is also a Yellow Pages bot, an online safety bot and even a Christmas bot, named Santaclaus, since you ask.
+Now that we have seen the first attempt to put some intelligence into a worm we can expect to see the technique used again, and more effectively, probably with a rather more damaging payload next time around
+			
+
+
+
+
+
+                
+                     
+                    
+	
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+There are also toolkits for making your own bot, usable by anyone with a modicum of programming skill.
+While this new wormbot is not really demonstrating any sort of intelligence, using what seems to be a random selection of canned phrases when you try to engage it in serious conversation, it is a fascinating development.
+For many years hackers and crackers have gained access to supposedly secure systems through social engineering.
+Instead of spending hours trying to crack a password, they have found it a lot faster to phone up a legitimate user of the system, persuade them that they are authorised to have access and then get them to hand over the secret information.
+And while noted hacker Kevin Mitnick had good technical skills, it was his confidence tricks that got him his greatest successes.
+Although we must, as always, condemn those who write and distribute malicious software, it is impossible not to give them some grudging respect for thinking of a simple and effective way to get around the technical protection measures most of us now have in place.
+We also need to look out for more sophisticated applications of the new technique, with bots which do more than just send random phrases but which try to engage in serious conversation.
+After all, the people writing malware are dedicated, keen and usually willing to invest a lot of time and effort in their work. They also embody the best principles of distributed development, learning from each other, sharing their work widely and building on the latest developments in the field.
+Intelligence test
+Every time an anti-virus company takes some malicious code apart to see how it works, the virus-writing community gets a chance to learn from their peers.
+Now that we have seen the first attempt to put some intelligence into a worm we can expect to see the technique used again, and more effectively, probably with a rather more damaging payload next time around.
+And there will be a real incentive for virus writers to get the interactions just right, so that those of us on the receiving end of the attack are fooled into thinking we are interacting with our friends.
+Perhaps they will use Google to find out personal information, or read e-mails and calendars on infected machines to find out about mutual friends, birthdays and other useful details designed to give the impression that it is a real person on the other end of the IM connection.
+It would be rather ironic if the first program to pass the Turing Test was a malicious worm, but it has to be a possibility.
+I wonder if the people who run the Loebner Prize, which offers $100,000 to the author of the first program to do so, would accept submissions from a bunch of hackers?

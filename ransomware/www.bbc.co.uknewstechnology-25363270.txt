@@ -1,0 +1,12 @@
+Copycat ransomware demands cash to unscramble files
+Malicious programs that demand a ransom to restore files that they have encrypted are starting to proliferate.
+Security company IntelCrawler has discovered malware called Locker that demands $150 (Â£92) to restore files.
+The cyber-thieves behind Locker were trying to emulate the success of CryptoLocker that has racked up thousands of victims this year.
+However, IntelCrawler said, flaws in the malicious program suggest it might be easier to defeat than CryptoLocker.
+IntelCrawler said it first saw "large-scale distribution" of several different versions of Locker early this month. So far, the malware has managed to snare people across the US, Europe and Russia. It is spread via infected files placed on compromised websites and through booby-trapped files disguised as MP3s.
+Unscramble
+Analysis by Andrey Komarov, of IntelCrawler, shows that when Locker infects a machine, it deletes files leaving only encrypted copies behind and also drops a small file containing a unique ID number and contact details for Locker's creators.
+The file also warns that no key will be given to any victim who harasses or threatens the malware's creators.
+Those who want to get their data back are encouraged to use the contact details and, once the ransom is paid, each victim gets a key to unscramble files.
+However, help could be at hand for anyone hit by Locker, said Mr Komarov, as IntelCrawler had managed to penetrate the network the cyber-thieves were using to monitor victims. This helped the company extract the universal keys used to scramble target files.
+"Our researchers are working on the universal decryption software in order to help the victims," said Mr Komarov.

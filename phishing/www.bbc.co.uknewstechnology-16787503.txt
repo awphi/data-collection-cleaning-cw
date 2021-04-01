@@ -1,0 +1,22 @@
+Technology firms create DMarc to fight phishing
+A crackdown on "phishing" scams has been announced by 15 of the top technology companies.
+Email providers such as Google and Microsoft will work with companies like Paypal and the Bank of America to improve authentication.
+Phishing attacks typically involve scammers posing as familiar companies in an attempt to trick users into sharing personal information.
+This co-ordinated effort aims to make this more difficult.
+TheDomain-based Message Authentication, Reporting and Conformance(DMarc) - as the coalition is known - has released plans to produce a "feedback loop" between email receivers and senders.
+The initiative is the first significant attempt to bring together both email and service providers along with key security organisations.
+DMarc said this industry-wide involvement - which covers the receivers, senders and intermediaries of email use - will mean email providers will for the first time be able to reliably filter out unwanted emails, rather than use "complex and imperfect measurements" to determine threats.
+It will mean an agreed standard for authenticating legitimate emails arriving at the inboxes of AOL, Gmail, Hotmail and Yahoo customers.
+It will verify messages from Facebook, Paypal, American Greetings, Bank of America, Fidelity and LinkedIn.
+Vulnerable
+"Email phishing defrauds millions of people and companies every year, resulting in a loss of consumer confidence in email and the internet as a whole," explained Paypal's Brett McDowell, chair of DMarc.
+"Industry co-operation - combined with technology and consumer education - is crucial to fight phishing."
+Email security firms Agari, Cloudmark, eCert, Return Path and Trusted Domain Project complete the collaboration.
+More companies will join the open standard as it is developed.
+Paypal spokesman Rob Skinner explained how the initiative is intended to make things easier for the most vulnerable part of the security chain - the human.
+"Half the problem is, with the best will in the world and improving technology, ultimately it's still down to the user to decide [to open an email]," he told the BBC.
+"The key point is trying to block emails from getting to someone's inbox - taking the worry and concern out of people's minds and doing it for them."
+As one of the internet's most ubiquitous payment companies, Paypal often finds itself impersonated by scammers.
+"We've acknowledged it's been an issue," Mr Skinner said.
+"We've had a stack of initiatives over the years to cut down on it. Fraudsters target any company that is well known, has a lot of customers, and operates across the globe.
+"We recognise our responsibility to do something about it."

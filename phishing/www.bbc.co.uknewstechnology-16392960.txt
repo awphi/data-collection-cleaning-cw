@@ -1,0 +1,20 @@
+'Spam capital' India arrests six in phishing probe
+Police in India say they have arrested six foreign nationals suspected of defrauding hundreds of people using text message and email scams.
+Scam victims were duped after being told they had won a lottery.
+Authorities seized 14 laptops, seven memory sticks and 23 mobile phones, as well as fake documents and cash.
+The arrests come after security firm Kaspersky reported that India now sent more spam than any other country in the world.
+Police said the six men, all Nigerian, would be remanded in custody until 12 January.
+The arrests signal attempts to crack down on a growing cybercrime problem in the region.
+Mumbai-based internet security specialist Vijay Mukhi said poor enforcement of laws meant spammers could act with impunity.
+"We have an Information Technology Act that was introduced in 2000. But we don't have any convictions under it and it's silent on spam," he said.
+"If I'm a spammer, I would rather spam from India to India and the rest of world because nothing will happen to me."
+Free rein
+In its report, Kaspersky said 14.8% of all spam email sent in the three months prior to the end of September had originated in India.
+Darya Gudhova, Kaspersky's spam analyst, said a lack of security awareness had given spammers free rein.
+She added that there was a growing level of cybercrime activity in developing regions such as Asia and Latin America.
+The Internet and Mobile Association of India (IMAI) estimates that the country has more than 112 million internet users, the third largest in the world after the US and China.
+About seven million new users are being added every month, the IMAI said.
+David Emm, a security researcher from Kaspersky Labs, said this growth was making life difficult for the authorities - but believed the arrests signalled a strong sign of intent from the Indian government to get a grip on scammers.
+"One of the good things is that they are taking it as a serious issue," he told the BBC.
+"Cybercrime activity is breaking out of the western European theatre and starting to affect other parts of the globe because of the massive growth in IT.
+"[In Europe] we've had cybercrime legislation for a long time with lots of expertise and history of dealing with it - but if you go to other areas like Brazil or India, you find they don't necessarily have specific cybercrime legislation."

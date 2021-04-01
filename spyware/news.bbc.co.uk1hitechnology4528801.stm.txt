@@ -1,0 +1,45 @@
+Spyware tightens grip on user PCs
+If you can say one good thing about computer viruses it is that they spring up and die away quite quickly.
+The well-established ways to defend yourself against them mean you can swiftly find them, fix the problem and forget about them.
+Sadly, the same cannot be said of spyware - the software that can smuggle itself on to Windows computers.
+Infection vector
+You can catch spyware lots of ways; visit the wrong website, open the wrong spam e-mail, use the wrong peer-to-peer file sharing program, or fail to keep your PC protected with a firewall and anti-virus software.
+What will happen if you do fall victim depends on the spyware writers' motives. Some programs just want to bombard you with ads. Others hijack browser settings and the most malicious steal personal details such as login names and passwords.
+Chances are that you already have some spyware on your PC. In most surveys about 90% of PCs are found to have several pieces of the surreptitious software installed.
+And spyware, unlike viruses, is designed to stay in place for a long time, said Richard Stiennon, vice president of threat research at anti-spyware firm Webroot.
+Elliot Spitzer has accused firms of peddling spyware
+			
+			
+		
+		
+	
+
+	
+
+Programs want to stay in place so that their creators can make money from them, said Mr Stiennon - again in contrast to most virus writers who tend to disdain financial gain.
+Pornographers, spammers and many dubious web enterprises are happy to pay the spyware makers to make sure their adverts reach a wide audience - almost none of whom would sign up for such marketing messages given the choice.
+The amount of money being made from spyware is a good motivation.
+Webroot estimates that spyware makers are raking in up to $2bn per year. While some disagree with the size of this estimate there's no doubt that the amount of cash some spyware firms are making is significant.
+Legal case
+Currently spyware exists in a legal grey area, said Ben Edelman, a Harvard economics PhD student who also studies the stuff.
+While there is no legislation that specifically outlaws spyware, the way that the programs get on to computers is ethically dubious.
+Many innocuous looking programs such as download accelerators, smiley icon makers, peer-to-peer interfaces and other utilities also include spyware software.
+The question, said Mr Edelman, is whether users know what they are getting when they install these programs.
+"The basic argument is one of user consent," said Mr Edelman.
+Anti-spyware firms recommend that PC owners switch browsers
+			
+			
+		
+		
+	
+
+	
+
+Many makers of spyware and adware claim they have been installed legitimately because users have to click a "yes" button when software bearing spyware installs.
+But, said Mr Edelman, the user agreements are often very long, sometimes more than 50 pages, and its unreasonable to expect that users read all this and know what they are getting.
+"My claim is that the installations are deceptive," said Mr Edelman who favours a more transparent approach where users are told exactly what they are getting and what they are signing up for.
+Legal action against firms that do not do enough to warn users about what they have signed up for has already begun.
+New York attorney general Elliot Spitzer has filed a lawsuit against a company called Intermix claming that it does not do enough to warn users about what they are signing up for.
+For its part Intermix denies any wrongdoing and issued a statement that it did not promote or condone spyware.
+For PC users keen to avoid spyware there are several remedies they can take. Firstly they should use anti-spyware programs regularly to keep PCs free of the programs.
+Spybot and AdAware are the most popular anti-spyware programs but Webroot, Microsoft and Symantec all produce them too.

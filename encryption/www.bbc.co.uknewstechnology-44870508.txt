@@ -1,0 +1,20 @@
+Apple iCloud: State firm hosts user data in China
+ICloud data belonging to Apple's China-based users is now in the hands of the Chinese government.
+The emails, pictures and text messages of users in China are now being managed by a division of the state-owned firm, China Telecom.
+Privacy advocates have warned that the shift could make user data vulnerable to state surveillance.
+Apple says the move to store user data locally was made to comply with Chinese authorities.
+In 2017, Apple announced that it would be partnering with local Chinese firm, Guizhou-Cloud Big Data Industry Development [GCBD], in handling operations of iCloud services for users in mainland China. In February this year, it was announced iCloud data of users in China would move to a new data centre in Guizhou province.
+Apple said the shift was made so that it could comply with local cybersecurity laws. In a statement to Reuters, Apple said: "While we advocated against iCloud being subject to these laws, we were ultimately unsuccessful."
+That arrangement has now been complicated by a new agreement between Apple's Chinese iCloud operator and the state-owned company, China Telecom.
+Apple has confirmed to the BBC that China Telecom's Tianyi Cloud division has signed with GCBD to provide storage for iCloud China.
+The change in operation means that the data of iCloud users in China, including emails and photos, is now handled by the state-owned service; a move that has led to concern from privacy advocates anxious that this will give the Chinese government easier access to personal information.
+Privacy concerns
+Joshua Rosenzweig, deputy regional director of research at Amnesty International's office in Hong Kong, told the BBC that the new agreement with China Telecom puts Apple's Chinese users at risk.
+"This move really undermines Apple's claim that it takes its customers' privacy seriously. Apple shouldn't let its thirst for profits put its Chinese users at risk," he said.
+"Apple famously launched its Mac line with a nod to Orwell and 1984. Now it looks like when it comes to privacy rights, Apple thinks some users are more equal than others.
+"We wrote to Apple for information on how it plans to protect its customers' rights against abusive government requests for data. The company's silence in response is deeply concerning."
+In March, Amnesty International launched a campaign targeting Apple over its "betrayal of millions of Chinese iCloud users", saying the company had made personal data vulnerable by handing over its China iCloud service to a local company.
+Chinese law forces foreign companies to use locally managed firms to store data, and Apple has said it was compelled to move both iCloud user data and the encryption keys that protect it to comply with these rules.
+Before the migration, all iCloud encryption keys were stored on US servers, and therefore subject to US legislation around requests for government access. With the iCloud servers now on Chinese soil, the Chinese government can use its own legal system to request access.
+When the partnership with GCBD was announced, Apple assured users that no back door would be created in its system, and that the company would still retain control over iCloud encryption keys. Apple has told the BBC this will remain the case under the new agreement.
+Apple previously worked with China Telecom to store customer data on local servers in 2014, which the company said was arranged to improve the speed and reliability of service. In that case, however, all iCloud encryption keys were stored offshore.

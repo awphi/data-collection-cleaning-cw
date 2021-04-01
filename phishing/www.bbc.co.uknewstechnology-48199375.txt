@@ -1,0 +1,22 @@
+Binance exchange hackers steal bitcoins worth $41m
+Hackers have stolen $41m (Â£31m) worth of Bitcoin in a major crypto-currency heist.
+The Binance exchange, which stores Bitcoin and other crypto-currencies for members, said hackers took 7,000 bitcoins in one go. Withdrawals have now been suspended on the platform.
+"We beg for your understanding in this difficult situation," Binance said.
+However, the exchange said it would replace the lost cash with the help of its emergency insurance fund.
+According to Binance, the attackers used a variety of techniques to break in. They deployed viruses and used phishing attacks to get security information.
+This eventually allowed them to access the exchange's "hot wallet", an online cache of bitcoins readily available for customer transactions.
+The hot wallet contained about 2% of Binance's total crypto-currency assets. Other wallets were "secure and unharmed", the firm said.
+'Patient hackers'
+The hackers "had the patience to wait" and acquire access to a number of accounts before withdrawing the huge haul of bitcoins, according to Binance.
+"It was unfortunate that we were not able to block this withdrawal before it was executed," the company's statement read.
+"Once executed, the withdrawal triggered various alarms in our system.
+"We stopped all withdrawals immediately after that."
+Now, the ability to withdraw funds from the exchange has been disabled and may not be restored until next week.
+In a live video chat, Binance's chief executive Changpeng Zhao sought to answer questions about the hack.
+"I haven't really slept much for the last 29 hours," he said. "To be honest I don't feel that wellâ¦ it's not a great day."
+However, he told Binance users that he and his colleagues were working to secure the exchange and prevent any further hacks.
+And he added that he was asking other exchanges to block bitcoins associated with the hacked wallet from being transferred elsewhere, which would render them largely useless.
+While Binance is one of the largest crypto-currency exchanges, the heist is not the largest the Bitcoin world has seen.
+In 2014, Mt Gox was hacked to the tune of $470m.
+"Blockchain businesses will need to implement controls more commonly seen in the traditional banking sector if they are to win over consumers," said cyber-security expert Matthew Hickey at Hacker House.
+"Cyber-insurance is a common necessity today as identify theft, malware and cyber-attacks are frequently being performed against high-value blockchain and crypto-currency companies."

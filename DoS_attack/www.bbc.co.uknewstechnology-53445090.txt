@@ -1,0 +1,34 @@
+Twitter hack: 130 accounts targeted in attack
+Twitter says 130 accounts were targeted in a major cyber-attack of celebrity accounts two days ago.
+However, Twitter says only a "small subset" of those 130 accounts had control seized by the attacker.
+The security breach saw accounts including those of Barack Obama, Elon Musk, Kanye West and Bill Gates tweet a Bitcoin scam to millions of followers.
+Twitter said it was still trying to work out if private data - which could include direct messages - was stolen.
+"We're working with impacted account-owners and will continue to do so over the next several days," the company said, through its official support account.
+"We are continuing to assess whether non-public data related to these accounts was compromised," it added.
+The FBI is now investigating.
+What happened?
+On 15 July, a number of Bitcoin-related accounts began tweeting what appeared to be a simple Bitcoin scam, promising to "give back" to the community by doubling any Bitcoin sent to their address.
+Then, the apparent scam spread to mainstream celebrity accounts such as Kim Kardashian West and former vice-president Joe Biden, and those of corporations Apple and Uber.
+Twitter scrambled to contain the unprecedented attack, temporarily preventing all verified users - those with a blue tick on their accounts - from tweeting.
+Attackers were able to bypass account security because they had somehow gained access to Twitter's own internal administration tools.
+However, US President Donald Trump, one of the most prominent Twitter users, was unaffected.
+There has been speculation for some time that President Trump has extra protections in place after his account was deactivated by an employee on their last day of work in 2017.
+The New York Times confirmed that was how Mr Trump's account escaped the attack, citing an anonymous White House official and a separate Twitter employee.
+Despite the fact that the scam was obvious to some, the attackers received hundreds of transfers, worth more than $100,000 (Â£80,000).
+What do we know about the attackers?
+Bitcoin is extremely hard to trace and the three separate crypto-currency wallets that the cyber-criminals used have already been emptied.
+The digital money is likely to be split into smaller amounts and run through so-called "mixer" or "tumbler" services to make it even harder to trace back to the attackers.
+Clues about those responsible are surfacing through bragging on social media - including on Twitter itself.
+Earlier this week, researchers at cyber-crime intelligence firm Hudson Rock spotted an advert on a hacker forum claiming to be able to steal any Twitter account by changing the email address to which it is linked.
+The seller also posted a screenshot of the panel usually reserved for high-level Twitter employees. It appeared to allow full control of adding an email to an account or "detaching" existing ones.
+This means that the attackers had access to the back end of Twitter at least 36-48 hours before the Bitcoin scams began appearing on Wednesday evening.
+The researchers have also linked at least one Twitter account to the hack, which has now been suspended.
+The concern is that this hack might not be over if the attackers copied - and still possess the private Direct Messages of the accounts over which they took control.
+"Bitcoin scam is a misguided way to frame this incident," Roi Carthy, CEO of Hudson Rock said.
+"If anything, the 'scam' part supports the conclusion that the group behind the attack was, to Twitter's luck, unsophisticated. The incident can either be characterised as an account take-over campaign for sale on the Darkweb, or a data breach to get a hold of Direct Messages for malicious purposes."
+Do the hackers have DMs?
+Twitter says it is still looking into "what other malicious activity they may have conducted or information they may have accessed".
+The private messages of Kanye West, Kim Kardashian West and Elon Musk could be worth money on dark web forums. Selling the private messages of presidential hopeful Joe Biden or former mayor of New York Michael Bloomberg could also have political consequences.
+However, the BBC has spoken to one hacker who specialises in social media account takeovers and has been part of a hacking group with one account suspected of involvement.
+"Honestly, I think the hack is over because I feel this may have been a quick money grab and run situation," he said.
+"If they do have the DMs, they will be extremely careful with who they sell them to, if they do, because it increases their chances of being caught by quite a bit."

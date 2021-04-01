@@ -1,0 +1,79 @@
+Net poses dangers for soccer fans
+Following your favourite football team in the World Cup via the net has its dangers, research shows.
+Many websites associated with teams playing in the tournament are infested with spyware and adware found security firm McAfee.
+The Angolan team has the largest number of risky sites associated with it, found the analysis.
+Top footballers, such as Portugal's Cristiano Ronaldo, also have some unsafe sites connected with them.
+Risky results
+To gather their statistics McAfee researchers looked at websites hosting screensavers related to the 32 teams competing in the World Cup.
+RISKY TEAMS
+                        
+                
+		
+                
+                     
+                    1) Angola - 24.0%
+
+
+2) Brazil - 17.2%
+
+
+3) Portugal - 16.2%
+
+
+4) Argentina - 13.6%
+
+
+5) USA - 13.0%
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+This was cross-referenced with data from McAfee's SiteAdvisor software tool. This has scoured almost four million websites to see whether they are safe to visit or if they host spyware and adware that tries to install itself on users' computers.
+This analysis found that 24% of the sites hosting screensavers for Angola were home to a variety of malicious programs. Some installed software that made unwanted ads pop-up and others led to people receiving a lot of e-mail spam.
+Second in the list of most dangerous teams to follow were Brazil with 17% of sites hosting potentially risky software.
+RISKY PLAYERS
+                        
+                
+		
+                
+                     
+                    1) Lama (Angola) - 45.5%
+
+
+=2) Christian Lara (Ecuador) -  41.7%
+
+
+=2) Loco (Angola) - 41.7%
+
+
+4) Roberto Carlos (Brazil) -  40.0%
+
+
+5) Mateus (Angola) - 38.5%
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+"The vendors of spyware, adware and other unwanted software know how to exploit fans' passions for financial gain," said Chris Dixon, director of strategy for McAfee SiteAdvisor.
+As well as looking at teams the analysis also ran search results for 736 football players taking part in the World Cup.
+Again Angola took the top slot with 45% of the sites associated with player Luis Mamona Joao (aka Lama) found to be risky.
+In total three Angolan players featured in the Top Ten of most dangerous players.
+About 30% of the sites associated with England's David Beckham and Brazil's Gaucho Ronaldinho were also found to be unsafe.

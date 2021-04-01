@@ -1,0 +1,76 @@
+Tech 2019: Our biggest technology stories
+As 2019 splutters to a close, it's time for our annual lookback at our most-read tech stories, and to ask: "What happened next?".
+Facebook and its family of apps dominates this year's list with four entries - it  probably won't be a surprise that none of them were particularly brand-enhancing.
+The Chinese viral video app TikTok makes the cut for the first time. And many of the other "big tech" names are there too in one form or another.
+But there are a few notable exceptions. Neither Elon Musk nor Tesla made it, despite the window-smashing launch of the Cybertruck and plans to hack our brains. Google's co-founders were originally on the list after deciding to give up day-to-day control of their empire, but were squeezed out just before publication.
+Video gaming also missed out, even though Prince Harry attracted lots of attention for suggesting Fortnite should be banned.
+And both Huawei and Samsung are absent, even though the former's loss of Google's apps and the latter's folding phone fiasco were two of the year's standout developments.
+In any case, here's what attracted most eyeballs in each month of the year:
+January: When three becomes one
+A leak forced Facebook to reveal plans to merge the behind-the-scenes tech of messaging on WhatsApp, Messenger and Instagram. The effort was reported to be a pet project of chief executive Mark Zuckerberg.
+He later justified the move saying it would draw the three products closer together, making it easier for users to send posts between them. Furthermore, he said it would also help the firm expand its end-to-end encryption features, which help keep the messages secure.
+Many observers noted, however, the action would also make it more difficult to split the company apart. And as the year went on that became a growing threat, with first Senator Elizabeth Warren and then other Democratic presidential candidates suggesting Facebook has too much power and influence.
+But it may not take a change of administration for Mr Zuckerberg's ambitions to be thwarted. The Wall Street Journal recently reported that the Federal Trade Commission may intervene to prevent the apps being integrated.
+February: Don't be scared
+Social media, the mainstream news and even the police all got in a tizzy over Momo for no good reason in February. It was claimed that youngsters' social media accounts were being "hacked" to show the bulging-eyed monster alongside "challenges" that would put their lives at risk.
+Online articles followed, linking more than 100 teenagers' deaths in Russia to the sensation. Except, of course, there was no evidence to back up any of this.
+This was not even the first time an image of the Japanese bird-woman sculpture had gone viral. There had been a similar smaller-scale scare in 2018 when the "game" had been linked to deaths in South America and India - again without any documented proof.
+Pundits described it as a "panic [that] won't go away". Except it did.
+These days a search for Momo on Twitter turns up ads for masks of the ghoul, but little else.
+And on TikTok the hashtag #momochallenge surfaces videos of people cooking and eating small dumplings that go by the same name in parts of Asia.
+March: Turn it off and on again
+Facebook's family of apps experienced 14 hours of disruption, in what was billed as their "most severe outage" to date.
+In many cases, users were unable to access the services at all over the period. And it took the firm about another 10 hours to give itself the all-clear, at which point it tweeted that a "server configuration change" had been to blame.
+That allowed it to deny suggestions that it had been hacked, while remaining suitably vague about the actual cause.
+April: How did they get in?
+Cyber-security experts despaired after a study indicated that the most popular online password was "123456".
+The UK's National Cyber Security Centre's finding came with a warning that the string of digits is not only easy to guess, but would be one of the first codes tested by automated hacking tools.
+The public is advised to instead register a different complex login for each service they join, and use a password manager. But the hassle involved in having to copy and paste them in each time, has encouraged the adoption of biometric tests that automate the process if users pass a face, eyes or fingerprint ID check.
+Another alternative is to log in via another platform and let it do the heavy lifting. And in September, Apple joined the party when it allowed users to access third-party apps via a new Sign In With Apple button, mirroring earlier efforts by Google, Facebook and Twitter.
+May: WhatsApp cracked
+When WhatsApp confirmed that a vulnerability in its app had been exploited to install surveillance software on victims' phones, one of the immediate questions was how widespread the attack had been.
+It took until October to get some clarification, at which point Facebook said it believed about 1,400 of its users had been directly compromised. It added that they included "at least 100 human rights defenders, journalists and other members of civil society" across at least 20 countries.
+The tech firm alleges NSO Group, an Israeli private security firm, is responsible and is currently suing it in the US courts. NSO disputes the claim and has said it will "vigorously fight" the case.
+Whatever the outcome, the affair highlighted that if an attacker can load spyware onto a target's phone or other device, end-to-end encryption and other security measures may be in vain.
+June: The death of Etika
+Brooklyn-based Desmond "Etika" Amofah had a large online following, thanks to his quick wit and Nintendo video-game reaction videos on YouTube and Twitch. But in mid-June he caused concern when he posted a clip in which he discussed suicide. Days later the New York City Police Department confirmed he had killed himself.
+Several of his friends and colleagues have since taken steps to memorialise him. An online store sells goods branded with his logo, and donates its profits to the National Alliance on Mental Illness. YouTuber PewDiePie also teamed up with actor Jack Black to raise further funds for the charity in Etika's name.
+Others have marked the tragedy by getting themed tattoos. A still active Twitter account - @Etika - was created to keep his memory alive. And last month, a large mural was unveiled in Brooklyn featuring the gamer's face alongside a pair of Nintendo Switch controllers.
+Most recently, YouTube faced complaints for not referencing the late creator in its Rewind recap of the year. "No one should be surprised that YouTube still doesn't understand its platform," posted one frustrated user.
+In any case, Etika's claim in his final video that "this world's gonna forget me" shows no sign of coming true any time soon.
+If you've been affected by a mental health issue, help and support is available. Visit BBC Action Line for more information about support services.
+July: Photo glitches
+Further technical problems at Facebook HQ prevented users being able to upload new photos and videos to its apps, and in some cases prevented existing ones being viewable. The disruption lasted for about nine hours.
+Facebook never really explained the cause, beyond saying it had been triggered by a maintenance operation.
+Other smaller glitches persisted throughout the year, including intermittent outages in the US on Thanksgiving.
+But given that it now serves more than 2.4 billion users who log into at least one of its services once a month, it is a considerable feat of engineering to keep everything ticking along.
+August: iPhone booby traps
+Studies indicate that Apple's mobile devices face fewer serious cyber-security threats than Android-powered equivalents. So when Google revealed that hackers were using booby-trapped websites to exploit previously unidentified flaws in iOS, potentially affecting "thousands of visitors per week", it was big news.
+Google added that compromised handsets made it possible for the perpetrators to steal private messages, photos and location data in real-time.
+For days there was speculation about who might have been exposed. Apple eventually released a statement saying it believed that fewer than a dozen websites focused on "content related to the Uighur community" had been affected. Many took this to suggest that the Chinese state was involved. However, Apple did not explicitly draw this conclusion itself, which was unsurprising given its ties to the country.
+This was not Apple's only Uighur-related controversy this year. The campaign group Sum of Us has repeatedly claimed that the firm's willingness to comply with a Chinese ban on virtual private network (VPN) apps has made it harder for civil rights defenders to safely discuss claims of abuses against the ethnic minority. The organisation now plans to raise the matter at Apple's next annual shareholders' meeting.
+September: More cameras
+The iPhone 11 range got more cameras, longer-lasting batteries and a new "pro" moniker for the top-of-the-range models. But there was no 5G - despite Samsung, Huawei and other rivals having already launched compatible smartphones. And whispers that Apple chief executive Tim Cook might be ready to unveil an augmented reality headset accessory, proved to be unfounded.
+Market watchers have since reported the iPhones sold better than they expected - particularly in the US and Western Europe.
+And there is now talk of 2020 being the year of an "iPhone supercycle" thanks to an expected revamped design along with the introduction of 5G.
+October: Jedi wars
+Amazon - and many outsiders - thought it had the strongest bid for a high-profile contract to provide the Pentagon with cloud computing and artificial intelligence services. So there were shockwaves when Satya Nadella's Microsoft clinched the so-called Jedi deal instead. It could be worth as much as $10bn (Â£7.7bn) over time.
+Not only was this a big sum to miss out on, but Microsoft's marketing team should also find it easier to pitch the firm's Azure services to other government departments and private companies as a consequence. This could put Amazon Web Services' current status as the market leader under strain.
+Amazon is challenging the award, claiming that President Trump pressured the Department of Defense into rejecting its bid because of a personal vendetta against its chief executive Jeff Bezos.
+All of this could all have ramifications for the 2020 presidential election. Regulation of big tech is already on the agenda, and Amazon could make a tempting target for Mr Trump during the campaign.
+But if Mr Bezos believes the Republican leader's re-election could threaten his business, his status as one of the world's richest men and the owner of the Washington Post could make him a formidable foe.
+November: The eyes have it
+At the start of the year, TikTok was fairly obscure beyond its core teenage audience. These days it is one of the most talked about apps. It has launched one meme after another, and earned a reputation as being one of the most joyous places to be on the internet. But there are also concerns about it being Chinese-owned.
+Matters came to a head last month when an American teenager posted a video that started off like an eyelash beauty tutorial. But creator Feroza Aziz quickly changed tack to criticise China's treatment of the Uighurs.
+Her clip went viral. Shortly afterwards, the 17-year-old discovered she had been blocked from posting new material. And soon after that, TikTok took the clip offline.
+Then the social network reversed course. It put back the clip, blaming the removal on a "human moderation error". And it re-established Ms Aziz's access, saying that she had been locked out because of unrelated past behaviour.
+The app insisted that there had been no attempt to suppress criticism of the Chinese government's actions, but Ms Aziz was not convinced.
+She has continued to flag concern about the Uighurs. And in her latest "skin care" video also raises awareness about India's controversial citizenship law, which offers illegal immigrants from nearby countries amnesty but only if they are non-Muslims - something she claims is "immoral". For whatever reason, the post has attracted far more views on Twitter and Instagram than the copy posted to TikTok.
+Meanwhile, TikTok bosses are reportedly looking for a new global headquarters outside of China to help reinforce their claims to autonomy. But the app's owner Bytedance has denied rumours that it might sell off the division to give it true independence.
+December: Age of the Splinternet?
+It's been a long while since the internet was a free-for-all, in which governments had little ability to restrict what their citizens did online. Even so, Russia's announcement that it had successfully tested what it terms a "sovereign internet" still felt like a significant moment.
+The initiative involves forcing all web traffic through special nodes - a term for network connection points - where content can be filtered to remove what is deemed to be risky material. Furthermore, the intention is that in an "emergency" all data from outside the country could be blocked and the Runet - a term for the Russian internet - isolated.
+The achievement is described in the state media as a way to protect domestic companies and government bodies from cyber-attacks. But human rights campaigners warn that once the effort is up and running, the Kremlin may also use it to limit Russian people's access to "undesirable" information.
+In doing so, the Russian government would be following the path of its counterparts in China, Saudi Arabia and Iran, which all censor dissenting voices.
+And it would be following a wider trend. The US-based Freedom House digital rights group has warned that global internet freedom declined for a ninth consecutive year in 2019. Beyond Russia, it highlighted Kazakhstan, Sudan and Brazil as examples of places where digital surveillance, targeted cyber-attacks and/or online disinformation campaigns were cause for concern.
+We should hear more about Russia's effort once President Putin has had a chance to examine the results of the tests, and decides how to proceed. For now, a Kremlin spokesman has denied it has any intention of "cutting the internet" up into separate parts.

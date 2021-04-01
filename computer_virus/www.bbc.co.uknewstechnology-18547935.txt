@@ -1,0 +1,18 @@
+Computer virus hits office printers
+Thousands of office printers around the world have been spewing out page after page of gibberish because of a computer virus.
+Reports from companies reveal that thousands of pages of paper were wasted when the Windows virus hit their PCs.
+Security firms said the worst hit were large businesses in the US, India, Europe, and South America.
+The culprit is a malicious program called Milicenso that has been re-used many times by hi-tech crime groups.
+In a blogpost analysing the virus, security firm Symantec
+ said Milicenso was first seen in 2010 and because it was a "malware delivery vehicle for hire" had turned up regularly ever since.
+Its most recent incarnation was as a tool for distributing French language adware. Symantec said Milicenso could infect a PC by various routes, such as an email attachment, via a compromised website or by posing as a fake video decoder.
+'Garbled printouts'
+Once installed, the virus polls a location on the net and re-directs web traffic so it serves up adverts.
+Symantec said one side effect of infection was to generate a file in a PC's printer queue. This turns the contents of the files in the virus's main directory into print jobs.
+"The garbled printouts appear to be a side effect of the infection vector rather an intentional goal of the author," said Symantec.
+Victims hit by the virus have reported its effects via discussion forums run by security firms.  
+          
+ 
+          In the worst cases, hundreds of printers
+ have been generating gibberish and wasting reams of paper.
+Security firms have now issued updates that should spot Milicenso and clean up any infections.

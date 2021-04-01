@@ -1,0 +1,29 @@
+Disney+ fans without answers after thousands hacked
+Thousands of Disney customers say they have been hacked after signing up to its online streaming service.
+Since Disney+ went live, attackers have stolen thousands of customers' accounts and put them up for sale on the dark web, according to a report.
+People waited on telephone and online chat lines for hours, and many still say that Disney has yet to sort their problems.
+But the firm says it does not believe its systems have been compromised.
+"Disney takes the privacy and security of our users' data very seriously and there is no indication of a security breach on Disney+," a spokesman said.
+The statement indicates that members' details have been stolen by other means.
+That could involve spyware on users' devices or the re-use of login details stolen from elsewhere.
+Disney's answer to Netflix, Disney+ is an online platform where fans can view its movies, short films and TV shows, including the Marvel and Star Wars franchises.
+Ten million people signed up in its first week.
+Disney+ has not yet launched in the UK, but is available in the United States, Canada and the Netherlands.
+Dark web
+On 12 November, its first day live, people had technical problems and many complained on social media.
+Others said they were locked out of their accounts, and since they contacted Disney they have not heard back.
+According to an investigation by Zdnet, thousands of user accounts went on sale on the dark web.
+Only hours after the service launched, hackers were selling Disney+ accounts for as little as $3 (Â£2.30).
+A subscription to the service costs $7 (Â£5.40) a month.
+With the help of a cyber-security researcher, the BBC also found several hacked customer accounts for sale on the dark web.
+Thousands of these stolen accounts show what kind of subscription the person signed up with and when it expires.
+Customers say they saw their emails and passwords changed.
+Many say they used unique userIDs and passwords to access the streaming platform.
+But Jason Hill, a lead researcher with CyberInt, says it looks like many were stolen because people use the same passwords for different sites.
+Mr Hill said that hackers can lift someone's password from a different site which has previously been hacked and then try it on a new site, like Disney+. If it works, they steal the account.
+"Whilst many may consider having a unique password for each online service to be difficult to manage, password managers simplify this process and allow you to generate and securely store unique difficult-to-guess passwords," he said.
+The streaming service does not have two-factor authentication.
+This is when a separate password is sent upon login, to verify an account identity.
+Others are concerned because they can use their Disney+ login to access other products the company provides, like the Disney store and its recreation parks.
+The online streaming service was hit by technical issues on its first day. People took to social media to complain that their pre-ordered streaming service did not work and that they faced long waits for customer service.
+The company said in a tweet that it had an "overwhelming response" and apologised.

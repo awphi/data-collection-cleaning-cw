@@ -1,0 +1,44 @@
+MySpace faces security problems
+MySpace is the world's most popular social network
+			
+			
+		
+		
+	
+
+	
+
+
+
+More than one million MySpace users could have been caught out by a banner advert that installs spyware via a Windows bug.
+Those who fell victim were bombarded with pop-up adverts and had their net browsing habits monitored by the malicious software.
+Reports suggest the advert has been running on MySpace for about a week.
+The discovery of the rogue advert is only the latest in a series of security problems MySpace has suffered.
+Security lapse
+Only those who use MySpace via Microsoft's Internet Explorer browser and have not patched - or fixed - that program against the so-called Windows MetaFile (WMF) bug are vulnerable to the rogue advert.
+The WMF bug was discovered in January 2006 and Microsoft produced a downloadable fix  for it soon after. However, not all Windows users will have installed the patch and many people are likely to be vulnerable.
+US computer security firm iDefense discovered the dangerous banner advert that has been seen on many MySpace pages. The code hidden in the advert exploits the WMF bug which preys on a weakness in the way Windows handles images.
+On an unpatched browser the dangerous advert silently installs programs that pipe pop-up adverts to users and watches what they do online.
+Digital detective work by iDefense and reported by the Washington Post uncovered computer servers which logged how many times the adware was installed.
+Before the servers were shut down they had racked up more than one million installs.
+"This is a criminal act," said Hemanshu Nigam, MySpace chief security officer. "This ad is being delivered by ad networks who distribute these ads to over a thousand sites across the Internet in addition to ours."
+"We are working to have these ad networks remove this ad so that they do not appear on our site," he said.
+Chris Boyd, director of Malware research at Facetime Security Labs, said sites such as MySpace and Orkut often felt like "gated communities" and made people feel more secure than they should.
+"They might click something that outside of that community they would usually think twice about," he added.
+MySpace users are being urged to take care
+			
+			
+		
+		
+	
+
+	
+
+"Any site has an increased risk of attack where a lot of customisation is possible," said Mr Boyd. "This level of customisation is what both attracts people to use the service, and what causes the most security issues."
+Like many other blogging sites MySpace allows users to change their profile and alter the appearance of their personal page. But this ability to alter the basic code of the profile has been abused by some MySpace users and other companies.
+In mid-July Mr Boyd discovered that an adware company was covertly using MySpace to circulate video clips that also installed programs that bombarded users with adverts. The company encouraged people to put the video clips in their profile and push them to other MySpace users they know.
+In another incident, one MySpace user exploited a vulnerability in the widely used Flash program to re-direct people to a site questioning who was behind the 9/11 attacks on the US. This too exploited the flexibility of MySpace profiles.
+Administrators at MySpace issued a warning about this re-direct and urged users to upgrade to version 9.0 of Flash to avoid the problem.
+Mr Nigam urged MySpace users to follow basic security practices to avoid falling victim to any scam. He said people should update their copy of Windows, install patches for browsers and keep anti-virus and anti-spyware software up to date.
+Other security researchers have discovered fake MySpace toolbars that also install adware.
+One of the more famous MySpace security incidents took place in October 2005 by a user nicknamed "Samy". He added some code to his profile which automatically added himself to the list of friends many MySpace users maintain. Within hours he had racked up more than one million MySpace "buddies".

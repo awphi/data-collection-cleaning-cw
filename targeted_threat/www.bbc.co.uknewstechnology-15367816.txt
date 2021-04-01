@@ -1,0 +1,31 @@
+Researchers warn of new Stuxnet worm
+Researchers have found evidence that the Stuxnet worm, which alarmed governments around the world, could be about to regenerate.
+Stuxnet was a highly complex piece of malware created to spy on and disrupt Iran's nuclear programme.
+No-one has identified the worm authors but the finger of suspicion fell on the Israeli and US governments.
+The new threat, Duqu, is, according to those who discovered it, "a precursor to a future Stuxnet-like attack".
+Its discovery was made public by security firm Symantec, which in turn was alerted to the threat by one of its customers.
+The worm was named Duqu because it creates files with the prefix DQ.
+Symantec looked at samples of the threat gathered from computer systems located in Europe.
+Initial analysis of the worm found that parts of Duqu are nearly identical to Stuxnet and suggested that it was written by either the same authors or those with access to the Stuxnet source code.
+"Unlike Stuxnet, Duqu does not contain any code related to industrial control systems and does not self-replicate," Symantec said in its blog.
+"The threat was highly targeted towards a limited number of organisations for their specific assets."
+In other words, Duqu is not designed to attack industrial systems, such as Iran's nuclear production facilities, as was the case with Stuxnet, but rather to gather intelligence for a future attack.
+The code has, according to Symantec, been found in a "limited number of organisations, including those involved in the manufacturing of industrial control systems".
+Symantec's chief technology officer Greg Day told the BBC that the code was highly sophisticated.
+"This isn't some hobbyist, it is using bleeding-edge techniques and that generally means it has been created by someone with a specific purpose in mind," he said.
+Whether that is state-sponsored and politically motivated is not clear at this stage though.
+"If it is the Stuxnet author it could be that they have the same goal as before. But if code has been given to someone else they may have a different motive," Mr Day said.
+He added that there was "more than one variant" of Duqu.
+"It looks as if they are tweaking and fine-tuning it along the way," he said.
+The worm also removes itself from infected computers after 36 days, suggesting that it is designed to remain more hidden than its predecessor.
+The code used a "jigsaw" of components including a stolen Symantec digital certificate, said Mr Day.
+"We provide digital certificates to validate identity and this certificate was stolen from a customer in Taiwan and reused," said Mr Day.
+The certificate in question has since been revoked by Symantec.
+Cyber warfare
+The discovery of the Stuxnet worm was a game-changer in the world of malware and forced governments around the world to beef up the security behind critical systems such as power and water.
+It brought the issues of cyber warfare, government-to-government espionage and cyber terrorism firmly to the top of the agenda.
+Experts who have studied the Stuxnet worm say that it was configured to damage motors used in uranium-enrichment centrifuges by sending them spinning out of control.
+Iran later admitted that some of its centrifuges had been sabotaged although it downplayed the significance of Stuxnet in that.
+Stuxnet is not the only example of malware designed to cause government-level disruption.
+In 2009 China was accused of spying on Google and in the summer US defence firm Lockheed Martin was victim of a "significant cyber-attack" although it said that none of its programmes had been compromised.
+This week the US Department for Homeland Security warned that politically-motivated hackers such as the Anonymous co-operative could begin to target industrial control systems.

@@ -1,0 +1,39 @@
+Twitter says hackers downloaded private account data
+Twitter has confirmed hackers made use of tools that were supposed to have only been available to its own staff to carry off Wednesday's hack attack.
+The breach saw the accounts of Barack Obama, Elon Musk, Kanye West and Bill Gates among other celebrities used to tweet a Bitcoin scam.
+Twitter also revealed the perpetrators had downloaded data from up to eight of the accounts involved.
+It declined to reveal their identities but said none of them were "verified".
+This means they did not have a blue tick to confirm their ownership, and thus were not among the most high-profile hacked accounts.
+However, the fact the attackers were able to make use of the Your Twitter Data download tool means they now potentially have access to affected users':
+In a further development, the New York Times has suggested that the social network became exposed after the hackers gained access to credentials that had been shared on Twitter's internal Slack messaging channel - a service that some companies use as an alternative to email.
+The newspaper also suggests that at least two of those involved are from England.
+In total, Twitter said 130 accounts had been targeted, of which the hackers had managed to reset the passwords of 45, giving them control.
+It added that it believed those responsible may have attempted to sell some of the pilfered usernames.
+"The attackers successfully manipulated a small number of employees and used their credentials to access Twitter's internal systems," it said in a statement.
+"We are continuing our investigation of this incident, working with law enforcement, and determining longer-term actions we should take to improve the security of our systems."
+It added: "We're embarrassed, we're disappointed, and more than anything, we're sorry."
+How did the attack unfold?
+Twitter said the attackers had targeted certain Twitter employees through a "social engineering scheme".
+"In this context, social engineering is the intentional manipulation of people into performing certain actions and divulging confidential information," it said.
+A small number of staff had been successfully manipulated, it said.
+Once inside Twitter's internal systems, the hackers were not able to see users' previous passwords but could access personal information including email addresses and phone numbers as these are visible to staff using internal support tools.
+They may also have been able to view additional information, the company said. There has been speculation that this could include direct messages.
+The private messages of Kanye West, Kim Kardashian West or Elon Musk could be worth money on dark web forums. Selling the private messages of presidential hopeful Joe Biden or former mayor of New York Michael Bloomberg could also have political consequences.
+It is not clear why the hackers did not download all the data of these celebrity accounts but did so for others.
+Twitter is "actively working on communicating directly" with the affected users, its statement said. It is also continuing to restore access for other users still locked out of their accounts as a result of the firm's initial response to the hack.
+What happened during the hack?
+On 15 July, a number of Bitcoin-related accounts began tweeting what appeared to be a simple Bitcoin scam, promising to "give back" to the community by doubling any Bitcoin sent to their address.
+Then, the apparent scam spread to high-profile accounts such as Kim Kardashian West and Joe Biden, and those of corporations Apple and Uber.
+Twitter scrambled to contain the unprecedented attack, temporarily preventing all verified users - those with a blue tick on their accounts - from tweeting.
+However, US President Donald Trump, one of the most prominent Twitter users, was unaffected.
+There has been speculation for some time that President Trump has extra protections in place after his account was deactivated by an employee on their last day of work in 2017.
+The New York Times confirmed that was how Mr Trump's account escaped the attack, citing an anonymous White House official and a separate Twitter employee.
+Despite the fact that the scam was obvious to some, the attackers received hundreds of transfers, worth more than $100,000 (Â£80,000).
+What do we know about the attackers?
+Bitcoin is extremely hard to trace and the three separate crypto-currency wallets that the cyber-criminals used have already been emptied.
+The digital money is likely to be split into smaller amounts and run through so-called "mixer" or "tumbler" services to make it even harder to trace back to the attackers.
+Clues about those responsible have surfaced through bragging on social media - including on Twitter itself.
+Earlier this week, researchers at cyber-crime intelligence firm Hudson Rock spotted an advert on a hacker forum claiming to be able to steal any Twitter account by changing the email address to which it is linked.
+The seller also posted a screenshot of the panel usually reserved for high-level Twitter employees. It appeared to allow full control of adding an email to an account or "detaching" existing ones.
+This means that the attackers had access to the back end of Twitter at least 36-48 hours before the Bitcoin scams began appearing on Wednesday evening.
+The researchers have also linked at least one Twitter account to the hack, which has now been suspended.

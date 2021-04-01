@@ -1,0 +1,17 @@
+Sneaky virus spreading rapidly
+A new computer virus is spreading across the internet via e-mail and file-sharing programs, computer security experts have warned.
+The mass-mailing worm, dubbed Fizzer, is rapidly infecting computers using the Windows operating system in Asia, Europe and the US.
+Experts say it is a complex virus which can disable anti-virus software, steal passwords typed on a keyboard and even open a back door to a computer.
+People are advised to update their anti-virus software and be wary of e-mails from unknown sources.
+Multiplying virus
+The Fizzer worm has been described by experts as a particularly unpleasant strain of a mass-mailing virus.
+It was first detected by e-mail security company MessageLabs on 7 May but was considered to be of low risk to computer users.
+Since then, the bug has used a variety of tricks to multiply across the internet. MessageLabs has recorded 17,765 cases in 24 hours in the UK alone.
+"We've upgraded it to high-risk just for the fact that we've seen so many in the last day," said MessageLabs virus analyst Mark Toshack.
+Other anti-virus firms have also issued similar warnings, with Finland's F-Secure classifying Fizzer on the same threat level as the Nimda bug.
+Auto-updating
+Fizzer spreads through file-sharing programs such as Kazaa as well as by e-mail containing a file attachment with a .exe, .pif, .com or .scr extension.
+Once a computer is infected, the virus will scan the victim's address book and send out infected messages using different subjects, message texts and file attachment names.
+It also installs a keylogging program to record every keystroke, as well as opening a way to access a victim's computer over Internet Relay Chat.
+Additionally, the virus regularly connects with a web page to try to download an updated version.
+MessageLabs said that although Fizzer was not, at the moment, as prevalent as other viruses like the Klez virus, it was likely to be around for a long while.

@@ -1,0 +1,13 @@
+Syrian activists hit by computer virus attack
+Syrian anti-government activists are being targeted with malicious computer programs seeking to steal data, a digital rights group has said.
+The Electronic Frontier Foundation (EFF) issued a warning about a booby-trapped file posing as an add-on for net phone service Skype.
+Anyone caught out by the malicious file would give its creators remote access to their computer.
+The EFF said the attack was the latest in a series aimed at Syrian dissidents.
+Disastrous consequences
+In its warning
+, the EFF said the malicious program was in a message being sent to people known to be supporters of the rebels in Syria.
+Posing as an "important new video" the program claims to be able to encrypt and protect calls made by Skype.
+However, the EFF said anyone installing the program would be putting in place a remote-access Trojan file designed to snoop on a victim's computer. The malicious program can log keystrokes and take screenshots.
+In the past, said the EFF, activists have been targeted through YouTube and Facebook and have been subject to a variety of phishing attacks.
+Analysis of the latest Trojan led the EFF to conclude that it was the work of the same group that was behind earlier attacks. In particular, it said, data gathered by the malicious program deposits it on a site controlled by the Syrian government.
+"For Syrian activists, poor security practices can have potentially disastrous consequences," said the EFF.

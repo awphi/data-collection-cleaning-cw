@@ -1,0 +1,19 @@
+UAE Blackberry update was spyware
+An update for Blackberry users in the United Arab Emirates could allow unauthorised access to private information and e-mails.
+The update was prompted by a text from UAE telecoms firm Etisalat, suggesting it would improve performance.
+Instead, the update resulted in crashes or drastically reduced battery life.
+Blackberry maker Research in Motion (RIM) said in a statement the update was not authorised, developed, or tested by RIM.
+Etisalat is a major telecommunications firm based in the UAE, with 145,000 Blackberry users on its books.
+In the statement, RIM told customers that "Etisalat appears to have distributed a telecommunications surveillance application... independent sources have concluded that it is possible that the installed software could then enable unauthorised access to private or confidential information stored on the user's smartphone".
+It adds that "independent sources have concluded that the Etisalat update is not designed to improve performance of your BlackBerry Handheld, but rather to send received messages back to a central server".
+The concern over this unauthorised access only came to light when users started reporting problems with their handsets.
+After downloading the update, users across the country noticed significantly reduced battery life, poor reception and in some cases, handsets stopped working altogether.
+Users have complained that the firm's customer service is unable to provide information on the problem. Initial advice led many users to simply buy new batteries.
+'Surveillance solutions'
+The update has now been identified as an application developed by American firm SS8. The California-based company describes itself as a provider of "lawful electronic intercept and surveillance solutions".
+It is not clear why Etisalat wanted to include the software in the download.
+The firm issued a brief statement last week, calling the problem a "slight technical fault", saying that the "upgrades were required for service enhancements".
+Etisalat told BBC News that it stands by last week's statement and has not yet responded to further requests for comment.
+"There may be a good reason they wanted to install the software," said one Blackberry user in Dubai who did not want to be named.
+"But my biggest problem is that my phone won't work. If you call customer service you either can't get through, or they don't know what to tell you. I don't know what to do."
+RIM has now issued its own update allowing users to remove the application. Customers of the country's rival service, Du, have not been affected.

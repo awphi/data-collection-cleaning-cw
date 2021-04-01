@@ -1,0 +1,29 @@
+NatWest bank spat prompts web security changes
+NatWest bank has enhanced the security of its website, following a spat with security experts who spotted a vulnerability.
+Several researchers had asked why some banks used encrypted HTTPS connections for online banking, but not on their main customer-facing websites.
+When security expert Troy Hunt told NatWest its site "needed fixing", the bank replied "sorry you feel this way".
+But the bank told the BBC it would make changes within 48 hours.
+The changes were implemented on Thursday night.
+In a blog post, Mr Hunt suggested attackers could redirect visitors trying to access NatWest's online banking service, from the official address nwolb.com to something visually similar such as nuuolb.com.
+Shortly afterwards, NatWest registered the nuuolb.com web address. But Mr Hunt, who has previously testified before US Congress on matters of cyber-security, said the bank had missed the point.
+"We're seeing 'Not secure' next to the address bar," he said. "I would opine that 'Not secure' is not what you want to see on your bank."
+A spokesman for RBS, which owns NatWest, told the BBC: "We take the security of our services extremely seriously. While we do not currently enforce HTTPS on some of our websites, we are working towards upgrading this in the next 48 hours.
+"Our online banking channel is secured with HTTPS."
+Several others
+Security researchers found several other major banks did not use HTTPS on their homepages.
+First Direct told the BBC: "This functionality is something we're currently reviewing."
+Lloyds Banking Group said the websites for Lloyds and Halifax did typically use HTTPS, but had also "allowed HTTP access" if people typed in the web address manually.
+"We are in the final stages of correcting this," a spokesman told the BBC.  It implemented changes on Thursday evening.
+Tesco Bank has not responded to the BBC's request for comment.
+What's the problem?
+Online banking websites use HTTPS connections to help keep customer data private.
+When a website uses HTTPS (Hyper Text Transfer Protocol Secure), any information sent between your device and the website is encrypted, so it cannot be read if it is intercepted.
+However, security researchers found several banks did not use HTTPS on the rest of their websites, including the homepage on which visitors land.
+NatWest originally tweeted that it did not use HTTPS on its homepage because it only contained "general information".
+But the researchers suggested that without HTTPS an attacker could theoretically modify elements of a bank's website. They could send victims to a fake online banking site and steal their information.
+"The homepage is insecure so you can't trust anything on it," said Mr Hunt.
+"This is a banking website. No excuses," added Stephen Kellett, from security firm Software Verify. "All pages, whether performing transactions, the homepage, the about page, the whole lot, they should all be secure. Why? Because they all launch the login page."
+How credible is the threat?
+"There are various ways this can be exploited, to lure the client on to a phishing website," said Dr Mark Manulis, from the Surrey Centre for Cyber-security.
+A phishing page is designed to look like a legitimate website to trick people into handing over personal information.
+"It's possible to spoof the website and create a fake login button. Phishing attacks for a long time have been a major threat and can be quite sophisticated.  This makes such attacks easier."

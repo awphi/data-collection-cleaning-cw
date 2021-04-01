@@ -1,0 +1,27 @@
+Making the first computer virus
+If you've ever had to spend a lot of money on antivirus software, you'd be forgiven for wanting to take Dr Fred Cohen aside for, to put it politely, a few choice words.
+But although Dr Cohen is responsible for creating the first ever computer virus some 26 years ago, his pioneering research has in fact led the way in protecting computers from the threats that surfaced in the years to come.
+He told BBC World Service's Witness programme about the day he made the discovery while studying at the University of Southern California.
+After a neighbouring university created a Trojan horse - which allowed hackers to gain access to a machine - Dr Cohen realised that the Trojan could be programmed to duplicate itself.
+This is the proverbial lightbulb going off.
+"I was sitting there in the class and all of a sudden it dawned on me that if that Trojan horse copied itself into other programs, then all those programs would be infected, and then everybody that ran any of those programs would get infected and so forth.
+"It was at that point immediately obvious that it was game over."
+He discussed the idea with Dr Len Adleman, another computer security expert at the university.
+"Fred approached me and said he had this new type of computer security threat, and he began to describe what we now call viruses," recalled Dr Adleman.
+"He wanted to run some actual experiments, in particular on the computer that I used.
+"There was no point in running an experiment, since it was so obvious that it was going to work."
+However, Dr Cohen insisted they make sure - and the first computer virus was born.
+"In that moment, I pretty much understood the bad news.
+"I spent the next five or six years of my life trying to find ways to protect against it and understanding the limits of what could ever be done."
+Ethical dilemma
+Armed with their new discovery, the pair faced a problem.
+It had the potential to have a massive negative impact on the computing world. As academics, did they have an obligation to share their findings or should the vulnerability be kept secret?
+They decided to publish the paper.
+"If we told people about computer viruses, they could potentially protect themselves," said Dr Adleman.
+"It was also at least my impression that computer viruses were inevitable, and were going to arrive whether Fred published or not.
+"In the end we decided to publish, but to not make the code that Fred put in his paper so explicit that an amateur could take it and produce computer viruses."
+Dr Cohen agreed.
+"This was going to happen one way or another. The real question was is it going to happen after somebody's done the research, and figured out what to do about it, or is it going to happen before the research is done - and then we're really in trouble."
+Dr Cohen believes that genuine research into possible threats has not happened for quite some time.
+"As far as I can tell, somewhere around the late eighties or early nineties was the end of the real research related to computer viruses.
+"There are businesses that want to make sure they keep making money by having cures that fix the last one, but not the next one."

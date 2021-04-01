@@ -1,0 +1,17 @@
+E-mail virus exploits Sars fears
+A computer worm that takes advantage of growing concerns about the Sars virus has hit the web.
+The computer virus, known as Coronex, takes advantage of public panic about the real life virus, Severe Acute Respiratory Syndrome.
+The mass-mailing Windows worm aims to persuade people to open an attachment offering details on the current epidemic.
+Subject lines include "Severe Acute Respiratory Syndrome", "SARS Virus" and "Hongkong.exe".
+If opened the worm forwards itself to all contacts in the Outlook address book.
+The computer virus is rated as a low-risk to computer users by experts.
+Psychological trickery
+The malicious code is part of the current trend in virus writing for so-called social engineering, picking up on issues that are of interest to the wider public.
+It was only a matter of time before someone tried to exploit the killer bug, say experts.
+"The worm has been deliberately coded to exploit the public's genuine concern about Sars," said Graham Cluley Senior Technology Consultant for anti-virus firm Sophos.
+"It is just a further demonstration of the ways that virus writers attempt to use psychological trickery to spread their creations," he added.
+He also said that it was important that people and anti-virus firms call the virus by its proper name, rather than the Sars virus.
+"If they don't it will only add to the confusion and panic," he said.
+More details about the Coronex worm are available from anti-virus firms and the advice is the same as ever.
+"Keep anti-virus software up to date and patch against operating system vulnerabilities," said Mr Cluley.
+In the past virus writers have used pictures of celebrities in the news, interest in the Gulf conflict and major sporting events such as the World Cup as ways of enticing people to open up dangerous attachments.

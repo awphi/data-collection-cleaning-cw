@@ -1,0 +1,19 @@
+eBay pulls sales of Chinese 'spyware phones'
+EBay is barring listings for a smartphone after reports the model is pre-installed with spyware in its Chinese factory.
+A German security firm reported on Tuesday that the Android-powered Star N9500 sent personal data to a computer server in China, adding that the Trojan could not be removed.
+It said the malware was disguised as the legitimate Google Play Store app.
+The handset remains on sale on Amazon, which could not be reached for comment.
+But eBay said it was rolling out the ban globally.
+"Due to reports that some Star 9500 smartphones are loaded with spyware, eBay is not allowing the sale of these devices as a precautionary measure," a spokesman told the BBC.
+Intercepted calls
+Although the brand Star is far from being a household name, the handset may have appealed to some customers because of its close resemblance to the Samsung Galaxy S4 coupled with the fact it sells for about a third of the cost.
+Security firm G Data said it was alerted to the case after receiving tip-offs from its customers.
+"The spyware runs in the background and cannot be detected by users," it said.
+"Unbeknownst to the user, the smartphone sends personal data to a server located in China and is able to covertly install additional applications.
+"This makes it possible to retrieve personal data, intercept calls and online banking data, read emails and text messages or control the camera and microphone remotely.
+"The program also blocks the installation of security updates."
+The Associated Press news agency has reported that although several Shenzhen-based firms used eBay and other sites to sell the model, it had been unable to track down the manufacturer.
+If the allegations are true, it is not known whether the manufacturer itself would have been aware of what was being done at its plant.
+This is not the first time that a Chinese factory has been accused of shipping devices preinstalled with malware.
+In 2012 Microsoft reported that several PC makers in the country had been found to load malicious programs onto their computers.
+Then, last year German firm E-Plus reported that some of its China-made Android smartphones were being shipped with SD memory cards infected with a computer worm.

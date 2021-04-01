@@ -1,0 +1,23 @@
+Shamoon virus targets energy sector infrastructure
+A new threat targeting infrastructure in the energy industry has been uncovered by security specialists.
+The attack, known as Shamoon, is said to have hit "at least one organisation" in the sector.
+Shamoon is capable of wiping files and rendering several computers on a network unusable.
+On Wednesday, Saudi Arabia's national oil company said an attack had led to its own network being taken offline.
+Although Saudi Aramco did not link the issue to the Shamoon threat, it did confirm that the company had suffered a "sudden disruption".
+In a statement, the company said it had now isolated its computer networks as a precautionary measure.
+The disruptions were "suspected to be the result of a virus that had infected personal workstations without affecting the primary components of the network", a statement read.
+It said the attack had had "no impact whatsoever" on production operations.
+Rendered unusable
+On Thursday, security firms released the first detailed information about Shamoon.
+Experts said the threat was known to have had hit "at least one organisation" in the energy sector.
+"It is a destructive malware that corrupts files on a compromised computer and overwrites the MBR (Master Boot Record) in an effort to render a computer unusable," wrote security firm Symantec.
+The attack was designed to penetrate a computer through the internet, before targeting other machines on the same network that were not directly connected to the internet.
+Once infected, the machines' data is wiped. A list of the wiped files then sent back to the initially infected computer, and in turn passed on to the attacker's command-and-control centre.
+During this process, the attack replaces the deleted files with JPEG images - obstructing any potential file recovery by the victim.
+'Under the radar'
+Seculert, an Israel-based security specialist, also analysed the malicious code and concluded that it had unusual characteristics compared with other recent attacks.
+"The interesting part of this malware is that instead of staying under the radar and collect information, the malware was designed to overwrite and wipe the files," the company said.
+"Why would someone wipe files in a targeted attack and make the machine unusable?"
+Shamoon is the latest in a line of attacks that have targeted infrastructure.
+One of the most high-profile attacks in recent times was Stuxnet, which was designed to hit nuclear infrastructure in Iran.
+Others, like Duqu, have sought to infiltrate networks in order to steal data.

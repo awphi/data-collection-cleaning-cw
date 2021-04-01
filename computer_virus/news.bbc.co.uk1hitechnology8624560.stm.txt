@@ -1,0 +1,16 @@
+Infected XP owners left unpatched
+Some of the latest security updates for Windows XP will not be installed on machines infected with a rootkit virus.
+A rootkit is sneaky malware that buries itself deep inside the Windows operating system to avoid detection.
+Microsoft said it had taken the action because similar updates issued in February made machines infected with the Alureon rootkit crash endlessly.
+The latest updates can spot if a system is compromised by the Alureon rootkit and halt installation.
+Find and fix
+The latest batch of updates for Windows was released on 16 April and some of them fix vulnerabilities in the core, or kernel, of Windows. This is the same place that rootkits try to take up residence.
+When Alureon is present it monitors net traffic and plucks out user names, passwords and credit card numbers. It also gives attackers a back door into infected machines.
+The virus first appeared in 2008 and has been spread via discussion forums, hacked websites and bogus pay-per-click affiliate schemes.
+Notes for the security patch explained which "abnormal conditions" would prevent XP users applying the updates.
+"These abnormal conditions on a system could be the result of an infection with a computer virus that modifies some operating system files, which renders the infected computer incompatible with the kernel update," read the statement.
+By not applying the patch, Microsoft hopes to avoid a repeat of events in February which left many people struggling to get their computer working again.
+Microsoft also wants to avoid a situation in which people become wary of updates because they provoke a crash.
+It is not yet clear how many people have been left without the updates.
+Microsoft urged those who are infected to ensure their machine is cleaned of the rootkit. It recommended using its malware removal tool or using rootkit detectors from other security companies.
+Many modern security packages have them built in and will find rootkits when a machine is scanned.

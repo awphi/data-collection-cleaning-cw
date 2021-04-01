@@ -1,0 +1,27 @@
+Coronavirus: UK forces hundreds of scam Covid-19 shops offline
+The UK's National Cyber Security Centre (NCSC) said it took down more than 2,000 online coronavirus scams last month.
+NCSC said this included 471 fake online shops that were selling fraudulent virus-related items.
+It coincides with new online safety advice from the agency as part of a national awareness campaign.
+NCSC also launched an email reporting service, which the public can use to flag any suspicious activity.
+Numerous other malware and phishing sites have been removed, as well as almost 900 advance-fee fraud schemes, where a large sum of money is promised in return for a one-off payment.
+There is growing concern that criminals are hoping to capitalise on the increased usage of the internet during the pandemic.
+âCriminals are seeking to exploit our greater use of emails, video conferencing and other technologies for their advantage," said Minister for Security James Brokenshire.
+âItâs despicable that they are using the coronavirus outbreak as cover to try to scam and steal."
+The public is being advised to forward suspicious emails to report@phishing.gov.uk. An automated program will test websites flagged as a result, and block those determined to be suspicious.
+Joe Tidy, cyber-security reporter
+These scams nearly always start with an email.
+The NCSCâs Suspicious Email Reporting Service provides a way to report dodgy messages. The problem is that recipients often do not recognise them as such.
+Iâve been tracking coronavirus phishing emails since the start of the outbreak.
+Some are laughable: "Please send $250 worth of iTunes gift cards for essential lockdown supplies!"
+But there are many others that are well designed and hard to spot.
+Fake emails are in circulation that appear to be from the World Health Organisation (WHO). They are cleanly written, have all the correct logos and signatures, and even look like they have been sent from a WHO email address.
+Itâs all fake though, and victims who download the accompanying "advice document" may give control of their finances to hackers.
+The NCSC says the public needs to be highly suspicious. Donât download or click on anything unless you are absolutely certain of the sender, and if the offer seems too good to be true, it probably is.
+Commander Karen Baxter, national lead for fraud with the City of London Police, said the service was developed to help "empower the public" during a time of crisis.
+âLaw enforcement is working closely with the government to ensure the public, and businesses, are as well equipped as possible to fight online harms," she said.
+âOfficers have already executed a number of warrants across the country to target and disrupt criminals sending emails and texts designed to steal your money.â
+Social media giants vowed last month to combat the spread of misinformation related to Covid-19.
+With demand for personal protective equipment (PPE) soaring, an investigation by the news site Wired reported that scammers were using LinkedIn to sell fake goods after being blocked by eBay and Amazon.
+âPeople do use LinkedIn to find customers, close deals, and build relationships," the Microsoft-owned social network told the publication.
+"However, it is absolutely not acceptable, especially now, for someone to use their LinkedIn profile or a post on the platform to inappropriately promote that they have personal protective equipment available to sell."
+The firm said it was investigating the matter.

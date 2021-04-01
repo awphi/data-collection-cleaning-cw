@@ -1,0 +1,18 @@
+New e-mail virus spreading
+The virus, called Yaha.K, is a mass mailing worm affecting computers running Windows which first appeared on 21 December.
+Since then it has spread quickly, leading the anti-virus firm F-Secure to give it their second highest danger rating.
+People are being advised not to open any e-mails which have attachments ending with .scr, .exe and .com.
+'I Love You'
+'I Love You'
+Yaha.K is a new version of the Yaha worm which first appeared in February.
+It is relatively harmless, compared to more destructive viruses.
+It can compromise a computer's security settings by stopping anti-virus programs and shutting down firewalls.
+The new variant looks for e-mail addresses in Windows Address Book and sends itself to all the addresses it finds.
+In an attempt to trick people, the virus composes several different types of e-mails, using subject lines such I Love You, Patch for Klez.H and Free Demo Game.
+Growing threat
+Growing threat
+MessageLabs, which scans e-mail messages for viruses, said it first detected the worm in Kuwait.
+It has now been spotted in 96 countries, predominantly in the UK and the Netherlands.
+Overall the company has blocked 21,295 copies of the worm so far.
+E-mail viruses have plagued computer users throughout the year.  Figures from MessageLabs show that one in every 212 e-mails containing a virus in 2002.
+This reflects a big increase on previous years. In 2001, MessageLabs stopped an average one every 380 e-mails, while in 2000 the figure was as low as one every 790.

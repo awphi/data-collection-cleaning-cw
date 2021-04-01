@@ -1,0 +1,22 @@
+Bletchley Park Trust hit in Blackbaud security breach
+The home of hacking in wartime Britain, Bletchley Park, was one of the victims of a major ransomware attack that hit software provider Blackbaud.
+The firm held data about people who had donated to the trust that manages the Bletchley Park museum.
+Harvard University has also joined the growing list of victims, which have mostly been charities and universities.
+Bletchley Park Trust said it was confident any exposed data was now secure.
+The trust added that data exposed to the hackers might have included names, dates of birth, email addresses, donation history and details of event attendance â but not credit and debit card details or bank account information.
+During World War Two, staff at the then-secret code-breaking site near Milton Keynes were responsible for decrypting messages sent by the German military.
+The mansion and grounds are now a museum open to the public.
+US-based Blackbaud is a major supplier of fundraising and financial management software to clients around the world.
+In July, it revealed that it had fallen victim to a ransomware attack in May. The company decided to pay an undisclosed sum to the attackers who then promised to destroy any stolen data and hand back control of Blackbaudâs systems.
+Many organisations have not yet publicly disclosed that they have been affected by the Blackbaud incident, meaning that individual cases are only gradually coming to light.
+The UK Information Commissionerâs Office has so far received 166 cases as part of its ongoing investigation into the incident.
+The Charity Commission, which regulates charities in England and Wales, said it had received 91 serious incident reports. And OSCR, the Scottish Charity Regulator, said six charities had raised a ânotifiable eventâ over the Blackbaud breach.
+The Donkey Sanctuary in Devon confirmed to the BBC that it was among the victims.
+âBlackbaud have informed us that, to the best of their knowledge, all of the details that were accessed have now been destroyed and there is currently no evidence of the data being used,â a spokesman said.
+The BBC had previously confirmed that more than two dozen charities and universities in the UK, the US and Canada were hit by the breach.
+In recent days, other additional victims to emerge included:
+That Bletchley Park, the home of wartime hacking in Britain, has been linked to the Blackbaud breach is âa bit ironicâ said cyber-security expert Steven Murdoch at University College London.
+However, he pointed out that the trust that manages the museum and grounds today would not have the resources of a government-run intelligence agency at its disposal.
+Dr Murdoch added that it was understandable that Blackbaud had decided to pay the cyber-criminals a ransom, given that the firm would have wanted to appease its attackers since they potentially had the power to release huge swathes of sensitive data on the web.
+This means that the old tactic of refusing to pay up and relying on backups may fall flat when organisations can be threatened with the publication of private information stolen from their servers.
+âI think the criminals have changed their strategy,â said Dr Murdoch.

@@ -1,0 +1,27 @@
+FBI 'persuaded Apple to halt iCloud encryption'
+Apple reportedly abandoned plans to let customers fully encrypt back-ups of their iPhones on the company's iCloud following pressure from the FBI.
+Full encryption involves converting data into code so it is impossible to access without a password.
+Apple was working on the feature in secret about two years ago, according to Reuters, which broke the news.
+But some suggest an alternative explanation is concern about users getting locked out of their accounts.
+At present, Apple can help a subscriber get back data created on a lost, damaged or stolen device, even if they have forgotten their account's credentials, since the company holds a copy of their iCloud encryption key.
+"If Apple were to implement end-to-end encryption for iCloud back-ups, there's no might about it - if the customer forgets their password, they would lose access to their data," wrote the blogger John Gruber.
+He noted that chief executive Tim Cook had given a similar explanation to Der Spiegel in October 2018, when he had indicated that he believed his firm would "change this practice" at some point in the future when data-recovery would be controlled solely via users' devices.
+Complex password
+Reuters spoke to six sources, including former employees at Apple and the FBI.
+It said one ex-Apple worker had suggested the firm's legal department had ultimately "killed" the plan.
+"That person told Reuters the company did not want to risk being attacked by public officials for protecting criminals, sued for moving previously accessible data out of reach of government agencies or used as an excuse for new legislation against encryption," the news agency added.
+Reuters reporter Joseph Menn added that he "could not determine why exactly Apple" decided to abandon the encryption project.
+"Encrypting data is essential and companies usually offer help and support when protecting data, so this news comes as a shock to me," commented Jake Moore, a cyber-security expert at internet security and antivirus company ESET.
+"However, it doesn't mean your back-up and data can't be encrypted.
+"You will still be able to make an encrypted back-up on your home computer and store it there.
+"As always, users should also be reminded that their data needs to be protected with a strong and complex password.
+"The balance between law enforcement and tech companies protecting data comes into question quite often.
+"However, this balance is extremely difficult to fine-tune.
+"Typically, users want the easiest route if they care about their data security, so encryption should be handed to them on a plate."
+Shot dead
+Over the past seven years, Apple has responded to over 127,000 requests from US law enforcement agencies for information.
+Last week, the US Attorney General publicly requested Apple unlock two iPhones used by a Saudi Air Force officer who shot dead three Americans at a naval base in Pensacola, Florida, last month.
+And on 14 January, President Donald Trump accused Apple on Twitter of refusing to unlock phones used by "killers, drug dealers, and other violent criminal elements".
+But Apple did in fact turn over the gunman's iCloud backups.
+"We reject the characterisation that Apple has not provided substantive assistance in the Pensacola investigation," Apple said on 13 January.
+"Our responses to their many requests since the attack have been timely, thorough and are ongoing."

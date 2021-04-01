@@ -1,0 +1,68 @@
+Computer threat from Nyxem virus
+Computer security firms are gearing up for the Nyxem virus, which is set to start erasing spreadsheets, Word documents and other files.
+Infected PCs will also be used as launch platforms to help the virus seek out fresh victims.
+Because the virus is known to be lurking on more than 300,000 PCs, this scanning could generate large amounts of net traffic as it activates.
+The Nyxem-E virus has been racking up victims since it emerged on 16 January.
+A website associated with the virus has been keeping count of the machines it has managed to infect and now this counter stands at more than 300,000 victims.
+Unlike many other recent Windows viruses, Nyxem-E has been built to delete many popular types of file. Security firms suggest it was written to target businesses because many of the file types it deletes, spreadsheets and presentations, are more common in firms than homes.
+However, because many companies have good security systems in place home users are more likely to be caught out. The virus only affects Windows users who must open an infected attachment on an e-mail message to fall victim.
+NYXEM FILE TARGETS
+                        
+                
+		
+                
+                     
+                    DMP - Oracle files
+
+
+DOC - Word document
+
+
+MDB - Microsoft Access
+
+
+MDE  - Microsoft Access/Office
+
+
+PDF - Adobe Acrobat
+
+
+PPS - PowerPoint slideshow
+
+
+PPT - PowerPoint
+
+
+PSD - Photoshop
+
+
+RAR - Compressed archive
+
+
+XLS - Excel spreadsheet
+
+
+ZIP - Compressed file
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+The creators of the virus have tried to trick people into opening the attachments by falsely claiming they contain a variety of pornographic images or videos.
+Security firm Lurhq has analysed the data sent to the website counting victims and found that most are in Peru, Turkey and India. Many other nations are reporting infected machines too.
+Some unlucky users have already fallen victim to Nyxem-E because the clock on their machine is set to the wrong time.
+When the virus strikes it will also start scanning local computer networks for other machines to infect. This could cause problems for some users as the data generated swamps net links.
+UK net service firm Easynet has started telling customers if they are using an infected computer and urging them to clean it up and remove the bug.
+Security firms said users needed to be vigilant but not panic because many other Windows viruses have been far more successful at infecting machines but have not caused significant problems for the net.
+Despite the furore over Nyxem-E, Microsoft said it was not planning to update its malicious software removal tools before the date that the virus is set to strike.
+Instead, the next version of the tool which is due to be released on 14 February will spot and remove the worm if it finds it on a PC.
+In an advisory Microsoft said users should not open unusual attachments from unfamiliar sources.
+Nyxem-E is also known as Nyxem-D, Blackworm, MyWife, Kama Sutra, Grew and CME-24 virus.

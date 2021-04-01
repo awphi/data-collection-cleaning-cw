@@ -1,0 +1,25 @@
+Tech Tent - whoâs spying on you?
+It was the week when we learned that a missed WhatsApp call could plant spyware on your phone and when San Francisco moved to ban facial recognition technology.
+On Tech Tent we explore our attitudes to technology which can catch criminals - but also be used to track our every move.
+When WhatsApp's owner Facebook spotted a flaw in the app, which allowed an intruder to plant spyware on a phone with one missed call, it was unusually open about who might be behind it.
+The firm briefed journalists that the attack had "all the hallmarks" of a private company that works with governments to deliver spyware that takes over mobile phones.
+It was widely assumed that the company in question was Israel's NSO Group, which has previously been accused of selling spyware called Pegasus to agencies which use it to monitor human rights activists.
+The University of Toronto's Citizen Lab, which monitors digital attacks against civil society, has been tracking the NSO Group for some years.
+Its senior researcher John Scott-Railton tells Tech Tent that Facebook's decision to be so upfront about who was responsible, suggests that it was "pretty fed up with the behaviour of the private spyware company".
+He says Citizen Lab had previously seen NSO's Pegasus spyware used to track dozens of journalists, lawyers and every kind of activist in Mexico, via the old-fashioned method of persuading them to click on a link.
+Public safety
+But last Sunday they had spotted the new method exploiting the flaw in WhatsApp being used to target - unsuccessfully - a London-based human rights lawyer who works with some of the Mexico activists.
+He says the spyware is quite insidious: "Once it gets on to a phone, that phone is basically like a spy in the victim's pockets, the microphone can be turned on, encrypted chats can be taken off the phone, private photographs, and so on."
+NSO Group insists that its products have been used by law enforcement agencies in the battle against terrorism and wider criminal behaviour.
+The Israeli firm said in a statement: "NSO's technology is licensed to authorised government agencies for the sole purpose of fighting crime and terror.
+"The company does not operate the system and, after a rigorous licensing and vetting process, intelligence and law enforcement determine how to use the technology to support their public safety missions."
+Since earlier this year, the company has been majority owned by Novalpina, a London-based private equity group whose chairman Stephen Peel is now on the board of NSO.
+We asked him for an interview. He was not available but his PR team pointed us to an open letter written in April - before the WhatsApp hack emerged - to a number of NGOs including Citizen Lab.
+At some length it defends the previous conduct of the Israeli firm and promises that under Novalpina's ownership there will be a constant focus on respecting human rights: "We expect each company within our portfolio to act with integrity and in a manner that is socially responsible."
+Face finding
+Another company under the spotlight over surveillance technology is Amazon. At its annual general meeting next week, its shareholders will debate a motion calling on the company to stop selling its facial recognition system to the US government.
+The vote comes just after San Francisco became the first city to ban its public bodies from using facial recognition, amid mounting disquiet about intrusive surveillance in public places.
+Mary Beth Gallagher, representing Catholic institutions investing in Amazon, says there are concerns both about the quality of the technology and the way it could be used: "Even if it's 100% accurate we don't want it to be used by law enforcement because of the impact it could have on society."
+Just like NSO, Amazon insists its technology is used in really positive ways, such as helping to find victims of child trafficking.
+But, asked whether it should be monitoring potential misuse of facial recognition by its clients, Amazon Web Services tech evangelist Ian Massingham insists it is not their job: "The  right organisations to handle those issues are policy-makers and government."
+Surveillance technology - whether that is facial recognition or spyware - is a very lucrative industry, shrouded in secrecy. But the companies behind it can themselves expect far closer monitoring from now on.

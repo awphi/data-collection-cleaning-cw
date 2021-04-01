@@ -1,0 +1,31 @@
+US seeks to fine spyware makers
+The makers of programs that secretly spy on what people do with their home computer could soon face hefty fines.
+US legislators have overwhelmingly backed a proposal to impose penalties on the creators of so-called "spyware".
+These programs gather information about browsing habits, passwords and credit card details and some even turn home computers into spam relays.
+Later this month a second spyware bill is being debated that criminalises secret spyware installations.
+Jail sentence
+The US Securely Protect Yourself Against Cyber Trespass Act (aka Spy Act) was passed 399-1 in the House of Representatives.
+The dissenting voter was Representative Ron Paul from Texas who believes the government should not police the net.
+The Spy Act aims to impose civil penalties when spyware is smuggled on to a PC without an owner's knowledge or consent. Those found guilty could face a fine of up to $3m.
+The measure demands that any maker of a spyware program gets permission from a user to install itself and gets their agreement about what kinds of information can be collected.
+However, it does nothing to tackle spy programs that watch the keys being press and steal personal information because existing US laws already criminalise this behaviour.
+US politicians have three chances to show how they feel about spyware
+			
+			
+		
+		
+	
+
+	
+
+
+	
+Spying software exempt from the provisions in the Spy Act include programs used by the FBI and other law enforcement organisations to gather data on suspects.
+There are another two anti-spyware bills making their way through the US legislative system.
+The Internet Spyware Prevention Act (aka I Spy Act), proposes jail sentences for those who hide installations of spyware and the gather personal information without permission.
+House members are expected to try to combine the two bills into one later this month to avoid a lengthy debate later in the year that could delay the adoption of anti-spyware laws.
+Also pending is the Software Principles Yielding Better Levels of Consumer Knowledge Act (aka Spy Block Act) is backed by the Senate and also outlaws the surreptitious installation of software to spy on computer users. There is no date set for a vote on this bill.
+Critics said these bills would make little difference to the amount of spyware in circulation and cited the US Can-Spam Act which has, so far, done little to curb the amount of junk mail people are being sent.
+A survey by US net provider Earthlink has found that, on average, a net-connected PC is home to 26 spyware programs.
+To gather its raw data, Earthlink scanned more than three million machines over the last nine months and found more than 83 million spyware programs during its trawl.
+Computers infested with spyware can run slowly and erratically and bombard users with unwanted adverts.

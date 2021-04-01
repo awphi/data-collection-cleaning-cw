@@ -1,0 +1,17 @@
+Thousands of mobiles and laptops lost by UK government in a year
+UK government employees lost their mobile devices - or had them stolen - at least 2,004 times in 12 months.
+The numbers, released under a Freedom of Information request, include smartphones, laptops, and tablets.
+The Ministry of Defence reported the most missing devices, with 767 lost or stolen, followed by tax authority HMRC, with 288.
+While the large majority of devices were encrypted, nearly 200 may not have been, the information reveals.
+The Ministry of Defence said its employees lost more devices because there were more of them. The numbers include military personnel in the Army, the Royal Navy, and Royal Air Force. It also said it had "robust" procedures in place around encryption.
+The report was commissioned by mobile communications firm Viasat. It contacted 47 public bodies and said 27 answered its Freedom of Information requests with data from 1 June 2018 - 1 June 2019.
+Of the 2,004 devices:
+The information requests also showed whether or not the data on the phones was encrypted - which would make it much more difficult to access.
+More than 90% were - but 65 phones were not, and another 115 were marked as having an "unknown" encryption status.
+A government spokesman said: "Data security is a top priority for the UK government and is supported by Â£1.9bn of investment under the National Cyber-Security Programme."
+Prof Alan Woodward from the University of Surrey, said that modern security policies reduced the risks, allowing IT administrators to wipe phones remotely, or even locate them via GPS.
+Only 249 government devices were recovered, according to the information Viasat received.
+Prof Woodward said problems arose when good security policies were not followed.
+"There is nothing to stop users using their personal devices to store sensitive information," he said. That includes simple things like sensitive contact details or calendars - but potentially, other passwords, or access to two-factor authentication.
+"They shouldn't, but it is then very reliant upon the strong Pin code being in place â and it's surprising just how many people either don't use a Pin or use weak Pins that can be guessed before the data is erased."
+And even a strong password is not iron-clad, he warned, because "not all phones are equally secure... some phones are easier to recover data from without the user's Pin".

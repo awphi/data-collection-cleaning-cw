@@ -1,0 +1,12 @@
+San Diego port hit by ransomware attack
+San Diego's port operator has been caught out by ransomware.
+The Port released a statement saying the malware had infiltrated its computer network and was disrupting administration systems.
+It said the attack had not stopped ships or boats using the port, or put members of the public in danger.
+The FBI and Department of Homeland Security are helping the Port investigate and clean up in the wake of the outbreak.
+"This is mainly an administrative issue and normal Port operations are continuing as usual," Randa Coniglio, chief executive of the port, said in a statement.
+The main impact would be on the issuing of park permits, public records requests and general business services, it added.
+The Port said some of the disruption was because of staff shutting down computers that were in danger of being compromised as the ransomware started to spread.
+The organisation did not say which malware was used in the attack but added that payment was being demanded in Bitcoins by the hackers behind the outbreak.
+The Port is just one of many shipping-related industries that have been hit by ransomware.
+In July, the China Ocean Shipping Company's terminal in Long Beach was briefly closed by a malware attack.
+Last year, shipping giant Maersk was among the high profile victims of the NotPetya virus and said its business was affected for a couple of weeks. It has said the outbreak cost the company about $200m (Â£153m).

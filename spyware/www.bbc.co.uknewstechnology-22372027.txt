@@ -1,0 +1,11 @@
+Mozilla accuses Finfisher makers of 'hiding' under name
+The Mozilla Foundation has accused UK software group Gamma International of falsely associating one of its products with the Firefox name.
+Finfisher is legitimate surveillance software thought to be used by governments to covertly obtain data.
+It is installed unknowingly by its target computer user, often by disguising itself as an update to a well known programme such as Firefox.
+Gamma International has not responded to emailed requests for comment.
+University of Toronto research group The Citizen Lab said it believed Finfisher command and control servers were currently active, or had been present, in 36 countries.
+In 2011 the BBC found documents in the state security building in Egypt, looted during the uprising, which suggested that the Hampshire-based firm had offered to supply Finfisher to the Egyptian  government to monitor activists.
+Gamma International denied supplying it but the files seen by the BBC described a five month trial which included successful access to email accounts and the recording of encrypted Skype calls.
+The Mozilla Foundation has now sent a cease and desist letter, warning Gamma International not to use the name of Firefox, its open source browser, as camouflage for the program.
+"Our brand and trademarks are used by the spyware as a method to avoid detection and deletion," said Mozilla chief privacy officer Alex Fowler in a statement.
+"As an open source project trusted by hundreds of millions of people around the world, defending Mozilla's trademarks from this abuse is vital to our brand, mission and continued success."

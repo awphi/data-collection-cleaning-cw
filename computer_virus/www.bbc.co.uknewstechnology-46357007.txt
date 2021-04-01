@@ -1,0 +1,14 @@
+Raids mounted on fake Indian tech support centres
+More than 50 people have been arrested in India for their alleged involvement in fake security warning scams.
+The New York Times said that Delhi police made the arrests during raids on 26 call centres linked to the scams.
+Software giant Microsoft helped police trace who was behind the large-scale operations.
+It said it received more than 11,000 calls per month about fake security warnings and that many people lost significant sums to the fraudsters.
+"This is an organised crime," Courtney Gregoire, an assistant general counsel in Microsoft's digital crimes unit told the US newspaper.
+Microsoft has estimated that fraudsters make about $1.5bn (Â£1.2bn) a year through fake Windows support calls.
+Raids on 16 call centres were carried out this week and, earlier in November, another 10 locations were visited by police.
+The raids were prompted by Microsoft filing complaints with local police in New Delhi about call centres it claimed were involved in the fraudulent operations.
+Typically, said Microsoft, attempts to trick people revolved around pop-up warnings that falsely claimed that a person's computer was infected with a virus.
+Fixing the non-existent virus could involve ringing a tech support centre. An operator would talk a victim through a fake fix and then charge them for the work.
+In another version of the scam, staff at call centres claimed to be calling from Windows official support saying they had spotted that a person's computer has been hacked or harboured a virus. Again, victims were expected to pay to fix the non-existent problem.
+Some people caught out by the scam paid up to $1,000 for the fake tech support, said the newspaper.
+Microsoft has published advice about ways to spot the fake calls and avoid becoming a victim.

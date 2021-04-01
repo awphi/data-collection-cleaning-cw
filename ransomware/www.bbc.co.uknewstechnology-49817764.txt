@@ -1,0 +1,16 @@
+Notorious GandCrab hacker group 'returns from retirementâ
+An infamous hacker group that was thought to have disbanded appears to be behind a wave of new attacks being carried out across the world.
+Researchers at cyber-security company Secureworks say they reached their conclusion after analysing a new strain of computer virus.
+They claim the culprits are the GandCrab crew.
+The gang is thought to be Russian and previously sold customised ransomware to other criminals.
+Their code had scrambled data on victims' computers and demanded blackmail payments to decrypt it. It is estimated to have affected more than 1.5 million machines, with hospitals among those affected.
+In May, the group had surprised many in the security industry when it announced it was "retiring" after earning more than $2bn (Â£1.6bn) from the trade.
+Someone claiming to be part of the group claimed it had "cashed out" its earnings and quit the business.
+It had been active since about January 2018.
+But Secureworks has linked the group to a new strain of ransomware called REvil or Sondinokibi.
+The malware has caused major disruption to hundreds of dental practices in the US as well as 22 Texas municipalities.
+Researchers say not only is the code similar to that of the earlier attacks but that it contains similar mistakes.
+Don Smith, director of Secureworks Counter Threat Unit, said his team had the group "bang to rights".
+"We weren't surprised the group resurfaced," he added.
+"GandCrab offered a good return for criminal actors. It's unlikely an existing and proficient group would just walk away from that.
+"It's possible that they wanted to reduce the overall attention that was focused on the GandCrab 'brand' and have relaunched with a new product."

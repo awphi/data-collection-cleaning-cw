@@ -1,0 +1,15 @@
+Ransomware hits Atlanta police dashcam footage
+Years of video evidence gathered by police has been lost thanks to a ransomware attack on Atlanta in the US.
+Most of the lost evidence involves dashcam recordings, said Atlanta police chief Erika Shields in a local newspaper interview.
+The footage was "lost and cannot be recovered", said Ms Shields.
+About one-third of all software used by city agencies and departments is believed to have been affected by the attack, which took place in March.
+Recovery plan
+Details of the damage done to Atlanta's computer infrastructure emerged during a public meeting held to debate how the city should spend its budget.
+The hearings revealed that the city has assigned an extra $9.5m (Â£7.1m) to finance its recovery efforts.
+At the meeting, officials from the city administration revealed that the attack was more severe than originally thought.
+More than 140 separate applications were totally or partially disabled by the attack, said Daphne Rackley who heads Atlanta's IT department. About 30% of the affected programs were "mission critical" as they were used by either the police or its courts, she said.
+The municipal courts in Atlanta were shut for several weeks during the height of the attack and huge amounts of legal documents stretching back decades are believed to have been scrambled by the malware.
+Police chief Shields told the Atlanta Journal Constitution that despite losing the video recordings, no "crucial evidence" had been compromised.
+Dashcam footage was a "useful tool" said Ms Shields, but added that other evidence such as the testimony of an officer would "make or break" a case.
+Files on individual officers' computers were also hit in the attack, although much of this data was backed up elsewhere, she said, so was not entirely lost.
+The hackers behind the infection, known as SamSam, encrypted key data and demanded $51,000 of bitcoins to unlock it. Atlanta said it had not paid the ransom.

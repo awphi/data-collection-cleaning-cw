@@ -1,0 +1,183 @@
+Spyware warriors call for action
+Spyware can be harmless, annoying or downright malicious
+			
+			
+		
+		
+	
+
+	
+
+
+Computer users whose machines have been hijacked by potentially dangerous software are being asked to add their tales of woe to an online campaign.
+Security experts say that growing numbers are being conned into paying for fake anti-spyware programs.
+Now grassroots online security activists in the UK hope testimonies can raise awareness of the problem.
+The number of malicious infections worldwide soared in 2005, said security firm Webroot.
+In its annual report into spyware, Webroot, which develops legitimate anti-spyware software, expressed concern over the increasing sophistication of attacks.
+New laws in the US allow disgruntled computer users to petition the Federal Trade Commission about unsolicited software.
+People hear so many horror stories about keyloggers, phishing sites, rootkits and trojans that they pay good money for a useless program
+			
+
+
+
+
+
+                
+                     
+                    
+	Gwynne BrothwoodAnti-spyware activist
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+If the FTC gathers evidence of a crime, it can - and does - launch prosecutions. Last month two companies were ordered to hand back more than $2m (£1.14m) garnered through selling fake anti-spyware products.
+But in the UK, which has the highest rate of spyware infection in Europe, prosecution is more difficult.
+Local Trading Standards offices can register complaints, as can regional police forces, but there remains no easy central pathway to the National Hi-Tech Crime Unit.
+Part-time saviour
+Gwynne Brothwood, a volunteer who works feverishly in online forums training people to remove spyware and other infections, believes the issue needs to be resolved.
+"The people who push this software make life a misery for vulnerable users, not just in the UK but worldwide," Mrs Brothwood told the BBC News website.
+SPYWARE IN EUROPE
+                        
+                
+		
+                
+                     
+                    
+	Spies per consumer PCOct to Dec 2005
+
+
+
+                
+                     
+                    UK 21.6
+
+
+Norway 20.3
+
+
+Sweden: 19.1
+
+
+Lithuania 17.2
+
+
+Slovenia 15.7
+
+
+
+                
+                     
+                    
+	Source: Webroot
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+Last year Mrs Brothwood was named a Most Valuable Professional by Microsoft for her security work.
+She holds down a full-time job in the real world and can only work on the Malware Removal University website in her spare time.
+In an effort to stir up public interest in the problem, she has helped set up an online forum for people infected with spyware, located at malwareremoval.com.
+"All of a sudden people are bombarded with messages that they have spyware on their computer and that this particular program will clean them up," Mrs Brothwood said.
+"They hear so many horror stories in the news about keyloggers, phishing sites, rootkits and trojans that will steal your personal data that they panic and part with good money to pay for a program that is little more than useless.
+"What they don't know is that the makers of this program infected them in the first place."
+International issue
+According to the latest figures from Webroot, there are more than 21 online spies for every Windows PC in the UK, the highest figure in Europe.
+But the problem does not respect national borders. Other forms of so-called malware have spread further as internet use has grown.
+Andrew Miller MP hopes the UK can fight back against spyware
+			
+			
+		
+		
+	
+
+	
+
+In Poland, 867 of every 1,000 domestic PCs have been infected by trojans, unsolicited programs that can allow remote users to control the machine.
+It is this international reach that concerns those in authority trying to combat the spread of spyware.
+"The real problem is that there is a need to encourage active international co-operation to bring about an end to this," said Andrew Miller MP, who chairs of the UK Parliamentary Information Technology Committee (Pitcom).
+Last year Webroot organised a high-level international conference to raise awareness of the problems.
+Major developers of security software have announced plans to collaborate.
+Nevertheless, for those millions who find themselves infected today, their first port of call is rarely a government agency or even a high-profile security firm like Symantec or McAfee.
+Alliance
+Instead worried PC owners wind up at sites run by highly-skilled volunteers like Gwynne Brothwood and her colleague Chris Davis.
+STAYING SAFE ONLINE
+                        
+                
+		
+                
+                     
+                    Install anti-virus software
+
+
+Keep your anti-virus software up to date
+
+
+Install a personal firewall
+
+
+Use Windows updates to patch security holes
+
+
+Use reputable anti-spyware programs such as AdAware or Spybot
+
+
+Do not open e-mail messages that look suspicious
+
+
+Do not click on e-mail attachments you were not expecting
+
+
+
+                
+                    
+                        
+                            
+                        
+                     
+                    
+    
+	
+        
+	    	
+			Webwise: What is spyware
+		
+	
+        
+	
+    
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+Spyware Warrior, a high-profile US-based website, has become a key port of call. The site includes an exhaustive index of rogue anti-spyware programs, and key players Suzi Turner and Eric Howes have emerged as minor celebrities in the fight against spyware.
+Andrew Miller MP wants UK web users to see a direct route from infection  to diagnosis, official complaint and, he hopes, possible criminal action by the National Hi-Tech Crime Unit.
+The government has launched a portal site for users, called Get Safe Online, but making it stand out from the welter of self-help and self-harm websites cluttering the net is a tough proposition.
+Mr Miller said that the challenges of streamlining even a UK-wide fight against spyware were "enormous".
+"People will need to take advice and receive support from well-meaning people not working for government agencies," he said.
+"That kind of co-operation is going to be a pre-requisite."

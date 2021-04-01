@@ -1,0 +1,31 @@
+Spyware makes people wary online
+Fears over spyware have made more than 90% of American net users change their online behaviour, says a study.
+The dangers are making people swap browsers, avoid file-sharing programs and some websites says the Pew Internet and American Life Project research.
+The well publicised risk of losing personal data, having a browser hijacked or suffering endless pop-up ads is driving the change, said Pew.
+Surveys show that more than 80% of PCs are infected with unwanted spyware.
+Spyware is the name given to programs that surreptiously make their way on to Windows PCs and then subject users to pop-up adverts, hijack their start page, install bookmarks or gather information about browsing habits.
+The most malicious spyware programs lurk unseen on PCs and steal confidential information such as passwords or login details.
+Spyware victims
+Spyware and adware often travels alongside file-sharing programs or media files that people download from the web.
+Some people have swapped browsers to avoid problems
+			
+			
+		
+		
+	
+
+	
+
+Some websites also take advantage of bugs in Microsoft's Internet Explorer browser to install spyware on the machines of people that visit.
+The dangers of spyware are making people wary of what they do online like no other net threat, said Susannah Fox, lead author on the Pew Internet study.
+"People are feeling less adventurous, less free to do whatever they want to do online," she said.
+The research found that 91% of people have made at least one change to the way they act online because of fears about spyware, though only 43% said they had fallen victim to the programs.
+Porn dangers
+Broadband users and those who visit pornographic sites or play games online were more likely to fall victim, the research showed.
+The dangers were making people scale back on some net activities, said Ms Fox.
+The Pew research found that 48% of those questioned have stopped visiting some websites for fear that they harbour spyware. File-sharing software has been abandoned by 25% of people because it often becomes bundled with adware.
+It also revealed that 18% of net users have started using an alternative web browser such as Firefox to avoid the security problems associated with Microsoft's Internet Explorer.
+Microsoft recently released anti-spyware software that helps people find and remove the malicious programs.
+Anti-spyware firm Webroot estimates that 88% of PCs harbour spyware programs and most machines are home to many different strains of the software.
+The Pew research found that though many people have changed online behaviour, 20% had not cleaned up their infected computer.
+Free anti-spyware programs such as AdAware and Spybot are used by many people to clean up their PCs.

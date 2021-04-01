@@ -1,0 +1,56 @@
+Research reveals phishing hooks
+Sophisticated phishing scams could be catching out 90% of those that see them, research suggests.
+The academic study looked at whether web users could tell legitimate online bank websites from the fakes produced by phishers.
+Though many phishing sites were easy to spot, the best were judged real by almost all participants.
+It found that users ignored most of the visual cues on browsers that warn people that they are being scammed.
+Dangerous game
+Those running the study said website designers needed to re-think ways of flagging dangers to users.
+The study looked at bogus websites created by phishing gangs and what made users believe that these sites were legitimate. Industry statistics suggest that, on average, 5% of those that get phishing e-mails visit an associated website and are conned into handing over data.
+Although low, this figure is far more than the phishing gangs need to turn a healthy profit.
+The study, carried out by Rachna Dhamija, a postdoctoral fellow at the Center for Research on Computation and Society at Harvard University, Professor Doug Tygar in the department of Computer Science at Berkeley and Professor Marti Hearst at Berkeley, suggests that on relatively sophisticated scams, many times more people are taken in.
+SPOTTING PHISHING SITES
+                        
+                
+		
+                
+                     
+                    Check the address bar - fake sites are often hosted on domains that have nothing to do with their target. Although eBay owns www.ebay.com it may not own www.ebay-members-security.com.
+
+
+Retype web links rather than click on them - legitimate-looking links in phishing e-mails often redirect you to fake sites.
+
+
+Spelling test - some phishing gangs make their own webpages and often they are full of spelling and grammatical errors.
+
+
+Site security - most online banks use weblinks starting "https" rather than "http". 
+
+
+Naked numbers - Few organisations use raw net addresses in e-mails and seeing one can flag a problem.
+
+
+Use an anti-phishing toolbar - add-ons to browsers are produced by firms such as ebay, Netcraft, Geotrust, Cloudmark, Comodo and Phishing.net that can flag fake sites. Also worth using is the Site Advisor add-on for IE and Firefox.
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+The study presented real online banking and fake phishing sites to subjects to see if they could tell the two types apart.
+On average, 40% of users failed to spot the phishing sites. The most sophisticated site caught out 90% of the 22 people participating.
+The study revealed that people were caught out because they were generally ignorant about what did, and did not, indicate that a site was legitimate.
+For instance, few of those participating looked at the domain name, such as bbc.co.uk, being displayed in a browser address bar.
+Users generally did not look at the address bar, status bar or other security indicators that could flag if they had unwittingly strayed on to a phishing site.
+The problem, said the researchers, was that "the indicators of trust presented by the browser are trivial to spoof".
+Many participants also ignored more direct warnings contained in pop-up windows that a site may not be legitimate.
+The researchers also said phishing gangs were being successful because many of the scams being mounted were very sophisticated and could catch out even seasoned users.
+The academics said the results would help educate users about relevant dangers and to help those who create websites know which attacks succeed and why.
+The researchers said: "These results illustrate that standard security indicators are not effective for a substantial fraction of users, and suggest that alternative approaches are needed."
+The trio of researchers said the traditional security approach looks at what can be made secure rather than work out what humans do well and exploit that to make sites safer. The team is now working on ways to make fake sites far more obvious when reached by users likely to be caught out.

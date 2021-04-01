@@ -1,0 +1,9 @@
+Yahoo search to 'battle spyware'
+Yahoo is introducing new technology to its search engine which will warn users if they are about to click on a website that hosts viruses, spyware and spam.
+SearchScan uses security firm McAfee's SiteAdvisor technology to warn users about "potentially risky sites".
+The service, which is switched on by default, produces an on-screen alert.
+"Our goal is to protect users by allowing them to make a more informed decision about the sites they visit," said Yahoo's Priyank Garg.
+Rival firm Google introduced similar technology in 2006.
+Yahoo's service will warn users about three types of risk:
+Viruses, spyware and adware programs are often "hidden" inside innocuous-looking programs such as screensavers and toolbars.
+Industry analysts IDC estimate that 67% of all computers have some form of spyware installed without a user's knowledge.

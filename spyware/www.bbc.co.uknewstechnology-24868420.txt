@@ -1,0 +1,16 @@
+'Lover Spy' hacker makes FBI 'most wanted' list
+A man who allegedly created malware purporting to catch out cheating lovers has made it on to the FBI's "most wanted" list of cybercriminals.
+The FBI says Carlos Enrique Perez-Melara ran a website offering customers a way to "catch a cheating lover" by sending spyware masquerading as a greeting card.
+Opening the card downloaded the malware on to the recipient's computer and recorded keystrokes and messages.
+The "Lover Spy" program cost $89 (Â£55).
+Mr Perez-Melara was indicted in July 2005 but has avoided capture ever since, only now making it on to the FBI's most wanted list.
+He ran the operation from his San Diego home in 2003, the FBI says, while he was in the US on a student travel visa.
+The charges against Mr Perez-Melara, 33, included making, sending and advertising an interception device, and unlawfully intercepting electronic communications.
+The indictment said Lover Spy was designed "with stealth in mind, claiming that it would be impossible to detect by 99.9% of users".
+But Mr Perez-Melara has avoided the authorities ever since and his last known location was San Salvador, the FBI said.
+The agency appears to have added the hacker to its list partly out of frustration at his elusiveness.
+"These are sophisticated folks who know how to hide themselves on the internet,'' said John Brown, who oversees the FBI's cyber-division.
+The agency has offered a $50,000 reward for information leading to his arrest.
+According to the 2005 indictment, Mr Perez-Melara sold the malware to 1,000 customers, who then used it to infect the computers of about 2,000 victims.
+Victims took the bait about half the time, the government said.
+People who bought the spyware were charged with illegally intercepting electronic communications.

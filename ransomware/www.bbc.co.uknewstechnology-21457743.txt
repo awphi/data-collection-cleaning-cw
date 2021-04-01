@@ -1,0 +1,16 @@
+Police hold 11 over ransomware scam 'affecting thousands'
+A complex cybercrime network spreading ransomware designed to extort money has been shut down, police have said.
+Spanish authorities, working with the European Union's law enforcement agency, Europol, arrested 11 people, from Russia, Georgia and Ukraine.
+Software planted on targeted machines accused the user of having viewed illegal content, such as images showing child sex abuse, Europol said.
+It then told the user to pay a "fine" before continuing to use the machine.
+A Europol statement said: "By dressing the ransomware up to look as if it comes from a law enforcement agency, cybercriminals convince the victim to pay the 'fine' of 100 euros [$130; Â£85] through two types of payment gateways - virtual and anonymous - as a penalty for the alleged offence.
+"The criminals then go on to steal data and information from the victim's computer.
+"Since the virus was detected in May 2011, there have been more than 1,200 reported cases just in Spain, and the number of victims could be much higher."
+'One million euros'
+Investigators from Europol's European Cybercrime Centre - which launched last month - said the network had infected "tens of thousands" of computers worldwide.
+Estimated profits had been in the range of one million euros per year, the statement said. And the virus had been first discovered in May 2011.
+The gang had been receiving the money in a variety of ways - including using virtual currency such as Bitcoin, Europol said.
+They were also alleged to have used cash machines in Spain to withdraw money with compromised credit cards - one of which had been used to take out 26,000 euros prior to the suspects' arrest.
+Europol believe the head of the operation was a 27-year-old Russian man who had been in charge of the "creation, development and international distribution of the various versions of the malware".
+"He was arrested in the United Arab Emirates and is awaiting extradition to Spain," the statement said.
+Six Russians, two Ukrainians and two Georgians were also arrested.

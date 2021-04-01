@@ -1,0 +1,34 @@
+Microsoft and Zoom join Hong Kong data 'pause'
+Microsoft and Zoom have said they will not process data requests made by the Hong Kong authorities while they take stock of a new security law.
+They follow Facebook, Google, Twitter and the chat app Telegram, which had already announced similar "pauses" in compliance over the past two days.
+China passed the law on 30 June, criminalising acts that support independence, making it easier to punish protesters.
+Apple says it is "assessing" the rules.
+If the tech firms make their non-compliance policies permanent, they could face restrictions or a ban on their services in the semi-autonomous region.
+And while Facebook, Google, Twitter and Telegram's services are blocked in mainland China, the same is not true of Microsoft, Zoom and Apple.
+In a related development, TikTok - which is owned by the Chinese firm Bytedance - has said it plans to exit Hong Kong within days.
+The business had previously said it would not comply with Chinese government requests to access TikTok users' data. It operates a similar service called Douyin in its home market, which could theoretically become a substitute. However, Bytedance has indicated it does not have plans to do so at this time.
+'Seeking guidance'
+Microsoft directly offers its Office 365 work app and LinkedIn social networks to both Hong Kong residents and citizens in mainland China.
+But while Office 365 is provided directly by the firm to Hong Kong residents, the service is run by a local firm 21Vianet on the other side of the border, allowing Microsoft to remain one step removed.
+In the case of LinkedIn, law enforcement data requests have to go via the US government, although the division says it does sometimes "make an exception in an emergency".
+According to Microsoft's latest transparency report, it received requests for data linked to 81 accounts from Hong Kong's government between July and December 2019, and provided "non-content data" in most cases.
+"As we would with any new legislation, we are reviewing the new law to understand its implications," said a spokesman for the American firm.
+"In the past, we've typically received only a relatively small number of requests from Hong Kong authorities, but we are pausing our responses to these requests as we conduct our review."
+The video chat provider Zoom is based in the US, but has ties to China.
+Its founder and chief executive Eric Yuan was born in Tai'an before emigrating to Silicon Valley 23 years ago.
+Most of its product development workers are based in mainland China.
+And it recently made headlines for:
+"Zoom supports the free and open exchange of thoughts and ideas," a spokeswoman said in response to the latest development.
+"We are proud to facilitate meaningful conversations and professional collaboration around the world.
+"We're actively monitoring the developments in Hong Kong SAR [Special Administrative Region], including any potential guidance from the US government. We have paused processing any data requests from, and related to, Hong Kong SAR."
+US treaty
+Apple uses end-to-end encryption to protect Messages and Facetime conversations carried out by Hong Kong residents, meaning only the device owners can unscramble the messages transmitted.
+However, the firm does hold encryption keys to data stored in users' iCloud accounts, which can include back-ups of their text-based chats.
+In theory, this means it could pass this information to the authorities if demanded.
+However, since both the keys and the data are stored in the States, it says the US government has the power to intervene.
+"Apple has always required that all content requests from local law enforcement authorities be submitted through the Mutual Legal Assistance Treaty in place between the United States and Hong Kong," it said.
+"As a result, Apple doesn't receive content requests directly from the Hong Kong government. Under the MLAT process, the US Department of Justice reviews Hong Kong authorities' requests for legal conformance.
+"We're assessing the new law, which went into effect less than a week ago, and we have not received any content requests since the law went into effect."
+Apple has, however, complied with requests in the past.
+Its latest transparency report indicates it received requests for data concerning 358 devices from Hong Kong's government between January and June, and that it provided data in 91% of the cases.
+In mainland China, users' iCloud files are stored in a data centre controlled by a local firm, so the government does not need to involve the US authorities when seeking access.

@@ -1,0 +1,26 @@
+Blackbaud hack: More UK universities confirm breach
+More than 20 universities and charities in the UK, US and Canada have confirmed they are victims of a cyber-attack that compromised a software supplier.
+Blackbaud was held to ransom by hackers in May and paid an undisclosed ransom to cyber-criminals.
+The US-based firm is the world's largest provider of education administration, fundraising, and financial management software.
+Blackbaud is not revealing the scale of the breach.
+Dozens more charities and educational organisations may have been affected.
+The cloud service company is facing criticism after taking weeks to warn victims that data had been stolen.
+In some cases, the personal details were limited to those of former students, who had been asked to financially support the establishments from which they had graduated. But in other cases, it extended to staff, existing students and other supporters.
+The institutions the BBC has confirmed have been affected are:
+Other organisations, including charities, confirmed as affected are:
+All the institutions are sending letters and emails apologising to those on the compromised databases.
+In some cases, the stolen data included phone numbers, donation history and events attended. Credit card and other payment details do not appear to have been exposed.
+A spokesman from the UK's National Cyber Security Centre said: "We are aware of this incident and are supporting partners in the UK and internationally in response. We would urge all organisations to read our guidance on how to defend themselves against malware and ransomware attacks."
+Blackbaud, whose headquarters are in South Carolina, insists that "the majority of our customers were not part of this incident".
+It referred the BBC to a statement on its website: "In May of 2020, we discovered and stopped a ransomware attack. Prior to our locking the cyber-criminal out, the cyber-criminal removed a copy of a subset of data from our self-hosted environment."
+Paid the hackers
+The statement goes on to say Blackbaud paid the ransom demand. Doing so is not illegal, but goes against the advice of numerous law enforcement agencies, including the FBI, NCA and Europol.
+Blackbaud said once the hackers had been paid, they had given "confirmation that the copy [of data] they removed had been destroyed".
+"It is worrying that the supplier paid the ransom as, arguably, this encourages future attacks and doesn't overcome the fact that data has been compromised. This demonstrates the multiplier effect of supply chain hacks and reinforces the advice that security needs to be a collaborative exercise," Cath Goulding, chief information security officer at cyber-security firm Nominet said.
+It's unclear how many individuals have been sent notifications but some alumni and students affected have expressed concerns on social media and to the BBC that they are now worried about the cyber-criminals being true to their word.
+Privacy law
+Questions are being asked about why Blackbaud took weeks to inform its customers of the hack.
+Under General Data Protection Regulation (GDPR), companies must report a significant breach to data authorities within 72 hours of learning of an incident - or face potential fines.
+The UK's Information Commissioner's Office [ICO], as well as the Canadian data authorities, were informed about the breach last weekend - weeks after Blackbaud discovered the hack.
+On the notice to its students, West Virginia University Foundation said it was "working with Blackbaud to understand why there was a delay between it finding the breach and notifying us, as well as what actions Blackbaud is taking to increase its security."
+One of the affected institutions told the BBC the hack is affecting a product called NetCommunity which Blackbaud describes on its website as an 'alumni engagement and management software system for nonprofits.'

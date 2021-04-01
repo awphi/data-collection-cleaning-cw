@@ -1,0 +1,53 @@
+US moves to rein in spyware
+US law-makers have taken steps towards imposing controls on hidden software that can secretly spy on online habits.
+A key congressional panel endorsed a bill that would force the makers of spyware to notify users before installing any software on their PCs.
+Spyware is a broad term for software that hides on a PC, collecting data about you and what you do on the net.
+The proposed measures could become law later this year, according to one of the panel members.
+PC hijack
+Spyware is widely seen by many as a nuisance.  It is often downloaded onto your PC when you download other free software.
+Often buried in the licence agreement will be a disclaimer saying that information about you and your browsing habits will be sent to the company's website.
+We continue to meet people who have had their web pages hijacked, their browsers corrupted
+
+
+
+			
+
+
+
+
+
+                
+                     
+                    
+	
+	Cliff Stearns, subcommittee chairman
+
+
+
+
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+
+	Once installed, it can redirect web searches, install bookmarks or bombard a user with pop-up ads tailored to other search terms.
+It can also drain computing power, crash a machine and, in the case of the most malicious spyware, steal confidential information
+The US bill was introduced by California Republican Mary Bono and New York Democrat Ed Towns. It is one of several bills before Congress in response to growing concerns about spyware.
+It has now passed a significant hurdle in the race to become law, winning the backing of the House Energy and Commerce subcommittee.
+"We continue to meet people who have had their web pages hijacked, their browsers corrupted, and in some cases their children exposed to inappropriate material via nefarious programs lurking on their hard drives," said subcommittee
+chairman Cliff Stearns.
+Infested machines
+The proposed law would force software makers to alert people before loading programs on a computer.  It would also require that spyware could be easily removed.
+But some fear that the spyware bill could inadvertently lead to problems for sellers of legitimate software.
+A recent survey by the US internet provider Earthlink found that the average computer was packed with hidden software.
+It uncovered an average of 28 spyware programs on each PC scanned during the first three months of the year.
+People concerned about what might be lurking on their machine can download software such as the popular SpyBot - Search and Destroy and Ad-aware to disinfect their computer.

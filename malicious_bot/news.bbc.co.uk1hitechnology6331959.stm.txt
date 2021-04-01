@@ -1,0 +1,29 @@
+Windows 'fails' active virus test
+Security tools that work with Windows Vista have failed tests to see if they can detect viruses circulating online.
+Microsoft's Windows Live OneCare security tool was one of four products that failed independent tests carried out by the Virus Bulletin.
+The security testing group found that Live OneCare missed far more active viruses than any other program tested.
+To pass the tests anti-virus tools must spot and stop 100% of the malicious programs used to attack them.
+Attack profile
+When Vista was launched on 30 January, Microsoft chairman Bill Gates claimed that it was "dramatically more secure" than other operating systems.
+Work began on Vista in 2001 and prior to release Microsoft said that some of the delay was due to efforts to harden the operating system against viruses and other malicious programs.
+Vista cannot fend off today's malware without help from security products
+			
+
+
+
+
+
+                
+                     
+                    
+	John Hawes, Virus Bulletin
+Version 1.5 of Windows Live OneCare was co-launched with Vista and uses the same scanning "engine" as the security tools bundled with the operating system. Typically users pay a yearly subscription to use Live OneCare.
+The Virus Bulletin tests try to catch out anti-virus software with a variety of malicious programs including bots and worms known to be spreading online, file infectors, polymorphic and macro viruses.
+While Live OneCare did manage to spot 100% of the macro viruses it was tested against, it missed some wild viruses, polymorphic programs and file infectors.
+Live OneCare caught 99.91% of the known active viruses it was tested against. This left it vulnerable to 37 separate malicious programs.
+Other anti-virus products that failed the tests included G-Data AntiVirusKit, McAfee VirusScan Enterprise 8.51 and Norman Virus Control 5.90.
+In a statement, Joe Telafici, vice president of operations for McAfee Avert Labs, said Virus Bulletin had not been using the most up to date version of VirusScan Enterprise at the time of testing.
+"McAfee is currently working with Virus Bulletin on this discrepancy and to make the updated test results available," he said.
+"The tests conducted in our secure labs were against the most significant viruses and worms affecting real-world users," said John Hawes, a technical consultant at Virus Bulletin.
+"Although many improvements have been made, Vista cannot fend off today's malware without help from security products," he said.
+Jo Wickremasinghe, Windows Live OneCare product manager, said in a statement: "We are looking closely at the methodology and results of the test to ensure that Windows Live OneCare performs better in future tests and, most importantly, as part of our ongoing work to continually enhance Windows Live OneCare to ensure the highest level of protection and service that we can provide our customers."

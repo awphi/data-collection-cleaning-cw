@@ -1,0 +1,15 @@
+ISPs take legal action against GCHQ
+Seven internet service providers have filed a legal complaint against the UK's intelligence agency GCHQ.
+ISPs from the US, UK, Netherlands and South Korea have joined forces with campaigners Privacy International to take the agency to task over alleged attacks on network infrastructure.
+It is the first time that GCHQ has faced such action.
+The move follows allegations about government snooping made by US whistleblower Edward Snowden.
+'Infected with malware'
+The ISPs claim that alleged network attacks, outlined in a series of articles in Der Spiegel and the Intercept, were illegal and "undermine the goodwill the organisations rely on".
+The allegations that the legal actions are based on include:
+While the ISPs taking the action were not directly named in the leaked Snowden documents, Privacy International claims that "the type of surveillance being carried out allows them to challenge the practices... because they and their users are at threat of being targeted".
+Privacy International has previously filed two other cases - the first against alleged mass surveillance programmes Tempora, Prism and Upstream, and the second against the deployment by GCHQ of computer intrusion capabilities and spyware.
+'Strict framework'
+Eric King, deputy director of Privacy International, said "These widespread attacks on providers and collectives undermine the trust we all place on the internet and greatly endangers the world's most powerful tool for democracy and free expression."
+The ISPs involved in the action are UK-based GreenNet, Riseup (US), Greenhost (Netherlands), Mango (Zimbabwe), Jinbonet (South Korea), May First/People Link (US)and the Chaos Computer Club (Germany).
+Cedric Knight, of ISP GreenNet, added: "Snowden's revelations have exposed GCHQ's view that independent operators like GreenNet are legitimate targets for internet surveillance, so we could be unknowingly used to collect data on our users. We say this is unlawful and utterly unacceptable in a democracy."
+GCHQ maintains that all its work is conducted "in accordance with a strict legal and policy framework which ensures that our activities are authorised, necessary and proportionate".

@@ -1,0 +1,16 @@
+Stolen cyber data probe launched
+An investigation has been launched into data recovered from a computer in the US found to contain information from hacked computers based in the UK.
+The Metropolitan Police is looking into the data, stolen via a computer virus, believed to have been extracted from more than 2,300 UK-based computers.
+E-mail addresses, passwords and credit card and online transaction details were part of the information recovered.
+Detectives are taking steps to notify urgently the victims where possible.
+It is thought that a large number of victims live outside of London but all are based in the UK.
+'Malicious code'
+Banks and other online services, as well as internet service providers, are also being alerted.
+Victims are being notified via email by the Met's Computer Crime Unit.
+A detective from the Met's Computer Crime Unit said the information had been "harvested from the computers by a type of malicious code known as a Backdoor".
+"It is too early to establish at this early stage how the computers have been infected," he said.
+"However, there are thousands of computer users worldwide who have had their computers compromised and data stolen."
+'Increasing identity theft'
+And the head of the unit said: "Identity theft performed by computer viruses is on the increase.
+"As in this case, it often goes on without the knowledge of the computer's owner."
+Victims who receive an email from the Met should contact the detectives named within the message using the contact number provided.

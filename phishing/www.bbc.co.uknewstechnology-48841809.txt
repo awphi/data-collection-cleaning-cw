@@ -1,0 +1,17 @@
+Cyber-incident reports from UK finance sector spiked by 1,000% in 2018
+There has been a sharp rise in the number of cyber-incidents reported by the UK's financial sector caused by hack attacks and other problems, according to official figures.
+A Freedom of Information request to the Financial Conduct Authority revealed that the number of declared events rose from 69 in 2017 to 819 in 2018.
+That marks a rise of more than 1,000%.
+Consumer banks accounted for nearly 60% of the reports submitted to the watchdog last year.
+The spike is likely to be driven in part by the introduction of the EU's General Data Protection Regulation (GDPR), which introduced an obligation on all organisations to report certain types of security breaches.
+But RSM - the tax and consulting firm that made the FoI request - said it also reflected the fact that there had been an increasing number of attacks on the industry.
+"The web-enabled systems underpinning the financial services sector hold huge volumes of personal and financial data, which are incredibly valuable for cyber-criminals," Steven Snaith, the firm's cyber-security specialist, told the BBC.
+"One of the problems is that there are lots of freely available cyber-attack tools and knowledge that can be sourced online. There is currently no legislation that makes possessing or developing these tools illegal and this is exacerbating the problem."
+Even so, cyber-attacks of one form or another accounted for only about 11% of the incidents. More common reported causes were issues with equipment and software, problematic attempts to switch from one system to another, and faults with third-party services.
+RSM said it believed there was still a high level of under-reporting.
+Basic errors
+It is not possible to provide a like-for-like comparison for each category of cyber-incident as the FCA changed its headings between 2017 and 2018. However, the regulator did share the following figures, including early data for 2019.
+A spokeswoman for the FCA declined to comment but referred the BBC to a speech given by its executive director of supervision last November.
+"It is a major concern that a lot of firms still seem to be trying to get the basics right on cyber," Megan Butler declared.
+"A third of firms do not perform regular cyber-assessments. Most know where their data is, but describe it as a challenge to maintain that picture. Nearly half of firms do not upgrade or retire old IT systems in time.
+"And only the largest firms have automated their detection systems to spot potential cyber-attacks. Smaller firms are generally relying on old school, manual processes - or no processes at all."

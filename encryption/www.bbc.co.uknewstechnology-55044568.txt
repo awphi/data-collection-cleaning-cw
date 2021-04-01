@@ -1,0 +1,20 @@
+Smart doorbells 'easy target for hackers' study finds
+Major security flaws in popular smart doorbells are putting consumers at risk of being targeted by hackers inside their homes, according to Which.
+The consumer group says devices being sold on marketplaces such as Amazon and eBay, could easily be  hacked or switched off by criminals.
+It is asking the government for new legislation to safeguard consumers.
+Amazon has removed at least seven product listings in response to the findings.
+The watchdog tested 11 devices which were purchased from popular online marketplaces in the UK. Brands included Qihoo, Ctronics and Victure.
+It found that among the most common flaws were weak password policies, and a lack of data encryption.
+Two of the devices in the test could be manipulated to steal network passwords and then hack other smart devices within the home.
+Amazon UK's current number one bestseller in smart doorbells, the Victure Smart Video Doorbell, was found to send users' home network names and passwords unencrypted to servers in China.
+The BBC has asked Victure for comment.
+Convenience v Security
+Lisa Forte, a partner at Red Goat Cyber Security, which specialises in cyber-security testing, said consumers may inadvertently be putting convenience before security.
+"Generally speaking the more convenient something is, the less secure it is," she told the BBC.
+"The more connected devices you have in your home, the more 'doors' there are for cyber-criminals to open. This investigation highlights how many brands arenât putting the security of their customers first.
+"If you have decided to purchase a smart doorbell, make sure it is from a well-known, trusted brand. When you set it up change the default password to something long, and if possible enable two-factor authentication in the set-up," she added.
+Two-factor authentication (2FA) is when a secondary step is introduced to the log-in process, such as a code sent as an email or text.
+While Amazon removed several products from sale, eBay told Which? that none of the findings violated its own safety standards.
+A spokesman for the marketplace said the flaws represented "technical product issues that should be addressed with the seller or manufacturer".
+Kate Bevan, Which? Computing editor, said better regulation was needed.
+"Government legislation to tackle unsecure products should be introduced without delay and must be backed by an enforcement body with teeth that is able to crack down on these devices."

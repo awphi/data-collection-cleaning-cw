@@ -1,0 +1,27 @@
+Currys PC World customers scammed via eBay
+Fraudsters have stolen thousands of pounds from Currys PC World customers after hijacking the retailer's eBay account.
+Criminals were able to change payment details on a number of eBay listings, including for the iPhone 11.
+This enabled them to siphon money from unwitting customers who paid for goods via a PayPal account.
+Currys PC World, eBay and PayPal said all affected customers would be refunded.
+A spokesman for Dixons Carphone, which owns Currys PC World, said it was "disappointed that this has happened" and would work with eBay "to investigate what has taken place".
+The spokesman added: "While we don't host this website, we are providing affected customers with guidance on how to obtain a refund from PayPal."
+A spokesman for eBay said: "The issue was resolved quickly and customers can continue to shop with full confidence."
+PayPal said it was working to reverse any affected transactions.
+A spokesman said: "If a customer has not seen their money refunded then they may need to raise an 'item not received' case via their PayPal account."
+Fake accounts
+PayPal enables users to send and receive money using just an email address. Many shoppers use it to pay for items on eBay.
+Scammers stole from unwitting customers by setting up a fake PayPal account.
+The fraudsters used an email address that looked almost identical to Currys PC World's real account.
+After accessing the retailer's eBay account, they replaced the real email on listings with a fake one.
+Shoppers who thought they were paying Currys PC World for their goods were instead sending money to the fraudsters.
+The attack happened on the weekend of October 19-20.
+It affected around 600 customers and potentially cost hundreds of thousands of pounds.
+Refunds should appear in affected customers' accounts over the coming days.
+The company was also recently targeted by a separate phishing attack, according to Mail Online, in which a fake eBay login page attempted to collect people's details.
+The Currys PC World website is unaffected.
+Protecting your account
+Cyber security expert Graham Cluley said the scam - known as a homograph attack - exploits the close similarity between two different characters or letters.
+He said: "For instance, a lower case "l" for lima looks very much like an upper case "I" for India in many fonts.
+"For years, scammers have been duping unsuspecting internet users into clicking on dangerous links by using this simple technique and, by the sound of things, are fooling users into paying the wrong PayPal accounts too."
+Mr Cluley said the best way for people to stop scammers was to protect their accounts with two-factor authentication, which adds an extra layer of protection.
+"You can also run a password manager which stores your passwords securely and protects against phishing attacks. And keep a close eye on your accounts for unusual transactions," he said.

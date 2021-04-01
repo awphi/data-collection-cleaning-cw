@@ -1,0 +1,24 @@
+Kazakhstan's new online safety tool raises eyebrows
+Kazakhstan's drive to obtain government access to everyone's internet activity has raised concerns among privacy advocates.
+Last week, telecoms operators in the former Soviet republic started informing users of the "need" to install a new security certificate.
+Doing so opens up the risk that supposedly secure web traffic could be decrypted and analysed.
+Some users say the move has significant privacy and security problems.
+Much of the concern focuses on Kazakhstan's human rights record, which is considered poor by international standards.
+Human Rights Watch says authorities do not allow peaceful protests, clamp down on trade unions, and use criminal prosecutions against journalists and opposition politicians with little cause.
+Kazakh internet users reported being redirected to web pages telling them to install the new certificate on their home and mobile devices and some received text messages telling them to do so.
+A statement from the Ministry of Digital Development said telecoms operators in the capital, Nur-Sultan, were carrying out technical work to "enhance protection" from hackers, online fraud and other cyber-attacks.
+It advised anyone who had trouble connecting to some websites to install the new security certificate, from an organisation called Quaznet Trust Network.
+Kcell, one of the large communications providers, said that not having the certificate could cause problems accessing some internet resources.
+Unencrypted data can be read by anyone - such as a user's internet service provider - who might be able to intercept the web traffic.
+An increasing number of websites are now using HTTPS traffic - which is encrypted and uses security certificates to verify the encryption.
+Installing a government security certificate could allow authorities to decrypt the data, analyse it and re-encrypt it before sending it to its final destination.
+Some corporate networks use such an approach to block malicious sites or stop the sharing of sensitive company information.
+The Vice-minister of Digital Development, Ablaykhan Ospanov, told Kazakh news site Tengrinews that installing the certificate was optional for now.
+He said communications providers were obliged to offer the function to consumers - but that it was optional for the end user.
+But many Kazakhs and privacy advocates remained unconvinced.
+One user filed a bug report with Mozilla, maker of the internet browser Firefox, characterising the move as a "man in the middle" cyber-attack and calling for the browser to completely ban the government certificate.
+A blog post from VPN provider Private Internet Access characterised the move as one designed to " spy on its citizens' internet traffic".
+"Forcing all of Kazakhstan's internet through one government issued certificate is a gargantuan privacy issue but it is also a security issue," it said - highlighting that a hacker might gain control of the certificate itself and therefore to all the unencrypted traffic of every user.
+Paul Bischoff, from Comparitech, said the move "is about surveillance, not security" and encouraged Mozilla and other browser-makers, such as Google, to ban the certificate.
+"This is a man-in-the-middle attack at nation-state scale," he said.
+"Considering that more than half of the websites visited today use HTTPS, this is a huge endeavour... I'd give it a month before the whole thing falls apart."

@@ -1,0 +1,28 @@
+Government 'may have hacked IMF'
+Hackers who broke into the International Monetary Fund's computer system may have been backed by a nation state, according to security experts.
+They point to the sophisticated nature of the attack and the resources needed to develop it.
+Malicious software, designed to steal confidential files, was installed on at least one IMF computer.
+Although government involvement is widely suspected, the IMF has not released enough details to be sure.
+Digital insider
+Based on the limited information made public, it appears that the attack came from a specific PC that had been deliberately infected.
+Hacker software was likely to have been installed on it in what is known as a spear-phishing attack, which sees highly targeted scam e-mails sent to specific victims.
+A memo circulated internally at the IMF reported that "suspicious file transfers" had been detected.
+Tom Kellerman, a security expert who has worked for the IMF and now sits on the board of the International Cyber Security Protection Alliance told Reuters news agency that it was "a targeted attack" with code written specifically to give a nation state a "digital insider presence" on the IMF network.
+Graham Titherington, a security analyst with research firm Ovum agreed with the nation state theory.
+"Any attack that shows money, time and resources went on it points to a state attack. States and their intelligence agencies have far more resources than criminal gangs," he said.
+The information held by the IMF would clearly be most valuable to a country, he added.
+"It has masses of economic information from the performance of countries to the state of their balance sheets. For countries deciding where to invest it is invaluable," he said.
+State-sponsored hacking has gained prominence in recent months.
+"Google shifted the debate by going public on a hack attack believed to be by China," said Mr Titherington.
+The Chinese government has denied involvement in the recent attack on Google's e-mail accounts.
+The incident compromised the personal Gmail accounts of hundreds of top US officials, military personnel and journalists.
+Google said that the campaign to obtain passwords originated in the Chinese city of Jinan and was aimed at monitoring e-mail.
+According to Mark Darvill, director of security firm AEP Networks, many countries are involved in cyber espionage but China remained at the "forefront".
+"China has recently set up a cyber terrorism unit which is very likely to be looking at opportunities rather than to stop attacks," he said.
+Convenient excuse
+Not everyone is convinced that state-sponsored attacks or Advanced Persistent Threat (APTs) are the cause of the IMF hack.
+Tal Be'ery, a web researcher at security firm Imperva said it could be a "convenient excuse".
+"It is easier for organisations to hide under this excuse when really it is something lacking in their defences.
+"We don't have enough credible information about the IMF attack. It needs to provide good evidence that it was a APT. It is just as likely to be a lone hacker acting out of curiosity," he said.
+The most high profile state-sponsored attack to date remains the Stuxnet worm, which targeted Iran's nuclear facilities.
+Experts believe the complex malicious code originated from either the Israeli or US governments.

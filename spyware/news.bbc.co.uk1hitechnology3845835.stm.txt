@@ -1,0 +1,55 @@
+The secrets your computer just can't keep safe
+Home PCs are increasingly likely to house software designed to watch each and every click the user makes.
+Some spyware logs each key stroke
+			
+			
+		
+		
+	
+
+	
+
+
+	
+If a home was infested with tiny spy cameras the owner would no doubt want to know about it - especially if the information gathered was being analysed and sold for a profit, or if these alerted unsavoury types of the home-owners absence.
+While rare is the home infested with tiny electronic spies, the same cannot be said of many Windows computers. On average every PC has 28 so-called spyware programs installed on it, according to an audit carried out by software firm Webroot and net service outfit Earthlink.
+The audit surveyed more than 1.5m PCs over the past year and found more than 41m instances of adware, tracking cookies, spyware, trojans and other malicious programs. Despite the different names, these do the same thing - watch what's done on a PC and steal information about the user's activities.
+The most malicious versions, usually created by virus writers, use PCs to spew out spam, or steal the login names and passwords used on banking websites.
+While most operate without the user's knowledge, some are more obvious - a homepage may be hijacked, unwanted favourites added to a bookmark file, and the user may be redirected to unsavoury sites. Others push ads at every opportunity, and get around any pop-up blockers installed.
+Last week premium rate phone watchdog Icstis reported a sharp rise in trojans known as "diallers" that connect people to expensive phone numbers and rack up a huge bill.
+Electronic pox
+A PC full of spyware used to be price people paid for visiting some of the net's more salacious sites - a kind of electronic pox. But more recently, says David Moll, head of Webroot, spyware has become so ubiquitous that it can be contracted almost everywhere.
+No longer can spyware be "caught" from sex sites alone
+			
+			
+		
+		
+	
+
+	
+
+
+	
+So-called "drive-by downloads" are becoming increasingly responsible for installing spyware on PCs.
+"Some lurk on misspelled URLs and strike those that type faster than their fingers can carry them. As a result you do not end up where you expect to be."
+Now, he says, users do not even have to visit a website to catch spyware.
+Users of Microsoft's Outlook that have the preview pane for messages open can also be hit by a drive-by download by a carefully crafted message.
+Smart spies
+"If you get one piece of spyware, you will get five because the business model says they pay each other to pass on information about victims," says Mr Moll.
+Scans reveal how infested a PC is
+			
+			
+		
+		
+	
+
+	
+
+
+	
+Programs such as Ad Aware, Spy Bot and Webroot's own Spy Sweeper can clean up PCs. But like anti-virus software, they have to be kept up to date to be effective.
+As well as software to find and root out spyware, legislators are getting in on the act too.
+An anti-spyware bill is edging towards approval in the US Congress and, if passed, will force firms that want to use spyware to get your permission before it is installed.
+But as the laws are drafted a race is on between spyware fans and foes. Already the tactics spyware makers are using to keep their creations in place are getting ever more extreme.
+Some programs hide hundreds or thousands of entries in a PC user's registry, a key part of the Windows operating system, and are time-consuming to find and destroy.
+And, says Mr Moll, if you do not delete every last one, they will be back.

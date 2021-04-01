@@ -1,0 +1,70 @@
+Spyware 'rampant' in UK computers
+The UK has one of the highest rates of computers infected with secret programs that can track what people do with their machines, research shows.
+Only Thailand and the US had more infected PCs, found a study by security firm Webroot.
+It was released to coincide with a meeting in London of MPs and computer experts to discuss what can be done to combat so-called spyware programs.
+These hide themselves on hard drives and can gather information about users.
+'Endless trouble'
+According to anti-spyware firm, Webroot, almost 55% of consumer Windows PCs are infected with so-called adware.
+STAYING SAFE ONLINE
+                        
+                
+		
+                
+                     
+                    Install anti-virus software
+
+
+Keep your anti-virus software up to date
+
+
+Install a personal firewall
+
+
+Use Windows updates to patch security holes
+
+
+Do not open e-mail messages that look suspicious
+
+
+Do not click on e-mail attachments you were not expecting
+
+
+
+                
+                    
+                        
+                            
+                        
+                     
+                    
+    
+	
+        
+	    	
+			Webwise: What is spyware
+		
+		
+        
+	
+    
+
+
+
+                
+            
+        
+	
+	
+    
+    
+
+
+
+This is a form of spyware that can subject people to pop-up adverts, hijack their homepage and install bookmarks.
+The most malicious spyware programs lurk unseen on PCs and steal confidential information such as passwords or login details.
+"People were worried about spam but spyware is now the bigger danger," said Dr Nick Palmer MP, who sponsored the meeting at Westminster.
+"Previous ways of computer harassment, from viruses to spam, have been countered too slowly causing endless trouble for ordinary computer users.
+"This time we need to stay ahead of the curve."
+Spyware and adware often travel alongside file-sharing programs or media files that people download from the web and targets Microsoft's Windows operating system.
+Some websites also take advantage of bugs in Microsoft's Internet Explorer browser to install spyware on the machines of people that visit.
+Free anti-spyware programs such as AdAware and Spybot are used by many people to clean up their PCs.

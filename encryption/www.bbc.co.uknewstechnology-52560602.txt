@@ -1,0 +1,20 @@
+Zoom tackles hackers with new security measures
+Zoom is implementing new security measures as it battles to prevent hackers from "zoombombing" video calls.
+Trolls have been disrupting video conferences with offensive content, including racist and homophobic imagery.
+Those with free Zoom accounts must use a password for all meetings.
+It follows reports that a sexual assault awareness meeting on the platform was targeted by a hacker who posted a video depicting child abuse.
+Zoom has been attempting to toughen up its security measures ever since it vowed to fix its "biggest trust, safety and privacy" issues in April.
+Its latest move, aimed at free users of its platform, will be implemented on 9 May.
+A new level of encryption will also be introduced across the platform from 30 May, which it says will "provide increased protection for meeting data and resistance against tampering".
+Jo O'Reilly, deputy editor at ProPrivacy, has suggested that Zoom still has some way to go if it is to stop large-scale companies such as Google from banning the use of the platform.
+"This update may be enough to get consumers back on board," she told the BBC.
+"However, if they want to turn the tide of big companies and government moving away from using Zoom, it is going to take more than superficial fixes such as enforced passwords.
+"The bigger issues such as the of the lack of end-to-end encryption, making it unsuitable for commercially or politically sensitive meetings, are much trickier to solve"," added Ms O'Reilly.
+Perpetrators of video-call hijackings can often be hard to identify and track down, due to the quick nature of the attacks.
+Such an attack occurred on 30 April during a video conference to mark the end of Sexual Assault Awareness Month.
+According to The Mercury News, a hacker posted a video depicting child abuse, and forced the meeting to end.
+The community-organised event in San Francisco had been intended to allow victims of sexual assault to share their stories.
+A spokesman for the District Attorney said they were aware of the matter and were looking into it.
+âWe are horrified about what occurred during one of our partnerâs town hall events promoting Sexual Assault Awareness Month," he said.
+"The intrusion further emphasises the importance of programs that combat and prevent sexual violence, including the prosecution of those who exploit children."
+A spokesman for Zoom added that the platform was looking into the incident to "ensure appropriate action is taken".

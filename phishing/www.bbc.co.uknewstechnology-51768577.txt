@@ -1,0 +1,21 @@
+Virgin Media breach 'linked customers to porn'
+A customer database left unsecured online by Virgin Media contained details linking some customers to pornography and explicit websites.
+The researchers who first discovered the database told the BBC that it contained more information than Virgin Media suggested.
+Such details could be used by cyber-criminals to extort victims.
+Virgin Media told the BBC only a small number of customers had these sensitive details in the database.
+The UK telecoms company revealed on Thursday that one of its "marketing databases" containing details of 900,000 people was open to the internet and had been accessed "on at least one occasion" by an unknown user.
+On Friday, it confirmed that the database contained details of about 1,100 customers who had used an online form to ask for a particular website to be blocked or unblocked.
+It said it was in the process of contacting customers again about specific data that may have been stolen.
+When it first confirmed the data breach on Thursday, Virgin Media warned the public that the database contained phone numbers, home addresses and emails.
+However, researchers at cyber-security firm TurgenSec - which found the database - said it contained more intimate details.
+"Stating to their customers that there was only a breach of 'limited contact information' is from our perspective understating the matter potentially to the point of being disingenuous," one researcher told the BBC.
+"These highly sensitive details could be used by cyber-criminals to boost the chances of extorting money from victims."
+Virgin Media said the database did not "provide information as to what, if anything, was viewed" by affected customers.
+The company said almost all of those affected were Virgin customers with television or fixed-line telephone accounts, although the database also included some Virgin Mobile customers as well as potential customers referred by friends as part of a promotion.
+It added that all individuals had been given details on how to contact the company for support and advice.
+A representative of TurgenSec said Virgin Media's security had been far from adequate.
+"The information was in plain text and unencrypted, which meant anyone browsing the internet could clearly view and potentially download all of this data without needing any specialised equipment, tools, or hacking techniques," they told the BBC.
+Virgin Media, which is owned by US cable group Liberty Global, said it took security very seriously.
+It said it had informed the Information Commissioner's Office (ICO) of the data breach, as required.
+A spokeswoman for the ICO said it was investigating, and added: "People have the right to expect that organisations will handle their personal information securely and responsibly. When that doesn't happen, we advise people who may have been affected by data breaches to be vigilant when checking their financial records."
+Virgin Media said it would be emailing those affected, in order to warn them about the risks of phishing, nuisance calls and identity theft. The message will include a reminder not to click on unknown links in emails, and not to provide personal details to unverified callers.

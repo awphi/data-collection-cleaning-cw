@@ -1,0 +1,17 @@
+Botnet hacker caught in Slovenia
+A computer hacker known as Iserdo has been arrested in Slovenia.
+The 23-year-old is believed to have written the program behind the mariposa virus, also known as butterfly.
+The botnet, one of the world's largest, was dismantled earlier this year after infecting 12.7 million computers.
+It was designed to steal personal financial details and was also found in the PCs of banks and major companies. Officials from around the world have been chasing the cyber criminals.
+In December 2009, three people believed to have been running it were arrested in Spain.
+"To use an analogy here, as opposed to arresting the guy who broke into your home, we've arrested the guy that gave him the crowbar, the map and the best houses in the neighbourhood," Jeffrey Troy, deputy assistant director for the FBI cyber division told Associated Press.
+Botnet background
+Botnets are networks of computers with malicious software installed. This puts them under the control of cyber criminals without the knowledge of individual owners.
+They can send spam e-mail from the host's machine or search for information such as credit card details and send them back to their creator. They also send replica programmes to other computers, sometimes via the e-mail of the host.
+Security expert Rik Ferguson told the BBC that the mariposa botnet had got out of control.
+"They guys behind it said it was more successful than they had intended to be," he said.
+"As is the case with most botnets, the more widespread they are the more likely they are to be discovered. They were a victim of their own success."
+Mr Ferguson, senior security adviser at Trend Micro, added that while it was not unusual for a botnet to infect hundreds of thousands of computers, one infecting several million was rare.
+Nobody has yet been arrested in connection with the Conficker worm, a similar virus which is currently running on 6 million Windows PCs and is believed to peaked at up to 12 million, he said.
+While the core group behind a particular botnet is generally quite small, there is a whole industry of people offering "cyber crime services" such as tool kit building and program writing, he added.
+"The thing with the underground economy is that it's full of niche vendors and players, it mirrors legitimate business. There's a lot of competition - it's not unusual to see malware designed to remove other malware, just so that it can take over."

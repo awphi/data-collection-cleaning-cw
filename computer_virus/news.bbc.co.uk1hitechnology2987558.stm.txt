@@ -1,0 +1,60 @@
+Spam virus 'hijacks' computers
+Spammers are sending out viruses that take over people's computers and turn them into junk mail machines, say experts.
+It is a worrying new development in the ongoing war against spam and could see a huge rise in the amount of unsolicited messages in inboxes worldwide.
+In a worst case scenario, it could overwhelm the entire internet system warn experts.
+UK spam filtering firm MessageLabs has found what it believes is the first example of a virus that has been sent by a spammer.
+Back door to spam
+Spammers are hijacking the internet system to effectively destroy the internet with pornography and other illegal messages
+
+
+
+		
+	
+
+
+
+
+
+                
+                     
+                    
+	
+	Matt Sergeant, MessageLabs
+Around half a million copies of the AVF virus were sent out to computer users in a two-day period last week and MessageLabs is convinced a spammer is to blame.
+Unlike other mass-mailing viruses AVF does not mail itself out to everyone in the infected computer's address book. Instead its open up a backdoor in the machine through which spammers can send out junk mail.
+As well as using the infected PCs for sending out e-mails about porn sites, miracle cures for baldness and get-rich-quick schemes, the system ensures almost total anonymity for the spammer because it is virtually impossible to trace the route back.
+Users are advised to keep their anti-virus software up to date to guard against the malicious trojan.
+"It is a terribly worrying phenomenon," said Matt Sergeant, MessageLab's senior anti-spam technologist.
+"It pushes spammers from being a nuisance to a whole new level of being completely illegal. Sending out viruses to people shows they have no regard for law whatsoever," he told BBC News Online.
+Spam controls
+Victims of a computer hijack are unlikely to realise that they are unwittingly playing the role of middleman to the spammers.
+Locally drafted laws are useless. We need internationally accepted anti-spam legislation
+
+
+
+
+		
+	
+
+
+
+
+
+                
+                     
+                    
+	
+	Julian Bogajski, Sybari Commercial Director
+"Users we have told have been astonished that their computers are being used in this way. The only thing they might notice is that their internet connection slows down a bit," said Mr Sergeant.
+Spam now accounts for around half of e-mail sent globally and is becoming more than just a headache for users.
+Around 65% of spam is sent on hijacked computers, using insecure software already installed on peoples' machines, said Mr Sergeant.
+The new trend in actively sending viruses that open the backdoor of the computer could have a devastating effect, he warned.
+"Spammers are hijacking the internet system to effectively destroy the net with pornography and other illegal messages," he said.
+"It will definitely cause an increase in the amount of spam we see," he added.
+New legislation
+Spam is becoming a growing problem for both web users and internet providers.
+The content filtering firm Sybari has called for co-ordinated global action against the menace of spam.
+It wants governments worldwide to join together and come up with anti-spam legislation that can be enforced in every country around the world.
+"Locally drafted laws are useless. We need internationally accepted anti-spam legislation, " said Commercial Director at Sybari Julian Bogajski.
+"The only other alternative is to accept the current state of affairs where spam is costing businesses serious amounts of money as e-mail ceases to become a productive means of communication," he added.
+In Europe alone it is calculated that spam costs businesses in excess of £2.5 billion each year.
